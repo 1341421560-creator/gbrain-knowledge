@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-16",
+  "reference": {
+    "model_id": "iPhone15",
+    "body_height_mm": 147.6,
+    "body_width_mm": 71.6,
+    "template_height_px": 300,
+    "template_width_px": 145.52845528455285,
+    "px_per_mm": 2.032520325203252
+  },
+  "models": 49,
+  "body_profiles": 27,
+  "focus_models": 32,
+  "focus_body_profiles": 16,
+  "requested_screen_labels": [
+    4,
+    4.7,
+    5.4,
+    5.5,
+    5.8,
+    6.1
+  ],
+  "all_model_mappings_valid": true,
+  "all_mm_to_px_ratios_valid": true,
+  "rounded_raster_dimensions_valid": true,
+  "body_height_4_7_exceeds_5_4": true,
+  "body_height_5_5_exceeds_reference_6_1": true,
+  "all_requested_labels_present": true,
+  "previous_templates_overwritten": false,
+  "result": "通过",
+  "files": [
+    {
+      "png": "六档真实机身尺寸模板_100pct.png",
+      "expected_width": 1400,
+      "expected_height": 760,
+      "actual_width": 1400,
+      "actual_height": 760
+    },
+    {
+      "png": "高级A加_60pct_尺寸放置对照_1464x600.png",
+      "expected_width": 1464,
+      "expected_height": 600,
+      "actual_width": 1464,
+      "actual_height": 600
+    },
+    {
+      "png": "6.1英寸_五种机身外廓差异对照.png",
+      "expected_width": 1400,
+      "expected_height": 780,
+      "actual_width": 1400,
+      "actual_height": 780
+    },
+    {
+      "png": null,
+      "expected_width": 119,
+      "expected_height": 252,
+      "actual_width": 119,
+      "actual_height": 252,
+      "svg": "单独模板/4.0inch_123.8x58.6mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 120,
+      "expected_height": 253,
+      "actual_width": 120,
+      "actual_height": 253,
+      "svg": "单独模板/4.0inch_124.4x59.2mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 136,
+      "expected_height": 281,
+      "actual_width": 136,
+      "actual_height": 281,
+      "svg": "单独模板/4.7inch_138.1x67.0mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 136,
+      "expected_height": 281,
+      "actual_width": 136,
+      "actual_height": 281,
+      "svg": "单独模板/4.7inch_138.3x67.1mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 137,
+      "expected_height": 281,
+      "actual_width": 137,
+      "actual_height": 281,
+      "svg": "单独模板/4.7inch_138.4x67.3mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 130,
+      "expected_height": 267,
+      "actual_width": 130,
+      "actual_height": 267,
+      "svg": "单独模板/5.4inch_131.5x64.2mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 158,
+      "expected_height": 321,
+      "actual_width": 158,
+      "actual_height": 321,
+      "svg": "单独模板/5.5inch_158.1x77.8mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 158,
+      "expected_height": 322,
+      "actual_width": 158,
+      "actual_height": 322,
+      "svg": "单独模板/5.5inch_158.2x77.9mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 159,
+      "expected_height": 322,
+      "actual_width": 159,
+      "actual_height": 322,
+      "svg": "单独模板/5.5inch_158.4x78.1mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 144,
+      "expected_height": 292,
+      "actual_width": 144,
+      "actual_height": 292,
+      "svg": "单独模板/5.8inch_143.6x70.9mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 145,
+      "expected_height": 293,
+      "actual_width": 145,
+      "actual_height": 293,
+      "svg": "单独模板/5.8inch_144.0x71.4mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 143,
+      "expected_height": 298,
+      "actual_width": 143,
+      "actual_height": 298,
+      "svg": "单独模板/6.1inch_146.6x70.6mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 145,
+      "expected_height": 298,
+      "actual_width": 145,
+      "actual_height": 298,
+      "svg": "单独模板/6.1inch_146.7x71.5mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 145,
+      "expected_height": 300,
+      "actual_width": 145,
+      "actual_height": 300,
+      "svg": "单独模板/6.1inch_147.5x71.5mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 146,
+      "expected_height": 300,
+      "actual_width": 146,
+      "actual_height": 300,
+      "svg": "单独模板/6.1inch_147.6x71.6mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 154,
+      "expected_height": 307,
+      "actual_width": 154,
+      "actual_height": 307,
+      "svg": "单独模板/6.1inch_150.9x75.7mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 145,
+      "expected_height": 304,
+      "actual_width": 145,
+      "actual_height": 304,
+      "svg": "单独模板/6.3inch_149.6x71.5mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 146,
+      "expected_height": 305,
+      "actual_width": 146,
+      "actual_height": 305,
+      "svg": "单独模板/6.3inch_150.0x71.9mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 152,
+      "expected_height": 317,
+      "actual_width": 152,
+      "actual_height": 317,
+      "svg": "单独模板/6.5inch_156.2x74.7mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 157,
+      "expected_height": 320,
+      "actual_width": 157,
+      "actual_height": 320,
+      "svg": "单独模板/6.5inch_157.5x77.4mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 158,
+      "expected_height": 321,
+      "actual_width": 158,
+      "actual_height": 321,
+      "svg": "单独模板/6.5inch_158.0x77.8mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 156,
+      "expected_height": 325,
+      "actual_width": 156,
+      "actual_height": 325,
+      "svg": "单独模板/6.7inch_159.9x76.7mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 158,
+      "expected_height": 327,
+      "actual_width": 158,
+      "actual_height": 327,
+      "svg": "单独模板/6.7inch_160.7x77.6mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 159,
+      "expected_height": 327,
+      "actual_width": 159,
+      "actual_height": 327,
+      "svg": "单独模板/6.7inch_160.8x78.1mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 158,
+      "expected_height": 327,
+      "actual_width": 158,
+      "actual_height": 327,
+      "svg": "单独模板/6.7inch_160.9x77.8mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 158,
+      "expected_height": 331,
+      "actual_width": 158,
+      "actual_height": 331,
+      "svg": "单独模板/6.9inch_163.0x77.6mm.svg",
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "png": null,
+      "expected_width": 159,
+      "expected_height": 332,
+      "actual_width": 159,
+      "actual_height": 332,
+      "svg": "单独模板/6.9inch_163.4x78.0mm.svg",
+      "raster_export": "on_demand_from_svg"
+    }
+  ],
+  "outline_storage_policy": {
+    "preferred_format": "svg",
+    "resident_png": false,
+    "png_generation": "按需从同名SVG导出到项目output，png=null不是失效文件路径。",
+    "compatibility": "当前工程用毫米参数计算几何；读取轮廓文件时选svg，不能强制读取png。"
+  }
+}

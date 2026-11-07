@@ -1,0 +1,62 @@
+{
+  "mode": "真实字体像素合成，未调用生成模型",
+  "font": "Inter SemiBold 600",
+  "text": "JanCalm",
+  "font_dimensions_mm": {
+    "vertical_length": 28,
+    "horizontal_width": 5.5
+  },
+  "font_spacing": "沿用已制作的28×5.5mm字形轮廓，字母不拉伸，调整字间距匹配整体长宽",
+  "original_pixel_size": [
+    576,
+    581
+  ],
+  "output_pixel_size": [
+    576,
+    581
+  ],
+  "source_sha256": "ec7ff7f0c28b972bf4d5548326b4c37a43a9017edca3f4f56623343be1ec9ef9",
+  "real_font_alpha_sha256": "7b867826b4369dc498a2932d54c96f63289a83f162658be3eb5a1129977bb7ed",
+  "vector_sha256": "58c7228fb97432cdd81bbc7b7ca15e4ed977f7d515b6aeb1dc6e4120c071f642",
+  "outside_edit_regions_changed_pixels": 0,
+  "original_alpha_preserved": true,
+  "changed_pixel_count": 4919,
+  "repair": {
+    "target_box": [
+      257,
+      502,
+      352,
+      540
+    ],
+    "sample_box": [
+      257,
+      451,
+      352,
+      489
+    ],
+    "feather_px": 4
+  },
+  "placement": {
+    "length_mm": 28,
+    "short_mm": 5.5,
+    "length_px": 100,
+    "left_px": 322.35,
+    "top_px": 408,
+    "supersample": 4,
+    "material": {
+      "interior_brightness_ratio": 0.25,
+      "opacity": 0.95,
+      "edge_sigma_px": 1.1,
+      "edge_light_strength": 85
+    }
+  },
+  "photo_scale_note": "照片按之前右下角布局位置和比例合成；缺少壳体实物外尺寸，照片无法单独用于毫米测量。实际字标物理尺寸以生产SVG为准。",
+  "output_files": [
+    "JanCalm_28x5.5mm_真实Inter合成_原图尺寸.png",
+    "JanCalm_28x5.5mm_真实Inter合成_字体细节.png",
+    "JanCalm_28x5.5mm_真实Inter合成_放大查看.png",
+    "JanCalm_28x5.5mm_真实竖排透明字形.png",
+    "JanCalm_Inter_SemiBold_竖排_28x5.5mm.svg",
+    "合成与校验记录.json"
+  ]
+}

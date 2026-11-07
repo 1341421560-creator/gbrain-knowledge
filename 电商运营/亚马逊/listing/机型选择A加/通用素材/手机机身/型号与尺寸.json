@@ -1,0 +1,1462 @@
+{
+  "schema_version": 1,
+  "archived_at": "2026-10-30",
+  "source_snapshot": "既有项目2026-10-16型号事实，保留原始来源，不追加未核实型号。",
+  "excluded": [
+    "iPhone Duo"
+  ],
+  "models": [
+    {
+      "id": "iPhone5",
+      "name": "iPhone 5",
+      "family": "5系列",
+      "year": 2012,
+      "display_inches": 4,
+      "body_mm": {
+        "height": 123.8,
+        "width": 58.6,
+        "depth": 7.6
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/112016",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone5c",
+      "name": "iPhone 5c",
+      "family": "5系列",
+      "year": 2013,
+      "display_inches": 4,
+      "body_mm": {
+        "height": 124.4,
+        "width": 59.2,
+        "depth": 8.97
+      },
+      "camera_structure": "单摄；塑料圆弧机身",
+      "spec_source": "https://support.apple.com/en-us/111917",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone5s",
+      "name": "iPhone 5s",
+      "family": "5系列",
+      "year": 2013,
+      "display_inches": 4,
+      "body_mm": {
+        "height": 123.8,
+        "width": 58.6,
+        "depth": 7.6
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111973",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhoneSE2016",
+      "name": "iPhone SE（第1代，2016）",
+      "family": "SE系列",
+      "year": 2016,
+      "display_inches": 4,
+      "body_mm": {
+        "height": 123.8,
+        "width": 58.6,
+        "depth": 7.6
+      },
+      "camera_structure": "单摄；5s式机身",
+      "spec_source": "https://support.apple.com/en-us/112005",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone6",
+      "name": "iPhone 6",
+      "family": "6系列",
+      "year": 2014,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.1,
+        "width": 67,
+        "depth": 6.9
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111954",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone6Plus",
+      "name": "iPhone 6 Plus",
+      "family": "6系列",
+      "year": 2014,
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.1,
+        "width": 77.8,
+        "depth": 7.1
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111940",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone6s",
+      "name": "iPhone 6s",
+      "family": "6s系列",
+      "year": 2015,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.3,
+        "width": 67.1,
+        "depth": 7.1
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111952",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone6sPlus",
+      "name": "iPhone 6s Plus",
+      "family": "6s系列",
+      "year": 2015,
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.2,
+        "width": 77.9,
+        "depth": 7.3
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111996",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone7",
+      "name": "iPhone 7",
+      "family": "7系列",
+      "year": 2016,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.3,
+        "width": 67.1,
+        "depth": 7.1
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111943",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone7Plus",
+      "name": "iPhone 7 Plus",
+      "family": "7系列",
+      "year": 2016,
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.2,
+        "width": 77.9,
+        "depth": 7.3
+      },
+      "camera_structure": "横排双摄",
+      "spec_source": "https://support.apple.com/en-us/111953",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone8",
+      "name": "iPhone 8",
+      "family": "8系列",
+      "year": 2017,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.4,
+        "width": 67.3,
+        "depth": 7.3
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111976",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone8Plus",
+      "name": "iPhone 8 Plus",
+      "family": "8系列",
+      "year": 2017,
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.4,
+        "width": 78.1,
+        "depth": 7.5
+      },
+      "camera_structure": "横排双摄",
+      "spec_source": "https://support.apple.com/en-us/111950",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhoneX",
+      "name": "iPhone X",
+      "family": "X系列",
+      "year": 2017,
+      "display_inches": 5.8,
+      "body_mm": {
+        "height": 143.6,
+        "width": 70.9,
+        "depth": 7.7
+      },
+      "camera_structure": "竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111864",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhoneXS",
+      "name": "iPhone XS",
+      "family": "X系列",
+      "year": 2018,
+      "display_inches": 5.8,
+      "body_mm": {
+        "height": 143.6,
+        "width": 70.9,
+        "depth": 7.7
+      },
+      "camera_structure": "竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111881",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhoneXSMax",
+      "name": "iPhone XS Max",
+      "family": "X系列",
+      "year": 2018,
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 157.5,
+        "width": 77.4,
+        "depth": 7.7
+      },
+      "camera_structure": "竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111880",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhoneXR",
+      "name": "iPhone XR",
+      "family": "X系列",
+      "year": 2018,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 150.9,
+        "width": 75.7,
+        "depth": 8.3
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111868",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone11",
+      "name": "iPhone 11",
+      "family": "11系列",
+      "year": 2019,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 150.9,
+        "width": 75.7,
+        "depth": 8.3
+      },
+      "camera_structure": "方形平台内双摄",
+      "spec_source": "https://support.apple.com/en-us/111865",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone11Pro",
+      "name": "iPhone 11 Pro",
+      "family": "11系列",
+      "year": 2019,
+      "display_inches": 5.8,
+      "body_mm": {
+        "height": 144,
+        "width": 71.4,
+        "depth": 8.1
+      },
+      "camera_structure": "方形平台内三摄",
+      "spec_source": "https://support.apple.com/en-us/111879",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone11ProMax",
+      "name": "iPhone 11 Pro Max",
+      "family": "11系列",
+      "year": 2019,
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 158,
+        "width": 77.8,
+        "depth": 8.1
+      },
+      "camera_structure": "方形平台内三摄",
+      "spec_source": "https://support.apple.com/en-us/111878",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhoneSE2020",
+      "name": "iPhone SE（第2代，2020）",
+      "family": "SE系列",
+      "year": 2020,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.4,
+        "width": 67.3,
+        "depth": 7.3
+      },
+      "camera_structure": "单摄；8式机身",
+      "spec_source": "https://support.apple.com/en-us/111882",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone12mini",
+      "name": "iPhone 12 mini",
+      "family": "12系列",
+      "year": 2020,
+      "display_inches": 5.4,
+      "body_mm": {
+        "height": 131.5,
+        "width": 64.2,
+        "depth": 7.4
+      },
+      "camera_structure": "方形平台内竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111877",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone12",
+      "name": "iPhone 12",
+      "family": "12系列",
+      "year": 2020,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.4
+      },
+      "camera_structure": "方形平台内竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111876",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone12Pro",
+      "name": "iPhone 12 Pro",
+      "family": "12系列",
+      "year": 2020,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.4
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111875",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone12ProMax",
+      "name": "iPhone 12 Pro Max",
+      "family": "12系列",
+      "year": 2020,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.8,
+        "width": 78.1,
+        "depth": 7.4
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111874",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "wide-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone13mini",
+      "name": "iPhone 13 mini",
+      "family": "13系列",
+      "year": 2021,
+      "display_inches": 5.4,
+      "body_mm": {
+        "height": 131.5,
+        "width": 64.2,
+        "depth": 7.65
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111873",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "compact-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone13",
+      "name": "iPhone 13",
+      "family": "13系列",
+      "year": 2021,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.65
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111872",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "compact-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone13Pro",
+      "name": "iPhone 13 Pro",
+      "family": "13系列",
+      "year": 2021,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.65
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111871",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "compact-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone13ProMax",
+      "name": "iPhone 13 Pro Max",
+      "family": "13系列",
+      "year": 2021,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.8,
+        "width": 78.1,
+        "depth": 7.65
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111870",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "compact-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhoneSE2022",
+      "name": "iPhone SE（第3代，2022）",
+      "family": "SE系列",
+      "year": 2022,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.4,
+        "width": 67.3,
+        "depth": 7.3
+      },
+      "camera_structure": "单摄；8式机身",
+      "spec_source": "https://support.apple.com/en-us/111866",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "home",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone14",
+      "name": "iPhone 14",
+      "family": "14系列",
+      "year": 2022,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.8
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111850",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "compact-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone14Plus",
+      "name": "iPhone 14 Plus",
+      "family": "14系列",
+      "year": 2022,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.8,
+        "width": 78.1,
+        "depth": 7.8
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111854",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "compact-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone14Pro",
+      "name": "iPhone 14 Pro",
+      "family": "14系列",
+      "year": 2022,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 147.5,
+        "width": 71.5,
+        "depth": 7.85
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111849",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone14ProMax",
+      "name": "iPhone 14 Pro Max",
+      "family": "14系列",
+      "year": 2022,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.7,
+        "width": 77.6,
+        "depth": 7.85
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111846",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone15",
+      "name": "iPhone 15",
+      "family": "15系列",
+      "year": 2023,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 147.6,
+        "width": 71.6,
+        "depth": 7.8
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111831",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone15Plus",
+      "name": "iPhone 15 Plus",
+      "family": "15系列",
+      "year": 2023,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.9,
+        "width": 77.8,
+        "depth": 7.8
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111830",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone15Pro",
+      "name": "iPhone 15 Pro",
+      "family": "15系列",
+      "year": 2023,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.6,
+        "width": 70.6,
+        "depth": 8.25
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111829",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone15ProMax",
+      "name": "iPhone 15 Pro Max",
+      "family": "15系列",
+      "year": 2023,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 159.9,
+        "width": 76.7,
+        "depth": 8.25
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111828",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone16",
+      "name": "iPhone 16",
+      "family": "16系列",
+      "year": 2024,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 147.6,
+        "width": 71.6,
+        "depth": 7.8
+      },
+      "camera_structure": "胶囊区域内竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/121029",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone16Plus",
+      "name": "iPhone 16 Plus",
+      "family": "16系列",
+      "year": 2024,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.9,
+        "width": 77.8,
+        "depth": 7.8
+      },
+      "camera_structure": "胶囊区域内竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/121030",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone16Pro",
+      "name": "iPhone 16 Pro",
+      "family": "16系列",
+      "year": 2024,
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 149.6,
+        "width": 71.5,
+        "depth": 8.25
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/121031",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone16ProMax",
+      "name": "iPhone 16 Pro Max",
+      "family": "16系列",
+      "year": 2024,
+      "display_inches": 6.9,
+      "body_mm": {
+        "height": 163,
+        "width": 77.6,
+        "depth": 8.25
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/121032",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone16e",
+      "name": "iPhone 16e",
+      "family": "16系列",
+      "year": 2025,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.8
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/122208",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "compact-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone17",
+      "name": "iPhone 17",
+      "family": "17与Air",
+      "year": 2025,
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 149.6,
+        "width": 71.5,
+        "depth": 7.95
+      },
+      "camera_structure": "胶囊区域内竖排双摄",
+      "spec_source": "https://www.apple.com/iphone-17/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhoneAir",
+      "name": "iPhone Air",
+      "family": "17与Air",
+      "year": 2025,
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 156.2,
+        "width": 74.7,
+        "depth": 5.64
+      },
+      "camera_structure": "横贯平台内单摄",
+      "spec_source": "https://www.apple.com/iphone-air/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone17Pro",
+      "name": "iPhone 17 Pro",
+      "family": "17与Air",
+      "year": 2025,
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 150,
+        "width": 71.9,
+        "depth": 8.75
+      },
+      "camera_structure": "横贯平台内三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/125090",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone17ProMax",
+      "name": "iPhone 17 Pro Max",
+      "family": "17与Air",
+      "year": 2025,
+      "display_inches": 6.9,
+      "body_mm": {
+        "height": 163.4,
+        "width": 78,
+        "depth": 8.75
+      },
+      "camera_structure": "横贯平台内三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/125091",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "island",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone17e",
+      "name": "iPhone 17e",
+      "family": "17与Air",
+      "year": 2026,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.8
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://www.apple.com/iphone-17e/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "compact-notch",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "existing_record_not_rechecked",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone18Pro",
+      "name": "iPhone 18 Pro",
+      "family": "18系列",
+      "year": 2026,
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 150,
+        "width": 71.9,
+        "depth": 8.75
+      },
+      "camera_structure": "横贯平台内三摄＋LiDAR",
+      "spec_source": "https://www.apple.com/iphone-18-pro/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "pending",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "pending",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "iPhone18ProMax",
+      "name": "iPhone 18 Pro Max",
+      "family": "18系列",
+      "year": 2026,
+      "display_inches": 6.9,
+      "body_mm": {
+        "height": 163.4,
+        "width": 78,
+        "depth": 8.75
+      },
+      "camera_structure": "横贯平台内三摄＋LiDAR",
+      "spec_source": "https://www.apple.com/iphone-18-pro/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "front_type": "pending",
+      "archived_at": "2026-10-30",
+      "verification_note": "沿用既有项目资料及来源；归档日期不等于重新联网核验。",
+      "brand": "Apple",
+      "normalization_verification": {
+        "facts_status": "existing_source_snapshot_not_rechecked",
+        "dimensions_source_registered": true,
+        "front_shape_status": "pending",
+        "camera_structure_status": "existing_record_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "SamsungGalaxyS23",
+      "name": "Samsung Galaxy S23",
+      "brand": "Samsung",
+      "family": "Galaxy S标准系列",
+      "variant": "标准型号，非Plus／Ultra／FE",
+      "year": null,
+      "display_inches": null,
+      "body_mm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "camera_structure": "竖向三摄独立镜头环",
+      "front_type": "punch",
+      "spec_source": null,
+      "hardware_reference": "Samsung/官方原图/s23-official.png",
+      "hardware_reference_page": "https://www.samsung.com/uk/smartphones/galaxy-s23/buy/",
+      "body_dimensions_note": "本次现有已存资料未提供可核实的毫米规格；不从照片、屏幕英寸或店铺成图倒推，待核实。",
+      "asset_policy": "标准型号素材独立登记；组合图不等于完整独立正面与背面，不能替代Plus／Ultra／FE。",
+      "archived_at": "2026-11-03",
+      "verification_note": "仅依据已保存的原始商品图、机身索引和既有素材说明登记；不联网补规格。",
+      "normalization_verification": {
+        "facts_status": "partial_existing_reference",
+        "dimensions_source_registered": false,
+        "front_shape_status": "existing_reference_not_rechecked",
+        "camera_structure_status": "existing_reference_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "SamsungGalaxyS24",
+      "name": "Samsung Galaxy S24",
+      "brand": "Samsung",
+      "family": "Galaxy S标准系列",
+      "variant": "标准型号，非Plus／Ultra／FE",
+      "year": null,
+      "display_inches": null,
+      "body_mm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "camera_structure": "竖向三摄独立镜头环",
+      "front_type": "punch",
+      "spec_source": null,
+      "hardware_reference": "Samsung/官方原图/s24-official.png",
+      "hardware_reference_page": "https://www.samsung.com/uk/smartphones/galaxy-s24/buy/",
+      "body_dimensions_note": "本次现有已存资料未提供可核实的毫米规格；不从照片、屏幕英寸或店铺成图倒推，待核实。",
+      "asset_policy": "标准型号素材独立登记；组合图不等于完整独立正面与背面，不能替代Plus／Ultra／FE。",
+      "archived_at": "2026-11-03",
+      "verification_note": "仅依据已保存的原始商品图、机身索引和既有素材说明登记；不联网补规格。",
+      "normalization_verification": {
+        "facts_status": "partial_existing_reference",
+        "dimensions_source_registered": false,
+        "front_shape_status": "existing_reference_not_rechecked",
+        "camera_structure_status": "existing_reference_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "SamsungGalaxyS25",
+      "name": "Samsung Galaxy S25",
+      "brand": "Samsung",
+      "family": "Galaxy S标准系列",
+      "variant": "标准型号，非Plus／Ultra／FE",
+      "year": null,
+      "display_inches": null,
+      "body_mm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "camera_structure": "竖向三摄独立镜头环",
+      "front_type": "punch",
+      "spec_source": null,
+      "hardware_reference": "Samsung/官方原图/s25-official.png",
+      "hardware_reference_page": "https://www.samsung.com/uk/smartphones/galaxy-s25/buy/",
+      "body_dimensions_note": "本次现有已存资料未提供可核实的毫米规格；不从照片、屏幕英寸或店铺成图倒推，待核实。",
+      "asset_policy": "标准型号素材独立登记；组合图不等于完整独立正面与背面，不能替代Plus／Ultra／FE。",
+      "archived_at": "2026-11-03",
+      "verification_note": "仅依据已保存的原始商品图、机身索引和既有素材说明登记；不联网补规格。",
+      "normalization_verification": {
+        "facts_status": "partial_existing_reference",
+        "dimensions_source_registered": false,
+        "front_shape_status": "existing_reference_not_rechecked",
+        "camera_structure_status": "existing_reference_not_rechecked",
+        "new_online_verification": false
+      }
+    },
+    {
+      "id": "SamsungGalaxyS26",
+      "name": "Samsung Galaxy S26",
+      "brand": "Samsung",
+      "family": "Galaxy S标准系列",
+      "variant": "标准型号，非Plus／Ultra／FE",
+      "year": null,
+      "display_inches": null,
+      "body_mm": {
+        "height": null,
+        "width": null,
+        "depth": null
+      },
+      "camera_structure": "竖向三摄长条模组",
+      "front_type": "punch",
+      "spec_source": null,
+      "hardware_reference": "Samsung/官方原图/s26-official.png",
+      "hardware_reference_page": "https://www.samsung.com/ie/business/smartphones/galaxy-s/galaxy-s26-black-256gb-sm-s942bzkgeub/",
+      "body_dimensions_note": "本次现有已存资料未提供可核实的毫米规格；不从照片、屏幕英寸或店铺成图倒推，待核实。",
+      "asset_policy": "标准型号素材独立登记；组合图不等于完整独立正面与背面，不能替代Plus／Ultra／FE。",
+      "archived_at": "2026-11-03",
+      "verification_note": "仅依据已保存的原始商品图、机身索引和既有素材说明登记；不联网补规格。",
+      "normalization_verification": {
+        "facts_status": "partial_existing_reference",
+        "dimensions_source_registered": false,
+        "front_shape_status": "existing_reference_not_rechecked",
+        "camera_structure_status": "existing_reference_not_rechecked",
+        "new_online_verification": false
+      }
+    }
+  ],
+  "normalization": {
+    "normalized_at": "2026-11-03",
+    "facts_authority": "本文件是唯一物理事实主表；旧格式视图只作兼容读取",
+    "body_dimension_unit": "mm",
+    "display_dimension_unit": "inch",
+    "unknown_dimensions_policy": "null并记录待核实；不从PNG画布或店铺标注倒推",
+    "body_scale_policy": "同图展示机身统一毫米比例；教程屏幕显示尺寸按店铺配置，不用于推导实体机身尺寸",
+    "verification_boundary": "整理既有证据，不等同于所有型号事实或素材已经重新核实"
+  }
+}

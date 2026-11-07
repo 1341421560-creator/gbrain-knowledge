@@ -1,0 +1,180 @@
+{
+  "name": "五档手机机身固定绘图尺寸",
+  "version": "1.0",
+  "date": "2026-10-15",
+  "reference": "../Apple/原稿/15系列机身原稿.png",
+  "purpose": "用于教程图中机身相对大小与排版定位，是绘图像素模板",
+  "authoritative_note": "此五档固定模板为本次后续制作基准，替代此前的近似分档比例。",
+  "base": {
+    "inch": "6.1",
+    "width_px": 146,
+    "height_px": 300
+  },
+  "sizes": [
+    {
+      "inch": "6.1",
+      "width_px": 146,
+      "height_px": 300,
+      "relative_height_percent": 100,
+      "svg": "单独模板/6.1inch_146x300.svg",
+      "png": null,
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "inch": "6.3",
+      "width_px": 151,
+      "height_px": 310,
+      "relative_height_percent": 103.33,
+      "svg": "单独模板/6.3inch_151x310.svg",
+      "png": null,
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "inch": "6.5",
+      "width_px": 156,
+      "height_px": 320,
+      "relative_height_percent": 106.67,
+      "svg": "单独模板/6.5inch_156x320.svg",
+      "png": null,
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "inch": "6.7",
+      "width_px": 161,
+      "height_px": 330,
+      "relative_height_percent": 110,
+      "svg": "单独模板/6.7inch_161x330.svg",
+      "png": null,
+      "raster_export": "on_demand_from_svg"
+    },
+    {
+      "inch": "6.9",
+      "width_px": 165,
+      "height_px": 340,
+      "relative_height_percent": 113.33,
+      "svg": "单独模板/6.9inch_165x340.svg",
+      "png": null,
+      "raster_export": "on_demand_from_svg"
+    }
+  ],
+  "rules": [
+    "五档采用同一个缩放系数；宽高同时缩放",
+    "真实手机素材保留原始宽高比，以对应档位的目标高度对齐；模板宽度作为排版参考",
+    "相近尺寸保持小幅差异；6.7相对6.1高10%，6.9相对6.1高13.33%",
+    "同排机身底部对齐；摄像头、勾叉随机身同步缩放",
+    "画布改变时整组调整缩放系数，不逐台随卡片空位自由放大"
+  ],
+  "scale_formula": {
+    "width": "模板宽度 × 统一缩放系数",
+    "height": "模板高度 × 统一缩放系数",
+    "pixel_rounding": "导出位图时四舍五入；SVG保留连续坐标"
+  },
+  "example_scales": [
+    {
+      "canvas": "600x450",
+      "scale": 0.35,
+      "label": "手机端示例",
+      "targets": [
+        {
+          "inch": "6.1",
+          "width_px": 51,
+          "height_px": 105
+        },
+        {
+          "inch": "6.3",
+          "width_px": 53,
+          "height_px": 109
+        },
+        {
+          "inch": "6.5",
+          "width_px": 55,
+          "height_px": 112
+        },
+        {
+          "inch": "6.7",
+          "width_px": 56,
+          "height_px": 115
+        },
+        {
+          "inch": "6.9",
+          "width_px": 58,
+          "height_px": 119
+        }
+      ]
+    },
+    {
+      "canvas": "970x600",
+      "scale": 0.55,
+      "label": "普通A+示例",
+      "targets": [
+        {
+          "inch": "6.1",
+          "width_px": 80,
+          "height_px": 165
+        },
+        {
+          "inch": "6.3",
+          "width_px": 83,
+          "height_px": 171
+        },
+        {
+          "inch": "6.5",
+          "width_px": 86,
+          "height_px": 176
+        },
+        {
+          "inch": "6.7",
+          "width_px": 89,
+          "height_px": 182
+        },
+        {
+          "inch": "6.9",
+          "width_px": 91,
+          "height_px": 187
+        }
+      ]
+    },
+    {
+      "canvas": "1464x600",
+      "scale": 0.55,
+      "label": "高级A+示例",
+      "targets": [
+        {
+          "inch": "6.1",
+          "width_px": 80,
+          "height_px": 165
+        },
+        {
+          "inch": "6.3",
+          "width_px": 83,
+          "height_px": 171
+        },
+        {
+          "inch": "6.5",
+          "width_px": 86,
+          "height_px": 176
+        },
+        {
+          "inch": "6.7",
+          "width_px": 89,
+          "height_px": 182
+        },
+        {
+          "inch": "6.9",
+          "width_px": 91,
+          "height_px": 187
+        }
+      ]
+    }
+  ],
+  "overview": {
+    "svg": "五档机身尺寸对照.svg",
+    "png": "五档机身尺寸对照.png"
+  },
+  "outline_storage_policy": {
+    "preferred_format": "svg",
+    "resident_png": false,
+    "png_generation": "按需从同名SVG导出到项目output，png=null不是失效文件路径。",
+    "compatibility": "当前工程用毫米参数计算几何；读取轮廓文件时选svg，不能强制读取png。"
+  }
+}

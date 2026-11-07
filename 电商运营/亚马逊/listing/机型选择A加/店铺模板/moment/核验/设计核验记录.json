@@ -1,0 +1,28 @@
+{
+  "canvas": [
+    970,
+    600
+  ],
+  "screen_top": 206,
+  "screen_height": 198,
+  "screen_bottom": 404,
+  "notch_count": 4,
+  "notch_type": "顶部相连的刘海造型，按左侧手机参考示意",
+  "old_dynamic_island_header_fully_covered": true,
+  "tap_targets_enlarged": {
+    "Settings_icon_px": 68,
+    "General_text_px": 17,
+    "About_text_px": 18,
+    "model_value_text_px": 17
+  },
+  "original_viewports_and_full_source_content_retained_under_overlays": true,
+  "outside_four_tutorial_screens_pixel_identical": true,
+  "usa_terms_count": 68,
+  "usa_wordlist": {
+    "exact_hits": [],
+    "variant_candidates": []
+  },
+  "visual_review_completed": true,
+  "observed": "实际查看：四个顶部均为贴着上沿的黑色刘海，没有悬浮灵动岛。Settings 图标清楚放大并保持自身圆角；General、About 和 Model Name 以蓝框扩大，字号可读，屏幕仍与左侧等高。主标题、兼容提示、左侧手机、步骤标签与下方居中提示均保持上一版。",
+  "png_sha256": "10888709310810392a04cac0fa53460bcf5b829ba9aa5d57b1bc98892207eac3"
+}

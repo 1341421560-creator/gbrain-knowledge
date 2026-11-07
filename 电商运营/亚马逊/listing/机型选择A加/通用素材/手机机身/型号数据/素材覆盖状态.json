@@ -1,0 +1,1608 @@
+{
+  "updated": "2026-10-30",
+  "models": [
+    {
+      "id": "iPhone5",
+      "name": "iPhone 5",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearGenerated_iPhone5_20261030",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone5.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearGenerated_iPhone5_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearGenerated_iPhone5_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone5c",
+      "name": "iPhone 5c",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearGenerated_iPhone5c_20261030",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone5c.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearGenerated_iPhone5c_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearGenerated_iPhone5c_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone5s",
+      "name": "iPhone 5s",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearGenerated_iPhone5s_20261030",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone5s.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearGenerated_iPhone5s_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearGenerated_iPhone5s_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhoneSE2016",
+      "name": "iPhone SE（第1代，2016）",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhoneSE2016_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhoneSE2016.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhoneSE2016_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhoneSE2016_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone6",
+      "name": "iPhone 6",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone6_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone6.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone6_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone6_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone6Plus",
+      "name": "iPhone 6 Plus",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone6Plus_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone6Plus.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone6Plus_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone6Plus_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone6s",
+      "name": "iPhone 6s",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearGenerated_iPhone6s_20261030",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone6s.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearGenerated_iPhone6s_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearGenerated_iPhone6s_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone6sPlus",
+      "name": "iPhone 6s Plus",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearGenerated_iPhone6sPlus_20261030",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone6sPlus.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearGenerated_iPhone6sPlus_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearGenerated_iPhone6sPlus_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone7",
+      "name": "iPhone 7",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearGenerated_iPhone7_20261030",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone7.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearGenerated_iPhone7_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearGenerated_iPhone7_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone7Plus",
+      "name": "iPhone 7 Plus",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearGenerated_iPhone7Plus_20261030",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone7Plus.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearGenerated_iPhone7Plus_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearGenerated_iPhone7Plus_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone8",
+      "name": "iPhone 8",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone8_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone8.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone8_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone8_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone8Plus",
+      "name": "iPhone 8 Plus",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone8Plus_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone8Plus.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone8Plus_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone8Plus_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhoneX",
+      "name": "iPhone X",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearGenerated_iPhoneX_20261030",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhoneX.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearGenerated_iPhoneX_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearGenerated_iPhoneX_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhoneXS",
+      "name": "iPhone XS",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhoneXS_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhoneXS.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhoneXS_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhoneXS_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhoneXSMax",
+      "name": "iPhone XS Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhoneXSMax_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhoneXSMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhoneXSMax_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhoneXSMax_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhoneXR",
+      "name": "iPhone XR",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhoneXR_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhoneXR.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhoneXR_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhoneXR_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone11",
+      "name": "iPhone 11",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone11_20261016",
+      "legacy_source": "phones11",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone11.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone11_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone11_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone11Pro",
+      "name": "iPhone 11 Pro",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone11Pro_20261016",
+      "legacy_source": "phones11Pro",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone11Pro.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone11Pro_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone11Pro_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone11ProMax",
+      "name": "iPhone 11 Pro Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone11ProMax_20261016",
+      "legacy_source": "phones11ProMax",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone11ProMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone11ProMax_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone11ProMax_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhoneSE2020",
+      "name": "iPhone SE（第2代，2020）",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhoneSE2020_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhoneSE2020.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhoneSE2020_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhoneSE2020_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone12mini",
+      "name": "iPhone 12 mini",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone12mini_20261016",
+      "legacy_source": "phones12mini",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone12mini.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone12mini_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone12mini_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone12",
+      "name": "iPhone 12",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone12_20261016",
+      "legacy_source": "phones12",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone12.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone12_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone12_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone12Pro",
+      "name": "iPhone 12 Pro",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone12Pro_20261016",
+      "legacy_source": "phones12Pro",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone12Pro.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone12Pro_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone12Pro_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone12ProMax",
+      "name": "iPhone 12 Pro Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone12ProMax_20261016",
+      "legacy_source": "phones12ProMax",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone12ProMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone12ProMax_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone12ProMax_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone13mini",
+      "name": "iPhone 13 mini",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone13mini_20261016",
+      "legacy_source": "phones13",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone13mini.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone13mini_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone13mini_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone13",
+      "name": "iPhone 13",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone13_20261016",
+      "legacy_source": "phones13",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone13.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone13_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone13_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone13Pro",
+      "name": "iPhone 13 Pro",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone13Pro_20261030",
+      "legacy_source": "phones13",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone13Pro.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone13Pro_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone13Pro_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone13ProMax",
+      "name": "iPhone 13 Pro Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone13ProMax_20261016",
+      "legacy_source": "phones13",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone13ProMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone13ProMax_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone13ProMax_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhoneSE2022",
+      "name": "iPhone SE（第3代，2022）",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhoneSE2022_20261016",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhoneSE2022.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhoneSE2022_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhoneSE2022_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone14",
+      "name": "iPhone 14",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearStandalone_iPhone14_20261016",
+      "legacy_source": "phones14",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone14.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearStandalone_iPhone14_20261016"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearStandalone_iPhone14_20261016",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone14Plus",
+      "name": "iPhone 14 Plus",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone14Plus_20261030",
+      "legacy_source": "phones14",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone14Plus.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone14Plus_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone14Plus_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone14Pro",
+      "name": "iPhone 14 Pro",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone14Pro_20261030",
+      "legacy_source": "phones14",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone14Pro.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone14Pro_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone14Pro_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone14ProMax",
+      "name": "iPhone 14 Pro Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone14ProMax_20261030",
+      "legacy_source": "phones14",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone14ProMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone14ProMax_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone14ProMax_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone15",
+      "name": "iPhone 15",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone15_20261030",
+      "legacy_source": "phones15",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone15.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone15_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone15_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone15Plus",
+      "name": "iPhone 15 Plus",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone15Plus_20261030",
+      "legacy_source": "phones15",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone15Plus.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone15Plus_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone15Plus_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone15Pro",
+      "name": "iPhone 15 Pro",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone15Pro_20261030",
+      "legacy_source": "phones15",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone15Pro.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone15Pro_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone15Pro_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone15ProMax",
+      "name": "iPhone 15 Pro Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone15ProMax_20261030",
+      "legacy_source": "phones15",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone15ProMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone15ProMax_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone15ProMax_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone16",
+      "name": "iPhone 16",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone16_20261030",
+      "legacy_source": "phones16",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone16.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone16_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone16_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone16Plus",
+      "name": "iPhone 16 Plus",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone16Plus_20261030",
+      "legacy_source": "phones16",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone16Plus.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone16Plus_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone16Plus_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone16Pro",
+      "name": "iPhone 16 Pro",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone16Pro_20261030",
+      "legacy_source": "phones16",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone16Pro.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone16Pro_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone16Pro_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone16ProMax",
+      "name": "iPhone 16 Pro Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone16ProMax_20261030",
+      "legacy_source": "phones16",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone16ProMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone16ProMax_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone16ProMax_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone16e",
+      "name": "iPhone 16e",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone16e_20261030",
+      "legacy_source": "phonesE",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone16e.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone16e_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone16e_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone17",
+      "name": "iPhone 17",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone17_20261030",
+      "legacy_source": "phones17",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone17.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone17_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone17_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhoneAir",
+      "name": "iPhone Air",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhoneAir_20261030",
+      "legacy_source": "phones17",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhoneAir.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhoneAir_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhoneAir_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone17Pro",
+      "name": "iPhone 17 Pro",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone17Pro_20261030",
+      "legacy_source": "phones17",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone17Pro.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone17Pro_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone17Pro_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone17ProMax",
+      "name": "iPhone 17 Pro Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone17ProMax_20261030",
+      "legacy_source": "phones17",
+      "embedded_historical_markers": true,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone17ProMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone17ProMax_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone17ProMax_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone17e",
+      "name": "iPhone 17e",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone17e_20261030",
+      "legacy_source": "phonesE",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone17e.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone17e_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone17e_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone18Pro",
+      "name": "iPhone 18 Pro",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone18Pro_20261030",
+      "legacy_source": "phones18",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone18Pro.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone18Pro_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone18Pro_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "iPhone18ProMax",
+      "name": "iPhone 18 Pro Max",
+      "has_facts": true,
+      "status": "有可用独立背面",
+      "preferred_source": "rearUnified_iPhone18ProMax_20261030",
+      "legacy_source": "phones18",
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": "../Apple/独立背面/iPhone18ProMax.png",
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "available_existing_record",
+          "asset_id": "rearUnified_iPhone18ProMax_20261030"
+        },
+        "front_back_composite": {
+          "status": "not_registered",
+          "asset_id": null
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "rearUnified_iPhone18ProMax_20261030",
+        "fields": "catalog_metadata；Logo、比例、硬件分别核验，不以文件存在替代核验通过"
+      }
+    },
+    {
+      "id": "SamsungGalaxyS23",
+      "name": "Samsung Galaxy S23",
+      "has_facts": true,
+      "status": "有正背面组合图；独立正面未登记、独立完整背面缺失、毫米尺寸待核实",
+      "preferred_source": "samsungClean_GalaxyS23_20261102",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": null,
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "not_available_complete",
+          "asset_id": null
+        },
+        "front_back_composite": {
+          "status": "available_existing_record",
+          "asset_id": "samsungClean_GalaxyS23_20261102"
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "samsungClean_GalaxyS23_20261102",
+        "fields": "catalog_metadata；组合图body_crop未认证为独立机身外廓"
+      }
+    },
+    {
+      "id": "SamsungGalaxyS24",
+      "name": "Samsung Galaxy S24",
+      "has_facts": true,
+      "status": "有正背面组合图；独立正面未登记、独立完整背面缺失、毫米尺寸待核实",
+      "preferred_source": "samsungClean_GalaxyS24_20261102",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": null,
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "not_available_complete",
+          "asset_id": null
+        },
+        "front_back_composite": {
+          "status": "available_existing_record",
+          "asset_id": "samsungClean_GalaxyS24_20261102"
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "samsungClean_GalaxyS24_20261102",
+        "fields": "catalog_metadata；组合图body_crop未认证为独立机身外廓"
+      }
+    },
+    {
+      "id": "SamsungGalaxyS25",
+      "name": "Samsung Galaxy S25",
+      "has_facts": true,
+      "status": "有正背面组合图；独立正面未登记、独立完整背面缺失、毫米尺寸待核实",
+      "preferred_source": "samsungClean_GalaxyS25_20261102",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": null,
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "not_available_complete",
+          "asset_id": null
+        },
+        "front_back_composite": {
+          "status": "available_existing_record",
+          "asset_id": "samsungClean_GalaxyS25_20261102"
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "samsungClean_GalaxyS25_20261102",
+        "fields": "catalog_metadata；组合图body_crop未认证为独立机身外廓"
+      }
+    },
+    {
+      "id": "SamsungGalaxyS26",
+      "name": "Samsung Galaxy S26",
+      "has_facts": true,
+      "status": "有正背面组合图；独立正面未登记、独立完整背面缺失、毫米尺寸待核实",
+      "preferred_source": "samsungClean_GalaxyS26_20261102",
+      "legacy_source": null,
+      "embedded_historical_markers": false,
+      "substitute_allowed": false,
+      "unified_file": null,
+      "views": {
+        "front": {
+          "status": "not_registered_as_independent",
+          "asset_id": null
+        },
+        "rear": {
+          "status": "not_available_complete",
+          "asset_id": null
+        },
+        "front_back_composite": {
+          "status": "available_existing_record",
+          "asset_id": "samsungClean_GalaxyS26_20261102"
+        }
+      },
+      "verification_reference": {
+        "asset_index": "../素材索引.json",
+        "asset_id": "samsungClean_GalaxyS26_20261102",
+        "fields": "catalog_metadata；组合图body_crop未认证为独立机身外廓"
+      }
+    }
+  ],
+  "normalization": {
+    "normalized_at": "2026-11-03",
+    "physical_source": "../型号与尺寸.json",
+    "asset_source": "../素材索引.json",
+    "projection_role": "按型号汇总已登记素材覆盖，不独立维护物理尺寸或复制核验结论",
+    "counts": {
+      "models": 53,
+      "independent_rear_existing_records": 49,
+      "independent_front_registered": 0,
+      "front_back_composite_registered": 4
+    },
+    "scope": "49款iPhone背面和4款Samsung组合；有图片、视图齐全、Logo已清理和比例核准为不同状态"
+  }
+}

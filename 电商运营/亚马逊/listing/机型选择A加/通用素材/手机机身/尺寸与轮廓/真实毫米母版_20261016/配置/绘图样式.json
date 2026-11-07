@@ -1,0 +1,60 @@
+{
+  "font": "Arial, Microsoft YaHei, sans-serif",
+  "colors": {
+    "background": "#F8FBF9",
+    "ink": "#153328",
+    "muted": "#5A7367",
+    "line": "#BCD0C4",
+    "body": "#E6EFE9",
+    "stroke": "#668373",
+    "pill": "#E8F2EC"
+  },
+  "variants": [
+    {
+      "id": "master",
+      "stem": "六档真实机身尺寸模板_100pct",
+      "width": 1400,
+      "height": 760,
+      "scale": 1,
+      "baseline": 500,
+      "title": "Phone body size template",
+      "subtitle": "Actual body proportions · Shared baseline · One scale for all devices",
+      "centers": [
+        150,
+        370,
+        590,
+        810,
+        1030,
+        1250
+      ],
+      "pillY": 104,
+      "modelY": 154,
+      "metricY": 540,
+      "mmY": 569,
+      "footerY": 626
+    },
+    {
+      "id": "premium60",
+      "stem": "高级A加_60pct_尺寸放置对照_1464x600",
+      "width": 1464,
+      "height": 600,
+      "scale": 0.6,
+      "baseline": 375,
+      "title": "Phone body size template · 60% placement",
+      "subtitle": "1464 × 600 canvas · iPhone 15 reference body height: 180 px",
+      "centers": [
+        156,
+        386,
+        616,
+        846,
+        1076,
+        1306
+      ],
+      "pillY": 104,
+      "modelY": 154,
+      "metricY": 414,
+      "mmY": 444,
+      "footerY": 502
+    }
+  ]
+}

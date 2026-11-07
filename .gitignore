@@ -1,0 +1,21 @@
+# 忽略本机身份、运行数据库和锁文件。
+/.gbrain-owner*.json
+/.gbrain/
+/brain.pglite/
+*.gbrain-owner.lock
+
+# 不提交凭据配置，允许保留不含真实凭据的示例。
+.env
+.env.*
+!.env.example
+!.env.template
+
+# 忽略依赖、缓存及系统生成文件。
+**/node_modules/
+**/__pycache__/
+**/.cache/
+/temp/
+/tmp/
+*.pyc
+Thumbs.db
+.DS_Store

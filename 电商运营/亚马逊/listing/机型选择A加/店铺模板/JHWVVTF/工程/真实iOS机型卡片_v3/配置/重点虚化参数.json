@@ -1,0 +1,5 @@
+{
+  "version": "v3",
+  "strength": {"premium": 2.6, "standard": 2.8, "mobile": 2.4},
+  "description": "以最终输出像素为单位加强非目标区域的高斯虚化；目标图标、目标行及外部型号提示保留清晰。"
+}

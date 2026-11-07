@@ -1,0 +1,1167 @@
+{
+  "created_at": "2026-10-29",
+  "groups": [
+    {
+      "id": "M02",
+      "label": "6／6s／7／8／SE2020／SE2022",
+      "memberIds": [
+        "iPhone6",
+        "iPhone6s",
+        "iPhone7",
+        "iPhone8",
+        "iPhoneSE2020",
+        "iPhoneSE2022"
+      ],
+      "stem": "M02_iPhone6_6s_7_8_SE2020_SE2022",
+      "views": {
+        "premium": {
+          "id": "M02",
+          "label": "6／6s／7／8／SE2020／SE2022",
+          "stem": "M02_iPhone6_6s_7_8_SE2020_SE2022",
+          "section": "01 旧款与 SE",
+          "slots": [
+            {
+              "asset": "iPhone6",
+              "ids": [
+                "iPhone6",
+                "iPhone6s"
+              ],
+              "title": "6 / 6s",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone8",
+              "ids": [
+                "iPhone7",
+                "iPhone8"
+              ],
+              "title": "7 / 8",
+              "generation": ""
+            },
+            {
+              "asset": "iPhoneSE2020",
+              "ids": [
+                "iPhoneSE2020"
+              ],
+              "title": "SE (2020)",
+              "generation": "2nd Gen"
+            },
+            {
+              "asset": "iPhoneSE2022",
+              "ids": [
+                "iPhoneSE2022"
+              ],
+              "title": "SE (2022)",
+              "generation": "3rd Gen"
+            }
+          ],
+          "negative": [
+            {
+              "asset": "iPhoneSE2016",
+              "ids": [
+                "iPhoneSE2016"
+              ],
+              "lines": [
+                "SE (2016)",
+                "1st Gen"
+              ]
+            },
+            {
+              "asset": "iPhone8Plus",
+              "ids": [
+                "iPhone6Plus",
+                "iPhone6sPlus",
+                "iPhone7Plus",
+                "iPhone8Plus"
+              ],
+              "lines": [
+                "6 Plus / 6s Plus",
+                "7 Plus / 8 Plus"
+              ]
+            }
+          ],
+          "example": "iPhone6s",
+          "frameType": "home",
+          "os": "15.0"
+        },
+        "standard": {
+          "id": "M02",
+          "label": "6／6s／7／8／SE2020／SE2022",
+          "stem": "M02_iPhone6_6s_7_8_SE2020_SE2022_多机身兼容展示",
+          "memberIds": [
+            "iPhone6",
+            "iPhone6s",
+            "iPhone7",
+            "iPhone8",
+            "iPhoneSE2020",
+            "iPhoneSE2022"
+          ],
+          "representative": "iPhone8",
+          "negative": [
+            "iPhoneSE2016",
+            "iPhone6Plus",
+            "iPhone8Plus",
+            "iPhone12mini"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone6",
+              "ids": [
+                "iPhone6",
+                "iPhone6s"
+              ],
+              "title": "6 / 6s",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone8",
+              "ids": [
+                "iPhone7",
+                "iPhone8"
+              ],
+              "title": "7 / 8",
+              "generation": ""
+            },
+            {
+              "asset": "iPhoneSE2020",
+              "ids": [
+                "iPhoneSE2020"
+              ],
+              "title": "SE (2020)",
+              "generation": "2nd Gen"
+            },
+            {
+              "asset": "iPhoneSE2022",
+              "ids": [
+                "iPhoneSE2022"
+              ],
+              "title": "SE (2022)",
+              "generation": "3rd Gen"
+            }
+          ],
+          "example": "iPhone6s"
+        },
+        "mobile": {
+          "id": "M02",
+          "label": "6／6s／7／8／SE2020／SE2022",
+          "stem": "M02_iPhone6_6s_7_8_SE2020_SE2022_多机身兼容展示",
+          "memberIds": [
+            "iPhone6",
+            "iPhone6s",
+            "iPhone7",
+            "iPhone8",
+            "iPhoneSE2020",
+            "iPhoneSE2022"
+          ],
+          "representative": "iPhone8",
+          "negative": [
+            "iPhoneSE2016",
+            "iPhone6Plus",
+            "iPhone8Plus",
+            "iPhone12mini"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone6",
+              "ids": [
+                "iPhone6",
+                "iPhone6s"
+              ],
+              "title": "6 / 6s",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone8",
+              "ids": [
+                "iPhone7",
+                "iPhone8"
+              ],
+              "title": "7 / 8",
+              "generation": ""
+            },
+            {
+              "asset": "iPhoneSE2020",
+              "ids": [
+                "iPhoneSE2020"
+              ],
+              "title": "SE (2020)",
+              "generation": "2nd Gen"
+            },
+            {
+              "asset": "iPhoneSE2022",
+              "ids": [
+                "iPhoneSE2022"
+              ],
+              "title": "SE (2022)",
+              "generation": "3rd Gen"
+            }
+          ],
+          "example": "iPhone6s"
+        }
+      }
+    },
+    {
+      "id": "M03",
+      "label": "6 Plus／6s Plus／7 Plus／8 Plus",
+      "memberIds": [
+        "iPhone6Plus",
+        "iPhone6sPlus",
+        "iPhone7Plus",
+        "iPhone8Plus"
+      ],
+      "stem": "M03_iPhone6Plus_6sPlus_7Plus_8Plus",
+      "views": {
+        "premium": {
+          "id": "M03",
+          "label": "6 Plus／6s Plus／7 Plus／8 Plus",
+          "stem": "M03_iPhone6Plus_6sPlus_7Plus_8Plus",
+          "section": "01 旧款与 SE",
+          "slots": [
+            {
+              "asset": "iPhone6Plus",
+              "ids": [
+                "iPhone6Plus",
+                "iPhone6sPlus"
+              ],
+              "title": "6 Plus / 6s Plus",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone8Plus",
+              "ids": [
+                "iPhone7Plus",
+                "iPhone8Plus"
+              ],
+              "title": "7 Plus / 8 Plus",
+              "generation": ""
+            }
+          ],
+          "negative": [
+            {
+              "asset": "iPhone8",
+              "ids": [
+                "iPhone6",
+                "iPhone6s",
+                "iPhone7",
+                "iPhone8",
+                "iPhoneSE2020",
+                "iPhoneSE2022"
+              ],
+              "lines": [
+                "6 / 6s / 7 / 8",
+                "SE (2020 / 2022)"
+              ]
+            },
+            {
+              "asset": "iPhoneSE2016",
+              "ids": [
+                "iPhoneSE2016"
+              ],
+              "lines": [
+                "SE (2016)",
+                "1st Gen"
+              ]
+            }
+          ],
+          "example": "iPhone6sPlus",
+          "frameType": "home",
+          "os": "15.0"
+        },
+        "standard": {
+          "id": "M03",
+          "label": "6 Plus／6s Plus／7 Plus／8 Plus",
+          "stem": "M03_iPhone6Plus_6sPlus_7Plus_8Plus_多机身兼容展示",
+          "memberIds": [
+            "iPhone6Plus",
+            "iPhone6sPlus",
+            "iPhone7Plus",
+            "iPhone8Plus"
+          ],
+          "representative": "iPhone8Plus",
+          "negative": [
+            "iPhone6",
+            "iPhone8",
+            "iPhoneSE2020",
+            "iPhoneSE2022"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone6Plus",
+              "ids": [
+                "iPhone6Plus",
+                "iPhone6sPlus"
+              ],
+              "title": "6 Plus / 6s Plus",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone8Plus",
+              "ids": [
+                "iPhone7Plus",
+                "iPhone8Plus"
+              ],
+              "title": "7 Plus / 8 Plus",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone6sPlus"
+        },
+        "mobile": {
+          "id": "M03",
+          "label": "6 Plus／6s Plus／7 Plus／8 Plus",
+          "stem": "M03_iPhone6Plus_6sPlus_7Plus_8Plus_多机身兼容展示",
+          "memberIds": [
+            "iPhone6Plus",
+            "iPhone6sPlus",
+            "iPhone7Plus",
+            "iPhone8Plus"
+          ],
+          "representative": "iPhone8Plus",
+          "negative": [
+            "iPhone6",
+            "iPhone8",
+            "iPhoneSE2020",
+            "iPhoneSE2022"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone6Plus",
+              "ids": [
+                "iPhone6Plus",
+                "iPhone6sPlus"
+              ],
+              "title": "6 Plus / 6s Plus",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone8Plus",
+              "ids": [
+                "iPhone7Plus",
+                "iPhone8Plus"
+              ],
+              "title": "7 Plus / 8 Plus",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone6sPlus"
+        }
+      }
+    },
+    {
+      "id": "M04",
+      "label": "X／XS／11 Pro",
+      "memberIds": [
+        "iPhoneX",
+        "iPhoneXS",
+        "iPhone11Pro"
+      ],
+      "stem": "M04_iPhoneX_XS_11Pro",
+      "views": {
+        "premium": {
+          "id": "M04",
+          "label": "X／XS／11 Pro",
+          "stem": "M04_iPhoneX_XS_11Pro",
+          "section": "02 X 与 11",
+          "slots": [
+            {
+              "asset": "iPhoneXS",
+              "ids": [
+                "iPhoneX",
+                "iPhoneXS"
+              ],
+              "title": "X / XS",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11Pro",
+              "ids": [
+                "iPhone11Pro"
+              ],
+              "title": "11 Pro",
+              "generation": ""
+            }
+          ],
+          "negative": [
+            {
+              "asset": "iPhone11",
+              "ids": [
+                "iPhoneXR",
+                "iPhone11"
+              ],
+              "lines": [
+                "XR / 11"
+              ]
+            },
+            {
+              "asset": "iPhone11ProMax",
+              "ids": [
+                "iPhoneXSMax",
+                "iPhone11ProMax"
+              ],
+              "lines": [
+                "XS Max",
+                "11 Pro Max"
+              ]
+            }
+          ],
+          "example": "iPhone11Pro",
+          "frameType": "notch",
+          "os": "15.0"
+        },
+        "standard": {
+          "id": "M04",
+          "label": "X／XS／11 Pro",
+          "stem": "M04_iPhoneX_XS_11Pro_多机身兼容展示",
+          "memberIds": [
+            "iPhoneX",
+            "iPhoneXS",
+            "iPhone11Pro"
+          ],
+          "representative": "iPhone11Pro",
+          "negative": [
+            "iPhoneXR",
+            "iPhone11",
+            "iPhoneXSMax",
+            "iPhone11ProMax"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhoneXS",
+              "ids": [
+                "iPhoneX",
+                "iPhoneXS"
+              ],
+              "title": "X / XS",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11Pro",
+              "ids": [
+                "iPhone11Pro"
+              ],
+              "title": "11 Pro",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone11Pro"
+        },
+        "mobile": {
+          "id": "M04",
+          "label": "X／XS／11 Pro",
+          "stem": "M04_iPhoneX_XS_11Pro_多机身兼容展示",
+          "memberIds": [
+            "iPhoneX",
+            "iPhoneXS",
+            "iPhone11Pro"
+          ],
+          "representative": "iPhone11Pro",
+          "negative": [
+            "iPhoneXR",
+            "iPhone11",
+            "iPhoneXSMax",
+            "iPhone11ProMax"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhoneXS",
+              "ids": [
+                "iPhoneX",
+                "iPhoneXS"
+              ],
+              "title": "X / XS",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11Pro",
+              "ids": [
+                "iPhone11Pro"
+              ],
+              "title": "11 Pro",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone11Pro"
+        }
+      }
+    },
+    {
+      "id": "M05",
+      "label": "XS Max／11 Pro Max",
+      "memberIds": [
+        "iPhoneXSMax",
+        "iPhone11ProMax"
+      ],
+      "stem": "M05_iPhoneXSMax_11ProMax",
+      "views": {
+        "premium": {
+          "id": "M05",
+          "label": "XS Max／11 Pro Max",
+          "stem": "M05_iPhoneXSMax_11ProMax",
+          "section": "02 X 与 11",
+          "slots": [
+            {
+              "asset": "iPhoneXSMax",
+              "ids": [
+                "iPhoneXSMax"
+              ],
+              "title": "XS Max",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11ProMax",
+              "ids": [
+                "iPhone11ProMax"
+              ],
+              "title": "11 Pro Max",
+              "generation": ""
+            }
+          ],
+          "negative": [
+            {
+              "asset": "iPhoneXS",
+              "ids": [
+                "iPhoneX",
+                "iPhoneXS"
+              ],
+              "lines": [
+                "X / XS"
+              ]
+            },
+            {
+              "asset": "iPhone11",
+              "ids": [
+                "iPhoneXR",
+                "iPhone11"
+              ],
+              "lines": [
+                "XR / 11"
+              ]
+            }
+          ],
+          "example": "iPhone11ProMax",
+          "frameType": "notch",
+          "os": "15.0"
+        },
+        "standard": {
+          "id": "M05",
+          "label": "XS Max／11 Pro Max",
+          "stem": "M05_iPhoneXSMax_11ProMax_多机身兼容展示",
+          "memberIds": [
+            "iPhoneXSMax",
+            "iPhone11ProMax"
+          ],
+          "representative": "iPhone11ProMax",
+          "negative": [
+            "iPhoneXS",
+            "iPhoneXR",
+            "iPhone11",
+            "iPhone11Pro"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhoneXSMax",
+              "ids": [
+                "iPhoneXSMax"
+              ],
+              "title": "XS Max",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11ProMax",
+              "ids": [
+                "iPhone11ProMax"
+              ],
+              "title": "11 Pro Max",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone11ProMax"
+        },
+        "mobile": {
+          "id": "M05",
+          "label": "XS Max／11 Pro Max",
+          "stem": "M05_iPhoneXSMax_11ProMax_多机身兼容展示",
+          "memberIds": [
+            "iPhoneXSMax",
+            "iPhone11ProMax"
+          ],
+          "representative": "iPhone11ProMax",
+          "negative": [
+            "iPhoneXS",
+            "iPhoneXR",
+            "iPhone11",
+            "iPhone11Pro"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhoneXSMax",
+              "ids": [
+                "iPhoneXSMax"
+              ],
+              "title": "XS Max",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11ProMax",
+              "ids": [
+                "iPhone11ProMax"
+              ],
+              "title": "11 Pro Max",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone11ProMax"
+        }
+      }
+    },
+    {
+      "id": "M06",
+      "label": "XR／11",
+      "memberIds": [
+        "iPhoneXR",
+        "iPhone11"
+      ],
+      "stem": "M06_iPhoneXR_11",
+      "views": {
+        "premium": {
+          "id": "M06",
+          "label": "XR／11",
+          "stem": "M06_iPhoneXR_11",
+          "section": "02 X 与 11",
+          "slots": [
+            {
+              "asset": "iPhoneXR",
+              "ids": [
+                "iPhoneXR"
+              ],
+              "title": "XR",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11",
+              "ids": [
+                "iPhone11"
+              ],
+              "title": "11",
+              "generation": ""
+            }
+          ],
+          "negative": [
+            {
+              "asset": "iPhoneXS",
+              "ids": [
+                "iPhoneX",
+                "iPhoneXS"
+              ],
+              "lines": [
+                "X / XS"
+              ]
+            },
+            {
+              "asset": "iPhone8Plus",
+              "ids": [
+                "iPhone8Plus"
+              ],
+              "lines": [
+                "8 Plus"
+              ]
+            }
+          ],
+          "example": "iPhone11",
+          "frameType": "notch",
+          "os": "15.0"
+        },
+        "standard": {
+          "id": "M06",
+          "label": "XR／11",
+          "stem": "M06_iPhoneXR_11_多机身兼容展示",
+          "memberIds": [
+            "iPhoneXR",
+            "iPhone11"
+          ],
+          "representative": "iPhone11",
+          "negative": [
+            "iPhoneXS",
+            "iPhone11Pro",
+            "iPhoneXSMax",
+            "iPhone11ProMax"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhoneXR",
+              "ids": [
+                "iPhoneXR"
+              ],
+              "title": "XR",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11",
+              "ids": [
+                "iPhone11"
+              ],
+              "title": "11",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone11"
+        },
+        "mobile": {
+          "id": "M06",
+          "label": "XR／11",
+          "stem": "M06_iPhoneXR_11_多机身兼容展示",
+          "memberIds": [
+            "iPhoneXR",
+            "iPhone11"
+          ],
+          "representative": "iPhone11",
+          "negative": [
+            "iPhoneXS",
+            "iPhone11Pro",
+            "iPhoneXSMax",
+            "iPhone11ProMax"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhoneXR",
+              "ids": [
+                "iPhoneXR"
+              ],
+              "title": "XR",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone11",
+              "ids": [
+                "iPhone11"
+              ],
+              "title": "11",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone11"
+        }
+      }
+    },
+    {
+      "id": "M07",
+      "label": "12／12 Pro",
+      "memberIds": [
+        "iPhone12",
+        "iPhone12Pro"
+      ],
+      "stem": "M07_iPhone12_12Pro",
+      "views": {
+        "premium": {
+          "id": "M07",
+          "label": "12／12 Pro",
+          "stem": "M07_iPhone12_12Pro",
+          "section": "03 12 与 13",
+          "slots": [
+            {
+              "asset": "iPhone12",
+              "ids": [
+                "iPhone12"
+              ],
+              "title": "12",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone12Pro",
+              "ids": [
+                "iPhone12Pro"
+              ],
+              "title": "12 Pro",
+              "generation": ""
+            }
+          ],
+          "negative": [
+            {
+              "asset": "iPhone12mini",
+              "ids": [
+                "iPhone12mini"
+              ],
+              "lines": [
+                "12 mini"
+              ]
+            },
+            {
+              "asset": "iPhone12ProMax",
+              "ids": [
+                "iPhone12ProMax"
+              ],
+              "lines": [
+                "12 Pro Max"
+              ]
+            }
+          ],
+          "example": "iPhone12Pro",
+          "frameType": "notch",
+          "os": "15.0"
+        },
+        "standard": {
+          "id": "M07",
+          "label": "12／12 Pro",
+          "stem": "M07_iPhone12_12Pro_多机身兼容展示",
+          "memberIds": [
+            "iPhone12",
+            "iPhone12Pro"
+          ],
+          "representative": "iPhone12Pro",
+          "negative": [
+            "iPhone12mini",
+            "iPhone12ProMax",
+            "iPhone13mini",
+            "iPhone13ProMax"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone12",
+              "ids": [
+                "iPhone12"
+              ],
+              "title": "12",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone12Pro",
+              "ids": [
+                "iPhone12Pro"
+              ],
+              "title": "12 Pro",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone12Pro"
+        },
+        "mobile": {
+          "id": "M07",
+          "label": "12／12 Pro",
+          "stem": "M07_iPhone12_12Pro_多机身兼容展示",
+          "memberIds": [
+            "iPhone12",
+            "iPhone12Pro"
+          ],
+          "representative": "iPhone12Pro",
+          "negative": [
+            "iPhone12mini",
+            "iPhone12ProMax",
+            "iPhone13mini",
+            "iPhone13ProMax"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone12",
+              "ids": [
+                "iPhone12"
+              ],
+              "title": "12",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone12Pro",
+              "ids": [
+                "iPhone12Pro"
+              ],
+              "title": "12 Pro",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone12Pro"
+        }
+      }
+    },
+    {
+      "id": "M08",
+      "label": "12 mini／13 mini",
+      "memberIds": [
+        "iPhone12mini",
+        "iPhone13mini"
+      ],
+      "stem": "M08_iPhone12mini_13mini",
+      "views": {
+        "premium": {
+          "id": "M08",
+          "label": "12 mini／13 mini",
+          "stem": "M08_iPhone12mini_13mini",
+          "section": "03 12 与 13",
+          "slots": [
+            {
+              "asset": "iPhone12mini",
+              "ids": [
+                "iPhone12mini"
+              ],
+              "title": "12 mini",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone13mini",
+              "ids": [
+                "iPhone13mini"
+              ],
+              "title": "13 mini",
+              "generation": ""
+            }
+          ],
+          "negative": [
+            {
+              "asset": "iPhone12Pro",
+              "ids": [
+                "iPhone12",
+                "iPhone12Pro"
+              ],
+              "lines": [
+                "12 / 12 Pro"
+              ]
+            },
+            {
+              "asset": "iPhone13",
+              "ids": [
+                "iPhone13",
+                "iPhone14"
+              ],
+              "lines": [
+                "13 / 14"
+              ]
+            }
+          ],
+          "example": "iPhone13mini",
+          "frameType": "notch",
+          "os": "15.0"
+        },
+        "standard": {
+          "id": "M08",
+          "label": "12 mini／13 mini",
+          "stem": "M08_iPhone12mini_13mini_多机身兼容展示",
+          "memberIds": [
+            "iPhone12mini",
+            "iPhone13mini"
+          ],
+          "representative": "iPhone13mini",
+          "negative": [
+            "iPhone12",
+            "iPhone12Pro",
+            "iPhone13",
+            "iPhone14"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone12mini",
+              "ids": [
+                "iPhone12mini"
+              ],
+              "title": "12 mini",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone13mini",
+              "ids": [
+                "iPhone13mini"
+              ],
+              "title": "13 mini",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone13mini"
+        },
+        "mobile": {
+          "id": "M08",
+          "label": "12 mini／13 mini",
+          "stem": "M08_iPhone12mini_13mini_多机身兼容展示",
+          "memberIds": [
+            "iPhone12mini",
+            "iPhone13mini"
+          ],
+          "representative": "iPhone13mini",
+          "negative": [
+            "iPhone12",
+            "iPhone12Pro",
+            "iPhone13",
+            "iPhone14"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone12mini",
+              "ids": [
+                "iPhone12mini"
+              ],
+              "title": "12 mini",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone13mini",
+              "ids": [
+                "iPhone13mini"
+              ],
+              "title": "13 mini",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone13mini"
+        }
+      }
+    },
+    {
+      "id": "M09",
+      "label": "12 Pro Max／13 Pro Max",
+      "memberIds": [
+        "iPhone12ProMax",
+        "iPhone13ProMax"
+      ],
+      "stem": "M09_iPhone12ProMax_13ProMax",
+      "views": {
+        "premium": {
+          "id": "M09",
+          "label": "12 Pro Max／13 Pro Max",
+          "stem": "M09_iPhone12ProMax_13ProMax",
+          "section": "03 12 与 13",
+          "slots": [
+            {
+              "asset": "iPhone12ProMax",
+              "ids": [
+                "iPhone12ProMax"
+              ],
+              "title": "12 Pro Max",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone13ProMax",
+              "ids": [
+                "iPhone13ProMax"
+              ],
+              "title": "13 Pro Max",
+              "generation": ""
+            }
+          ],
+          "negative": [
+            {
+              "asset": "iPhone12Pro",
+              "ids": [
+                "iPhone12",
+                "iPhone12Pro"
+              ],
+              "lines": [
+                "12 / 12 Pro"
+              ]
+            },
+            {
+              "asset": "iPhone13",
+              "ids": [
+                "iPhone13",
+                "iPhone14"
+              ],
+              "lines": [
+                "13 / 14"
+              ]
+            }
+          ],
+          "example": "iPhone13ProMax",
+          "frameType": "notch",
+          "os": "15.0"
+        },
+        "standard": {
+          "id": "M09",
+          "label": "12 Pro Max／13 Pro Max",
+          "stem": "M09_iPhone12ProMax_13ProMax_多机身兼容展示",
+          "memberIds": [
+            "iPhone12ProMax",
+            "iPhone13ProMax"
+          ],
+          "representative": "iPhone13ProMax",
+          "negative": [
+            "iPhone12",
+            "iPhone12Pro",
+            "iPhone13",
+            "iPhone14"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone12ProMax",
+              "ids": [
+                "iPhone12ProMax"
+              ],
+              "title": "12 Pro Max",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone13ProMax",
+              "ids": [
+                "iPhone13ProMax"
+              ],
+              "title": "13 Pro Max",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone13ProMax"
+        },
+        "mobile": {
+          "id": "M09",
+          "label": "12 Pro Max／13 Pro Max",
+          "stem": "M09_iPhone12ProMax_13ProMax_多机身兼容展示",
+          "memberIds": [
+            "iPhone12ProMax",
+            "iPhone13ProMax"
+          ],
+          "representative": "iPhone13ProMax",
+          "negative": [
+            "iPhone12",
+            "iPhone12Pro",
+            "iPhone13",
+            "iPhone14"
+          ],
+          "os": "15.0",
+          "negative_basis": "与本组已核实内托的机身外廓明显不符；每个红卡展示一个独立对比型号。",
+          "slots": [
+            {
+              "asset": "iPhone12ProMax",
+              "ids": [
+                "iPhone12ProMax"
+              ],
+              "title": "12 Pro Max",
+              "generation": ""
+            },
+            {
+              "asset": "iPhone13ProMax",
+              "ids": [
+                "iPhone13ProMax"
+              ],
+              "title": "13 Pro Max",
+              "generation": ""
+            }
+          ],
+          "example": "iPhone13ProMax"
+        }
+      }
+    }
+  ]
+}

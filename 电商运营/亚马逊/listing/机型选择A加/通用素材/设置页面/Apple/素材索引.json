@@ -1,0 +1,1104 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-29",
+  "status": "可复用原始素材；发布时另核对截图文字",
+  "assets": {
+    "menus": {
+      "path": "原始截图/iPhone11_真实型号查询三步.png",
+      "bytes": 175906,
+      "sha256": "dea6a3c894009371839531b2741cf228598124d35c891541daf165cb494133e3",
+      "width": 2504,
+      "height": 1792,
+      "hasAlpha": false,
+      "kind": "raw_screenshot",
+      "source_url": "https://media.idownloadblog.com/wp-content/uploads/2021/12/model-name-iphone.png",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone11",
+      "actual_source_os": "15.1"
+    },
+    "iPhone11_home": {
+      "path": "原始截图/iPhone11_home.png",
+      "bytes": 641302,
+      "sha256": "34eb492a76750d011743daa8f6f34a09cb5d11034c15317f36c4d8319c2b6b9f",
+      "width": 604,
+      "height": 1307,
+      "hasAlpha": true,
+      "kind": "raw_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-2c5f94f1-0ca7-4fe0-a7d8-82b6dc20c44b.png?width=604&height=1308",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone11",
+      "actual_source_os": "16"
+    },
+    "iPhone11_frame": {
+      "path": "机框/iPhone11_frame.png",
+      "bytes": 71070,
+      "sha256": "81079a79988477299714936aafc6a4cc4fe63871c814cf0595ca9f34b0138637",
+      "width": 357,
+      "height": 701,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-3bd4b3e3-fb61-444c-bcf5-798cc7171673.png?width=357",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone11",
+      "actual_source_os": "16"
+    },
+    "iPhone11Pro_home": {
+      "path": "原始截图/iPhone11Pro_home.png",
+      "bytes": 629154,
+      "sha256": "1f3a14bfe9b2c7da2d06a60d09aebfbc541f2f895ed7933e1f70c533837f0152",
+      "width": 609,
+      "height": 1320,
+      "hasAlpha": true,
+      "kind": "raw_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-642b7e30-4bd2-43a8-8187-a79a35c83912.png?width=610&height=1320",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone11Pro",
+      "actual_source_os": "16"
+    },
+    "iPhone11Pro_frame": {
+      "path": "机框/iPhone11Pro_frame.png",
+      "bytes": 51765,
+      "sha256": "b2c468a253344350ea7ee610e03fbee92abdb90a84142e4e974892ed8056fdc4",
+      "width": 353,
+      "height": 700,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-715c0ded-6b1d-4785-a23a-a3e3b4758913.png?width=353",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone11Pro",
+      "actual_source_os": "16"
+    },
+    "iPhone11ProMax_home": {
+      "path": "原始截图/iPhone11ProMax_home.png",
+      "bytes": 602933,
+      "sha256": "7820aa25dae334aebb8711b773f0b57075664cd39fc65598d387830a40eb542c",
+      "width": 617,
+      "height": 1336,
+      "hasAlpha": true,
+      "kind": "raw_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-c9ea6c87-34ce-47bf-9749-225029b476e2.png?width=618&height=1336",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-max-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone11ProMax",
+      "actual_source_os": "16"
+    },
+    "iPhone11ProMax_frame": {
+      "path": "机框/iPhone11ProMax_frame.png",
+      "bytes": 35769,
+      "sha256": "af21d40905599a31de1df0e4484c91260d929badb74a553b33a8e53a6d8e284a",
+      "width": 345,
+      "height": 700,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-ae78311d-a5ca-40bc-b7a7-46b717e8da68.png?width=345",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-max-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone11ProMax",
+      "actual_source_os": "16"
+    },
+    "iPhone12_home": {
+      "path": "原始截图/iPhone12_home.png",
+      "bytes": 639007,
+      "sha256": "700a5515990c2d0f03ee358e57395d15e24d6dcff1531ba999f997236819bf11",
+      "width": 618,
+      "height": 1337,
+      "hasAlpha": true,
+      "kind": "raw_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-cbfa806f-0ea7-4b29-83e0-5b4ec110df0d.png?width=618&height=1338",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone12",
+      "actual_source_os": "16"
+    },
+    "iPhone12_frame": {
+      "path": "机框/iPhone12_frame.png",
+      "bytes": 102793,
+      "sha256": "5de3dd6d03cfe3ffba8420ec2a654cd7dba3faecb095f30032ec86fff72a9615",
+      "width": 346,
+      "height": 701,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-3f45e9e1-cb7f-4dad-85e2-5d9e52ca0c5d.png?width=346",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone12",
+      "actual_source_os": "16"
+    },
+    "iPhone12mini_home": {
+      "path": "原始截图/iPhone12mini_home.png",
+      "bytes": 648210,
+      "sha256": "728e3cc0c145d432c808bd70febbc7c49725b1003d7f3bcacb6ad8abdf0b9b41",
+      "width": 615,
+      "height": 1332,
+      "hasAlpha": true,
+      "kind": "raw_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-13890e03-aa13-4089-8722-834252293340.png?width=616&height=1332",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-mini-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone12mini",
+      "actual_source_os": "16"
+    },
+    "iPhone12mini_frame": {
+      "path": "机框/iPhone12mini_frame.png",
+      "bytes": 25104,
+      "sha256": "343bc70a6ce6bc570509e1aeca4be9ece22054d419e7c45c39e5d73062bac5f0",
+      "width": 348,
+      "height": 701,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-8663566f-b759-4a61-ad8a-c92e5c857eab.png?width=348",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-mini-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone12mini",
+      "actual_source_os": "16"
+    },
+    "iPhone12ProMax_home": {
+      "path": "原始截图/iPhone12ProMax_home.png",
+      "bytes": 627644,
+      "sha256": "58aebf16ad4cd9c3efd6c5462d0a765936d8f46bb8e62fd3315821c3e231b7fc",
+      "width": 618,
+      "height": 1338,
+      "hasAlpha": true,
+      "kind": "raw_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-3687118e-b47a-4195-a275-14726218082c.png?width=620&height=1338",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-pro-max-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone12ProMax",
+      "actual_source_os": "16"
+    },
+    "iPhone12ProMax_frame": {
+      "path": "机框/iPhone12ProMax_frame.png",
+      "bytes": 29105,
+      "sha256": "2f54327df4cb23e952062dff3539fa3adb8cbc41300b5a2296e1ee415128746e",
+      "width": 343,
+      "height": 700,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-fe2ce519-7adb-4abf-a8b6-1f39302864d3.png?width=343",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-pro-max-ios-16-0/basic-settings/use-app-library",
+      "system": "iOS 16",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone12ProMax",
+      "actual_source_os": "16"
+    },
+    "iPhone14_home": {
+      "path": "原始截图/iPhone14_home.png",
+      "bytes": 454620,
+      "sha256": "191aeabcccba5d4dc6f7ec5f6e3c71cf43249f6191c9fdf8d6414d99df83dcf2",
+      "width": 619,
+      "height": 1340,
+      "hasAlpha": true,
+      "kind": "raw_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-939b0b30-f55b-47b3-9f13-b4e97ae28082.png?width=620&height=1340",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-14-ios-18/basic-settings/use-app-library",
+      "system": "iOS 18",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone14",
+      "actual_source_os": "18"
+    },
+    "iPhone14_frame": {
+      "path": "机框/iPhone14_frame.png",
+      "bytes": 28791,
+      "sha256": "b2d87493094137643efe2929a32bd917b063c5a6d4c4bee258fb031e04fe61c5",
+      "width": 346,
+      "height": 701,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-b5b6a940-49d2-422c-8be7-a2904cdaf7e5.png?width=346",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-14-ios-18/basic-settings/use-app-library",
+      "system": "iOS 18",
+      "material_class": "raw_native_ui",
+      "actual_source_model_id": "iPhone14",
+      "actual_source_os": "18"
+    }
+  },
+  "devices": {
+    "iPhone11": {
+      "assets": {
+        "home": "iPhone11_home",
+        "frame": "iPhone11_frame",
+        "menus": "menus"
+      },
+      "frame": {
+        "width": 357,
+        "height": 700,
+        "display": {
+          "x": 27.4166666667,
+          "y": 23.9166666667,
+          "width": 301.875,
+          "height": 653.3333333333
+        },
+        "mask_method": "home_png_alpha"
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 604,
+            "height": 1308
+          },
+          "target": {
+            "x": 451,
+            "y": 866,
+            "width": 124,
+            "height": 147
+          },
+          "masks": [
+            {
+              "x": 197,
+              "y": 754,
+              "width": 29,
+              "height": 42,
+              "fill": "#25242B",
+              "reason": "仅遮挡TV图标中的苹果Logo"
+            }
+          ]
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 41,
+            "y": 1229,
+            "width": 749,
+            "height": 98
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 838,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 42,
+            "y": 248,
+            "width": 747,
+            "height": 96
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 1676,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 40,
+            "y": 421,
+            "width": 749,
+            "height": 97
+          },
+          "originalAnnotation": true,
+          "masks": []
+        }
+      ],
+      "provenance": {
+        "homePage": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-ios-16-0/basic-settings/use-app-library",
+        "menuPage": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+        "homeSystem": "iOS16主屏幕，O2的iPhone11教程截图",
+        "menuSystem": "iOS15.1，原作者iPhone11实机截图，Model Name原本即为iPhone11",
+        "frameModel": "O2的iPhone11机框",
+        "menu_original_device": "iPhone 11",
+        "menu_original_system": "iOS 15.1",
+        "final_value_type": "original_model_name",
+        "notes": "原始Model Name即为iPhone 11；主屏与菜单分别取自不同来源版本。"
+      },
+      "selection_status": {
+        "classification": "legacy_mixed_source_reference",
+        "default_usable_for_new_tutorial": false,
+        "actual_menu_model_id": "iPhone11",
+        "actual_menu_os": "iOS 15.1",
+        "target_model_menu_verified": true,
+        "same_os_sequence_complete": false,
+        "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone11Pro": {
+      "assets": {
+        "home": "iPhone11Pro_home",
+        "frame": "iPhone11Pro_frame",
+        "menus": "menus"
+      },
+      "frame": {
+        "width": 353,
+        "height": 700,
+        "display": {
+          "x": 24.50578512396694,
+          "y": 21.00495867768595,
+          "width": 304.57190082644627,
+          "height": 659.3223140495867
+        },
+        "mask_method": "home_png_alpha"
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 609,
+            "height": 1320
+          },
+          "target": {
+            "x": 454,
+            "y": 865,
+            "width": 131,
+            "height": 149
+          },
+          "masks": [
+            {
+              "x": 202.797,
+              "y": 745.8,
+              "width": 28.623,
+              "height": 47.519999999999996,
+              "fill": "#24252A",
+              "reason": "仅遮挡TV图标中的苹果Logo"
+            }
+          ]
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 41,
+            "y": 1229,
+            "width": 749,
+            "height": 98
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 838,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 42,
+            "y": 248,
+            "width": 747,
+            "height": 96
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 1676,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 40,
+            "y": 421,
+            "width": 749,
+            "height": 97
+          },
+          "originalAnnotation": true,
+          "masks": []
+        }
+      ],
+      "provenance": {
+        "homePage": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-ios-16-0/basic-settings/use-app-library",
+        "menuPage": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+        "frameModel": "iPhone11Pro",
+        "annotation": "真实iOS菜单裁切拼版；非iPhone11的末屏仅替换型号值作为对应适配示例，非该机型原始实拍截图。",
+        "menu_original_device": "iPhone 11",
+        "menu_original_system": "iOS 15.1",
+        "final_value_type": "example_annotation",
+        "notes": "共用真实iPhone 11菜单底图，末屏型号按目标代表机型标注；iPhone14系统版本数值亦为示例标注，不称作未编辑实拍。"
+      },
+      "selection_status": {
+        "classification": "legacy_mixed_source_reference",
+        "default_usable_for_new_tutorial": false,
+        "actual_menu_model_id": "iPhone11",
+        "actual_menu_os": "iOS 15.1",
+        "target_model_menu_verified": false,
+        "same_os_sequence_complete": false,
+        "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone11ProMax": {
+      "assets": {
+        "home": "iPhone11ProMax_home",
+        "frame": "iPhone11ProMax_frame",
+        "menus": "menus"
+      },
+      "frame": {
+        "width": 345,
+        "height": 700,
+        "display": {
+          "x": 18.096446700507617,
+          "y": 15.761421319796955,
+          "width": 308.8071065989848,
+          "height": 668.4010152284263
+        },
+        "mask_method": "home_png_alpha"
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 617,
+            "height": 1336
+          },
+          "target": {
+            "x": 460,
+            "y": 875,
+            "width": 133,
+            "height": 151
+          },
+          "masks": [
+            {
+              "x": 205.461,
+              "y": 754.8399999999999,
+              "width": 28.999,
+              "height": 48.096,
+              "fill": "#24252A",
+              "reason": "仅遮挡TV图标中的苹果Logo"
+            }
+          ]
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 41,
+            "y": 1229,
+            "width": 749,
+            "height": 98
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 838,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 42,
+            "y": 248,
+            "width": 747,
+            "height": 96
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 1676,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 40,
+            "y": 421,
+            "width": 749,
+            "height": 97
+          },
+          "originalAnnotation": true,
+          "masks": []
+        }
+      ],
+      "provenance": {
+        "homePage": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-max-ios-16-0/basic-settings/use-app-library",
+        "menuPage": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+        "frameModel": "iPhone11ProMax",
+        "annotation": "真实iOS菜单裁切拼版；非iPhone11的末屏仅替换型号值作为对应适配示例，非该机型原始实拍截图。",
+        "menu_original_device": "iPhone 11",
+        "menu_original_system": "iOS 15.1",
+        "final_value_type": "example_annotation",
+        "notes": "共用真实iPhone 11菜单底图，末屏型号按目标代表机型标注；iPhone14系统版本数值亦为示例标注，不称作未编辑实拍。"
+      },
+      "selection_status": {
+        "classification": "legacy_mixed_source_reference",
+        "default_usable_for_new_tutorial": false,
+        "actual_menu_model_id": "iPhone11",
+        "actual_menu_os": "iOS 15.1",
+        "target_model_menu_verified": false,
+        "same_os_sequence_complete": false,
+        "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone12": {
+      "assets": {
+        "home": "iPhone12_home",
+        "frame": "iPhone12_frame",
+        "menus": "menus"
+      },
+      "frame": {
+        "width": 346,
+        "height": 701,
+        "display": {
+          "x": 18.118243243243242,
+          "y": 16.364864864864867,
+          "width": 309.76351351351354,
+          "height": 669.7905405405405
+        },
+        "mask_method": "home_png_alpha"
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 618,
+            "height": 1337
+          },
+          "target": {
+            "x": 460,
+            "y": 876,
+            "width": 133,
+            "height": 151
+          },
+          "masks": [
+            {
+              "x": 205.794,
+              "y": 755.405,
+              "width": 29.046,
+              "height": 48.132,
+              "fill": "#24252A",
+              "reason": "仅遮挡TV图标中的苹果Logo"
+            }
+          ]
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 41,
+            "y": 1229,
+            "width": 749,
+            "height": 98
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 838,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 42,
+            "y": 248,
+            "width": 747,
+            "height": 96
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 1676,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 40,
+            "y": 421,
+            "width": 749,
+            "height": 97
+          },
+          "originalAnnotation": true,
+          "masks": []
+        }
+      ],
+      "provenance": {
+        "homePage": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-ios-16-0/basic-settings/use-app-library",
+        "menuPage": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+        "frameModel": "iPhone12",
+        "annotation": "真实iOS菜单裁切拼版；非iPhone11的末屏仅替换型号值作为对应适配示例，非该机型原始实拍截图。",
+        "menu_original_device": "iPhone 11",
+        "menu_original_system": "iOS 15.1",
+        "final_value_type": "example_annotation",
+        "notes": "共用真实iPhone 11菜单底图，末屏型号按目标代表机型标注；iPhone14系统版本数值亦为示例标注，不称作未编辑实拍。"
+      },
+      "selection_status": {
+        "classification": "legacy_mixed_source_reference",
+        "default_usable_for_new_tutorial": false,
+        "actual_menu_model_id": "iPhone11",
+        "actual_menu_os": "iOS 15.1",
+        "target_model_menu_verified": false,
+        "same_os_sequence_complete": false,
+        "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone12mini": {
+      "assets": {
+        "home": "iPhone12mini_home",
+        "frame": "iPhone12mini_frame",
+        "menus": "menus"
+      },
+      "frame": {
+        "width": 348,
+        "height": 701,
+        "display": {
+          "x": 19.885714285714286,
+          "y": 16.961344537815126,
+          "width": 308.22857142857146,
+          "height": 667.3411764705883
+        },
+        "mask_method": "home_png_alpha"
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 615,
+            "height": 1332
+          },
+          "target": {
+            "x": 458,
+            "y": 872,
+            "width": 132,
+            "height": 151
+          },
+          "masks": [
+            {
+              "x": 204.79500000000002,
+              "y": 752.5799999999999,
+              "width": 28.905,
+              "height": 47.952,
+              "fill": "#24252A",
+              "reason": "仅遮挡TV图标中的苹果Logo"
+            }
+          ]
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 41,
+            "y": 1229,
+            "width": 749,
+            "height": 98
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 838,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 42,
+            "y": 248,
+            "width": 747,
+            "height": 96
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 1676,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 40,
+            "y": 421,
+            "width": 749,
+            "height": 97
+          },
+          "originalAnnotation": true,
+          "masks": []
+        }
+      ],
+      "provenance": {
+        "homePage": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-mini-ios-16-0/basic-settings/use-app-library",
+        "menuPage": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+        "frameModel": "iPhone12mini",
+        "annotation": "真实iOS菜单裁切拼版；非iPhone11的末屏仅替换型号值作为对应适配示例，非该机型原始实拍截图。",
+        "menu_original_device": "iPhone 11",
+        "menu_original_system": "iOS 15.1",
+        "final_value_type": "example_annotation",
+        "notes": "共用真实iPhone 11菜单底图，末屏型号按目标代表机型标注；iPhone14系统版本数值亦为示例标注，不称作未编辑实拍。"
+      },
+      "selection_status": {
+        "classification": "legacy_mixed_source_reference",
+        "default_usable_for_new_tutorial": false,
+        "actual_menu_model_id": "iPhone11",
+        "actual_menu_os": "iOS 15.1",
+        "target_model_menu_verified": false,
+        "same_os_sequence_complete": false,
+        "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone12ProMax": {
+      "assets": {
+        "home": "iPhone12ProMax_home",
+        "frame": "iPhone12ProMax_frame",
+        "menus": "menus"
+      },
+      "frame": {
+        "width": 343,
+        "height": 700,
+        "display": {
+          "x": 17.5,
+          "y": 15.166666666666668,
+          "width": 309.1666666666667,
+          "height": 669.0833333333334
+        },
+        "mask_method": "home_png_alpha"
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 618,
+            "height": 1338
+          },
+          "target": {
+            "x": 460,
+            "y": 876,
+            "width": 133,
+            "height": 151
+          },
+          "masks": [
+            {
+              "x": 205.794,
+              "y": 755.9699999999999,
+              "width": 29.046,
+              "height": 48.168,
+              "fill": "#24252A",
+              "reason": "仅遮挡TV图标中的苹果Logo"
+            }
+          ]
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 41,
+            "y": 1229,
+            "width": 749,
+            "height": 98
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 838,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 42,
+            "y": 248,
+            "width": 747,
+            "height": 96
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 1676,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 40,
+            "y": 421,
+            "width": 749,
+            "height": 97
+          },
+          "originalAnnotation": true,
+          "masks": []
+        }
+      ],
+      "provenance": {
+        "homePage": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-pro-max-ios-16-0/basic-settings/use-app-library",
+        "menuPage": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+        "frameModel": "iPhone12ProMax",
+        "annotation": "真实iOS菜单裁切拼版；非iPhone11的末屏仅替换型号值作为对应适配示例，非该机型原始实拍截图。",
+        "menu_original_device": "iPhone 11",
+        "menu_original_system": "iOS 15.1",
+        "final_value_type": "example_annotation",
+        "notes": "共用真实iPhone 11菜单底图，末屏型号按目标代表机型标注；iPhone14系统版本数值亦为示例标注，不称作未编辑实拍。"
+      },
+      "selection_status": {
+        "classification": "legacy_mixed_source_reference",
+        "default_usable_for_new_tutorial": false,
+        "actual_menu_model_id": "iPhone11",
+        "actual_menu_os": "iOS 15.1",
+        "target_model_menu_verified": false,
+        "same_os_sequence_complete": false,
+        "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone14": {
+      "assets": {
+        "home": "iPhone14_home",
+        "frame": "iPhone14_frame",
+        "menus": "menus"
+      },
+      "frame": {
+        "width": 346,
+        "height": 701,
+        "display": {
+          "x": 17.533783783783782,
+          "y": 15.780405405405405,
+          "width": 309.7635135135135,
+          "height": 670.375
+        },
+        "mask_method": "home_png_alpha"
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 619,
+            "height": 1340
+          },
+          "target": {
+            "x": 461,
+            "y": 878,
+            "width": 133,
+            "height": 151
+          },
+          "masks": [
+            {
+              "x": 206.127,
+              "y": 757.0999999999999,
+              "width": 29.093,
+              "height": 48.239999999999995,
+              "fill": "#24252A",
+              "reason": "仅遮挡TV图标中的苹果Logo"
+            }
+          ]
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 41,
+            "y": 1229,
+            "width": 749,
+            "height": 98
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 838,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 42,
+            "y": 248,
+            "width": 747,
+            "height": 96
+          },
+          "originalAnnotation": true,
+          "masks": []
+        },
+        {
+          "asset": "menus",
+          "crop": {
+            "x": 1676,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          },
+          "target": {
+            "x": 40,
+            "y": 421,
+            "width": 749,
+            "height": 97
+          },
+          "originalAnnotation": true,
+          "masks": []
+        }
+      ],
+      "provenance": {
+        "homePage": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-14-ios-18/basic-settings/use-app-library",
+        "menuPage": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+        "frameModel": "iPhone14",
+        "annotation": "真实iOS菜单裁切拼版；非iPhone11的末屏仅替换型号值作为对应适配示例，非该机型原始实拍截图。",
+        "menu_original_device": "iPhone 11",
+        "menu_original_system": "iOS 15.1",
+        "final_value_type": "example_annotation",
+        "notes": "共用真实iPhone 11菜单底图，末屏型号按目标代表机型标注；iPhone14系统版本数值亦为示例标注，不称作未编辑实拍。"
+      },
+      "selection_status": {
+        "classification": "legacy_mixed_source_reference",
+        "default_usable_for_new_tutorial": false,
+        "actual_menu_model_id": "iPhone11",
+        "actual_menu_os": "iOS 15.1",
+        "target_model_menu_verified": false,
+        "same_os_sequence_complete": false,
+        "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    }
+  },
+  "menu_source": {
+    "original_device": "iPhone 11",
+    "original_system": "iOS 15.1",
+    "source_page": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+    "image_url": "https://media.idownloadblog.com/wp-content/uploads/2021/12/model-name-iphone.png",
+    "columns": [
+      {
+        "x": 0,
+        "y": 0,
+        "width": 828,
+        "height": 1792
+      },
+      {
+        "x": 838,
+        "y": 0,
+        "width": 828,
+        "height": 1792
+      },
+      {
+        "x": 1676,
+        "y": 0,
+        "width": 828,
+        "height": 1792
+      }
+    ],
+    "notes": "真实原始截图；其他型号的末屏文字是示例标注，不是对应机型原始实拍。"
+  },
+  "hardware_mask": {
+    "method": "home_png_alpha",
+    "notes": "使用对应机型原始主屏PNG的透明通道作为完整屏幕形状遮罩，保留机框本身的真实刘海；禁止用矩形块裁出刘海。"
+  },
+  "collections": {
+    "vodafone_ios18_20261103": {
+      "path": "素材索引_Vodafone_iOS18_20261103.json",
+      "date": "2026-11-03",
+      "models": [
+        "iPhone13Pro",
+        "iPhone13mini",
+        "iPhone13ProMax",
+        "iPhone14ProMax",
+        "iPhone14Pro",
+        "iPhone14Plus"
+      ],
+      "fileCount": 30,
+      "notes": "新增独立来源集合；原有15份素材与devices键保持兼容。"
+    }
+  },
+  "updated": "2026-11-03",
+  "selection_policy": {
+    "authoritative_coverage_index": "../覆盖索引.json",
+    "legacy_keys_preserved": true,
+    "default_lookup": "仅按覆盖索引中的型号、系统及完整真实结果筛选；不以devices键或文件名推断真实覆盖",
+    "unknown_os_default_usable": false,
+    "blank_or_missing_result_default_usable": false,
+    "cross_model_value_replacement_is_real_capture": false,
+    "publisher_os_label_is_evidence": "来源页面明确标注，单独记录证据等级；不据主屏外观或发布日期推断",
+    "publish_readiness_separate": true,
+    "devices_role": "旧工程兼容视图，不是对应目标机型真实菜单覆盖表"
+  }
+}

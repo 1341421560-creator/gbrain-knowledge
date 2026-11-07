@@ -1,0 +1,60 @@
+{
+  "store": "moment",
+  "template_id": "MOM-S01",
+  "owner_confirmation": {
+    "date": "2026-11-02",
+    "quote": "普通A+这个模板整理到知识库中 是moment 这个店铺的模板"
+  },
+  "scope": "普通A+970×600，仅当前选定的双机型正背面四步教程版",
+  "original_project": "listing优化/output/20261102_普通A加_刘海屏与点击放大",
+  "selected_source": {
+    "original": "设计源文件/a-standard-v2.svg",
+    "archived": "源文件/a-standard.svg",
+    "reference_png": "参考结果/a-standard-970x600.png",
+    "png_sha256": "10888709310810392a04cac0fa53460bcf5b829ba9aa5d57b1bc98892207eac3"
+  },
+  "sources": [
+    {
+      "role": "prior_user_selected_design",
+      "file": "工程/assets/base.svg",
+      "note": "从用户指定的上一版等高屏幕底稿复制，画面中的机身及标题均在本文件中内嵌。"
+    },
+    {
+      "role": "settings_icon_source",
+      "file": "工程/assets/settings-icon-source.jpeg",
+      "sha256": "1cebd277d12d59ed1f36416f6cf1d6811dafdddfbd61e8453ad6e023400fd746",
+      "crop": [
+        955,
+        1301,
+        182,
+        182
+      ],
+      "url": "https://content.ozmo.com/authoring/image/05706435f08c467899bd1489303f442cbd4a5cea277bad15b418c981762dd859.jpeg",
+      "page": "https://www.att.com/device-support/article/455/apple/iphone-17/",
+      "note": "仅采用 Settings 图标，其余应用不作为本轮新增素材。"
+    },
+    {
+      "role": "general_icon_source",
+      "file": "工程/assets/general-icon-source.png",
+      "sha256": "6359d10380447161d9ccbdd0c5da6184f058561ed3297efd48842da973cab978",
+      "crop": [
+        78,
+        1450,
+        59,
+        59
+      ],
+      "note": "从既有界面资料中裁取 General 图标。"
+    },
+    {
+      "role": "embedded_tutorial_mother",
+      "sha256": "21bf7cea07bf15f9856e391707b72998269945100fe1b7e626ddf7a87071db31",
+      "note": "既有教程母版裁切保留在底稿 SVG 中。顶部刘海与末屏目标字段为编辑的教程示意，不宣称两款手机的未编辑实拍。"
+    }
+  ],
+  "archive_changes": {
+    "build_cli": "新增必填 --output 参数，输出定位与内容生成分离；目标已存在时停止。",
+    "config": "移除项目特定的默认输出路径，其余刘海和局部放大配置保持。",
+    "runtime": "不包含运行时或虚拟环境；可用字体均保留OFL许可证。"
+  },
+  "validation_boundary": "USA原词及常见词形针对可见文案与可辨认界面文字为零命中；模糊小字不作逐字保证。不声明UK通过，不外推所有壳款适配。"
+}

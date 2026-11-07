@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-02",
+  "store": "moment",
+  "template_id": "MOM-S01",
+  "canvas": [
+    970,
+    600
+  ],
+  "source_svg_preserved": true,
+  "source_png_preserved": true,
+  "replay_svg_bytes_identical": true,
+  "replay_png_pixels_identical": true,
+  "svg_self_contained": true,
+  "usa_terms": 68,
+  "usa_visible_labels": {
+    "exact_hits": [],
+    "variant_candidates": []
+  },
+  "markdown_pages_checked": 4,
+  "unique_anchors": true,
+  "full_toc_regenerated_and_matched": true,
+  "relative_links_and_target_anchors_valid": true,
+  "png_sha256": "10888709310810392a04cac0fa53460bcf5b829ba9aa5d57b1bc98892207eac3",
+  "svg_sha256": "7e9a7223dda9205f65f7c97f704ee632706bbe6a0c079d7929d0858378abb01f",
+  "scope": "工程复现与文档链接核对；模糊界面小字不作逐字识别结论。"
+}

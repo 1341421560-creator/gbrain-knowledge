@@ -1,0 +1,77 @@
+{
+  "premium": {
+    "settings": {
+      "width": 76,
+      "height": 88,
+      "iconSize": 54,
+      "labelFont": 15,
+      "iconTop": 7,
+      "labelBottom": 10,
+      "overflow": 0
+    },
+    "row": {
+      "width": 196,
+      "height": 42,
+      "generalFont": 18,
+      "aboutFont": 18,
+      "iconSize": 25,
+      "modelLabelFont": 13.5,
+      "modelValueFont": 17,
+      "modelSplitHeight": 54
+    },
+    "outline": {
+      "color": "#087513",
+      "width": 1.6
+    }
+  },
+  "standard": {
+    "settings": {
+      "width": 76,
+      "height": 88,
+      "iconSize": 54,
+      "labelFont": 15,
+      "iconTop": 7,
+      "labelBottom": 10,
+      "overflow": 0
+    },
+    "row": {
+      "width": 220,
+      "height": 42,
+      "generalFont": 18,
+      "aboutFont": 18,
+      "iconSize": 25,
+      "modelLabelFont": 13.5,
+      "modelValueFont": 17,
+      "modelSplitHeight": 54
+    },
+    "outline": {
+      "color": "#087513",
+      "width": 1.6
+    }
+  },
+  "mobile": {
+    "settings": {
+      "width": 82,
+      "height": 88,
+      "iconSize": 60,
+      "labelFont": 14,
+      "iconTop": 4,
+      "labelBottom": 7,
+      "overflow": 8
+    },
+    "row": {
+      "width": 266,
+      "height": 42,
+      "generalFont": 18,
+      "aboutFont": 18,
+      "iconSize": 25,
+      "modelLabelFont": 13.5,
+      "modelValueFont": 17,
+      "modelSplitHeight": 50
+    },
+    "outline": {
+      "color": "#087513",
+      "width": 1.6
+    }
+  }
+}

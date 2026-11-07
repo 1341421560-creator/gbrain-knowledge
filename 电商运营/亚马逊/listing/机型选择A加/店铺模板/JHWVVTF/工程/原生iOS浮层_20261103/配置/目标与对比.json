@@ -1,0 +1,75 @@
+{
+  "groups": [
+    {
+      "id": "iPhone13Pro",
+      "target": "iPhone13Pro",
+      "wrong": [
+        "iPhone13",
+        "iPhone13mini",
+        "iPhone13ProMax"
+      ],
+      "ui": "iPhone13Pro",
+      "display": "iPhone 13 Pro"
+    },
+    {
+      "id": "iPhone13mini",
+      "target": "iPhone13mini",
+      "wrong": [
+        "iPhone13",
+        "iPhone13Pro",
+        "iPhone13ProMax"
+      ],
+      "ui": "iPhone13mini",
+      "display": "iPhone 13 mini"
+    },
+    {
+      "id": "iPhone13ProMax",
+      "target": "iPhone13ProMax",
+      "wrong": [
+        "iPhone13",
+        "iPhone13mini",
+        "iPhone13Pro"
+      ],
+      "ui": "iPhone13ProMax",
+      "display": "iPhone 13 Pro Max"
+    },
+    {
+      "id": "iPhone14ProMax",
+      "target": "iPhone14ProMax",
+      "wrong": [
+        "iPhone14",
+        "iPhone14Plus",
+        "iPhone14Pro"
+      ],
+      "ui": "iPhone14ProMax",
+      "display": "iPhone 14 Pro Max"
+    },
+    {
+      "id": "iPhone14Pro",
+      "target": "iPhone14Pro",
+      "wrong": [
+        "iPhone14",
+        "iPhone14Plus",
+        "iPhone14ProMax"
+      ],
+      "ui": "iPhone14Pro",
+      "display": "iPhone 14 Pro"
+    },
+    {
+      "id": "iPhone14Plus",
+      "target": "iPhone14Plus",
+      "wrong": [
+        "iPhone14",
+        "iPhone14Pro",
+        "iPhone14ProMax"
+      ],
+      "ui": "iPhone14Plus",
+      "display": "iPhone 14 Plus"
+    }
+  ],
+  "comparisonAliases": {
+    "iPhone13": "iPhone14Group",
+    "iPhone14": "iPhone14Group"
+  },
+  "note": "目标由用户指定；对比卡片为设计选择，不是穷尽不兼容名单。合并成员读取通用兼容资料。"
+}

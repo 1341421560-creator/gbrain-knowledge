@@ -1,0 +1,48 @@
+{
+  "width_mm": 70,
+  "height_mm": 50,
+  "colors": {
+    "navy": "#16232E",
+    "gold": "#D2B77A",
+    "ivory": "#F8F7F1",
+    "border": "#AB9463"
+  },
+  "border": {
+    "inset_mm": 2.5,
+    "radius_mm": 1.8,
+    "stroke_mm": 0.4
+  },
+  "divider": {
+    "x1_mm": 26.2,
+    "x2_mm": 43.8,
+    "y_mm": 29,
+    "stroke_mm": 0.36
+  },
+  "font_dir": "../03_官方字体与授权",
+  "color_space": "RGB",
+  "brand_J": "保留 Libre Baskerville 官方原始下伸字形",
+  "lines": [
+    {
+      "role": "brand",
+      "text": "JHWVVTF",
+      "family": "Libre Baskerville",
+      "file": "品牌字体_LibreBaskerville_官方.ttf",
+      "weight": 400,
+      "size_mm": 9.2,
+      "tracking_mm": 0.12,
+      "baseline_mm": 24,
+      "color": "gold"
+    },
+    {
+      "role": "slogan",
+      "text": "Everyday Carry, Thoughtfully Made.",
+      "family": "Montserrat",
+      "file": "标语字体_Montserrat_官方.ttf",
+      "weight": 500,
+      "size_mm": 2.85,
+      "tracking_mm": 0.03,
+      "baseline_mm": 36.5,
+      "color": "ivory"
+    }
+  ]
+}

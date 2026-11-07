@@ -1,0 +1,296 @@
+{
+  "generated_date": "2026-10-30",
+  "tool": "image_gen.imagegen（内置工具）",
+  "scope": "补齐已有49款范围中的8款，不改变型号事实和适配关系",
+  "records": [
+    {
+      "id": "iPhone5",
+      "name": "iPhone 5",
+      "file": "Apple/独立背面/iPhone5.png",
+      "width": 661,
+      "height": 1399,
+      "sha256": "4711f709a821eea826c71bb2649581d2648e35efa8753331705293738c51b208",
+      "bytes": 1266371,
+      "provenance": {
+        "tool": "image_gen.imagegen（内置工具）",
+        "generated_date": "2026-10-30",
+        "asset_type": "依据官方外观参考生成的独立背面图，非官方原始照片",
+        "prompt": "Use case: product-mockup. Asset: one reusable isolated rear-phone PNG for an e-commerce model-selection knowledge library. The attached official Apple image is a HARDWARE REFERENCE ONLY, not a requested composite layout. Produce a NEW photorealistic clean studio render of ONLY ONE full phone, exactly upright, orthographic straight-on BACK VIEW, no perspective, no rotation. All four corners and the whole rear body must be visible, with 4-6% transparent padding. Preserve the actual device proportions and camera hardware from this specific model. Soft even studio lighting, crisp natural edges and lens details. GENUINE alpha transparency outside the device; no cast shadows outside the silhouette. All normally branded rear areas must be plain matching material. Absolutely NO Apple logo, NO symbols, NO iPhone lettering, NO S badge, NO regulatory text, NO model label, NO watermark, NO checkmarks or crosses. No front phone, no screen, no case, no hands, no extra objects. Specific model: iPhone 5 (2012), BLACK AND SLATE. Reference contains two color groups; use only the black/slate rear in the LEFT group. Body 123.8 x 58.6 mm, width/height 0.47334. Flat slate anodized-aluminum center back, glossy BLACK GLASS top and bottom strips, straight flat side edges with a small polished chamfer, modest rounded corners. One small flush circular black rear camera at upper left within the top black-glass strip, a tiny dark rear microphone and ONE ROUND pale LED flash to its right. The circular single flash distinguishes this from 5s. Preserve the black top/bottom glass divisions. Blank center with no branding.",
+        "reference": "Apple/官方参考/iPhone5_官方参考_20261030.jpg",
+        "reference_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/112016_sp655_iphone5_color.jpg",
+        "reference_sha256": "233436bf3698e0bc4675b2d0f1826d07bea2ab9c06b25db8d8b04794ee5d6bce",
+        "spec_url": "https://support.apple.com/en-us/112016",
+        "original_file": "Apple/原稿/补齐8款_20261030/iPhone5_生成原图.png",
+        "original_sha256": "ff0cc3bcb9d75355b2b47f47b9af9d124163355ef0bebf6b0d10f5d86d58fab7",
+        "processing": "按alpha>16的机身包围盒加2像素余量裁切；不重绘、不拉伸、不改变原有像素和透明度。",
+        "source_crop": {
+          "left": 185,
+          "top": 66,
+          "width": 661,
+          "height": 1399
+        },
+        "visual_checks": [
+          "完整直立背面",
+          "无苹果Logo、文字、勾叉",
+          "镜头、闪光灯及天线结构按该型号原始参考核对"
+        ],
+        "physical_ratio": 0.47334410339256866,
+        "rendered_ratio": 0.47020818377602297,
+        "ratio_difference_percent": -0.66
+      }
+    },
+    {
+      "id": "iPhone7",
+      "name": "iPhone 7",
+      "file": "Apple/独立背面/iPhone7.png",
+      "width": 828,
+      "height": 1710,
+      "sha256": "c8b0cf2db865e7c730ca08822454e290a895d2ed2949edd22c949f71527ac6a4",
+      "bytes": 2197306,
+      "provenance": {
+        "tool": "image_gen.imagegen（内置工具）",
+        "generated_date": "2026-10-30",
+        "asset_type": "依据官方外观参考生成的独立背面图，非官方原始照片",
+        "prompt": "Use case: product-mockup. Asset: one reusable isolated rear-phone PNG for an e-commerce model-selection knowledge library. The attached official Apple image is a HARDWARE REFERENCE ONLY, not a requested composite layout. Produce a NEW photorealistic clean studio render of ONLY ONE full phone, exactly upright, orthographic straight-on BACK VIEW, no perspective, no rotation. All four corners and the whole rear body must be visible, with 4-6% transparent padding. Preserve the actual device proportions and camera hardware from this specific model. Soft even studio lighting, crisp natural edges and lens details. GENUINE alpha transparency outside the device; no cast shadows outside the silhouette. All normally branded rear areas must be plain matching material. Absolutely NO Apple logo, NO symbols, NO iPhone lettering, NO S badge, NO regulatory text, NO model label, NO watermark, NO checkmarks or crosses. No front phone, no screen, no case, no hands, no extra objects. Specific model: iPhone 7, MATTE BLACK (not jet black), 138.3 x 67.1 mm, width/height 0.48518. Use the supplied complete REAR photograph as exact hardware reference. Smooth rounded anodized-aluminum back. ONE circular camera in a subtly raised sculpted ring at upper left, tiny rear microphone and round four-LED flash to its right. Antenna lines run near curved top/bottom EDGES in dark gray and DO NOT run horizontally across the main back as on a 6s. Preserve complete silhouette and actual camera/lens scale. Entire center and bottom blank.",
+        "reference": "Apple/官方参考/iPhone7_官方参考_20261030.png",
+        "reference_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111943_iphone7-black.png",
+        "reference_sha256": "62d91a90dfacbc1f3e9cba63cab34879c27b7c44501a77decf5401050a37b5fc",
+        "spec_url": "https://support.apple.com/en-us/111943",
+        "original_file": "Apple/原稿/补齐8款_20261030/iPhone7_生成原图.png",
+        "original_sha256": "8c577d6b1004c7b8ce4427bcee21dc59656297e237d7126b64e1cc5b296d604a",
+        "processing": "按alpha>16的机身包围盒加2像素余量裁切；不重绘、不拉伸、不改变原有像素和透明度。",
+        "source_crop": {
+          "left": 26,
+          "top": 40,
+          "width": 828,
+          "height": 1710
+        },
+        "visual_checks": [
+          "完整直立背面",
+          "无苹果Logo、文字、勾叉",
+          "镜头、闪光灯及天线结构按该型号原始参考核对"
+        ],
+        "physical_ratio": 0.4851771511207519,
+        "rendered_ratio": 0.4823943661971831,
+        "ratio_difference_percent": -0.57
+      }
+    },
+    {
+      "id": "iPhone7Plus",
+      "name": "iPhone 7 Plus",
+      "file": "Apple/独立背面/iPhone7Plus.png",
+      "width": 835,
+      "height": 1715,
+      "sha256": "09ff20533568bcd2212410bd2fcb968710d1b3a72365b210be5ecbdc0320db73",
+      "bytes": 1853714,
+      "provenance": {
+        "tool": "image_gen.imagegen（内置工具）",
+        "generated_date": "2026-10-30",
+        "asset_type": "依据官方外观参考生成的独立背面图，非官方原始照片",
+        "prompt": "Use case: product-mockup. Asset: one reusable isolated rear-phone PNG for an e-commerce model-selection knowledge library. The attached official Apple image is a HARDWARE REFERENCE ONLY, not a requested composite layout. Produce a NEW photorealistic clean studio render of ONLY ONE full phone, exactly upright, orthographic straight-on BACK VIEW, no perspective, no rotation. All four corners and the whole rear body must be visible, with 4-6% transparent padding. Preserve the actual device proportions and camera hardware from this specific model. Soft even studio lighting, crisp natural edges and lens details. GENUINE alpha transparency outside the device; no cast shadows outside the silhouette. All normally branded rear areas must be plain matching material. Absolutely NO Apple logo, NO symbols, NO iPhone lettering, NO S badge, NO regulatory text, NO model label, NO watermark, NO checkmarks or crosses. No front phone, no screen, no case, no hands, no extra objects. Specific model: iPhone 7 Plus, MATTE BLACK, 158.2 x 77.9 mm, width/height 0.49241. Use the supplied complete rear photograph as exact hardware reference. TWO camera lenses side by side horizontally inside a small horizontal rounded pill at UPPER LEFT. Tiny microphone to its right, then a separate round quad-LED flash. No square camera island and no vertical camera stack. Matte anodized-aluminum rear, rounded edges. Dark gray antenna lines curve close to TOP and BOTTOM EDGES, not across the main rear face. Keep the dual camera pill's realistic scale. Blank middle and lower back.",
+        "reference": "Apple/官方参考/iPhone7Plus_官方参考_20261030.png",
+        "reference_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111943_iphone7-plus-black.png",
+        "reference_sha256": "290210c9ecc43f1c57657ce66d61d145ede391119a9749f855b73279eb9cceff",
+        "spec_url": "https://support.apple.com/en-us/111953",
+        "original_file": "Apple/原稿/补齐8款_20261030/iPhone7Plus_生成原图.png",
+        "original_sha256": "6243fe9e1d0ce49ee7ea085398b3542d94b64d9e0c7534c4de1c1f769dee77c2",
+        "processing": "按alpha>16的机身包围盒加2像素余量裁切；不重绘、不拉伸、不改变原有像素和透明度。",
+        "source_crop": {
+          "left": 25,
+          "top": 23,
+          "width": 835,
+          "height": 1715
+        },
+        "visual_checks": [
+          "完整直立背面",
+          "无苹果Logo、文字、勾叉",
+          "镜头、闪光灯及天线结构按该型号原始参考核对"
+        ],
+        "physical_ratio": 0.49241466498103675,
+        "rendered_ratio": 0.48507899356348744,
+        "ratio_difference_percent": -1.49
+      }
+    },
+    {
+      "id": "iPhone6s",
+      "name": "iPhone 6s",
+      "file": "Apple/独立背面/iPhone6s.png",
+      "width": 632,
+      "height": 1305,
+      "sha256": "7d89433dfd79dd1f0f920030fb4bc7da53e063faa34685601d2796946311312c",
+      "bytes": 1172063,
+      "provenance": {
+        "tool": "image_gen.imagegen（内置工具）",
+        "generated_date": "2026-10-30",
+        "asset_type": "依据官方外观参考生成的独立背面图，非官方原始照片",
+        "prompt": "Use case: product-mockup. Asset: one reusable isolated rear-phone PNG for an e-commerce model-selection knowledge library. The attached official Apple image is a HARDWARE REFERENCE ONLY, not a requested composite layout. Produce a NEW photorealistic clean studio render of ONLY ONE full phone, exactly upright, orthographic straight-on BACK VIEW, no perspective, no rotation. All four corners and the whole rear body must be visible, with 4-6% transparent padding. Preserve the actual device proportions and camera hardware from this specific model. Soft even studio lighting, crisp natural edges and lens details. GENUINE alpha transparency outside the device; no cast shadows outside the silhouette. All normally branded rear areas must be plain matching material. Absolutely NO Apple logo, NO symbols, NO iPhone lettering, NO S badge, NO regulatory text, NO model label, NO watermark, NO checkmarks or crosses. No front phone, no screen, no case, no hands, no extra objects. Specific model: iPhone 6s, ROSE GOLD, 138.3 x 67.1 mm, width/height 0.48518. In the reference, the rose-gold REAR phone is partly hidden by a front phone; reconstruct ONLY the full unobstructed rear. One small projecting circular camera with metal ring at upper left, tiny black rear microphone, round True Tone flash to the right. Rose-gold anodized aluminum with WHITE antenna bands that run HORIZONTALLY across the back near top and bottom, joining the curved perimeter segments. Correct rounded 6s body, not the edge-only antenna style of iPhone7. Whole rear blank after removing all branding, S and fine print.",
+        "reference": "Apple/官方参考/iPhone6s_官方参考_20261030.png",
+        "reference_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111952_SP726-iphone6s-rosegold-select-2015.png",
+        "reference_sha256": "a8fd5303c68b8d9063434fbc9d37ff4bee6ece7e816ea10d58aa2e416f808720",
+        "spec_url": "https://support.apple.com/en-us/111952",
+        "original_file": "Apple/原稿/补齐8款_20261030/iPhone6s_生成原图.png",
+        "original_sha256": "706fc93c3c2044c98e155f0c48acccdec03fe421c2ddcf76819c0489be7eb009",
+        "processing": "按alpha>16的机身包围盒加2像素余量裁切；不重绘、不拉伸、不改变原有像素和透明度。",
+        "source_crop": {
+          "left": 259,
+          "top": 23,
+          "width": 632,
+          "height": 1305
+        },
+        "visual_checks": [
+          "完整直立背面",
+          "无苹果Logo、文字、勾叉",
+          "镜头、闪光灯及天线结构按该型号原始参考核对"
+        ],
+        "physical_ratio": 0.4851771511207519,
+        "rendered_ratio": 0.48344880677444185,
+        "ratio_difference_percent": -0.36
+      }
+    },
+    {
+      "id": "iPhone5c",
+      "name": "iPhone 5c",
+      "file": "Apple/独立背面/iPhone5c.png",
+      "width": 728,
+      "height": 1476,
+      "sha256": "63e1cc6374b0c4b33b38ec4feba0c4205e5853e4ddb98187a168891d1ba8a2a2",
+      "bytes": 1265950,
+      "provenance": {
+        "tool": "image_gen.imagegen（内置工具）",
+        "generated_date": "2026-10-30",
+        "asset_type": "依据官方外观参考生成的独立背面图，非官方原始照片",
+        "prompt": "Use case: product-mockup. Asset: reusable isolated rear-phone PNG for an e-commerce model-selection knowledge library. The attached official Apple image is a HARDWARE REFERENCE ONLY. Generate ONE NEW photorealistic complete rear product render of ONLY the specified phone, upright, straight orthographic BACK VIEW, no tilt or perspective. Show the whole unobstructed device, all four corners, small 4-6% empty transparent padding, no cropped body. Exact model proportions. Crisp lens and material details under soft even studio lighting. Output GENUINE ALPHA TRANSPARENCY outside the phone, including all four corners of the image; no colored backdrop, no checkerboard painted in, no halo, no external glow or cast shadow. The center and bottom rear must be plain matching material, with NO Apple logo, NO text, NO iPhone lettering, NO S label, NO regulatory printing, NO symbols or watermark, NO checks or crosses. Never include a front phone, screen, side-view duplicate, case, hand or second phone. Specific model: iPhone 5c (2013), BRIGHT BLUE glossy polycarbonate. Actual body 124.4 x 59.2 mm, width/height 0.47588. Reference shows its rear partly behind a front phone: reconstruct the FULL rear body in the exact 5c hardware design. Smooth blue plastic uninterrupted back with rounded cushioned edges, blue sides, no metal chamfer and no horizontal antenna strips. One small circular black rear-camera ring at upper-left, tiny microphone to its right and a SINGLE ROUND pale LED flash next to that. Not the elongated True Tone dual flash of 5s. Plastic, not blue metal. Keep modest real lens size, accurately spaced near upper-left edge. No letters anywhere.",
+        "reference": "Apple/官方参考/iPhone5c_官方参考_20261030.jpg",
+        "reference_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111917_SP684-color_blue.jpg",
+        "reference_sha256": "5817b70dc76c60aa7ece86d71dbd7c703ebe4f2891215e3ad87daf924a52d181",
+        "spec_url": "https://support.apple.com/en-us/111917",
+        "original_file": "Apple/原稿/补齐8款_20261030/iPhone5c_生成原图.png",
+        "original_sha256": "f9ab25102d31c03c4db3fcf58956e64ccb2551fa8632978f6b2d60894d1514ac",
+        "processing": "按alpha>16的机身包围盒加2像素余量裁切；不重绘、不拉伸、不改变原有像素和透明度。",
+        "source_crop": {
+          "left": 119,
+          "top": 80,
+          "width": 728,
+          "height": 1476
+        },
+        "visual_checks": [
+          "完整直立背面",
+          "无苹果Logo、文字、勾叉",
+          "镜头、闪光灯及天线结构按该型号原始参考核对"
+        ],
+        "physical_ratio": 0.4758842443729904,
+        "rendered_ratio": 0.4908225696804895,
+        "ratio_difference_percent": 3.14
+      }
+    },
+    {
+      "id": "iPhone5s",
+      "name": "iPhone 5s",
+      "file": "Apple/独立背面/iPhone5s.png",
+      "width": 807,
+      "height": 1719,
+      "sha256": "3c257c9d92bd2db7008febe3dfbacd32dc2885154f0c0fc33a77290b8ae88280",
+      "bytes": 1838901,
+      "provenance": {
+        "tool": "image_gen.imagegen（内置工具）",
+        "generated_date": "2026-10-30",
+        "asset_type": "依据官方外观参考生成的独立背面图，非官方原始照片",
+        "prompt": "Use case: product-mockup. Asset: reusable isolated rear-phone PNG for an e-commerce model-selection knowledge library. The attached official Apple image is a HARDWARE REFERENCE ONLY. Generate ONE NEW photorealistic complete rear product render of ONLY the specified phone, upright, straight orthographic BACK VIEW, no tilt or perspective. Show the whole unobstructed device, all four corners, small 4-6% empty transparent padding, no cropped body. Exact model proportions. Crisp lens and material details under soft even studio lighting. Output GENUINE ALPHA TRANSPARENCY outside the phone, including all four corners of the image; no colored backdrop, no checkerboard painted in, no halo, no external glow or cast shadow. The center and bottom rear must be plain matching material, with NO Apple logo, NO text, NO iPhone lettering, NO S label, NO regulatory printing, NO symbols or watermark, NO checks or crosses. Never include a front phone, screen, side-view duplicate, case, hand or second phone. Specific model: iPhone 5s (2013), SPACE GRAY. 123.8 x 58.6 mm, width/height 0.47334. The partly visible rear on the LEFT of the reference is the hardware guide, not the front phone. Reconstruct a complete flat space-gray anodized-aluminum center, glossy BLACK GLASS top and bottom bands, flat metallic sides and a thin beveled chamfer. Single small flush circular camera upper-left inside top black-glass band, a tiny dark microphone to its right, then a VERTICALLY ELONGATED pill/oval dual-LED True Tone flash with white and warm segments. Camera+mic+dual flash is a horizontal group. This dual flash is essential to distinguish 5s from 5. No protruding large camera bump and no 6s rounded antenna-line back. All center/bottom branding areas blank.",
+        "reference": "Apple/官方参考/iPhone5s_官方参考_20261030.jpg",
+        "reference_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111973_SP685-color_black.jpg",
+        "reference_sha256": "89e05716da2b284ebef52df53f682f43077dcc452835d91635361890a912f07f",
+        "spec_url": "https://support.apple.com/en-us/111973",
+        "original_file": "Apple/原稿/补齐8款_20261030/iPhone5s_生成原图.png",
+        "original_sha256": "ceb830ff49a20f8c239a89d020eaa5a805c66fa2ed209fe91bb678a7b2475634",
+        "processing": "按alpha>16的机身包围盒加2像素余量裁切；不重绘、不拉伸、不改变原有像素和透明度。",
+        "source_crop": {
+          "left": 32,
+          "top": 39,
+          "width": 807,
+          "height": 1719
+        },
+        "visual_checks": [
+          "完整直立背面",
+          "无苹果Logo、文字、勾叉",
+          "镜头、闪光灯及天线结构按该型号原始参考核对"
+        ],
+        "physical_ratio": 0.47334410339256866,
+        "rendered_ratio": 0.46760070052539404,
+        "ratio_difference_percent": -1.21
+      }
+    },
+    {
+      "id": "iPhone6sPlus",
+      "name": "iPhone 6s Plus",
+      "file": "Apple/独立背面/iPhone6sPlus.png",
+      "width": 819,
+      "height": 1720,
+      "sha256": "75a83868310c8fd16fb3137382355507f267de60f7135f832fa228b31d5066fd",
+      "bytes": 2046853,
+      "provenance": {
+        "tool": "image_gen.imagegen（内置工具）",
+        "generated_date": "2026-10-30",
+        "asset_type": "依据官方外观参考生成的独立背面图，非官方原始照片",
+        "prompt": "Use case: product-mockup. Asset: reusable isolated rear-phone PNG for an e-commerce model-selection knowledge library. The attached official Apple image is a HARDWARE REFERENCE ONLY. Generate ONE NEW photorealistic complete rear product render of ONLY the specified phone, upright, straight orthographic BACK VIEW, no tilt or perspective. Show the whole unobstructed device, all four corners, small 4-6% empty transparent padding, no cropped body. Exact model proportions. Crisp lens and material details under soft even studio lighting. Output GENUINE ALPHA TRANSPARENCY outside the phone, including all four corners of the image; no colored backdrop, no checkerboard painted in, no halo, no external glow or cast shadow. The center and bottom rear must be plain matching material, with NO Apple logo, NO text, NO iPhone lettering, NO S label, NO regulatory printing, NO symbols or watermark, NO checks or crosses. Never include a front phone, screen, side-view duplicate, case, hand or second phone. Specific model: iPhone 6s Plus, ROSE GOLD. 158.2 x 77.9 mm, width/height 0.49241. Reconstruct only the full unobstructed rear from the rear phone partly hidden by the front phone in the official reference. Rounded rose-gold anodized-aluminum shell. One SMALL projecting circular camera with metal ring upper-left, tiny black microphone next to it and ROUND True Tone flash. White antenna stripes run HORIZONTALLY across the entire back near top and bottom and connect to curved side sections. The lens hardware is small relative to this larger Plus body; do not scale the small 6s lens up to a huge lens. No iPhone7 edge-only antenna layout. Plain blank metal rear with no S or logo or text.",
+        "reference": "Apple/官方参考/iPhone6sPlus_官方参考_20261030.png",
+        "reference_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111996_SP727-iphone6s-plus-rosegold-select-2015.png",
+        "reference_sha256": "6da55523486a617fc80bcd23dd7160f05659478c0a1f176a61a2c580c024131f",
+        "spec_url": "https://support.apple.com/en-us/111996",
+        "original_file": "Apple/原稿/补齐8款_20261030/iPhone6sPlus_生成原图.png",
+        "original_sha256": "7c0bf14e4f2f46ebe2507bd00d99f85d4fc54a80ba1b24161f8de61abbe3e428",
+        "processing": "按alpha>16的机身包围盒加2像素余量裁切；不重绘、不拉伸、不改变原有像素和透明度。",
+        "source_crop": {
+          "left": 29,
+          "top": 35,
+          "width": 819,
+          "height": 1720
+        },
+        "visual_checks": [
+          "完整直立背面",
+          "无苹果Logo、文字、勾叉",
+          "镜头、闪光灯及天线结构按该型号原始参考核对"
+        ],
+        "physical_ratio": 0.49241466498103675,
+        "rendered_ratio": 0.47432905484247373,
+        "ratio_difference_percent": -3.67
+      }
+    },
+    {
+      "id": "iPhoneX",
+      "name": "iPhone X",
+      "file": "Apple/独立背面/iPhoneX.png",
+      "width": 794,
+      "height": 1632,
+      "sha256": "362da450e86b04a4269f8a700f20fe62b913e085ed8e2efcbeed7499bcc2981c",
+      "bytes": 1445634,
+      "provenance": {
+        "tool": "image_gen.imagegen（内置工具）",
+        "generated_date": "2026-10-30",
+        "asset_type": "依据官方外观参考生成的独立背面图，非官方原始照片",
+        "prompt": "Use case: product-mockup. Asset: reusable isolated rear-phone PNG for an e-commerce model-selection knowledge library. The attached official Apple image is a HARDWARE REFERENCE ONLY. Generate ONE NEW photorealistic complete rear product render of ONLY the specified phone, upright, straight orthographic BACK VIEW, no tilt or perspective. Show the whole unobstructed device, all four corners, small 4-6% empty transparent padding, no cropped body. Exact model proportions. Crisp lens and material details under soft even studio lighting. Output GENUINE ALPHA TRANSPARENCY outside the phone, including all four corners of the image; no colored backdrop, no checkerboard painted in, no halo, no external glow or cast shadow. The center and bottom rear must be plain matching material, with NO Apple logo, NO text, NO iPhone lettering, NO S label, NO regulatory printing, NO symbols or watermark, NO checks or crosses. Never include a front phone, screen, side-view duplicate, case, hand or second phone. Specific model: iPhone X (2017), SPACE GRAY / dark gray glass rear with polished dark stainless-steel rim. Body 143.6 x 70.9 mm, width/height 0.49373. The source shows two colors with front phones hiding most of the backs: use the DARK rear at the LEFT as hardware guide and reconstruct its complete rear. One small raised VERTICAL BLACK PILL module at upper-left containing TWO vertically stacked circular camera lenses and a ROUND pale True Tone flash BETWEEN the upper and lower lenses; tiny microphone detail in that same narrow module if visible. This is not a square triple-camera island or a horizontal dual camera. Glossy dark gray glass uninterrupted rear, rounded corners, narrow steel edge, no aluminum antenna bands across back. All middle and bottom branding removed to plain glass.",
+        "reference": "Apple/官方参考/iPhoneX_官方参考_20261030.png",
+        "reference_url": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111864_iphonex.png",
+        "reference_sha256": "9b3b265b55bc9e2ccbc05e1c88ee2d2d434a125fc3a96f6e1522881ad152faab",
+        "spec_url": "https://support.apple.com/en-us/111864",
+        "original_file": "Apple/原稿/补齐8款_20261030/iPhoneX_生成原图.png",
+        "original_sha256": "ab8aeecfa8fb3e717ae5bd590125ce5824bf0a5033050e877ee0955c0fb03e49",
+        "processing": "按alpha>16的机身包围盒加2像素余量裁切；不重绘、不拉伸、不改变原有像素和透明度。",
+        "source_crop": {
+          "left": 44,
+          "top": 73,
+          "width": 794,
+          "height": 1632
+        },
+        "visual_checks": [
+          "完整直立背面",
+          "无苹果Logo、文字、勾叉",
+          "镜头、闪光灯及天线结构按该型号原始参考核对"
+        ],
+        "physical_ratio": 0.49373259052924795,
+        "rendered_ratio": 0.4849416103257529,
+        "ratio_difference_percent": -1.78
+      }
+    }
+  ],
+  "path_base": "../../.."
+}

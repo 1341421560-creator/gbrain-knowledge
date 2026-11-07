@@ -1,0 +1,359 @@
+{
+  "premium": {
+    "width": 1464,
+    "height": 600,
+    "font": "Arial, sans-serif",
+    "headings": {
+      "left": {
+        "text": "Model compatibility",
+        "x": 18,
+        "y": 102,
+        "font": 44
+      },
+      "right": {
+        "text": "Check model using Settings",
+        "x": 602,
+        "y": 102,
+        "font": 44
+      }
+    },
+    "divider": {
+      "x": 578,
+      "y1": 69,
+      "y2": 580
+    },
+    "green": {
+      "x": 18,
+      "y": 122,
+      "width": 550,
+      "height": 264,
+      "radius": 18
+    },
+    "red": [
+      {
+        "x": 18,
+        "y": 397,
+        "width": 270,
+        "height": 183,
+        "radius": 18
+      },
+      {
+        "x": 298,
+        "y": 397,
+        "width": 270,
+        "height": 183,
+        "radius": 18
+      }
+    ],
+    "style": {
+      "navy": "#070D2B",
+      "green": "#087513",
+      "greenPill": "#CEF8D6",
+      "red": "#F20F17",
+      "redPill": "#FFE3E6",
+      "muted": "#384056",
+      "border": "#E4E8ED",
+      "greenBorder": "#48BD5A",
+      "background": "#FFFFFF"
+    },
+    "tutorial": {
+      "phoneX": [
+        598,
+        815,
+        1032,
+        1249
+      ],
+      "phoneY": 166,
+      "phoneWidth": 180,
+      "phoneHeight": 370,
+      "screenInsetX": 11,
+      "screenInsetY": 40,
+      "screenWidth": 158,
+      "screenHeight": 281,
+      "blur": 1.1,
+      "steps": [
+        "Settings",
+        "General",
+        "About",
+        "Model Name"
+      ],
+      "example": "iPhone 8",
+      "os": "16.7",
+      "note": "",
+      "secondaryTextBlur": 1.4
+    },
+    "scale": 0.5,
+    "greenBaseline": 330,
+    "redBaseline": 568,
+    "greenPrefixY": 351,
+    "greenTitleY": 373,
+    "generationY": 383,
+    "id": "premium",
+    "name": "高级A加",
+    "leftBoundary": 578
+  },
+  "standard": {
+    "id": "standard",
+    "name": "普通A加",
+    "width": 970,
+    "height": 600,
+    "scale": 0.35,
+    "tutorial": "素材/教程/普通A加教程母版.png",
+    "leftHeading": {
+      "x": 16,
+      "y": 65,
+      "font": 34
+    },
+    "rightHeading": {
+      "x": 473,
+      "y": 65,
+      "font": 34
+    },
+    "divider": {
+      "x": 458,
+      "top": 34,
+      "bottom": 580
+    },
+    "tutorialClip": {
+      "x": 469,
+      "y": 78,
+      "width": 501,
+      "height": 512
+    },
+    "compatible": {
+      "x": 16,
+      "y": 83,
+      "width": 432,
+      "height": 212,
+      "radius": 18
+    },
+    "incompatible": [
+      {
+        "x": 16,
+        "y": 305,
+        "width": 211,
+        "height": 123.5,
+        "radius": 16,
+        "phoneCenterX": 55,
+        "baseline": 424.5,
+        "textX": 92
+      },
+      {
+        "x": 237,
+        "y": 305,
+        "width": 211,
+        "height": 123.5,
+        "radius": 16,
+        "phoneCenterX": 276,
+        "baseline": 424.5,
+        "textX": 313
+      },
+      {
+        "x": 16,
+        "y": 438.5,
+        "width": 211,
+        "height": 123.5,
+        "radius": 16,
+        "phoneCenterX": 55,
+        "baseline": 558,
+        "textX": 92
+      },
+      {
+        "x": 237,
+        "y": 438.5,
+        "width": 211,
+        "height": 123.5,
+        "radius": 16,
+        "phoneCenterX": 276,
+        "baseline": 558,
+        "textX": 313
+      }
+    ],
+    "incompatibleText": {
+      "font": 13.5,
+      "lineHeight": 19,
+      "pairOffsetY": 71,
+      "singleOffsetY": 71,
+      "pairSizeOffsetY": 116,
+      "singleSizeOffsetY": 102,
+      "sizeFont": 11.8,
+      "pillOffsetY": 10,
+      "pillWidth": 126,
+      "pillHeight": 24,
+      "pillFont": 11.7,
+      "textOffsetY": 58,
+      "sizeOffsetY": 108
+    },
+    "callout": {
+      "x": 721,
+      "y": 517,
+      "width": 236,
+      "height": 70,
+      "radius": 22,
+      "labelY": 535,
+      "valueY": 555,
+      "lineHeight": 21,
+      "labelFont": 12,
+      "valueFont": 16
+    },
+    "green": {
+      "baseline": 253,
+      "prefixY": 269,
+      "titleY": 286,
+      "prefixFont": 13,
+      "titleFont": 14,
+      "phoneInset": 10,
+      "pill": {
+        "x": 32,
+        "y": 96,
+        "width": 122,
+        "height": 26,
+        "font": 14
+      },
+      "size": {
+        "x": 430,
+        "y": 113,
+        "font": 13
+      },
+      "compactPrefixFont": 13,
+      "compactTitleFont": 14
+    },
+    "leftBoundary": 458,
+    "badge": {
+      "positive": 12.5,
+      "negative": 16
+    }
+  },
+  "mobile": {
+    "id": "mobile",
+    "name": "移动端",
+    "width": 600,
+    "height": 450,
+    "scale": 0.3,
+    "tutorial": "素材/教程/移动端教程母版.png",
+    "leftHeading": {
+      "x": 10,
+      "y": 30,
+      "font": 25
+    },
+    "rightHeading": {
+      "x": 308,
+      "y": 30,
+      "font": 20
+    },
+    "divider": {
+      "x": 297,
+      "top": 12,
+      "bottom": 440
+    },
+    "tutorialClip": {
+      "x": 300,
+      "y": 36,
+      "width": 300,
+      "height": 414
+    },
+    "compatible": {
+      "x": 10,
+      "y": 44,
+      "width": 278,
+      "height": 173,
+      "radius": 10
+    },
+    "incompatible": [
+      {
+        "x": 10,
+        "y": 225,
+        "width": 136,
+        "height": 104,
+        "radius": 10,
+        "phoneCenterX": 37.5,
+        "baseline": 326,
+        "textX": 67
+      },
+      {
+        "x": 154,
+        "y": 225,
+        "width": 134,
+        "height": 104,
+        "radius": 10,
+        "phoneCenterX": 181.5,
+        "baseline": 326,
+        "textX": 211
+      },
+      {
+        "x": 10,
+        "y": 337,
+        "width": 136,
+        "height": 104,
+        "radius": 10,
+        "phoneCenterX": 37.5,
+        "baseline": 438,
+        "textX": 67
+      },
+      {
+        "x": 154,
+        "y": 337,
+        "width": 134,
+        "height": 104,
+        "radius": 10,
+        "phoneCenterX": 181.5,
+        "baseline": 438,
+        "textX": 211
+      }
+    ],
+    "incompatibleText": {
+      "wrapAfterIPhone": true,
+      "font": 10.3,
+      "lineHeight": 15,
+      "pairOffsetY": 65,
+      "singleOffsetY": 65,
+      "pairSizeOffsetY": 106,
+      "singleSizeOffsetY": 106,
+      "sizeFont": 8.5,
+      "pillOffsetY": 8,
+      "pillWidth": 73,
+      "pillHeight": 18,
+      "pillFont": 8.8,
+      "textOffsetY": 47,
+      "sizeOffsetY": 91
+    },
+    "callout": {
+      "x": 331,
+      "y": 403,
+      "width": 232,
+      "height": 42,
+      "radius": 15,
+      "labelY": 415,
+      "valueY": 428,
+      "lineHeight": 13,
+      "labelFont": 10,
+      "valueFont": 11.8
+    },
+    "green": {
+      "baseline": 184,
+      "prefixY": 196,
+      "titleY": 209,
+      "prefixFont": 10.5,
+      "titleFont": 11.5,
+      "compactPrefixFont": 9.6,
+      "compactTitleFont": 10.5,
+      "pill": {
+        "x": 20,
+        "y": 54,
+        "width": 101,
+        "height": 20,
+        "font": 11.5
+      },
+      "size": {
+        "x": 278,
+        "y": 68,
+        "font": 10.5
+      }
+    },
+    "badge": {
+      "positive": 10.5,
+      "negative": 13.5
+    },
+    "leftBoundary": 297
+  }
+}

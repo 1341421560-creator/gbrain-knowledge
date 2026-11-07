@@ -1,0 +1,20 @@
+{
+  "copy": {
+    "leftHeading": "Model compatibility",
+    "rightHeading": "Check model using Settings",
+    "compatible": "Compatible",
+    "incompatible": "Not compatible",
+    "displaySuffix": "-inch display"
+  },
+  "style": {
+    "font": "Arial, sans-serif",
+    "navy": "#070D2B",
+    "green": "#087513",
+    "red": "#F20F17",
+    "subtext": "#384056",
+    "greenPill": "#CEF8D6",
+    "redPill": "#FFE3E6",
+    "greenBorder": "#48BD5A",
+    "cardBorder": "#E4E8ED"
+  }
+}

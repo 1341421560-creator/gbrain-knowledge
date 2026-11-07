@@ -1,0 +1,4190 @@
+{
+  "schema_version": 1,
+  "updated": "2026-11-03",
+  "relative_root": ".",
+  "authority": "新教程设置页选材的唯一覆盖入口；原索引和旧devices仅保留来源与代码兼容",
+  "scope": "真实原始设置页面及机框，跨店铺共用；不含店铺颜色、框大小、版式或发布遮挡参数",
+  "selection_policy": {
+    "match_keys": [
+      "model_id",
+      "os.name",
+      "os.version"
+    ],
+    "default_requires": [
+      "model_verified",
+      "os_verified",
+      "result_verified",
+      "sequence_complete"
+    ],
+    "unknown_os_default_usable_for_new_tutorial": false,
+    "blank_result_is_complete_tutorial": false,
+    "same_model_different_systems_need_separate_evidence": true,
+    "model_or_os_deduced_from_filename_is_evidence": false,
+    "cross_model_value_replacement_allowed_as_real_capture": false,
+    "raw_and_derived_and_illustration_separate": true,
+    "raw_originals_publish_ready": false,
+    "specific_region_or_language_required": "任务指定地区、运营商或语言时必须另行匹配相应证据；来源网站所在国不等同实机地区",
+    "frame_or_home_from_other_os_completes_sequence": false
+  },
+  "material_class_definitions": {
+    "raw_native_ui": "原始截图、实机原始帧与原始机框；素材种类另看asset_kind",
+    "publish_derived": "真实原图的发布处理版本，须另记裁切、遮挡、放大和来源关系；存店铺目录",
+    "historical_illustration": "绘制、跨机型改值或旧混合来源示意绑定；保留追溯但禁止默认当成对应机型同系统完整实录"
+  },
+  "status_dimensions": {
+    "model_verified": "原始资料与该具体型号相符",
+    "os_verified": "有明确系统版本证据，不能由外观、标题或日期推断",
+    "result_verified": "原始结果字段非空且实际可识别该代表机，不含改值或可编辑昵称替代",
+    "sequence_complete": "包含全部所需入口、菜单和实际型号结果；四步菜单结构但末屏空白不算完成",
+    "publish_ready": "与真实性分开；需按店铺及站点检查Logo、隐私识别信息和全部可辨认文字"
+  },
+  "counts": {
+    "raw_asset_records": 72,
+    "raw_unique_paths": 72,
+    "raw_unique_hashes": 72,
+    "sequence_records": 24,
+    "default_usable_sequences": 1,
+    "legacy_bindings_excluded": 7,
+    "physical_models_in_catalog": 53,
+    "models_with_any_raw_sequence": 18,
+    "models_without_original_sequence": 35
+  },
+  "default_usable_sequence_ids": [
+    "native-samsung-s23-android13-vodafone-20261103"
+  ],
+  "assets": [
+    {
+      "asset_id": "ios-o2-legacy-menus",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.menus",
+      "source_asset_id": "assets.menus",
+      "path": "Apple/原始截图/iPhone11_真实型号查询三步.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 175906,
+      "sha256": "dea6a3c894009371839531b2741cf228598124d35c891541daf165cb494133e3",
+      "width": 2504,
+      "height": 1792,
+      "has_alpha": false,
+      "source_url": "https://media.idownloadblog.com/wp-content/uploads/2021/12/model-name-iphone.png",
+      "source_page": "https://www.idownloadblog.com/2021/12/13/how-to-know-iphone-name-model-number/",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone11",
+      "os_name": "iOS",
+      "os_version": "15.1",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "原作者说明iPhone11／iOS15.1",
+      "field_value_type": "original_model_name",
+      "result_field": "Model Name",
+      "result_value": "iPhone 11"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone11_home",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone11_home",
+      "source_asset_id": "assets.iPhone11_home",
+      "path": "Apple/原始截图/iPhone11_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 641302,
+      "sha256": "34eb492a76750d011743daa8f6f34a09cb5d11034c15317f36c4d8319c2b6b9f",
+      "width": 604,
+      "height": 1307,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-2c5f94f1-0ca7-4fe0-a7d8-82b6dc20c44b.png?width=604&height=1308",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone11",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone11_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone11_frame",
+      "source_asset_id": "assets.iPhone11_frame",
+      "path": "Apple/机框/iPhone11_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 71070,
+      "sha256": "81079a79988477299714936aafc6a4cc4fe63871c814cf0595ca9f34b0138637",
+      "width": 357,
+      "height": 701,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-3bd4b3e3-fb61-444c-bcf5-798cc7171673.png?width=357",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone11",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面",
+      "hardware_frame_is_os_independent": true,
+      "os_version_role": "采集页面标注系统；同型号真实实体机框不因系统版本改变"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone11Pro_home",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone11Pro_home",
+      "source_asset_id": "assets.iPhone11Pro_home",
+      "path": "Apple/原始截图/iPhone11Pro_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 629154,
+      "sha256": "1f3a14bfe9b2c7da2d06a60d09aebfbc541f2f895ed7933e1f70c533837f0152",
+      "width": 609,
+      "height": 1320,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-642b7e30-4bd2-43a8-8187-a79a35c83912.png?width=610&height=1320",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone11Pro",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone11Pro_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone11Pro_frame",
+      "source_asset_id": "assets.iPhone11Pro_frame",
+      "path": "Apple/机框/iPhone11Pro_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 51765,
+      "sha256": "b2c468a253344350ea7ee610e03fbee92abdb90a84142e4e974892ed8056fdc4",
+      "width": 353,
+      "height": 700,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-715c0ded-6b1d-4785-a23a-a3e3b4758913.png?width=353",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone11Pro",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面",
+      "hardware_frame_is_os_independent": true,
+      "os_version_role": "采集页面标注系统；同型号真实实体机框不因系统版本改变"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone11ProMax_home",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone11ProMax_home",
+      "source_asset_id": "assets.iPhone11ProMax_home",
+      "path": "Apple/原始截图/iPhone11ProMax_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 602933,
+      "sha256": "7820aa25dae334aebb8711b773f0b57075664cd39fc65598d387830a40eb542c",
+      "width": 617,
+      "height": 1336,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-c9ea6c87-34ce-47bf-9749-225029b476e2.png?width=618&height=1336",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-max-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone11ProMax",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone11ProMax_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone11ProMax_frame",
+      "source_asset_id": "assets.iPhone11ProMax_frame",
+      "path": "Apple/机框/iPhone11ProMax_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 35769,
+      "sha256": "af21d40905599a31de1df0e4484c91260d929badb74a553b33a8e53a6d8e284a",
+      "width": 345,
+      "height": 700,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-ae78311d-a5ca-40bc-b7a7-46b717e8da68.png?width=345",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-11-pro-max-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone11ProMax",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面",
+      "hardware_frame_is_os_independent": true,
+      "os_version_role": "采集页面标注系统；同型号真实实体机框不因系统版本改变"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone12_home",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone12_home",
+      "source_asset_id": "assets.iPhone12_home",
+      "path": "Apple/原始截图/iPhone12_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 639007,
+      "sha256": "700a5515990c2d0f03ee358e57395d15e24d6dcff1531ba999f997236819bf11",
+      "width": 618,
+      "height": 1337,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-cbfa806f-0ea7-4b29-83e0-5b4ec110df0d.png?width=618&height=1338",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone12",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone12_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone12_frame",
+      "source_asset_id": "assets.iPhone12_frame",
+      "path": "Apple/机框/iPhone12_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 102793,
+      "sha256": "5de3dd6d03cfe3ffba8420ec2a654cd7dba3faecb095f30032ec86fff72a9615",
+      "width": 346,
+      "height": 701,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-3f45e9e1-cb7f-4dad-85e2-5d9e52ca0c5d.png?width=346",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone12",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面",
+      "hardware_frame_is_os_independent": true,
+      "os_version_role": "采集页面标注系统；同型号真实实体机框不因系统版本改变"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone12mini_home",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone12mini_home",
+      "source_asset_id": "assets.iPhone12mini_home",
+      "path": "Apple/原始截图/iPhone12mini_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 648210,
+      "sha256": "728e3cc0c145d432c808bd70febbc7c49725b1003d7f3bcacb6ad8abdf0b9b41",
+      "width": 615,
+      "height": 1332,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-13890e03-aa13-4089-8722-834252293340.png?width=616&height=1332",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-mini-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone12mini",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone12mini_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone12mini_frame",
+      "source_asset_id": "assets.iPhone12mini_frame",
+      "path": "Apple/机框/iPhone12mini_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 25104,
+      "sha256": "343bc70a6ce6bc570509e1aeca4be9ece22054d419e7c45c39e5d73062bac5f0",
+      "width": 348,
+      "height": 701,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-8663566f-b759-4a61-ad8a-c92e5c857eab.png?width=348",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-mini-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone12mini",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面",
+      "hardware_frame_is_os_independent": true,
+      "os_version_role": "采集页面标注系统；同型号真实实体机框不因系统版本改变"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone12ProMax_home",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone12ProMax_home",
+      "source_asset_id": "assets.iPhone12ProMax_home",
+      "path": "Apple/原始截图/iPhone12ProMax_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 627644,
+      "sha256": "58aebf16ad4cd9c3efd6c5462d0a765936d8f46bb8e62fd3315821c3e231b7fc",
+      "width": 618,
+      "height": 1338,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-3687118e-b47a-4195-a275-14726218082c.png?width=620&height=1338",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-pro-max-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone12ProMax",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone12ProMax_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone12ProMax_frame",
+      "source_asset_id": "assets.iPhone12ProMax_frame",
+      "path": "Apple/机框/iPhone12ProMax_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 29105,
+      "sha256": "2f54327df4cb23e952062dff3539fa3adb8cbc41300b5a2296e1ee415128746e",
+      "width": 343,
+      "height": 700,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-fe2ce519-7adb-4abf-a8b6-1f39302864d3.png?width=343",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-12-pro-max-ios-16-0/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone12ProMax",
+      "os_name": "iOS",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面",
+      "hardware_frame_is_os_independent": true,
+      "os_version_role": "采集页面标注系统；同型号真实实体机框不因系统版本改变"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone14_home",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone14_home",
+      "source_asset_id": "assets.iPhone14_home",
+      "path": "Apple/原始截图/iPhone14_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 454620,
+      "sha256": "191aeabcccba5d4dc6f7ec5f6e3c71cf43249f6191c9fdf8d6414d99df83dcf2",
+      "width": 619,
+      "height": 1340,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-939b0b30-f55b-47b3-9f13-b4e97ae28082.png?width=620&height=1340",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-14-ios-18/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面"
+    },
+    {
+      "asset_id": "ios-o2-legacy-iPhone14_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "assets.iPhone14_frame",
+      "source_asset_id": "assets.iPhone14_frame",
+      "path": "Apple/机框/iPhone14_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 28791,
+      "sha256": "b2d87493094137643efe2929a32bd917b063c5a6d4c4bee258fb031e04fe61c5",
+      "width": 346,
+      "height": 701,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210726-f-b5b6a940-49d2-422c-8be7-a2904cdaf7e5.png?width=346",
+      "source_page": "https://www.o2.co.uk/help/phones-sims-and-devices/apple/iphone-14-ios-18/basic-settings/use-app-library",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "运营商对应机型及系统页面",
+      "hardware_frame_is_os_independent": true,
+      "os_version_role": "采集页面标注系统；同型号真实实体机框不因系统版本改变"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_home",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13Pro_ios18_vodafone_home",
+      "source_asset_id": "assets.iPhone13Pro_ios18_vodafone_home",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13Pro_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1132924,
+      "sha256": "1c4e7057ba1f0e54370e442e9f91a0425a2bb4b4be7d141546e685f759733167",
+      "width": 1059,
+      "height": 2292,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-dcd12cb7-4bc3-4d61-92a5-7937d5eb45b5.png?width=1060&height=2292",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_settings",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13Pro_ios18_vodafone_settings",
+      "source_asset_id": "assets.iPhone13Pro_ios18_vodafone_settings",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13Pro_settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 319508,
+      "sha256": "08e5e07b1148045cedab6d6fd86997144251b50eb4f01053aba5e2da95ff193b",
+      "width": 1059,
+      "height": 2292,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-99e1eb26-959e-4731-a79b-ec642aacc704.png?width=1060&height=2292",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_general",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13Pro_ios18_vodafone_general",
+      "source_asset_id": "assets.iPhone13Pro_ios18_vodafone_general",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13Pro_general.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 331065,
+      "sha256": "81d8f976e0f6936a6034754ab346ea4919c39efb12000c3a325b5ec538376176",
+      "width": 1059,
+      "height": 2292,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-c9b2ad03-958f-444b-882d-e9f29f1b81f8.png?width=1060&height=2292",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_about",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13Pro_ios18_vodafone_about",
+      "source_asset_id": "assets.iPhone13Pro_ios18_vodafone_about",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13Pro_about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 214170,
+      "sha256": "938d433ca62007bf51f2d1be53bf2ae60f92358f06300f23989ce4d1e7e86ee3",
+      "width": 1059,
+      "height": 2292,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-f9ffb3bd-e9e7-4e88-9cd2-4bd0c97e3ce7.png?width=1060&height=2292",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13Pro_ios18_vodafone_frame",
+      "source_asset_id": "assets.iPhone13Pro_ios18_vodafone_frame",
+      "path": "Apple/机框/Vodafone_iOS18/iPhone13Pro_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 443391,
+      "sha256": "3813092ee04156e74fc21109287f433c3f2b082481c36e2ea506e284f7bd392c",
+      "width": 592,
+      "height": 1200,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-a707f8b0-4ea5-4c0e-9386-85005b1c6761.png?width=592",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_home",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13mini_ios18_vodafone_home",
+      "source_asset_id": "assets.iPhone13mini_ios18_vodafone_home",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13mini_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 957817,
+      "sha256": "a4d87b60f83e4505e3386e403715ab5791862de330474a1ad423d764db1d9a63",
+      "width": 1054,
+      "height": 2282,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-08070cf8-38bb-4429-8e3b-70f920df34df.png?width=1054&height=2284",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13mini",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_settings",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13mini_ios18_vodafone_settings",
+      "source_asset_id": "assets.iPhone13mini_ios18_vodafone_settings",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13mini_settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 323522,
+      "sha256": "a8c0f9915d577ba8664945dcaa3d602e944bfb670c440220ae935ed712583132",
+      "width": 1054,
+      "height": 2282,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-5c5a4bc3-268e-427e-97ed-020b502fea29.png?width=1054&height=2284",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13mini",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_general",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13mini_ios18_vodafone_general",
+      "source_asset_id": "assets.iPhone13mini_ios18_vodafone_general",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13mini_general.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 331849,
+      "sha256": "dabc3093f47a8ee01907bbff61140d94f4a2bfe1877db5827ef658ca55098f32",
+      "width": 1054,
+      "height": 2282,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-0fed2ff2-c69e-45ed-a53f-f6fd12427870.png?width=1054&height=2284",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13mini",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_about",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13mini_ios18_vodafone_about",
+      "source_asset_id": "assets.iPhone13mini_ios18_vodafone_about",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13mini_about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 219359,
+      "sha256": "28f855ba30a7d1e9e2ef662a37c05eec9c9a975f6cc96fbbd559b168110e6ac4",
+      "width": 1054,
+      "height": 2282,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-5bde2f02-96f6-46aa-ad32-59c5c5effe93.png?width=1054&height=2284",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13mini",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13mini_ios18_vodafone_frame",
+      "source_asset_id": "assets.iPhone13mini_ios18_vodafone_frame",
+      "path": "Apple/机框/Vodafone_iOS18/iPhone13mini_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 720091,
+      "sha256": "43c07ddacc2916c1caeba07faa2f2fbaeefc775e08794ba34ac0b542be3af277",
+      "width": 595,
+      "height": 1200,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-c81b8792-2527-406e-9605-2dcf87734211.png?width=595",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13mini",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_home",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13ProMax_ios18_vodafone_home",
+      "source_asset_id": "assets.iPhone13ProMax_ios18_vodafone_home",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13ProMax_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1091825,
+      "sha256": "8bf677c099ae515b70dc84540ee8b805168a7d3a704b55f330d3eb95f20b5bda",
+      "width": 1063,
+      "height": 2300,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8e0282e2-4212-498e-ba76-586d59bdd398.png?width=1064&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_settings",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13ProMax_ios18_vodafone_settings",
+      "source_asset_id": "assets.iPhone13ProMax_ios18_vodafone_settings",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13ProMax_settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 340058,
+      "sha256": "cb2e0cf2b43cdbea54d129fec904a860889b19f42ad23b6a344f1590b5f8b3f9",
+      "width": 1063,
+      "height": 2300,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8d9d31e1-99c6-4c0d-bdf4-f0f38a737d96.png?width=1064&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_general",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13ProMax_ios18_vodafone_general",
+      "source_asset_id": "assets.iPhone13ProMax_ios18_vodafone_general",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13ProMax_general.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 333316,
+      "sha256": "db32fd15fb3d2225dbb48ffdcf2fbb2b0b19b99567d72615e3687743a4d5aad4",
+      "width": 1063,
+      "height": 2300,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-de632b15-8ecb-48d8-ba42-a00d5730cc76.png?width=1064&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_about",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13ProMax_ios18_vodafone_about",
+      "source_asset_id": "assets.iPhone13ProMax_ios18_vodafone_about",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone13ProMax_about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 211517,
+      "sha256": "6ee26ecb1263d2f8f921d670a58f273cc6811a0fb20792f47b4e08a40a2e68c4",
+      "width": 1063,
+      "height": 2300,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-08261262-64b7-4765-b7d5-cff6905d6866.png?width=1064&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone13ProMax_ios18_vodafone_frame",
+      "source_asset_id": "assets.iPhone13ProMax_ios18_vodafone_frame",
+      "path": "Apple/机框/Vodafone_iOS18/iPhone13ProMax_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 72564,
+      "sha256": "35e27b33e703722f4215a626f7ce8dcb0e7e707d60948736010e15ad300e6ac1",
+      "width": 587,
+      "height": 1200,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8a5942b8-4d66-4561-9b7a-6134102bd694.png?width=587",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone13ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_home",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14ProMax_ios18_vodafone_home",
+      "source_asset_id": "assets.iPhone14ProMax_ios18_vodafone_home",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14ProMax_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1100911,
+      "sha256": "025c5b987439df626a0d770ffd95d73d9bfaca5b9a2f3d7e54d47b115a4e237d",
+      "width": 1063,
+      "height": 2306,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-bd7280b8-2d83-4d2d-88e0-540f6511ab7a.png?width=1064&height=2306",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_settings",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14ProMax_ios18_vodafone_settings",
+      "source_asset_id": "assets.iPhone14ProMax_ios18_vodafone_settings",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14ProMax_settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 340343,
+      "sha256": "3685c8e56206ca26c2bddd9031f35254aa72b334159bcb59eca03de8cafb53d2",
+      "width": 1063,
+      "height": 2306,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-e81a2d7b-aea4-4162-8691-601c4fe7d6fb.png?width=1064&height=2306",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_general",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14ProMax_ios18_vodafone_general",
+      "source_asset_id": "assets.iPhone14ProMax_ios18_vodafone_general",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14ProMax_general.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 335646,
+      "sha256": "fc4ae76aacb39b8a7d69a5a9f72956688e9384ce642b10a8cb83177f456a903e",
+      "width": 1063,
+      "height": 2306,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-def8782f-75ab-4f11-a1df-7c06675ca88d.png?width=1064&height=2306",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_about",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14ProMax_ios18_vodafone_about",
+      "source_asset_id": "assets.iPhone14ProMax_ios18_vodafone_about",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14ProMax_about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 204199,
+      "sha256": "305e80d64a68321e5fff73452297b1accef0fe4f3369ffe48d544e0d168dd169",
+      "width": 1063,
+      "height": 2306,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-4785c9b9-6b70-4586-94f4-6f1fcccfb685.png?width=1064&height=2306",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14ProMax_ios18_vodafone_frame",
+      "source_asset_id": "assets.iPhone14ProMax_ios18_vodafone_frame",
+      "path": "Apple/机框/Vodafone_iOS18/iPhone14ProMax_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 765013,
+      "sha256": "95e763288c40e8d23abc5ecbacb653395620d61400e43f1e5b0c47f0cb5b47c6",
+      "width": 585,
+      "height": 1200,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-2b4436b0-0322-4195-b4ab-c2d215a24c5f.png?width=585",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14ProMax",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_home",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Pro_ios18_vodafone_home",
+      "source_asset_id": "assets.iPhone14Pro_ios18_vodafone_home",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14Pro_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 839247,
+      "sha256": "07b2db1123c2ad328a3bcc958f6802fdc406980e2596c992d38ddf8b190f2eec",
+      "width": 1060,
+      "height": 2298,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-736c51c8-a9bc-4bcf-9d7b-f0d919c8c2c3.png?width=1060&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_settings",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Pro_ios18_vodafone_settings",
+      "source_asset_id": "assets.iPhone14Pro_ios18_vodafone_settings",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14Pro_settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 323329,
+      "sha256": "074093e35565fc32de7e59084c89095ed9658d2a2ada9c74b613656d8a7a9a6c",
+      "width": 1060,
+      "height": 2298,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-4f417358-1d3c-4bcc-b89b-f346c1d8148b.png?width=1060&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_general",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Pro_ios18_vodafone_general",
+      "source_asset_id": "assets.iPhone14Pro_ios18_vodafone_general",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14Pro_general.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 332773,
+      "sha256": "7a253cc293ef4f920cc24554656a5859ae72371af4552b2483762397ef967e9c",
+      "width": 1060,
+      "height": 2298,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-ef1a2680-1b1f-4244-b1a5-928b9497dd61.png?width=1060&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_about",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Pro_ios18_vodafone_about",
+      "source_asset_id": "assets.iPhone14Pro_ios18_vodafone_about",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14Pro_about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 217696,
+      "sha256": "7edd4b11e5970da00205f518403c2f7e69d52a9fb2dc42f9d814c7ae4dd9071c",
+      "width": 1060,
+      "height": 2298,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-a045d8b3-ba4d-4222-9db0-acc9b9fe41fb.png?width=1060&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Pro_ios18_vodafone_frame",
+      "source_asset_id": "assets.iPhone14Pro_ios18_vodafone_frame",
+      "path": "Apple/机框/Vodafone_iOS18/iPhone14Pro_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 164554,
+      "sha256": "1ffc3e8a618d9e286b99f16b1a2a942a9ac1fc26b26a9938f17b925bb44cf660",
+      "width": 587,
+      "height": 1200,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-4a19776c-1514-4275-8b14-85e1a6441d4b.png?width=587",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Pro",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_home",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Plus_ios18_vodafone_home",
+      "source_asset_id": "assets.iPhone14Plus_ios18_vodafone_home",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14Plus_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1093098,
+      "sha256": "823b41f4d62932a366f36c68c12960ab4883d768a75d2b2e671b989fd14541e7",
+      "width": 1061,
+      "height": 2296,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8e0282e2-4212-498e-ba76-586d59bdd398.png?width=1062&height=2296",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Plus",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_settings",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Plus_ios18_vodafone_settings",
+      "source_asset_id": "assets.iPhone14Plus_ios18_vodafone_settings",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14Plus_settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 340001,
+      "sha256": "5df709d417511760c231c3380e3c42a2132aed817233b952ee602366bcffd3d2",
+      "width": 1061,
+      "height": 2296,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8d9d31e1-99c6-4c0d-bdf4-f0f38a737d96.png?width=1062&height=2296",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Plus",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_general",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Plus_ios18_vodafone_general",
+      "source_asset_id": "assets.iPhone14Plus_ios18_vodafone_general",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14Plus_general.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 334092,
+      "sha256": "d2777ada3b9f1364e0e20f3f3396a73ba57250e99c19d6b40b22b6018bb6ab4d",
+      "width": 1061,
+      "height": 2296,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-de632b15-8ecb-48d8-ba42-a00d5730cc76.png?width=1062&height=2296",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Plus",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_about",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Plus_ios18_vodafone_about",
+      "source_asset_id": "assets.iPhone14Plus_ios18_vodafone_about",
+      "path": "Apple/原始截图/Vodafone_iOS18/iPhone14Plus_about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 210936,
+      "sha256": "4e05bf845421e8c264ea39284d6dfb78fcdd62ab3ba66bdb50f811ab32d85a79",
+      "width": 1061,
+      "height": 2296,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-08261262-64b7-4765-b7d5-cff6905d6866.png?width=1062&height=2296",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Plus",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_entry": "assets.iPhone14Plus_ios18_vodafone_frame",
+      "source_asset_id": "assets.iPhone14Plus_ios18_vodafone_frame",
+      "path": "Apple/机框/Vodafone_iOS18/iPhone14Plus_frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 81961,
+      "sha256": "1dc0b8488fe4f5147ae5a182fae97baea61aada2fb68851051cf30dc7989248a",
+      "width": 589,
+      "height": 1200,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-2e9d895d-88cd-4d92-949e-103f46c2c61c.png?width=589",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone14Plus",
+      "os_name": "iOS",
+      "os_version": "18",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型iOS18页面"
+    },
+    {
+      "asset_id": "ios-optus-iphone6-ios12-01_home",
+      "source_index": "Apple/素材索引_Optus_iPhone6_iOS12_20261103.json",
+      "source_entry": "01_home.png",
+      "source_asset_id": "01_home.png",
+      "path": "Apple/原始截图/Optus_iPhone6_iOS12/01_home.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1018976,
+      "sha256": "b858b531ae70d63d61e177508b6644a7d4fa68dc4bda19484c51015475f3c18d",
+      "width": 750,
+      "height": 1334,
+      "has_alpha": false,
+      "source_url": "https://cdn.sp-selfservice.com/ml/130726-f-58d2137b-8899-4078-b264-5f16e358b2ba.png?width=1016&height=1804",
+      "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone6",
+      "os_name": "iOS",
+      "os_version": "12.0",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Optus iPhone6／iOS12.0来源页面"
+    },
+    {
+      "asset_id": "ios-optus-iphone6-ios12-02_settings",
+      "source_index": "Apple/素材索引_Optus_iPhone6_iOS12_20261103.json",
+      "source_entry": "02_settings.png",
+      "source_asset_id": "02_settings.png",
+      "path": "Apple/原始截图/Optus_iPhone6_iOS12/02_settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 154418,
+      "sha256": "6f8fb214d50239cf4ad41960207e61c4000b4e670ffdb10be2d4842fc4047847",
+      "width": 750,
+      "height": 1334,
+      "has_alpha": false,
+      "source_url": "https://cdn.sp-selfservice.com/ml/130726-f-05a4e4fc-7b1a-48a4-8a61-545b2792588b.png?width=1016&height=1804",
+      "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone6",
+      "os_name": "iOS",
+      "os_version": "12.0",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Optus iPhone6／iOS12.0来源页面"
+    },
+    {
+      "asset_id": "ios-optus-iphone6-ios12-03_general",
+      "source_index": "Apple/素材索引_Optus_iPhone6_iOS12_20261103.json",
+      "source_entry": "03_general.png",
+      "source_asset_id": "03_general.png",
+      "path": "Apple/原始截图/Optus_iPhone6_iOS12/03_general.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 84302,
+      "sha256": "ebe0ec78be589f93976ecb8582b68cd8946aa2cfd0c6bfe30be8e0338fe83857",
+      "width": 750,
+      "height": 1334,
+      "has_alpha": false,
+      "source_url": "https://cdn.sp-selfservice.com/ml/130726-f-1b88e7e3-1f16-4c26-adac-d816a2272185.png?width=1016&height=1804",
+      "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone6",
+      "os_name": "iOS",
+      "os_version": "12.0",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Optus iPhone6／iOS12.0来源页面"
+    },
+    {
+      "asset_id": "ios-optus-iphone6-ios12-04_about",
+      "source_index": "Apple/素材索引_Optus_iPhone6_iOS12_20261103.json",
+      "source_entry": "04_about.png",
+      "source_asset_id": "04_about.png",
+      "path": "Apple/原始截图/Optus_iPhone6_iOS12/04_about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 93924,
+      "sha256": "e0a2518b15d2e8dca8e1ecef2277bb6f84ff8bc739716a1901daa3adffcb7954",
+      "width": 750,
+      "height": 1334,
+      "has_alpha": false,
+      "source_url": "https://cdn.sp-selfservice.com/ml/130726-f-420fb9e7-5232-43f2-9054-42e276d6b35a.png?width=1016&height=1804",
+      "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone6",
+      "os_name": "iOS",
+      "os_version": "12.0",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Optus iPhone6／iOS12.0来源页面"
+    },
+    {
+      "asset_id": "ios-optus-iphone6-ios12-iphone6-original-frame",
+      "source_index": "Apple/素材索引_Optus_iPhone6_iOS12_20261103.json",
+      "source_entry": "iphone6-original-frame.png",
+      "source_asset_id": "iphone6-original-frame.png",
+      "path": "Apple/原始截图/Optus_iPhone6_iOS12/iphone6-original-frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 176806,
+      "sha256": "db4ec5ceef5cc19bb11388f4f23cf4d04d0ac542d609cb654113728b2942a4aa",
+      "width": 592,
+      "height": 1200,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/130726-f-f144b63d-5b41-4e50-a917-813ac5cdbfbe.png?width=592",
+      "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "iPhone6",
+      "os_name": "iOS",
+      "os_version": "12.0",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Optus iPhone6／iOS12.0来源页面"
+    },
+    {
+      "asset_id": "samsung-legacy-settings-original",
+      "source_index": "Samsung/素材索引.json",
+      "source_entry": "files.原始截图/settings-original.png",
+      "source_asset_id": "files.原始截图/settings-original.png",
+      "path": "Samsung/原始截图/settings-original.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 65013,
+      "sha256": "73a91117ef62c76300bb7a28c8cac96dd0b28c97c9fd629a5f5a33b9d3a8af11",
+      "width": 247,
+      "height": 530,
+      "has_alpha": true,
+      "source_url": "https://images.samsung.com/is/image/samsung/assets/uk/support/imei/2-IMEI2.png",
+      "source_page": null,
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": null,
+      "observed_model_name": "Galaxy S10",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": false,
+      "os_verified": false,
+      "role": "旧版结构参考，不作为新机型或指定系统证据"
+    },
+    {
+      "asset_id": "samsung-legacy-about-phone-original",
+      "source_index": "Samsung/素材索引.json",
+      "source_entry": "files.原始截图/about-phone-original.png",
+      "source_asset_id": "files.原始截图/about-phone-original.png",
+      "path": "Samsung/原始截图/about-phone-original.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 67536,
+      "sha256": "d64f1e90ba905e0cc5d7df2666f64b0e319f0f074c7a4981a48da86fab0f7a7c",
+      "width": 247,
+      "height": 530,
+      "has_alpha": true,
+      "source_url": "https://images.samsung.com/is/image/samsung/assets/uk/support/imei/3-IMEI2.png",
+      "source_page": null,
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": null,
+      "observed_model_name": "Galaxy S10",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": false,
+      "os_verified": false,
+      "role": "旧版结构参考，不作为新机型或指定系统证据"
+    },
+    {
+      "asset_id": "samsung-vodafone-s23-apps",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s23-apps.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s23-apps.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s23-apps.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 707957,
+      "sha256": "465b270afad27dd1b4038e0e9ffc81c79996cbfc250d2a4c30a6b1b6dea5726c",
+      "width": 1067,
+      "height": 2312,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-a51e0bb5-4a96-4117-bd33-376df8c47dfc.png?width=1068&height=2312",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s23-android-13/apps-and-media/install-apps-from-google-play",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS23",
+      "source_model_id": "s23",
+      "os_name": "Android",
+      "os_version": "13",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK"
+    },
+    {
+      "asset_id": "samsung-vodafone-s23-settings",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s23-settings.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s23-settings.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s23-settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 419355,
+      "sha256": "f166e2fc0c216f131e907fe46bfa448b4e0ec16e3aebac8a5abf7b6041b5f434",
+      "width": 1067,
+      "height": 2312,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-d5167fc3-7e76-4c34-99d6-00d47945af73.png?width=1068&height=2312",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s23-android-13/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS23",
+      "source_model_id": "s23",
+      "os_name": "Android",
+      "os_version": "13",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK"
+    },
+    {
+      "asset_id": "samsung-vodafone-s23-about-phone",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s23-about-phone.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s23-about-phone.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s23-about-phone.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 248914,
+      "sha256": "3a27f7af0b5ddce3460e946bbfbb359b9ba70cc20314a3fbc40d48b589b3fbef",
+      "width": 1067,
+      "height": 2312,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-5ba4da16-a095-4c82-a784-1f4c40c991e7.png?width=1068&height=2312",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s23-android-13/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS23",
+      "source_model_id": "s23",
+      "os_name": "Android",
+      "os_version": "13",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK",
+      "result_field": "Product name",
+      "result_value": "Galaxy S23",
+      "result_verified": true,
+      "result_state": "original_non_empty"
+    },
+    {
+      "asset_id": "samsung-vodafone-s24-apps",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s24-apps.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s24-apps.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s24-apps.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 2004296,
+      "sha256": "10b47bcd6aa1d7bca579eadd83715bf3bff9c1786d56e11fa758c9b8d85def57",
+      "width": 1070,
+      "height": 2318,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-00fde3de-b755-44f0-b6a9-8725a3539673.png?width=1070&height=2320",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s24-android-14/apps-and-media/install-apps-from-google-play",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS24",
+      "source_model_id": "s24",
+      "os_name": "Android",
+      "os_version": "14",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK"
+    },
+    {
+      "asset_id": "samsung-vodafone-s24-settings",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s24-settings.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s24-settings.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s24-settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 458478,
+      "sha256": "5fccb8f508a20a5237fd8c67cab70f355d2e46a9395b844bcf67770dc6a88d4f",
+      "width": 1070,
+      "height": 2318,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-bf8cdfe1-ac31-466b-99ae-f9ea8cc5ba4d.png?width=1070&height=2320",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s24-android-14/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS24",
+      "source_model_id": "s24",
+      "os_name": "Android",
+      "os_version": "14",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK"
+    },
+    {
+      "asset_id": "samsung-vodafone-s24-about-phone",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s24-about-phone.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s24-about-phone.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s24-about-phone.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 298439,
+      "sha256": "3121140517a3c6fe5688203e8ced8576f50e98215e0826af82ded21bd8fa6d5e",
+      "width": 1070,
+      "height": 2318,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-295825c3-7090-40e4-8746-d22e841bf24a.png?width=1070&height=2320",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s24-android-14/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS24",
+      "source_model_id": "s24",
+      "os_name": "Android",
+      "os_version": "14",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK",
+      "result_field": "Product name",
+      "result_value": null,
+      "result_verified": false,
+      "result_state": "scrolled_out_of_view"
+    },
+    {
+      "asset_id": "samsung-vodafone-s25-apps",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s25-apps.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s25-apps.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s25-apps.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 2028875,
+      "sha256": "7b051465eca6957bff7acdc3dfb1539c80cba2bd3e564ce7965a4d28e159fce8",
+      "width": 1070,
+      "height": 2318,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-e0acf238-9272-41d8-8835-4c52bef8a706.png?width=1070&height=2320",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s25-android-15/apps-and-media/install-apps-from-google-play",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS25",
+      "source_model_id": "s25",
+      "os_name": "Android",
+      "os_version": "15",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK"
+    },
+    {
+      "asset_id": "samsung-vodafone-s25-settings",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s25-settings.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s25-settings.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s25-settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 451790,
+      "sha256": "03498b28f2e5fcc3013f7ecf08e78087fe179b776aa82a7f5087176724a16665",
+      "width": 1070,
+      "height": 2318,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-45afa017-3abc-4578-a9d2-ac7bb3a477af.png?width=1070&height=2320",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s25-android-15/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS25",
+      "source_model_id": "s25",
+      "os_name": "Android",
+      "os_version": "15",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK"
+    },
+    {
+      "asset_id": "samsung-vodafone-s25-about-phone",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s25-about-phone.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s25-about-phone.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s25-about-phone.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 298002,
+      "sha256": "935c4fd374436390ef879b18bff74006c8ddbd50ddf3915bac5684a5a2029d18",
+      "width": 1070,
+      "height": 2318,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-48c88c81-bd15-4d7e-9014-342425da3b89.png?width=1070&height=2320",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s25-android-15/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS25",
+      "source_model_id": "s25",
+      "os_name": "Android",
+      "os_version": "15",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK",
+      "result_field": "Product name",
+      "result_value": null,
+      "result_verified": false,
+      "result_state": "scrolled_out_of_view"
+    },
+    {
+      "asset_id": "samsung-vodafone-s26-apps",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s26-apps.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s26-apps.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s26-apps.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1949478,
+      "sha256": "c74cca0c22d34bf8bf66f10f62e2f12d1f317b7648886a7ab20a91115318c57d",
+      "width": 1074,
+      "height": 2327,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-f473354a-fba0-4f5c-b70a-2bfdb5c55d19.png?width=1074&height=2328",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s26-android-16/apps-and-media/install-apps-from-google-play",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS26",
+      "source_model_id": "s26",
+      "os_name": "Android",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK"
+    },
+    {
+      "asset_id": "samsung-vodafone-s26-settings",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s26-settings.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s26-settings.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s26-settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 372980,
+      "sha256": "f240f811bf0312f92cc821b90c3ad1909adf5c02de031185d485400572bf9db0",
+      "width": 1074,
+      "height": 2327,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-8afb05d0-6c42-45a5-bc09-ef3aa6a3c505.png?width=1074&height=2328",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s26-android-16/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS26",
+      "source_model_id": "s26",
+      "os_name": "Android",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK"
+    },
+    {
+      "asset_id": "samsung-vodafone-s26-about-phone",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "source_entry": "files.原始截图/对应机型_20261103/s26-about-phone.png",
+      "source_asset_id": "files.原始截图/对应机型_20261103/s26-about-phone.png",
+      "path": "Samsung/原始截图/对应机型_20261103/s26-about-phone.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 310277,
+      "sha256": "340e064ca74c2650ab760829fb31612cda0a78986b162cc56b90ead5395327d1",
+      "width": 1074,
+      "height": 2327,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-cf95ab96-7e53-409a-a6dc-c5ea3fb35acd.png?width=1074&height=2328",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s26-android-16/basic-use/view-software-version",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS26",
+      "source_model_id": "s26",
+      "os_name": "Android",
+      "os_version": "16",
+      "model_verified": true,
+      "os_verified": true,
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "source_publisher": "Vodafone UK",
+      "result_field": "Product name",
+      "result_value": null,
+      "result_verified": false,
+      "result_state": "scrolled_out_of_view"
+    },
+    {
+      "asset_id": "samsung-video-s24-apps",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "source_entry": "records.s24.frames.apps",
+      "source_asset_id": "records.s24.frames.apps",
+      "path": "Samsung/原始截图/实机帧_20261103/s24-apps.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1088115,
+      "sha256": "e31ba65cda9ff32cc5b4e0d014e190317d7d929ca50220d08b69b20df5a5560d",
+      "width": 1920,
+      "height": 1080,
+      "has_alpha": false,
+      "source_url": "https://www.youtube.com/watch?v=wnYC3GrspWM",
+      "source_page": "https://www.youtube.com/watch?v=wnYC3GrspWM",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS24",
+      "source_model_id": "s24",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": true,
+      "os_verified": false,
+      "os_evidence": "原视频未展示版本号，不据标题、日期或外观推断",
+      "video_seconds": 6.9,
+      "source_author": "HowToDevices ",
+      "video_source_date": "20240306",
+      "result_verified": false,
+      "result_field": null,
+      "result_value": null
+    },
+    {
+      "asset_id": "samsung-video-s24-settings",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "source_entry": "records.s24.frames.settings",
+      "source_asset_id": "records.s24.frames.settings",
+      "path": "Samsung/原始截图/实机帧_20261103/s24-settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1172630,
+      "sha256": "1e3750b9631e267d232cea185b7bf8b0d2a3624c62ad3ac5805b8b24926400e5",
+      "width": 1920,
+      "height": 1080,
+      "has_alpha": false,
+      "source_url": "https://www.youtube.com/watch?v=wnYC3GrspWM",
+      "source_page": "https://www.youtube.com/watch?v=wnYC3GrspWM",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS24",
+      "source_model_id": "s24",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": true,
+      "os_verified": false,
+      "os_evidence": "原视频未展示版本号，不据标题、日期或外观推断",
+      "video_seconds": 10,
+      "source_author": "HowToDevices ",
+      "video_source_date": "20240306",
+      "result_verified": false,
+      "result_field": null,
+      "result_value": null
+    },
+    {
+      "asset_id": "samsung-video-s24-about",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "source_entry": "records.s24.frames.about",
+      "source_asset_id": "records.s24.frames.about",
+      "path": "Samsung/原始截图/实机帧_20261103/s24-about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1143093,
+      "sha256": "4d2d24bd9f9a8e59c2d6c5c38c3fc69871fc9e6d256b7cbde5a8e45ec972fd89",
+      "width": 1920,
+      "height": 1080,
+      "has_alpha": false,
+      "source_url": "https://www.youtube.com/watch?v=wnYC3GrspWM",
+      "source_page": "https://www.youtube.com/watch?v=wnYC3GrspWM",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS24",
+      "source_model_id": "s24",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": true,
+      "os_verified": false,
+      "os_evidence": "原视频未展示版本号，不据标题、日期或外观推断",
+      "video_seconds": 12,
+      "source_author": "HowToDevices ",
+      "video_source_date": "20240306",
+      "result_verified": true,
+      "result_field": "Product name",
+      "result_value": "Galaxy S24"
+    },
+    {
+      "asset_id": "samsung-video-s25-about",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "source_entry": "records.s25.frames.about",
+      "source_asset_id": "records.s25.frames.about",
+      "path": "Samsung/原始截图/实机帧_20261103/s25-about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 844467,
+      "sha256": "b9484da6c48f36e6ea066a863af4c99595336fb5c6ebdb3359592bdd90555747",
+      "width": 1920,
+      "height": 1080,
+      "has_alpha": false,
+      "source_url": "https://www.youtube.com/watch?v=CswhMkzfbOA",
+      "source_page": "https://www.youtube.com/watch?v=CswhMkzfbOA",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS25",
+      "source_model_id": "s25",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": true,
+      "os_verified": false,
+      "os_evidence": "原视频未展示版本号，不据标题、日期或外观推断",
+      "video_seconds": 38.4,
+      "source_author": "HardReset.Info",
+      "video_source_date": "20250611",
+      "result_verified": true,
+      "result_field": "Product name",
+      "result_value": "Galaxy S25"
+    },
+    {
+      "asset_id": "samsung-s25-original-provider-frame",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "source_entry": "records.s25.provider_frame",
+      "source_asset_id": "records.s25.provider_frame",
+      "path": "Samsung/原始机框/s25-original-frame.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_phone_frame",
+      "bytes": 735144,
+      "sha256": "248c3a94746c24607e48e9a81e98d5f382cb66a7f48267e9e542f4d5dc926085",
+      "width": 579,
+      "height": 1200,
+      "has_alpha": true,
+      "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-34d2fc30-cd6b-4c8f-8428-7e4e38331ace.png?width=579",
+      "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s25-android-15/apps-and-media/install-apps-from-google-play",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS25",
+      "source_model_id": "s25",
+      "os_name": null,
+      "os_version": null,
+      "role": "原始机框，不能证明菜单系统版本"
+    },
+    {
+      "asset_id": "samsung-video-s26-apps",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "source_entry": "records.s26.frames.apps",
+      "source_asset_id": "records.s26.frames.apps",
+      "path": "Samsung/原始截图/实机帧_20261103/s26-apps.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1277570,
+      "sha256": "fe0b2f347976a42797e8b91a8b63ca221912091b6584a9d4191f28ccb20dd21a",
+      "width": 1920,
+      "height": 1080,
+      "has_alpha": false,
+      "source_url": "https://www.youtube.com/watch?v=7wJT2CLk_u8",
+      "source_page": "https://www.youtube.com/watch?v=7wJT2CLk_u8",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS26",
+      "source_model_id": "s26",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": true,
+      "os_verified": false,
+      "os_evidence": "原视频未展示版本号，不据标题、日期或外观推断",
+      "video_seconds": 5,
+      "source_author": "Games & Apps Tutorials",
+      "video_source_date": "20260311",
+      "result_verified": false,
+      "result_field": null,
+      "result_value": null
+    },
+    {
+      "asset_id": "samsung-video-s26-settings",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "source_entry": "records.s26.frames.settings",
+      "source_asset_id": "records.s26.frames.settings",
+      "path": "Samsung/原始截图/实机帧_20261103/s26-settings.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1087854,
+      "sha256": "8a261d8ce902022dac916351dff72366ac110b2a0897ff12d56d52cd25c84c61",
+      "width": 1920,
+      "height": 1080,
+      "has_alpha": false,
+      "source_url": "https://www.youtube.com/watch?v=7wJT2CLk_u8",
+      "source_page": "https://www.youtube.com/watch?v=7wJT2CLk_u8",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS26",
+      "source_model_id": "s26",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": true,
+      "os_verified": false,
+      "os_evidence": "原视频未展示版本号，不据标题、日期或外观推断",
+      "video_seconds": 11,
+      "source_author": "Games & Apps Tutorials",
+      "video_source_date": "20260311",
+      "result_verified": false,
+      "result_field": null,
+      "result_value": null
+    },
+    {
+      "asset_id": "samsung-video-s26-about",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "source_entry": "records.s26.frames.about",
+      "source_asset_id": "records.s26.frames.about",
+      "path": "Samsung/原始截图/实机帧_20261103/s26-about.png",
+      "material_class": "raw_native_ui",
+      "asset_kind": "raw_native_ui",
+      "bytes": 1098366,
+      "sha256": "15889cf65eb396e31335db44e19142b7f7bf3ce10b34d7b2e53739416de056ac",
+      "width": 1920,
+      "height": 1080,
+      "has_alpha": false,
+      "source_url": "https://www.youtube.com/watch?v=7wJT2CLk_u8",
+      "source_page": "https://www.youtube.com/watch?v=7wJT2CLk_u8",
+      "original_bytes_preserved": true,
+      "publish_ready": false,
+      "processing_status": "原始来源；未将其标为去Logo、去禁词或可直接发布素材",
+      "model_id": "SamsungGalaxyS26",
+      "source_model_id": "s26",
+      "os_name": "Android",
+      "os_version": null,
+      "model_verified": true,
+      "os_verified": false,
+      "os_evidence": "原视频未展示版本号，不据标题、日期或外观推断",
+      "video_seconds": 28,
+      "source_author": "Games & Apps Tutorials",
+      "video_source_date": "20260311",
+      "result_verified": true,
+      "result_field": "Product name",
+      "result_value": "Galaxy S26"
+    }
+  ],
+  "sequences": [
+    {
+      "sequence_id": "native-ios-iphone11-ios16-o2-home",
+      "model_id": "iPhone11",
+      "source_model_id": "iPhone11",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "missing",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-o2-legacy-iPhone11_home"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-o2-legacy-iPhone11_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_composition": "same_publisher_home_and_frame",
+      "os_evidence": "O2对应机型页面明确标注系统"
+    },
+    {
+      "sequence_id": "native-ios-iphone11pro-ios16-o2-home",
+      "model_id": "iPhone11Pro",
+      "source_model_id": "iPhone11Pro",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "missing",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-o2-legacy-iPhone11Pro_home"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-o2-legacy-iPhone11Pro_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_composition": "same_publisher_home_and_frame",
+      "os_evidence": "O2对应机型页面明确标注系统"
+    },
+    {
+      "sequence_id": "native-ios-iphone11promax-ios16-o2-home",
+      "model_id": "iPhone11ProMax",
+      "source_model_id": "iPhone11ProMax",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "missing",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-o2-legacy-iPhone11ProMax_home"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-o2-legacy-iPhone11ProMax_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_composition": "same_publisher_home_and_frame",
+      "os_evidence": "O2对应机型页面明确标注系统"
+    },
+    {
+      "sequence_id": "native-ios-iphone12-ios16-o2-home",
+      "model_id": "iPhone12",
+      "source_model_id": "iPhone12",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "missing",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-o2-legacy-iPhone12_home"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-o2-legacy-iPhone12_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_composition": "same_publisher_home_and_frame",
+      "os_evidence": "O2对应机型页面明确标注系统"
+    },
+    {
+      "sequence_id": "native-ios-iphone12mini-ios16-o2-home",
+      "model_id": "iPhone12mini",
+      "source_model_id": "iPhone12mini",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "missing",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-o2-legacy-iPhone12mini_home"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-o2-legacy-iPhone12mini_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_composition": "same_publisher_home_and_frame",
+      "os_evidence": "O2对应机型页面明确标注系统"
+    },
+    {
+      "sequence_id": "native-ios-iphone12promax-ios16-o2-home",
+      "model_id": "iPhone12ProMax",
+      "source_model_id": "iPhone12ProMax",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "missing",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-o2-legacy-iPhone12ProMax_home"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-o2-legacy-iPhone12ProMax_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_composition": "same_publisher_home_and_frame",
+      "os_evidence": "O2对应机型页面明确标注系统"
+    },
+    {
+      "sequence_id": "native-ios-iphone14-ios18-o2-home",
+      "model_id": "iPhone14",
+      "source_model_id": "iPhone14",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "missing",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-o2-legacy-iPhone14_home"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-o2-legacy-iPhone14_frame",
+      "source_index": "Apple/素材索引.json",
+      "source_composition": "same_publisher_home_and_frame",
+      "os_evidence": "O2对应机型页面明确标注系统"
+    },
+    {
+      "sequence_id": "native-ios-iphone11-ios15-1-idownloadblog-menus",
+      "model_id": "iPhone11",
+      "source_model_id": "menus",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "15.1",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": true,
+      "result_state": "original_non_empty",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "缺iOS15.1来源的主屏Settings图标入口；不得借iOS16主屏拼成同OS完整四步"
+      ],
+      "steps": [
+        {
+          "step": "settings",
+          "asset_id": "ios-o2-legacy-menus",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          }
+        },
+        {
+          "step": "general",
+          "asset_id": "ios-o2-legacy-menus",
+          "source_crop": {
+            "x": 838,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          }
+        },
+        {
+          "step": "about",
+          "asset_id": "ios-o2-legacy-menus",
+          "source_crop": {
+            "x": 1676,
+            "y": 0,
+            "width": 828,
+            "height": 1792
+          }
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "result_field": "Model Name",
+      "result_value": "iPhone 11",
+      "source_index": "Apple/素材索引.json",
+      "os_evidence": "原作者明确说明iPhone11／iOS15.1",
+      "source_composition": "single_original_three_panel_image",
+      "frame_asset_id": "ios-o2-legacy-iPhone11_frame"
+    },
+    {
+      "sequence_id": "native-ios-iphone13pro-ios18-vodafone",
+      "model_id": "iPhone13Pro",
+      "source_model_id": "iPhone13Pro",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "source_left_blank",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_home",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1059,
+            "height": 2292
+          },
+          "source_target_rect": {
+            "x": 795.9154358974358,
+            "y": 1499.983355450237,
+            "width": 207.56400000000002,
+            "height": 254.16
+          }
+        },
+        {
+          "step": "settings",
+          "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_settings",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1059,
+            "height": 2292
+          },
+          "source_target_rect": {
+            "x": 43.419000000000004,
+            "y": 1777.9909383886256,
+            "width": 972.162,
+            "height": 119.184
+          }
+        },
+        {
+          "step": "general",
+          "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_general",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1059,
+            "height": 2292
+          },
+          "source_target_rect": {
+            "x": 43.419000000000004,
+            "y": 974.1615545023698,
+            "width": 972.162,
+            "height": 119.184
+          }
+        },
+        {
+          "step": "about",
+          "asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_about",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1059,
+            "height": 2292
+          },
+          "source_target_rect": {
+            "x": 43.419000000000004,
+            "y": 530.3029004739336,
+            "width": 972.162,
+            "height": 119.184
+          }
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-vodafone-iPhone13Pro_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_composition": "publisher_model_specific_structure",
+      "os_evidence": "Vodafone对应机型iOS18页面",
+      "menu_steps_present": true,
+      "result_field": "Model Name",
+      "result_value": null
+    },
+    {
+      "sequence_id": "native-ios-iphone13mini-ios18-vodafone",
+      "model_id": "iPhone13mini",
+      "source_model_id": "iPhone13mini",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "source_left_blank",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_home",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1054,
+            "height": 2282
+          },
+          "source_target_rect": {
+            "x": 792.3737777777777,
+            "y": 1518.5123678160921,
+            "width": 206.584,
+            "height": 252.95999999999998
+          }
+        },
+        {
+          "step": "settings",
+          "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_settings",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1054,
+            "height": 2282
+          },
+          "source_target_rect": {
+            "x": 43.214,
+            "y": 1855.4496091954022,
+            "width": 967.572,
+            "height": 118.664
+          }
+        },
+        {
+          "step": "general",
+          "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_general",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1054,
+            "height": 2282
+          },
+          "source_target_rect": {
+            "x": 43.214,
+            "y": 1016.0932873563219,
+            "width": 967.572,
+            "height": 118.664
+          }
+        },
+        {
+          "step": "about",
+          "asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_about",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1054,
+            "height": 2282
+          },
+          "source_target_rect": {
+            "x": 43.214,
+            "y": 553.9526896551724,
+            "width": 967.572,
+            "height": 118.664
+          }
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-vodafone-iPhone13mini_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_composition": "publisher_model_specific_structure",
+      "os_evidence": "Vodafone对应机型iOS18页面",
+      "menu_steps_present": true,
+      "result_field": "Model Name",
+      "result_value": null
+    },
+    {
+      "sequence_id": "native-ios-iphone13promax-ios18-vodafone",
+      "model_id": "iPhone13ProMax",
+      "source_model_id": "iPhone13ProMax",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "source_left_blank",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_home",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2300
+          },
+          "source_target_rect": {
+            "x": 786.6266230529596,
+            "y": 1482.8418891288695,
+            "width": 208.348,
+            "height": 255.12
+          }
+        },
+        {
+          "step": "settings",
+          "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_settings",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2300
+          },
+          "source_target_rect": {
+            "x": 43.583,
+            "y": 1629.1848812095034,
+            "width": 975.8340000000001,
+            "height": 119.6
+          }
+        },
+        {
+          "step": "general",
+          "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_general",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2300
+          },
+          "source_target_rect": {
+            "x": 43.583,
+            "y": 884.0444924406047,
+            "width": 975.8340000000001,
+            "height": 119.6
+          }
+        },
+        {
+          "step": "about",
+          "asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_about",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2300
+          },
+          "source_target_rect": {
+            "x": 43.583,
+            "y": 493.63729301655866,
+            "width": 975.8340000000001,
+            "height": 119.6
+          }
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-vodafone-iPhone13ProMax_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_composition": "publisher_model_specific_structure",
+      "os_evidence": "Vodafone对应机型iOS18页面",
+      "menu_steps_present": true,
+      "result_field": "Model Name",
+      "result_value": null
+    },
+    {
+      "sequence_id": "native-ios-iphone14promax-ios18-vodafone",
+      "model_id": "iPhone14ProMax",
+      "source_model_id": "iPhone14ProMax",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "source_left_blank",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_home",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2306
+          },
+          "source_target_rect": {
+            "x": 792.3717364341086,
+            "y": 1503.1713075822602,
+            "width": 208.348,
+            "height": 255.12
+          }
+        },
+        {
+          "step": "settings",
+          "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_settings",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2306
+          },
+          "source_target_rect": {
+            "x": 43.583,
+            "y": 1629.1312675250358,
+            "width": 975.8340000000001,
+            "height": 119.91199999999999
+          }
+        },
+        {
+          "step": "general",
+          "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_general",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2306
+          },
+          "source_target_rect": {
+            "x": 43.583,
+            "y": 900.052583690987,
+            "width": 975.8340000000001,
+            "height": 119.91199999999999
+          }
+        },
+        {
+          "step": "about",
+          "asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_about",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2306
+          },
+          "source_target_rect": {
+            "x": 43.583,
+            "y": 506.9703061516452,
+            "width": 975.8340000000001,
+            "height": 119.91199999999999
+          }
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-vodafone-iPhone14ProMax_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_composition": "publisher_model_specific_structure",
+      "os_evidence": "Vodafone对应机型iOS18页面",
+      "menu_steps_present": true,
+      "result_field": "Model Name",
+      "result_value": null
+    },
+    {
+      "sequence_id": "native-ios-iphone14pro-ios18-vodafone",
+      "model_id": "iPhone14Pro",
+      "source_model_id": "iPhone14Pro",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "source_left_blank",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_home",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1060,
+            "height": 2298
+          },
+          "source_target_rect": {
+            "x": 789.7926039016115,
+            "y": 1523.2317370892017,
+            "width": 207.76000000000002,
+            "height": 254.39999999999998
+          }
+        },
+        {
+          "step": "settings",
+          "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_settings",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1060,
+            "height": 2298
+          },
+          "source_target_rect": {
+            "x": 43.46,
+            "y": 1786.9233615023472,
+            "width": 973.08,
+            "height": 119.496
+          }
+        },
+        {
+          "step": "general",
+          "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_general",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1060,
+            "height": 2298
+          },
+          "source_target_rect": {
+            "x": 43.46,
+            "y": 984.9609201877934,
+            "width": 973.08,
+            "height": 119.496
+          }
+        },
+        {
+          "step": "about",
+          "asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_about",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1060,
+            "height": 2298
+          },
+          "source_target_rect": {
+            "x": 43.46,
+            "y": 548.8372018779343,
+            "width": 973.08,
+            "height": 119.496
+          }
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-vodafone-iPhone14Pro_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_composition": "publisher_model_specific_structure",
+      "os_evidence": "Vodafone对应机型iOS18页面",
+      "menu_steps_present": true,
+      "result_field": "Model Name",
+      "result_value": null
+    },
+    {
+      "sequence_id": "native-ios-iphone14plus-ios18-vodafone",
+      "model_id": "iPhone14Plus",
+      "source_model_id": "iPhone14Plus",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "source_left_blank",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_home",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1061,
+            "height": 2296
+          },
+          "source_target_rect": {
+            "x": 785.1466105919003,
+            "y": 1480.2763484521238,
+            "width": 207.95600000000002,
+            "height": 254.64
+          }
+        },
+        {
+          "step": "settings",
+          "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_settings",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1061,
+            "height": 2296
+          },
+          "source_target_rect": {
+            "x": 43.501000000000005,
+            "y": 1619.7395651547877,
+            "width": 973.998,
+            "height": 119.392
+          }
+        },
+        {
+          "step": "general",
+          "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_general",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1061,
+            "height": 2296
+          },
+          "source_target_rect": {
+            "x": 43.501000000000005,
+            "y": 882.5070237580993,
+            "width": 973.998,
+            "height": 119.392
+          }
+        },
+        {
+          "step": "about",
+          "asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_about",
+          "source_crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1061,
+            "height": 2296
+          },
+          "source_target_rect": {
+            "x": 43.501000000000005,
+            "y": 492.77879337652985,
+            "width": 973.998,
+            "height": 119.392
+          }
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-vodafone-iPhone14Plus_ios18_vodafone_frame",
+      "source_index": "Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "source_composition": "publisher_model_specific_structure",
+      "os_evidence": "Vodafone对应机型iOS18页面",
+      "menu_steps_present": true,
+      "result_field": "Model Name",
+      "result_value": null
+    },
+    {
+      "sequence_id": "native-ios-iphone6-ios12-optus-structure",
+      "model_id": "iPhone6",
+      "source_model_id": "iPhone6",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "iOS",
+        "version": "12.0",
+        "evidence_level": "visible_source_version_and_publisher_page",
+        "build": "16A366"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "source_left_blank",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About的Model值留空；Name为iPhone，不能判定6／6s／7／8或SE",
+        "来源实际型号仅iPhone6，不扩展认证为6s／7／8／SE原始截图"
+      ],
+      "steps": [
+        {
+          "step": "home",
+          "asset_id": "ios-optus-iphone6-ios12-01_home"
+        },
+        {
+          "step": "settings",
+          "asset_id": "ios-optus-iphone6-ios12-02_settings"
+        },
+        {
+          "step": "general",
+          "asset_id": "ios-optus-iphone6-ios12-03_general"
+        },
+        {
+          "step": "about",
+          "asset_id": "ios-optus-iphone6-ios12-04_about"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "frame_asset_id": "ios-optus-iphone6-ios12-iphone6-original-frame",
+      "source_index": "Apple/素材索引_Optus_iPhone6_iOS12_20261103.json",
+      "source_composition": "same_optus_model_and_os_structure",
+      "menu_steps_present": true,
+      "result_field": "Model",
+      "result_value": null,
+      "name_field_value": "iPhone",
+      "os_evidence": "Optus iPhone6／iOS12.0来源页面明确标注"
+    },
+    {
+      "sequence_id": "native-samsung-legacy-s10-os-unknown-reference",
+      "model_id": null,
+      "source_model_id": "legacy-s10",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": false,
+      "os_verified": false,
+      "result_verified": false,
+      "result_state": "legacy_result_not_new_target",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "缺确切系统版本及完整序列；旧Galaxy S10示例不能作为S23至S26结果"
+      ],
+      "steps": [
+        {
+          "step": "settings",
+          "asset_id": "samsung-legacy-settings-original"
+        },
+        {
+          "step": "about",
+          "asset_id": "samsung-legacy-about-phone-original"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/素材索引.json",
+      "observed_model_name": "Galaxy S10"
+    },
+    {
+      "sequence_id": "native-samsung-s23-android13-vodafone-20261103",
+      "model_id": "SamsungGalaxyS23",
+      "source_model_id": "s23",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": "13",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": true,
+      "result_state": "original_non_empty",
+      "sequence_complete": true,
+      "default_usable_for_new_tutorial": true,
+      "status": "真实序列可选；发布前另验店铺和站点",
+      "missing_or_blocking_reasons": [],
+      "steps": [
+        {
+          "step": "apps",
+          "asset_id": "samsung-vodafone-s23-apps"
+        },
+        {
+          "step": "settings",
+          "asset_id": "samsung-vodafone-s23-settings"
+        },
+        {
+          "step": "about",
+          "asset_id": "samsung-vodafone-s23-about-phone"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "result_field": "Product name",
+      "result_value": "Galaxy S23",
+      "model_code": "SM-S911B/DS",
+      "source_composition": "same_model_publisher_android_version",
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "menu_steps_present": true
+    },
+    {
+      "sequence_id": "native-samsung-s24-android14-vodafone-20261103",
+      "model_id": "SamsungGalaxyS24",
+      "source_model_id": "s24",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": "14",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "scrolled_out_of_view",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About已滚动到底部，不含Product name，不能用空白处填机型补成结果"
+      ],
+      "steps": [
+        {
+          "step": "apps",
+          "asset_id": "samsung-vodafone-s24-apps"
+        },
+        {
+          "step": "settings",
+          "asset_id": "samsung-vodafone-s24-settings"
+        },
+        {
+          "step": "about",
+          "asset_id": "samsung-vodafone-s24-about-phone"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "result_field": "Product name",
+      "result_value": null,
+      "model_code": null,
+      "source_composition": "same_model_publisher_android_version",
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "menu_steps_present": true
+    },
+    {
+      "sequence_id": "native-samsung-s25-android15-vodafone-20261103",
+      "model_id": "SamsungGalaxyS25",
+      "source_model_id": "s25",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": "15",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "scrolled_out_of_view",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About已滚动到底部，不含Product name，不能用空白处填机型补成结果"
+      ],
+      "steps": [
+        {
+          "step": "apps",
+          "asset_id": "samsung-vodafone-s25-apps"
+        },
+        {
+          "step": "settings",
+          "asset_id": "samsung-vodafone-s25-settings"
+        },
+        {
+          "step": "about",
+          "asset_id": "samsung-vodafone-s25-about-phone"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "result_field": "Product name",
+      "result_value": null,
+      "model_code": null,
+      "source_composition": "same_model_publisher_android_version",
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "menu_steps_present": true
+    },
+    {
+      "sequence_id": "native-samsung-s26-android16-vodafone-20261103",
+      "model_id": "SamsungGalaxyS26",
+      "source_model_id": "s26",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": true,
+      "result_verified": false,
+      "result_state": "scrolled_out_of_view",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "原始About已滚动到底部，不含Product name，不能用空白处填机型补成结果"
+      ],
+      "steps": [
+        {
+          "step": "apps",
+          "asset_id": "samsung-vodafone-s26-apps"
+        },
+        {
+          "step": "settings",
+          "asset_id": "samsung-vodafone-s26-settings"
+        },
+        {
+          "step": "about",
+          "asset_id": "samsung-vodafone-s26-about-phone"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/对应机型_20261103_来源.json",
+      "result_field": "Product name",
+      "result_value": null,
+      "model_code": null,
+      "source_composition": "same_model_publisher_android_version",
+      "os_evidence": "Vodafone对应机型和Android版本页面明确标注",
+      "menu_steps_present": true
+    },
+    {
+      "sequence_id": "native-samsung-s24-os-unknown-video-20261103",
+      "model_id": "SamsungGalaxyS24",
+      "source_model_id": "s24",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": false,
+      "result_verified": true,
+      "result_state": "original_non_empty",
+      "sequence_complete": true,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "对应实机型号结果已核实，但视频没有系统版本证据"
+      ],
+      "steps": [
+        {
+          "step": "apps",
+          "asset_id": "samsung-video-s24-apps",
+          "video_seconds": 6.9,
+          "os_version_evidence": "原视频未显示"
+        },
+        {
+          "step": "settings",
+          "asset_id": "samsung-video-s24-settings",
+          "video_seconds": 10,
+          "os_version_evidence": "原视频未显示"
+        },
+        {
+          "step": "about",
+          "asset_id": "samsung-video-s24-about",
+          "video_seconds": 12,
+          "os_version_evidence": "原视频未显示"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "result_field": "Product name",
+      "result_value": "Galaxy S24",
+      "model_code": "SM-S921B/DS",
+      "source_composition": "single_model_video",
+      "os_evidence": "原视频未展示版本号",
+      "source_author": "HowToDevices ",
+      "source_video": "https://www.youtube.com/watch?v=wnYC3GrspWM"
+    },
+    {
+      "sequence_id": "native-samsung-s25-os-unknown-video-20261103",
+      "model_id": "SamsungGalaxyS25",
+      "source_model_id": "s25",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": false,
+      "result_verified": true,
+      "result_state": "original_non_empty",
+      "sequence_complete": false,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "对应实机型号结果已核实，但视频没有系统版本证据",
+        "本次仅选定无遮挡末屏，缺同一来源的完整前两步"
+      ],
+      "steps": [
+        {
+          "step": "about",
+          "asset_id": "samsung-video-s25-about",
+          "video_seconds": 38.4,
+          "os_version_evidence": "原视频未显示"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "result_field": "Product name",
+      "result_value": "Galaxy S25",
+      "model_code": "SM-S931B/DS",
+      "source_composition": "single_model_video",
+      "os_evidence": "原视频未展示版本号",
+      "source_author": "HardReset.Info",
+      "source_video": "https://www.youtube.com/watch?v=CswhMkzfbOA"
+    },
+    {
+      "sequence_id": "native-samsung-s25-mixed-os-reference-20261103",
+      "model_id": "SamsungGalaxyS25",
+      "source_model_id": "s25",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": false,
+      "result_verified": true,
+      "result_state": "original_non_empty",
+      "sequence_complete": true,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "前两步为Android15运营商原图，末步实机系统未知，不能当作同系统完整实录"
+      ],
+      "steps": [
+        {
+          "step": "apps",
+          "asset_id": "samsung-vodafone-s25-apps",
+          "os_version_evidence": "Android 15，运营商页面标注"
+        },
+        {
+          "step": "settings",
+          "asset_id": "samsung-vodafone-s25-settings",
+          "os_version_evidence": "Android 15，运营商页面标注"
+        },
+        {
+          "step": "about",
+          "asset_id": "samsung-video-s25-about",
+          "video_seconds": 38.4,
+          "os_version_evidence": "原视频未显示"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "result_field": "Product name",
+      "result_value": "Galaxy S25",
+      "model_code": "SM-S931B/DS",
+      "source_composition": "mixed_sources",
+      "sequence_os_consistent": false,
+      "same_capture": false,
+      "os_evidence": "分步证据不同，末屏版本未核实"
+    },
+    {
+      "sequence_id": "native-samsung-s26-os-unknown-video-20261103",
+      "model_id": "SamsungGalaxyS26",
+      "source_model_id": "s26",
+      "material_class": "raw_native_ui",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "language": "en",
+      "language_evidence": "原图可见英文菜单",
+      "region": null,
+      "region_verified": false,
+      "model_verified": true,
+      "os_verified": false,
+      "result_verified": true,
+      "result_state": "original_non_empty",
+      "sequence_complete": true,
+      "default_usable_for_new_tutorial": false,
+      "status": "部分证据，禁止默认用于新教程",
+      "missing_or_blocking_reasons": [
+        "对应实机型号结果已核实，但视频没有系统版本证据"
+      ],
+      "steps": [
+        {
+          "step": "apps",
+          "asset_id": "samsung-video-s26-apps",
+          "video_seconds": 5,
+          "os_version_evidence": "原视频未显示"
+        },
+        {
+          "step": "settings",
+          "asset_id": "samsung-video-s26-settings",
+          "video_seconds": 11,
+          "os_version_evidence": "原视频未显示"
+        },
+        {
+          "step": "about",
+          "asset_id": "samsung-video-s26-about",
+          "video_seconds": 28,
+          "os_version_evidence": "原视频未显示"
+        }
+      ],
+      "target_field_values_replaced": false,
+      "publication_processing": "未进行店铺版式或发布遮挡；派生版本在对应店铺记录",
+      "publish_ready": false,
+      "verified_on": "2026-11-03",
+      "source_index": "Samsung/实机页面_20261103_来源.json",
+      "result_field": "Product name",
+      "result_value": "Galaxy S26",
+      "model_code": "SM-S942B/DS",
+      "source_composition": "single_model_video",
+      "os_evidence": "原视频未展示版本号",
+      "source_author": "Games & Apps Tutorials",
+      "source_video": "https://www.youtube.com/watch?v=7wJT2CLk_u8"
+    }
+  ],
+  "legacy_bindings": [
+    {
+      "legacy_id": "legacy-ios-device-binding-iPhone11",
+      "model_id": "iPhone11",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "devices.iPhone11",
+      "material_class": "historical_illustration",
+      "reference_kind": "mixed_os_legacy_reference",
+      "actual_menu_model": "iPhone 11",
+      "actual_menu_os": "iOS 15.1",
+      "default_usable_for_new_tutorial": false,
+      "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注"
+    },
+    {
+      "legacy_id": "legacy-ios-device-binding-iPhone11Pro",
+      "model_id": "iPhone11Pro",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "devices.iPhone11Pro",
+      "material_class": "historical_illustration",
+      "reference_kind": "cross_model_example_annotation",
+      "actual_menu_model": "iPhone 11",
+      "actual_menu_os": "iOS 15.1",
+      "default_usable_for_new_tutorial": false,
+      "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注"
+    },
+    {
+      "legacy_id": "legacy-ios-device-binding-iPhone11ProMax",
+      "model_id": "iPhone11ProMax",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "devices.iPhone11ProMax",
+      "material_class": "historical_illustration",
+      "reference_kind": "cross_model_example_annotation",
+      "actual_menu_model": "iPhone 11",
+      "actual_menu_os": "iOS 15.1",
+      "default_usable_for_new_tutorial": false,
+      "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注"
+    },
+    {
+      "legacy_id": "legacy-ios-device-binding-iPhone12",
+      "model_id": "iPhone12",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "devices.iPhone12",
+      "material_class": "historical_illustration",
+      "reference_kind": "cross_model_example_annotation",
+      "actual_menu_model": "iPhone 11",
+      "actual_menu_os": "iOS 15.1",
+      "default_usable_for_new_tutorial": false,
+      "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注"
+    },
+    {
+      "legacy_id": "legacy-ios-device-binding-iPhone12mini",
+      "model_id": "iPhone12mini",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "devices.iPhone12mini",
+      "material_class": "historical_illustration",
+      "reference_kind": "cross_model_example_annotation",
+      "actual_menu_model": "iPhone 11",
+      "actual_menu_os": "iOS 15.1",
+      "default_usable_for_new_tutorial": false,
+      "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注"
+    },
+    {
+      "legacy_id": "legacy-ios-device-binding-iPhone12ProMax",
+      "model_id": "iPhone12ProMax",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "devices.iPhone12ProMax",
+      "material_class": "historical_illustration",
+      "reference_kind": "cross_model_example_annotation",
+      "actual_menu_model": "iPhone 11",
+      "actual_menu_os": "iOS 15.1",
+      "default_usable_for_new_tutorial": false,
+      "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注"
+    },
+    {
+      "legacy_id": "legacy-ios-device-binding-iPhone14",
+      "model_id": "iPhone14",
+      "source_index": "Apple/素材索引.json",
+      "source_entry": "devices.iPhone14",
+      "material_class": "historical_illustration",
+      "reference_kind": "cross_model_example_annotation",
+      "actual_menu_model": "iPhone 11",
+      "actual_menu_os": "iOS 15.1",
+      "default_usable_for_new_tutorial": false,
+      "reason": "保留旧代码读取兼容；菜单来自iPhone11／iOS15.1，主屏另有系统来源，其他机型旧末屏为示例标注"
+    }
+  ],
+  "source_indexes": [
+    "Apple/素材索引.json",
+    "Apple/素材索引_Vodafone_iOS18_20261103.json",
+    "Apple/素材索引_Optus_iPhone6_iOS12_20261103.json",
+    "Samsung/素材索引.json",
+    "Samsung/对应机型_20261103_来源.json",
+    "Samsung/实机页面_20261103_来源.json"
+  ],
+  "gaps": [
+    {
+      "sequence_id": "native-ios-iphone11-ios16-o2-home",
+      "model_id": "iPhone11",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "missing",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone11pro-ios16-o2-home",
+      "model_id": "iPhone11Pro",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "missing",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone11promax-ios16-o2-home",
+      "model_id": "iPhone11ProMax",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "missing",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone12-ios16-o2-home",
+      "model_id": "iPhone12",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "missing",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone12mini-ios16-o2-home",
+      "model_id": "iPhone12mini",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "missing",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone12promax-ios16-o2-home",
+      "model_id": "iPhone12ProMax",
+      "os": {
+        "name": "iOS",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "missing",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone14-ios18-o2-home",
+      "model_id": "iPhone14",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "missing",
+      "missing_or_blocking_reasons": [
+        "只有对应系统的主屏和机框，缺同机型同系统Settings／General／About及真实非空结果"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone11-ios15-1-idownloadblog-menus",
+      "model_id": "iPhone11",
+      "os": {
+        "name": "iOS",
+        "version": "15.1",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "original_non_empty",
+      "missing_or_blocking_reasons": [
+        "缺iOS15.1来源的主屏Settings图标入口；不得借iOS16主屏拼成同OS完整四步"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone13pro-ios18-vodafone",
+      "model_id": "iPhone13Pro",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "source_left_blank",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone13mini-ios18-vodafone",
+      "model_id": "iPhone13mini",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "source_left_blank",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone13promax-ios18-vodafone",
+      "model_id": "iPhone13ProMax",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "source_left_blank",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone14promax-ios18-vodafone",
+      "model_id": "iPhone14ProMax",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "source_left_blank",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone14pro-ios18-vodafone",
+      "model_id": "iPhone14Pro",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "source_left_blank",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone14plus-ios18-vodafone",
+      "model_id": "iPhone14Plus",
+      "os": {
+        "name": "iOS",
+        "version": "18",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "source_left_blank",
+      "missing_or_blocking_reasons": [
+        "原始About的Model Name／Model Number值留空，只有完整菜单结构，不能完成真实型号识别"
+      ]
+    },
+    {
+      "sequence_id": "native-ios-iphone6-ios12-optus-structure",
+      "model_id": "iPhone6",
+      "os": {
+        "name": "iOS",
+        "version": "12.0",
+        "evidence_level": "visible_source_version_and_publisher_page",
+        "build": "16A366"
+      },
+      "result_state": "source_left_blank",
+      "missing_or_blocking_reasons": [
+        "原始About的Model值留空；Name为iPhone，不能判定6／6s／7／8或SE",
+        "来源实际型号仅iPhone6，不扩展认证为6s／7／8／SE原始截图"
+      ]
+    },
+    {
+      "sequence_id": "native-samsung-legacy-s10-os-unknown-reference",
+      "model_id": null,
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "result_state": "legacy_result_not_new_target",
+      "missing_or_blocking_reasons": [
+        "缺确切系统版本及完整序列；旧Galaxy S10示例不能作为S23至S26结果"
+      ]
+    },
+    {
+      "sequence_id": "native-samsung-s24-android14-vodafone-20261103",
+      "model_id": "SamsungGalaxyS24",
+      "os": {
+        "name": "Android",
+        "version": "14",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "scrolled_out_of_view",
+      "missing_or_blocking_reasons": [
+        "原始About已滚动到底部，不含Product name，不能用空白处填机型补成结果"
+      ]
+    },
+    {
+      "sequence_id": "native-samsung-s25-android15-vodafone-20261103",
+      "model_id": "SamsungGalaxyS25",
+      "os": {
+        "name": "Android",
+        "version": "15",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "scrolled_out_of_view",
+      "missing_or_blocking_reasons": [
+        "原始About已滚动到底部，不含Product name，不能用空白处填机型补成结果"
+      ]
+    },
+    {
+      "sequence_id": "native-samsung-s26-android16-vodafone-20261103",
+      "model_id": "SamsungGalaxyS26",
+      "os": {
+        "name": "Android",
+        "version": "16",
+        "evidence_level": "publisher_page"
+      },
+      "result_state": "scrolled_out_of_view",
+      "missing_or_blocking_reasons": [
+        "原始About已滚动到底部，不含Product name，不能用空白处填机型补成结果"
+      ]
+    },
+    {
+      "sequence_id": "native-samsung-s24-os-unknown-video-20261103",
+      "model_id": "SamsungGalaxyS24",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "result_state": "original_non_empty",
+      "missing_or_blocking_reasons": [
+        "对应实机型号结果已核实，但视频没有系统版本证据"
+      ]
+    },
+    {
+      "sequence_id": "native-samsung-s25-os-unknown-video-20261103",
+      "model_id": "SamsungGalaxyS25",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "result_state": "original_non_empty",
+      "missing_or_blocking_reasons": [
+        "对应实机型号结果已核实，但视频没有系统版本证据",
+        "本次仅选定无遮挡末屏，缺同一来源的完整前两步"
+      ]
+    },
+    {
+      "sequence_id": "native-samsung-s25-mixed-os-reference-20261103",
+      "model_id": "SamsungGalaxyS25",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "result_state": "original_non_empty",
+      "missing_or_blocking_reasons": [
+        "前两步为Android15运营商原图，末步实机系统未知，不能当作同系统完整实录"
+      ]
+    },
+    {
+      "sequence_id": "native-samsung-s26-os-unknown-video-20261103",
+      "model_id": "SamsungGalaxyS26",
+      "os": {
+        "name": "Android",
+        "version": null,
+        "evidence_level": "unknown"
+      },
+      "result_state": "original_non_empty",
+      "missing_or_blocking_reasons": [
+        "对应实机型号结果已核实，但视频没有系统版本证据"
+      ]
+    }
+  ],
+  "model_coverage": [
+    {
+      "model_id": "iPhone5",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone5c",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone5s",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhoneSE2016",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone6",
+      "raw_sequence_ids": [
+        "native-ios-iphone6-ios12-optus-structure"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone6Plus",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone6s",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone6sPlus",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone7",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone7Plus",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone8",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone8Plus",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhoneX",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhoneXS",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhoneXSMax",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhoneXR",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone11",
+      "raw_sequence_ids": [
+        "native-ios-iphone11-ios16-o2-home",
+        "native-ios-iphone11-ios15-1-idownloadblog-menus"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone11Pro",
+      "raw_sequence_ids": [
+        "native-ios-iphone11pro-ios16-o2-home"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone11ProMax",
+      "raw_sequence_ids": [
+        "native-ios-iphone11promax-ios16-o2-home"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhoneSE2020",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone12mini",
+      "raw_sequence_ids": [
+        "native-ios-iphone12mini-ios16-o2-home"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone12",
+      "raw_sequence_ids": [
+        "native-ios-iphone12-ios16-o2-home"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone12Pro",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone12ProMax",
+      "raw_sequence_ids": [
+        "native-ios-iphone12promax-ios16-o2-home"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone13mini",
+      "raw_sequence_ids": [
+        "native-ios-iphone13mini-ios18-vodafone"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone13",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone13Pro",
+      "raw_sequence_ids": [
+        "native-ios-iphone13pro-ios18-vodafone"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone13ProMax",
+      "raw_sequence_ids": [
+        "native-ios-iphone13promax-ios18-vodafone"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhoneSE2022",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone14",
+      "raw_sequence_ids": [
+        "native-ios-iphone14-ios18-o2-home"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone14Plus",
+      "raw_sequence_ids": [
+        "native-ios-iphone14plus-ios18-vodafone"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone14Pro",
+      "raw_sequence_ids": [
+        "native-ios-iphone14pro-ios18-vodafone"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone14ProMax",
+      "raw_sequence_ids": [
+        "native-ios-iphone14promax-ios18-vodafone"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "iPhone15",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone15Plus",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone15Pro",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone15ProMax",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone16",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone16Plus",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone16Pro",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone16ProMax",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone16e",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone17",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhoneAir",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone17Pro",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone17ProMax",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone17e",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone18Pro",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "iPhone18ProMax",
+      "raw_sequence_ids": [],
+      "default_usable_sequence_ids": [],
+      "state": "no_original_sequence_in_library"
+    },
+    {
+      "model_id": "SamsungGalaxyS23",
+      "raw_sequence_ids": [
+        "native-samsung-s23-android13-vodafone-20261103"
+      ],
+      "default_usable_sequence_ids": [
+        "native-samsung-s23-android13-vodafone-20261103"
+      ],
+      "state": "has_default_complete_sequence"
+    },
+    {
+      "model_id": "SamsungGalaxyS24",
+      "raw_sequence_ids": [
+        "native-samsung-s24-android14-vodafone-20261103",
+        "native-samsung-s24-os-unknown-video-20261103"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "SamsungGalaxyS25",
+      "raw_sequence_ids": [
+        "native-samsung-s25-android15-vodafone-20261103",
+        "native-samsung-s25-os-unknown-video-20261103",
+        "native-samsung-s25-mixed-os-reference-20261103"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    },
+    {
+      "model_id": "SamsungGalaxyS26",
+      "raw_sequence_ids": [
+        "native-samsung-s26-android16-vodafone-20261103",
+        "native-samsung-s26-os-unknown-video-20261103"
+      ],
+      "default_usable_sequence_ids": [],
+      "state": "partial_evidence"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "updated": "2026-11-03",
+  "types": {
+    "home": "听筒、上下边框和实体Home键",
+    "wide-notch": "与屏幕顶部相连的宽刘海",
+    "compact-notch": "13系列起使用的小刘海；按具体机型查表",
+    "island": "灵动岛；不得套用于旧Home或刘海机型",
+    "punch": "居中单打孔；只记录前屏结构，不代表已有独立正面素材",
+    "pending": "既有资料尚未确认该型号前屏，不能用相似型号替代"
+  },
+  "models": [
+    {
+      "id": "iPhone5",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone5c",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone5s",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhoneSE2016",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone6",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone6Plus",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone6s",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone6sPlus",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone7",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone7Plus",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone8",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone8Plus",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhoneX",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhoneXS",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhoneXSMax",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhoneXR",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhone11",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhone11Pro",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhone11ProMax",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhoneSE2020",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone12mini",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhone12",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhone12Pro",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhone12ProMax",
+      "front_type": "wide-notch"
+    },
+    {
+      "id": "iPhone13mini",
+      "front_type": "compact-notch"
+    },
+    {
+      "id": "iPhone13",
+      "front_type": "compact-notch"
+    },
+    {
+      "id": "iPhone13Pro",
+      "front_type": "compact-notch"
+    },
+    {
+      "id": "iPhone13ProMax",
+      "front_type": "compact-notch"
+    },
+    {
+      "id": "iPhoneSE2022",
+      "front_type": "home"
+    },
+    {
+      "id": "iPhone14",
+      "front_type": "compact-notch"
+    },
+    {
+      "id": "iPhone14Plus",
+      "front_type": "compact-notch"
+    },
+    {
+      "id": "iPhone14Pro",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone14ProMax",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone15",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone15Plus",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone15Pro",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone15ProMax",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone16",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone16Plus",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone16Pro",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone16ProMax",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone16e",
+      "front_type": "compact-notch"
+    },
+    {
+      "id": "iPhone17",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhoneAir",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone17Pro",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone17ProMax",
+      "front_type": "island"
+    },
+    {
+      "id": "iPhone17e",
+      "front_type": "compact-notch"
+    },
+    {
+      "id": "iPhone18Pro",
+      "front_type": "pending"
+    },
+    {
+      "id": "iPhone18ProMax",
+      "front_type": "pending"
+    },
+    {
+      "id": "SamsungGalaxyS23",
+      "front_type": "punch"
+    },
+    {
+      "id": "SamsungGalaxyS24",
+      "front_type": "punch"
+    },
+    {
+      "id": "SamsungGalaxyS25",
+      "front_type": "punch"
+    },
+    {
+      "id": "SamsungGalaxyS26",
+      "front_type": "punch"
+    }
+  ],
+  "svg_examples": {
+    "M02": {
+      "model": "iPhone6s",
+      "frame": "home",
+      "screen": [
+        750,
+        1334
+      ],
+      "os": "15.0"
+    },
+    "M03": {
+      "model": "iPhone6sPlus",
+      "frame": "home",
+      "screen": [
+        1080,
+        1920
+      ],
+      "os": "15.0"
+    },
+    "M04": {
+      "model": "iPhone11Pro",
+      "frame": "wide-notch",
+      "screen": [
+        1125,
+        2436
+      ],
+      "os": "15.0"
+    },
+    "M05": {
+      "model": "iPhone11ProMax",
+      "frame": "wide-notch",
+      "screen": [
+        1242,
+        2688
+      ],
+      "os": "15.0"
+    },
+    "M06": {
+      "model": "iPhone11",
+      "frame": "wide-notch",
+      "screen": [
+        828,
+        1792
+      ],
+      "os": "15.0",
+      "lcd": true
+    },
+    "M07": {
+      "model": "iPhone12Pro",
+      "frame": "wide-notch",
+      "screen": [
+        1170,
+        2532
+      ],
+      "os": "15.0"
+    },
+    "M08": {
+      "model": "iPhone13mini",
+      "frame": "compact-notch",
+      "screen": [
+        1080,
+        2340
+      ],
+      "os": "15.0"
+    },
+    "M09": {
+      "model": "iPhone13ProMax",
+      "frame": "compact-notch",
+      "screen": [
+        1284,
+        2778
+      ],
+      "os": "15.0"
+    }
+  },
+  "native_index": "../../设置页面/Apple/素材索引.json",
+  "note": "示例OS、截图来源和目标型号一起检查；6s可用的iOS15示例不代表6支持iOS15。",
+  "schematic_cutout_assets": {
+    "index": "../尺寸与轮廓/前屏遮挡轮廓/参数与适用.json",
+    "preview": "../尺寸与轮廓/前屏遮挡轮廓/轮廓预览.png",
+    "scope": "示意曲线与缩放参考，不替代真实机框；原有iPhone型号分类不变，三星示例在轮廓索引内。"
+  },
+  "normalization": {
+    "normalized_at": "2026-11-03",
+    "canonical_model_source": "../型号与尺寸.json",
+    "projection_fields": [
+      "id",
+      "front_type"
+    ],
+    "role": "前屏结构兼容读取视图，不是系统版本或真实设置页的证据",
+    "front_structure_is_not_front_asset_coverage": true,
+    "native_tutorial_binding": "按具体型号、系统、地区及结果字段读取真实教程素材索引；不得因前屏类型相同而共用其他机型设置页",
+    "unknown_front_policy": "pending保持待核实，不自动改成刘海或灵动岛"
+  }
+}

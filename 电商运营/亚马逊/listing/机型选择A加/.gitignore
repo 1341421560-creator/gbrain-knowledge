@@ -1,0 +1,8 @@
+# 知识库只保存通用素材、通用流程、店铺模板和少量参考图。
+**/output/
+**/node_modules/
+**/.cache/
+**/temp/
+**/tmp/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<title>五档手机机身固定尺寸模板</title>
+<desc>6.1、6.3、6.5、6.7、6.9英寸分档的固定机身绘图参考，五部机身同底线。以300像素高为基准，每档增加10像素。</desc>
+<rect width="1200" height="650" fill="#FAFCFA"/>
+<g font-family="Arial, sans-serif"><text x="48" y="49" font-size="32" font-weight="700" fill="#10251B">Phone size template</text><text x="48" y="79" font-size="17" fill="#5C6F64">Body dimensions in pixels · Shared baseline · Scale all five devices together</text></g>
+<path d="M65 470H1140" fill="none" stroke="#B8C9BE" stroke-width="1.5" stroke-dasharray="5 5"/>
+<g font-family="Arial, sans-serif">
+<rect x="105" y="100" width="130" height="32" rx="16" fill="#E8F2EB"/>
+<text x="170" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#164E35">6.1-inch</text>
+<g transform="translate(97 170)"><rect x="1" y="1" width="144" height="298" rx="20" fill="#E8EFEB" stroke="#64786E" stroke-width="2"/></g>
+<path d="M79 170V470 M74 170H84 M74 470H84" fill="none" stroke="#94A3A0" stroke-width="1"/>
+<text x="71" y="320" text-anchor="middle" transform="rotate(-90 71 320)" font-size="13" fill="#64746E">300 px</text>
+<text x="170" y="509" text-anchor="middle" font-size="18" font-weight="700" fill="#10271E">146 × 300 px</text>
+<text x="170" y="536" text-anchor="middle" font-size="17" fill="#377454">100.0%</text>
+</g>
+<g font-family="Arial, sans-serif">
+<rect x="320" y="100" width="130" height="32" rx="16" fill="#E8F2EB"/>
+<text x="385" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#164E35">6.3-inch</text>
+<g transform="translate(309.5 160)"><rect x="1.0333333333333334" y="1.0333333333333334" width="148.93333333333334" height="307.93333333333334" rx="20.666666666666668" fill="#E8EFEB" stroke="#64786E" stroke-width="2.066666666666667"/></g>
+<path d="M291.5 160V470 M286.5 160H296.5 M286.5 470H296.5" fill="none" stroke="#94A3A0" stroke-width="1"/>
+<text x="283.5" y="315" text-anchor="middle" transform="rotate(-90 283.5 315)" font-size="13" fill="#64746E">310 px</text>
+<text x="385" y="509" text-anchor="middle" font-size="18" font-weight="700" fill="#10271E">151 × 310 px</text>
+<text x="385" y="536" text-anchor="middle" font-size="17" fill="#377454">103.3%</text>
+</g>
+<g font-family="Arial, sans-serif">
+<rect x="535" y="100" width="130" height="32" rx="16" fill="#E8F2EB"/>
+<text x="600" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#164E35">6.5-inch</text>
+<g transform="translate(522 150)"><rect x="1.0666666666666667" y="1.0666666666666667" width="153.86666666666667" height="317.8666666666667" rx="21.333333333333332" fill="#E8EFEB" stroke="#64786E" stroke-width="2.1333333333333333"/></g>
+<path d="M504 150V470 M499 150H509 M499 470H509" fill="none" stroke="#94A3A0" stroke-width="1"/>
+<text x="496" y="310" text-anchor="middle" transform="rotate(-90 496 310)" font-size="13" fill="#64746E">320 px</text>
+<text x="600" y="509" text-anchor="middle" font-size="18" font-weight="700" fill="#10271E">156 × 320 px</text>
+<text x="600" y="536" text-anchor="middle" font-size="17" fill="#377454">106.7%</text>
+</g>
+<g font-family="Arial, sans-serif">
+<rect x="750" y="100" width="130" height="32" rx="16" fill="#E8F2EB"/>
+<text x="815" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#164E35">6.7-inch</text>
+<g transform="translate(734.5 140)"><rect x="1.1" y="1.1" width="158.8" height="327.8" rx="22" fill="#E8EFEB" stroke="#64786E" stroke-width="2.2"/></g>
+<path d="M716.5 140V470 M711.5 140H721.5 M711.5 470H721.5" fill="none" stroke="#94A3A0" stroke-width="1"/>
+<text x="708.5" y="305" text-anchor="middle" transform="rotate(-90 708.5 305)" font-size="13" fill="#64746E">330 px</text>
+<text x="815" y="509" text-anchor="middle" font-size="18" font-weight="700" fill="#10271E">161 × 330 px</text>
+<text x="815" y="536" text-anchor="middle" font-size="17" fill="#377454">110.0%</text>
+</g>
+<g font-family="Arial, sans-serif">
+<rect x="965" y="100" width="130" height="32" rx="16" fill="#E8F2EB"/>
+<text x="1030" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#164E35">6.9-inch</text>
+<g transform="translate(947.5 130)"><rect x="1.1333333333333333" y="1.1333333333333333" width="162.73333333333332" height="337.73333333333335" rx="22.666666666666664" fill="#E8EFEB" stroke="#64786E" stroke-width="2.2666666666666666"/></g>
+<path d="M929.5 130V470 M924.5 130H934.5 M924.5 470H934.5" fill="none" stroke="#94A3A0" stroke-width="1"/>
+<text x="921.5" y="300" text-anchor="middle" transform="rotate(-90 921.5 300)" font-size="13" fill="#64746E">340 px</text>
+<text x="1030" y="509" text-anchor="middle" font-size="18" font-weight="700" fill="#10271E">165 × 340 px</text>
+<text x="1030" y="536" text-anchor="middle" font-size="17" fill="#377454">113.3%</text>
+</g>
+<rect x="40" y="570" width="1120" height="56" rx="12" fill="#E8F2EB"/>
+<g font-family="Arial, sans-serif" fill="#244F38"><text x="60" y="594" font-size="16" font-weight="700">6.1-inch = 100%   ·   6.7-inch = 110%   ·   6.9-inch = 113.3%</text><text x="60" y="615" font-size="14">Scale width and height by the same percentage. Keep the original aspect ratio of each actual device.</text></g>
+</svg>

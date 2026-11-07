@@ -1,0 +1,311 @@
+{
+  "updated": "2026-11-03",
+  "owner": "JHWVVTF",
+  "variants": [
+    {
+      "id": "premium",
+      "width": 1464,
+      "height": 600
+    },
+    {
+      "id": "standard",
+      "width": 970,
+      "height": 600
+    },
+    {
+      "id": "mobile",
+      "width": 600,
+      "height": 450
+    }
+  ],
+  "templates": [
+    {
+      "id": "J01",
+      "name": "单型号四宫格",
+      "page": "版式说明.md#j01",
+      "state": "浮层排版已确认，18/18哈希复现一致；截图词库另验",
+      "engine": "工程/原生iOS浮层_20261103",
+      "refs": [
+        "参考结果/20261103_统一浮层版/iPhone14Pro_高级A加_1464x600_统一浮层版.jpg",
+        "参考结果/20261103_统一浮层版/iPhone14Pro_普通A加_970x600_统一浮层版.jpg",
+        "参考结果/20261103_统一浮层版/iPhone14Pro_移动端_600x450_统一浮层版.jpg"
+      ],
+      "revision": "原生iOS浮层_20261103",
+      "geometry": "真实毫米；0.60／0.60／1/3",
+      "scope": "13 Pro、13 mini、13 Pro Max、14 Pro Max、14 Pro、14 Plus；6款×三端",
+      "presentation": {
+        "mode": "anchored-floating-targets",
+        "bottomLabelRow": false,
+        "leaderLines": false,
+        "modelCallout": true
+      },
+      "authorityRef": "参考结果/20261103_统一浮层版/用户确认_iPhone11ProMax_浮层排版参考.png",
+      "store_id": "JHWVVTF",
+      "variant_id": "ios-anchored-floating",
+      "layout_status": "已确认浮层视觉，18张历史复现一致",
+      "native_ui_status": "已核实对应iOS18菜单结构，原始About型号值为空；成品型号为示例标注",
+      "default_usable_for_new_native_tutorial": false,
+      "publication_status": "历史排版与复现资料；截图真实性及最终站点文字另验，不继承整图通过",
+      "selection_policy_ref": "#selection_policy",
+      "geometry_current_policy": "同图统一像素/毫米比例，保持真实外廓宽高比；不得非等比拉伸"
+    },
+    {
+      "id": "J02",
+      "name": "合并型号，单机身展示",
+      "page": "版式说明.md#j02",
+      "state": "按组合和教程修订选用",
+      "engine": "工程/真实iOS机型卡片_v3",
+      "refs": [
+        "参考结果/真实iOS合并单机身/iPhone12及12Pro_普通A加_970x600_重点虚化v3.jpg",
+        "参考结果/真实iOS合并单机身/iPhone12及12Pro_移动端_600x450_重点虚化v3.jpg",
+        "参考结果/真实iOS合并单机身/iPhone12及12Pro_高级A加_1464x600_重点虚化v3.jpg"
+      ],
+      "revision": "真实iOS_20261029_v3",
+      "geometry": "真实毫米；历史e/Pro用档位",
+      "scope": "12/12 Pro、14/13；历史e/Pro单独工程退出",
+      "store_id": "JHWVVTF",
+      "variant_id": "ios-merged-single-body",
+      "layout_status": "已归档单机身合并版式",
+      "native_ui_status": "共用iPhone11/iOS15.1菜单底图，目标型号为示例，不认定组内机型完整真实覆盖",
+      "default_usable_for_new_native_tutorial": false,
+      "publication_status": "历史排版与复现资料；截图真实性及最终站点文字另验，不继承整图通过",
+      "selection_policy_ref": "#selection_policy",
+      "geometry_current_policy": "同图统一像素/毫米比例，保持真实外廓宽高比；不得非等比拉伸"
+    },
+    {
+      "id": "J03",
+      "name": "合并型号，多机身展示",
+      "page": "版式说明.md#j03",
+      "state": "硬件修正后可复现，发布词库另验",
+      "engine": "工程/多机身合并_SVG示意_20261029",
+      "refs": [
+        "参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_普通A加_970x600.png",
+        "参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_移动端_600x450.png",
+        "参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_高级A加_1464x600.png"
+      ],
+      "revision": "SVG示意_硬件修正_20261029_v3",
+      "geometry": "真实毫米",
+      "scope": "M02–M09，8组×3端",
+      "store_id": "JHWVVTF",
+      "variant_id": "schematic-merged-multiple-bodies",
+      "layout_status": "已归档硬件修正的多机身版式",
+      "native_ui_status": "绘制的SVG教程示意，非真实系统原图",
+      "default_usable_for_new_native_tutorial": false,
+      "publication_status": "历史排版与复现资料；截图真实性及最终站点文字另验，不继承整图通过",
+      "selection_policy_ref": "#selection_policy",
+      "geometry_current_policy": "同图统一像素/毫米比例，保持真实外廓宽高比；不得非等比拉伸"
+    }
+  ],
+  "note": "旧templates/variants/history字段为兼容保留；新取用以current_revisions和selection_policy为准。当前指针只选版式，不代表原图或发布验收通过。",
+  "schema_version": 2,
+  "store_id": "JHWVVTF",
+  "selection_policy": {
+    "selection_order": [
+      "store_id",
+      "template_id",
+      "variant_id",
+      "spec_id",
+      "current_revision"
+    ],
+    "require_explicit_store": true,
+    "cross_store_template_fallback_allowed": false,
+    "missing_spec_behavior": "标明缺项；不得缩放其他规格或借用其他店铺冒充已确认版本",
+    "native_ui_coverage_index": "../../通用素材/设置页面/覆盖索引.json",
+    "native_ui_required_flags": [
+      "model_verified",
+      "os_verified",
+      "result_verified",
+      "sequence_complete",
+      "default_usable_for_new_tutorial"
+    ],
+    "unknown_os_default_usable": false,
+    "physical_model_index": "../../通用素材/手机机身/型号与尺寸.json",
+    "new_body_scale_mode": "同图统一像素/毫米比例，保持真实外廓宽高比；不得非等比拉伸",
+    "tutorial_display_scale": "教程屏幕尺寸由本店铺版式独立控制，不能覆盖机身物理尺寸",
+    "legacy_reference_geometry": "原图及既有等高展示保留复现，不能声称已按新规则重画或重新校准",
+    "publication_gate": "旧词库检查只属于当时文件、站点及修订，原始资料不可据此直接发布"
+  },
+  "selection_registry_role": "本店铺唯一当前版式指针；教程原图资格读取通用覆盖索引",
+  "current_revisions": [
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J01",
+      "variant_id": "ios-anchored-floating",
+      "spec_id": "premium",
+      "canvas": [
+        1464,
+        600
+      ],
+      "current_revision": "原生iOS浮层_20261103",
+      "layout_status": "available_reference",
+      "configuration": "工程/原生iOS浮层_20261103/配置/四宫格版式.json",
+      "references": [
+        "参考结果/20261103_统一浮层版/iPhone14Pro_高级A加_1464x600_统一浮层版.jpg"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "已核实对应iOS18菜单结构，原始About型号值为空；成品型号为示例标注",
+      "publication_status": "requires_final_review"
+    },
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J01",
+      "variant_id": "ios-anchored-floating",
+      "spec_id": "standard",
+      "canvas": [
+        970,
+        600
+      ],
+      "current_revision": "原生iOS浮层_20261103",
+      "layout_status": "available_reference",
+      "configuration": "工程/原生iOS浮层_20261103/配置/四宫格版式.json",
+      "references": [
+        "参考结果/20261103_统一浮层版/iPhone14Pro_普通A加_970x600_统一浮层版.jpg"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "已核实对应iOS18菜单结构，原始About型号值为空；成品型号为示例标注",
+      "publication_status": "requires_final_review"
+    },
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J01",
+      "variant_id": "ios-anchored-floating",
+      "spec_id": "mobile",
+      "canvas": [
+        600,
+        450
+      ],
+      "current_revision": "原生iOS浮层_20261103",
+      "layout_status": "available_reference",
+      "configuration": "工程/原生iOS浮层_20261103/配置/四宫格版式.json",
+      "references": [
+        "参考结果/20261103_统一浮层版/iPhone14Pro_移动端_600x450_统一浮层版.jpg"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "已核实对应iOS18菜单结构，原始About型号值为空；成品型号为示例标注",
+      "publication_status": "requires_final_review"
+    },
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J02",
+      "variant_id": "ios-merged-single-body",
+      "spec_id": "premium",
+      "canvas": [
+        1464,
+        600
+      ],
+      "current_revision": "真实iOS_20261029_v3",
+      "layout_status": "available_reference",
+      "configuration": "工程/真实iOS机型卡片_v3/配置/合并_高级A加.json",
+      "references": [
+        "参考结果/真实iOS合并单机身/iPhone12及12Pro_高级A加_1464x600_重点虚化v3.jpg"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "共用iPhone11/iOS15.1菜单底图，目标型号为示例，不认定组内机型完整真实覆盖",
+      "publication_status": "requires_final_review"
+    },
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J02",
+      "variant_id": "ios-merged-single-body",
+      "spec_id": "standard",
+      "canvas": [
+        970,
+        600
+      ],
+      "current_revision": "真实iOS_20261029_v3",
+      "layout_status": "available_reference",
+      "configuration": "工程/真实iOS机型卡片_v3/配置/合并_普通A加.json",
+      "references": [
+        "参考结果/真实iOS合并单机身/iPhone12及12Pro_普通A加_970x600_重点虚化v3.jpg"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "共用iPhone11/iOS15.1菜单底图，目标型号为示例，不认定组内机型完整真实覆盖",
+      "publication_status": "requires_final_review"
+    },
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J02",
+      "variant_id": "ios-merged-single-body",
+      "spec_id": "mobile",
+      "canvas": [
+        600,
+        450
+      ],
+      "current_revision": "真实iOS_20261029_v3",
+      "layout_status": "available_reference",
+      "configuration": "工程/真实iOS机型卡片_v3/配置/合并_移动端.json",
+      "references": [
+        "参考结果/真实iOS合并单机身/iPhone12及12Pro_移动端_600x450_重点虚化v3.jpg"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "共用iPhone11/iOS15.1菜单底图，目标型号为示例，不认定组内机型完整真实覆盖",
+      "publication_status": "requires_final_review"
+    },
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J03",
+      "variant_id": "schematic-merged-multiple-bodies",
+      "spec_id": "premium",
+      "canvas": [
+        1464,
+        600
+      ],
+      "current_revision": "SVG示意_硬件修正_20261029_v3",
+      "layout_status": "available_reference",
+      "configuration": "工程/多机身合并_SVG示意_20261029/配置/版式.json",
+      "references": [
+        "参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_高级A加_1464x600.png"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "绘制的SVG教程示意，非真实系统原图",
+      "publication_status": "requires_final_review"
+    },
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J03",
+      "variant_id": "schematic-merged-multiple-bodies",
+      "spec_id": "standard",
+      "canvas": [
+        970,
+        600
+      ],
+      "current_revision": "SVG示意_硬件修正_20261029_v3",
+      "layout_status": "available_reference",
+      "configuration": "工程/多机身合并_SVG示意_20261029/配置/版式.json",
+      "references": [
+        "参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_普通A加_970x600.png"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "绘制的SVG教程示意，非真实系统原图",
+      "publication_status": "requires_final_review"
+    },
+    {
+      "store_id": "JHWVVTF",
+      "template_id": "J03",
+      "variant_id": "schematic-merged-multiple-bodies",
+      "spec_id": "mobile",
+      "canvas": [
+        600,
+        450
+      ],
+      "current_revision": "SVG示意_硬件修正_20261029_v3",
+      "layout_status": "available_reference",
+      "configuration": "工程/多机身合并_SVG示意_20261029/配置/版式.json",
+      "references": [
+        "参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_移动端_600x450.png"
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "绘制的SVG教程示意，非真实系统原图",
+      "publication_status": "requires_final_review"
+    }
+  ]
+}

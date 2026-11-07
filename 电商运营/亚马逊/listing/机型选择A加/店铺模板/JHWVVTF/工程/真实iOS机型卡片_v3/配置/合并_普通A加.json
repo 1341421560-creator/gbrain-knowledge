@@ -1,0 +1,24 @@
+{
+  "id": "standard", "name": "普通A加", "width": 970, "height": 600, "scale": 0.35,
+  "tutorial": "素材/教程/普通A加原稿.png",
+  "leftHeading": {"x":16,"y":65,"font":34},
+  "rightHeading": {"x":473,"y":65,"font":34},
+  "divider": {"x":458,"top":34,"bottom":580},
+  "tutorialClip": {"x":469,"y":78,"width":501,"height":512},
+  "compatible": {
+    "x":16,"y":83,"width":432,"height":152,"radius":18,"phoneCenterX":71,"baseline":224,
+    "pill":{"x":125,"y":100,"width":118,"height":28,"font":14},
+    "text":{"x":125,"y":163,"font":21,"lineHeight":26,"sizeY":217,"sizeFont":14.5}
+  },
+  "incompatible": [
+    {"x":16,"y":245,"width":211,"height":153,"radius":16,"phoneCenterX":55,"baseline":386,"textX":92},
+    {"x":237,"y":245,"width":211,"height":153,"radius":16,"phoneCenterX":276,"baseline":386,"textX":313},
+    {"x":16,"y":408,"width":211,"height":154,"radius":16,"phoneCenterX":55,"baseline":550,"textX":92},
+    {"x":237,"y":408,"width":211,"height":154,"radius":16,"phoneCenterX":276,"baseline":550,"textX":313}
+  ],
+  "incompatibleText": {
+    "font":13.5,"lineHeight":19,"pairOffsetY":71,"singleOffsetY":71,"pairSizeOffsetY":116,"singleSizeOffsetY":102,
+    "sizeFont":11.8,"pillOffsetY":17,"pillWidth":126,"pillHeight":24,"pillFont":11.7
+  },
+  "callout": {"x":721,"y":517,"width":236,"height":70,"radius":22,"labelY":535,"valueY":555,"lineHeight":21,"labelFont":12,"valueFont":16}
+}

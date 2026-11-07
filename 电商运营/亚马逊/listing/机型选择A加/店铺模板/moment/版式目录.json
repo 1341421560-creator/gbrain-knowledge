@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "updated": "2026-11-03",
+  "owner": "moment",
+  "store_id": "moment",
+  "selection_policy": {
+    "selection_order": [
+      "store_id",
+      "template_id",
+      "variant_id",
+      "spec_id",
+      "current_revision"
+    ],
+    "require_explicit_store": true,
+    "cross_store_template_fallback_allowed": false,
+    "missing_spec_behavior": "标明缺项；不得缩放其他规格或借用其他店铺冒充已确认版本",
+    "native_ui_coverage_index": "../../通用素材/设置页面/覆盖索引.json",
+    "native_ui_required_flags": [
+      "model_verified",
+      "os_verified",
+      "result_verified",
+      "sequence_complete",
+      "default_usable_for_new_tutorial"
+    ],
+    "unknown_os_default_usable": false,
+    "physical_model_index": "../../通用素材/手机机身/型号与尺寸.json",
+    "new_body_scale_mode": "同图统一像素/毫米比例，保持真实外廓宽高比；不得非等比拉伸",
+    "tutorial_display_scale": "教程屏幕尺寸由本店铺版式独立控制，不能覆盖机身物理尺寸",
+    "legacy_reference_geometry": "原图及既有等高展示保留复现，不能声称已按新规则重画或重新校准",
+    "publication_gate": "旧词库检查只属于当时文件、站点及修订，原始资料不可据此直接发布"
+  },
+  "template_families": [
+    {
+      "template_id": "MOM-S01",
+      "variants": [
+        "ios-four-step",
+        "samsung-three-step"
+      ]
+    }
+  ],
+  "current_revisions": [
+    {
+      "store_id": "moment",
+      "template_id": "MOM-S01",
+      "variant_id": "ios-four-step",
+      "spec_id": "premium",
+      "canvas": [
+        1464,
+        600
+      ],
+      "current_revision": null,
+      "layout_status": "missing_confirmed_variant",
+      "configuration": null,
+      "references": [],
+      "layout_selection_enabled": false,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "无该规格已确认版式",
+      "publication_status": "not_available",
+      "fallback_allowed": false
+    },
+    {
+      "store_id": "moment",
+      "template_id": "MOM-S01",
+      "variant_id": "ios-four-step",
+      "spec_id": "standard",
+      "canvas": [
+        970,
+        600
+      ],
+      "current_revision": "2026-11-02_刘海屏与点击放大",
+      "layout_status": "confirmed_reference",
+      "configuration": "模板参数.json",
+      "references": [
+        {
+          "png": "参考结果/a-standard-970x600.png",
+          "svg": "源文件/a-standard.svg",
+          "model_ids": [
+            "iPhone17e",
+            "iPhone16e"
+          ]
+        }
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "iPhone旧示例不可默认作真实页面",
+      "publication_status": "requires_final_review",
+      "fallback_allowed": false
+    },
+    {
+      "store_id": "moment",
+      "template_id": "MOM-S01",
+      "variant_id": "ios-four-step",
+      "spec_id": "mobile",
+      "canvas": [
+        600,
+        450
+      ],
+      "current_revision": null,
+      "layout_status": "missing_confirmed_variant",
+      "configuration": null,
+      "references": [],
+      "layout_selection_enabled": false,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "无该规格已确认版式",
+      "publication_status": "not_available",
+      "fallback_allowed": false
+    },
+    {
+      "store_id": "moment",
+      "template_id": "MOM-S01",
+      "variant_id": "samsung-three-step",
+      "spec_id": "premium",
+      "canvas": [
+        1464,
+        600
+      ],
+      "current_revision": null,
+      "layout_status": "missing_confirmed_variant",
+      "configuration": null,
+      "references": [],
+      "layout_selection_enabled": false,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "无该规格已确认版式",
+      "publication_status": "not_available",
+      "fallback_allowed": false
+    },
+    {
+      "store_id": "moment",
+      "template_id": "MOM-S01",
+      "variant_id": "samsung-three-step",
+      "spec_id": "standard",
+      "canvas": [
+        970,
+        600
+      ],
+      "current_revision": "三星按参考缩框_20261103",
+      "layout_status": "confirmed_reference",
+      "configuration": "源文件/三星按参考缩框_20261103/版式.json",
+      "references": [
+        {
+          "id": "01-galaxy-s23",
+          "model_id": "SamsungGalaxyS23",
+          "tutorial_representative": "Galaxy S23",
+          "compatible_models": [
+            "Galaxy S23"
+          ],
+          "png": "参考结果/三星三步_20261103/aplus-01-galaxy-s23.png",
+          "svg": "源文件/三星三步_20261103/01-galaxy-s23.svg",
+          "source_sequence_id": "native-samsung-s23-android13-vodafone-20261103",
+          "default_usable_for_new_tutorial": true,
+          "native_ui_evidence": {
+            "model_verified": true,
+            "result_verified": true,
+            "os_verified": true,
+            "os_version": "Android 13",
+            "reason": "对应运营商来源标注Android13"
+          },
+          "publication_status": "既有发布处理参考，后续任务仍须核对站点、可见文字和本次输出"
+        },
+        {
+          "id": "02-galaxy-s24",
+          "model_id": "SamsungGalaxyS24",
+          "tutorial_representative": "Galaxy S24",
+          "compatible_models": [
+            "Galaxy S24"
+          ],
+          "png": "参考结果/三星按参考缩框_20261103/aplus-02-galaxy-s24.png",
+          "svg": "源文件/三星按参考缩框_20261103/aplus-02-galaxy-s24.svg",
+          "source_sequence_id": "native-samsung-s24-os-unknown-video-20261103",
+          "default_usable_for_new_tutorial": false,
+          "native_ui_evidence": {
+            "model_verified": true,
+            "result_verified": true,
+            "os_verified": false,
+            "os_version": null,
+            "reason": "实机视频未展示系统版本；S25前两屏Android15不外推末屏"
+          },
+          "publication_status": "既有发布处理参考，后续任务仍须核对站点、可见文字和本次输出",
+          "layout_reference": "源文件/三星按参考缩框_20261103/moment用户指定参考.png"
+        },
+        {
+          "id": "03-galaxy-s25-s24",
+          "model_id": "SamsungGalaxyS25",
+          "tutorial_representative": "Galaxy S25",
+          "compatible_models": [
+            "Galaxy S25",
+            "Galaxy S24"
+          ],
+          "png": "参考结果/三星按参考缩框_20261103/aplus-03-galaxy-s25-s24.png",
+          "svg": "源文件/三星按参考缩框_20261103/aplus-03-galaxy-s25-s24.svg",
+          "source_sequence_id": "native-samsung-s25-mixed-os-reference-20261103",
+          "default_usable_for_new_tutorial": false,
+          "native_ui_evidence": {
+            "model_verified": true,
+            "result_verified": true,
+            "os_verified": false,
+            "os_version": null,
+            "reason": "实机视频未展示系统版本；S25前两屏Android15不外推末屏"
+          },
+          "publication_status": "既有发布处理参考，后续任务仍须核对站点、可见文字和本次输出",
+          "layout_reference": "源文件/三星按参考缩框_20261103/moment用户指定参考.png"
+        },
+        {
+          "id": "04-galaxy-s26",
+          "model_id": "SamsungGalaxyS26",
+          "tutorial_representative": "Galaxy S26",
+          "compatible_models": [
+            "Galaxy S26"
+          ],
+          "png": "参考结果/三星按参考缩框_20261103/aplus-04-galaxy-s26.png",
+          "svg": "源文件/三星按参考缩框_20261103/aplus-04-galaxy-s26.svg",
+          "source_sequence_id": "native-samsung-s26-os-unknown-video-20261103",
+          "default_usable_for_new_tutorial": false,
+          "native_ui_evidence": {
+            "model_verified": true,
+            "result_verified": true,
+            "os_verified": false,
+            "os_version": null,
+            "reason": "实机视频未展示系统版本；S25前两屏Android15不外推末屏"
+          },
+          "publication_status": "既有发布处理参考，后续任务仍须核对站点、可见文字和本次输出",
+          "layout_reference": "源文件/三星按参考缩框_20261103/moment用户指定参考.png"
+        }
+      ],
+      "layout_selection_enabled": true,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "S23按对应来源可选；S24/25/26系统证据待补",
+      "publication_status": "requires_final_review",
+      "fallback_allowed": false
+    },
+    {
+      "store_id": "moment",
+      "template_id": "MOM-S01",
+      "variant_id": "samsung-three-step",
+      "spec_id": "mobile",
+      "canvas": [
+        600,
+        450
+      ],
+      "current_revision": null,
+      "layout_status": "missing_confirmed_variant",
+      "configuration": null,
+      "references": [],
+      "layout_selection_enabled": false,
+      "default_usable_for_new_native_tutorial": false,
+      "native_ui_status": "无该规格已确认版式",
+      "publication_status": "not_available",
+      "fallback_allowed": false
+    }
+  ],
+  "legacy_entry_points": [
+    "模板参数.json"
+  ],
+  "note": "普通A+两种变体已确认视觉；高级A+与移动端明确缺项。原始素材资格和站点发布验收独立，不能跨店铺借模板。",
+  "variant_metadata": {
+    "ios-four-step": "模板参数.json",
+    "samsung-three-step": "源文件/三星按参考缩框_20261103/版式.json"
+  }
+}

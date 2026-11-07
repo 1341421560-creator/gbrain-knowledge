@@ -1,0 +1,1478 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-16",
+  "name": "iPhone5至18_统一真实机身比例模板",
+  "basis": "真实机身毫米尺寸，与屏幕英寸等差绘图标尺分开保存。",
+  "reference": {
+    "model_id": "iPhone15",
+    "body_height_mm": 147.6,
+    "body_width_mm": 71.6,
+    "template_height_px": 300,
+    "template_width_px": 145.52845528455285,
+    "px_per_mm": 2.032520325203252
+  },
+  "rules": [
+    "屏幕英寸只作为标签，不用于推算机身大小。",
+    "按具体型号查机身尺寸；同英寸可能有多种机身外廓。",
+    "目标高/宽=机身高/宽毫米值×基准像素系数×整张图统一缩放系数。",
+    "同排底部对齐，宽高等比缩放；不逐台随卡片空位单独放大。",
+    "机身照片先裁到真实外廓，透明留白不算机身尺寸。",
+    "像素模板只表达外廓；相同高宽不代表摄像头、按键、厚度或手机壳兼容。",
+    "6.3及以上也按同一个毫米系数换算，不拼接旧阶梯档位。"
+  ],
+  "profiles": [
+    {
+      "id": "4.0inch_123.8x58.6mm",
+      "display_inches": 4,
+      "body_mm": {
+        "height": 123.8,
+        "width": 58.6
+      },
+      "template_px": {
+        "width": 119.10569105691059,
+        "height": 251.62601626016263
+      },
+      "models": [
+        "iPhone5",
+        "iPhone5s",
+        "iPhoneSE2016"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/4.0inch_123.8x58.6mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "4.0inch_124.4x59.2mm",
+      "display_inches": 4,
+      "body_mm": {
+        "height": 124.4,
+        "width": 59.2
+      },
+      "template_px": {
+        "width": 120.32520325203254,
+        "height": 252.84552845528458
+      },
+      "models": [
+        "iPhone5c"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/4.0inch_124.4x59.2mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "4.7inch_138.1x67.0mm",
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.1,
+        "width": 67
+      },
+      "template_px": {
+        "width": 136.1788617886179,
+        "height": 280.6910569105691
+      },
+      "models": [
+        "iPhone6"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/4.7inch_138.1x67.0mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "4.7inch_138.3x67.1mm",
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.3,
+        "width": 67.1
+      },
+      "template_px": {
+        "width": 136.3821138211382,
+        "height": 281.0975609756098
+      },
+      "models": [
+        "iPhone6s",
+        "iPhone7"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/4.7inch_138.3x67.1mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "4.7inch_138.4x67.3mm",
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.4,
+        "width": 67.3
+      },
+      "template_px": {
+        "width": 136.78861788617886,
+        "height": 281.3008130081301
+      },
+      "models": [
+        "iPhone8",
+        "iPhoneSE2020",
+        "iPhoneSE2022"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/4.7inch_138.4x67.3mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "5.4inch_131.5x64.2mm",
+      "display_inches": 5.4,
+      "body_mm": {
+        "height": 131.5,
+        "width": 64.2
+      },
+      "template_px": {
+        "width": 130.4878048780488,
+        "height": 267.2764227642277
+      },
+      "models": [
+        "iPhone12mini",
+        "iPhone13mini"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/5.4inch_131.5x64.2mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "5.5inch_158.1x77.8mm",
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.1,
+        "width": 77.8
+      },
+      "template_px": {
+        "width": 158.130081300813,
+        "height": 321.3414634146342
+      },
+      "models": [
+        "iPhone6Plus"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/5.5inch_158.1x77.8mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "5.5inch_158.2x77.9mm",
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.2,
+        "width": 77.9
+      },
+      "template_px": {
+        "width": 158.33333333333337,
+        "height": 321.5447154471545
+      },
+      "models": [
+        "iPhone6sPlus",
+        "iPhone7Plus"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/5.5inch_158.2x77.9mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "5.5inch_158.4x78.1mm",
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.4,
+        "width": 78.1
+      },
+      "template_px": {
+        "width": 158.739837398374,
+        "height": 321.95121951219517
+      },
+      "models": [
+        "iPhone8Plus"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/5.5inch_158.4x78.1mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "5.8inch_143.6x70.9mm",
+      "display_inches": 5.8,
+      "body_mm": {
+        "height": 143.6,
+        "width": 70.9
+      },
+      "template_px": {
+        "width": 144.1056910569106,
+        "height": 291.869918699187
+      },
+      "models": [
+        "iPhoneX",
+        "iPhoneXS"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/5.8inch_143.6x70.9mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "5.8inch_144.0x71.4mm",
+      "display_inches": 5.8,
+      "body_mm": {
+        "height": 144,
+        "width": 71.4
+      },
+      "template_px": {
+        "width": 145.12195121951223,
+        "height": 292.6829268292683
+      },
+      "models": [
+        "iPhone11Pro"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/5.8inch_144.0x71.4mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.1inch_146.6x70.6mm",
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.6,
+        "width": 70.6
+      },
+      "template_px": {
+        "width": 143.4959349593496,
+        "height": 297.9674796747968
+      },
+      "models": [
+        "iPhone15Pro"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.1inch_146.6x70.6mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.1inch_146.7x71.5mm",
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5
+      },
+      "template_px": {
+        "width": 145.32520325203254,
+        "height": 298.1707317073171
+      },
+      "models": [
+        "iPhone12",
+        "iPhone12Pro",
+        "iPhone13",
+        "iPhone13Pro",
+        "iPhone14",
+        "iPhone16e",
+        "iPhone17e"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.1inch_146.7x71.5mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.1inch_147.5x71.5mm",
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 147.5,
+        "width": 71.5
+      },
+      "template_px": {
+        "width": 145.32520325203254,
+        "height": 299.7967479674797
+      },
+      "models": [
+        "iPhone14Pro"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.1inch_147.5x71.5mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.1inch_147.6x71.6mm",
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 147.6,
+        "width": 71.6
+      },
+      "template_px": {
+        "width": 145.52845528455285,
+        "height": 300
+      },
+      "models": [
+        "iPhone15",
+        "iPhone16"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.1inch_147.6x71.6mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.1inch_150.9x75.7mm",
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 150.9,
+        "width": 75.7
+      },
+      "template_px": {
+        "width": 153.8617886178862,
+        "height": 306.70731707317077
+      },
+      "models": [
+        "iPhoneXR",
+        "iPhone11"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.1inch_150.9x75.7mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.3inch_149.6x71.5mm",
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 149.6,
+        "width": 71.5
+      },
+      "template_px": {
+        "width": 145.32520325203254,
+        "height": 304.0650406504065
+      },
+      "models": [
+        "iPhone16Pro",
+        "iPhone17"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.3inch_149.6x71.5mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.3inch_150.0x71.9mm",
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 150,
+        "width": 71.9
+      },
+      "template_px": {
+        "width": 146.13821138211384,
+        "height": 304.87804878048786
+      },
+      "models": [
+        "iPhone17Pro",
+        "iPhone18Pro"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.3inch_150.0x71.9mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.5inch_156.2x74.7mm",
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 156.2,
+        "width": 74.7
+      },
+      "template_px": {
+        "width": 151.82926829268294,
+        "height": 317.479674796748
+      },
+      "models": [
+        "iPhoneAir"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.5inch_156.2x74.7mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.5inch_157.5x77.4mm",
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 157.5,
+        "width": 77.4
+      },
+      "template_px": {
+        "width": 157.31707317073173,
+        "height": 320.1219512195122
+      },
+      "models": [
+        "iPhoneXSMax"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.5inch_157.5x77.4mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.5inch_158.0x77.8mm",
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 158,
+        "width": 77.8
+      },
+      "template_px": {
+        "width": 158.130081300813,
+        "height": 321.13821138211387
+      },
+      "models": [
+        "iPhone11ProMax"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.5inch_158.0x77.8mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.7inch_159.9x76.7mm",
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 159.9,
+        "width": 76.7
+      },
+      "template_px": {
+        "width": 155.89430894308944,
+        "height": 325.00000000000006
+      },
+      "models": [
+        "iPhone15ProMax"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.7inch_159.9x76.7mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.7inch_160.7x77.6mm",
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.7,
+        "width": 77.6
+      },
+      "template_px": {
+        "width": 157.72357723577235,
+        "height": 326.6260162601626
+      },
+      "models": [
+        "iPhone14ProMax"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.7inch_160.7x77.6mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.7inch_160.8x78.1mm",
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.8,
+        "width": 78.1
+      },
+      "template_px": {
+        "width": 158.739837398374,
+        "height": 326.82926829268297
+      },
+      "models": [
+        "iPhone12ProMax",
+        "iPhone13ProMax",
+        "iPhone14Plus"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.7inch_160.8x78.1mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.7inch_160.9x77.8mm",
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.9,
+        "width": 77.8
+      },
+      "template_px": {
+        "width": 158.130081300813,
+        "height": 327.0325203252033
+      },
+      "models": [
+        "iPhone15Plus",
+        "iPhone16Plus"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.7inch_160.9x77.8mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.9inch_163.0x77.6mm",
+      "display_inches": 6.9,
+      "body_mm": {
+        "height": 163,
+        "width": 77.6
+      },
+      "template_px": {
+        "width": 157.72357723577235,
+        "height": 331.3008130081301
+      },
+      "models": [
+        "iPhone16ProMax"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.9inch_163.0x77.6mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    },
+    {
+      "id": "6.9inch_163.4x78.0mm",
+      "display_inches": 6.9,
+      "body_mm": {
+        "height": 163.4,
+        "width": 78
+      },
+      "template_px": {
+        "width": 158.53658536585368,
+        "height": 332.11382113821145
+      },
+      "models": [
+        "iPhone17ProMax",
+        "iPhone18ProMax"
+      ],
+      "files": {
+        "svg": "真实毫米轮廓/6.9inch_163.4x78.0mm.svg",
+        "png": null,
+        "raster_export": "on_demand_from_svg"
+      }
+    }
+  ],
+  "overview": [
+    {
+      "model_id": "iPhoneSE2016",
+      "label": "iPhone SE 2016",
+      "profile_id": "4.0inch_123.8x58.6mm"
+    },
+    {
+      "model_id": "iPhone8",
+      "label": "iPhone 8 / SE 2020 / SE 2022",
+      "profile_id": "4.7inch_138.4x67.3mm"
+    },
+    {
+      "model_id": "iPhone13mini",
+      "label": "iPhone 12 mini / 13 mini",
+      "profile_id": "5.4inch_131.5x64.2mm"
+    },
+    {
+      "model_id": "iPhone8Plus",
+      "label": "iPhone 8 Plus",
+      "profile_id": "5.5inch_158.4x78.1mm"
+    },
+    {
+      "model_id": "iPhoneX",
+      "label": "iPhone X / XS",
+      "profile_id": "5.8inch_143.6x70.9mm"
+    },
+    {
+      "model_id": "iPhone15",
+      "label": "iPhone 15 / 16",
+      "profile_id": "6.1inch_147.6x71.6mm"
+    }
+  ],
+  "model_index": [
+    {
+      "id": "iPhone5",
+      "name": "iPhone 5",
+      "family": "5系列",
+      "year": 2012,
+      "display_inches": 4,
+      "body_mm": {
+        "height": 123.8,
+        "width": 58.6,
+        "depth": 7.6
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/112016",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.0inch_123.8x58.6mm"
+    },
+    {
+      "id": "iPhone5c",
+      "name": "iPhone 5c",
+      "family": "5系列",
+      "year": 2013,
+      "display_inches": 4,
+      "body_mm": {
+        "height": 124.4,
+        "width": 59.2,
+        "depth": 8.97
+      },
+      "camera_structure": "单摄；塑料圆弧机身",
+      "spec_source": "https://support.apple.com/en-us/111917",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.0inch_124.4x59.2mm"
+    },
+    {
+      "id": "iPhone5s",
+      "name": "iPhone 5s",
+      "family": "5系列",
+      "year": 2013,
+      "display_inches": 4,
+      "body_mm": {
+        "height": 123.8,
+        "width": 58.6,
+        "depth": 7.6
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111973",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.0inch_123.8x58.6mm"
+    },
+    {
+      "id": "iPhoneSE2016",
+      "name": "iPhone SE（第1代，2016）",
+      "family": "SE系列",
+      "year": 2016,
+      "display_inches": 4,
+      "body_mm": {
+        "height": 123.8,
+        "width": 58.6,
+        "depth": 7.6
+      },
+      "camera_structure": "单摄；5s式机身",
+      "spec_source": "https://support.apple.com/en-us/112005",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.0inch_123.8x58.6mm"
+    },
+    {
+      "id": "iPhone6",
+      "name": "iPhone 6",
+      "family": "6系列",
+      "year": 2014,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.1,
+        "width": 67,
+        "depth": 6.9
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111954",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.7inch_138.1x67.0mm"
+    },
+    {
+      "id": "iPhone6Plus",
+      "name": "iPhone 6 Plus",
+      "family": "6系列",
+      "year": 2014,
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.1,
+        "width": 77.8,
+        "depth": 7.1
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111940",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.5inch_158.1x77.8mm"
+    },
+    {
+      "id": "iPhone6s",
+      "name": "iPhone 6s",
+      "family": "6s系列",
+      "year": 2015,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.3,
+        "width": 67.1,
+        "depth": 7.1
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111952",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.7inch_138.3x67.1mm"
+    },
+    {
+      "id": "iPhone6sPlus",
+      "name": "iPhone 6s Plus",
+      "family": "6s系列",
+      "year": 2015,
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.2,
+        "width": 77.9,
+        "depth": 7.3
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111996",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.5inch_158.2x77.9mm"
+    },
+    {
+      "id": "iPhone7",
+      "name": "iPhone 7",
+      "family": "7系列",
+      "year": 2016,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.3,
+        "width": 67.1,
+        "depth": 7.1
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111943",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.7inch_138.3x67.1mm"
+    },
+    {
+      "id": "iPhone7Plus",
+      "name": "iPhone 7 Plus",
+      "family": "7系列",
+      "year": 2016,
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.2,
+        "width": 77.9,
+        "depth": 7.3
+      },
+      "camera_structure": "横排双摄",
+      "spec_source": "https://support.apple.com/en-us/111953",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.5inch_158.2x77.9mm"
+    },
+    {
+      "id": "iPhone8",
+      "name": "iPhone 8",
+      "family": "8系列",
+      "year": 2017,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.4,
+        "width": 67.3,
+        "depth": 7.3
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111976",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.7inch_138.4x67.3mm"
+    },
+    {
+      "id": "iPhone8Plus",
+      "name": "iPhone 8 Plus",
+      "family": "8系列",
+      "year": 2017,
+      "display_inches": 5.5,
+      "body_mm": {
+        "height": 158.4,
+        "width": 78.1,
+        "depth": 7.5
+      },
+      "camera_structure": "横排双摄",
+      "spec_source": "https://support.apple.com/en-us/111950",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.5inch_158.4x78.1mm"
+    },
+    {
+      "id": "iPhoneX",
+      "name": "iPhone X",
+      "family": "X系列",
+      "year": 2017,
+      "display_inches": 5.8,
+      "body_mm": {
+        "height": 143.6,
+        "width": 70.9,
+        "depth": 7.7
+      },
+      "camera_structure": "竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111864",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.8inch_143.6x70.9mm"
+    },
+    {
+      "id": "iPhoneXS",
+      "name": "iPhone XS",
+      "family": "X系列",
+      "year": 2018,
+      "display_inches": 5.8,
+      "body_mm": {
+        "height": 143.6,
+        "width": 70.9,
+        "depth": 7.7
+      },
+      "camera_structure": "竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111881",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.8inch_143.6x70.9mm"
+    },
+    {
+      "id": "iPhoneXSMax",
+      "name": "iPhone XS Max",
+      "family": "X系列",
+      "year": 2018,
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 157.5,
+        "width": 77.4,
+        "depth": 7.7
+      },
+      "camera_structure": "竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111880",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.5inch_157.5x77.4mm"
+    },
+    {
+      "id": "iPhoneXR",
+      "name": "iPhone XR",
+      "family": "X系列",
+      "year": 2018,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 150.9,
+        "width": 75.7,
+        "depth": 8.3
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/111868",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_150.9x75.7mm"
+    },
+    {
+      "id": "iPhone11",
+      "name": "iPhone 11",
+      "family": "11系列",
+      "year": 2019,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 150.9,
+        "width": 75.7,
+        "depth": 8.3
+      },
+      "camera_structure": "方形平台内双摄",
+      "spec_source": "https://support.apple.com/en-us/111865",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_150.9x75.7mm"
+    },
+    {
+      "id": "iPhone11Pro",
+      "name": "iPhone 11 Pro",
+      "family": "11系列",
+      "year": 2019,
+      "display_inches": 5.8,
+      "body_mm": {
+        "height": 144,
+        "width": 71.4,
+        "depth": 8.1
+      },
+      "camera_structure": "方形平台内三摄",
+      "spec_source": "https://support.apple.com/en-us/111879",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.8inch_144.0x71.4mm"
+    },
+    {
+      "id": "iPhone11ProMax",
+      "name": "iPhone 11 Pro Max",
+      "family": "11系列",
+      "year": 2019,
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 158,
+        "width": 77.8,
+        "depth": 8.1
+      },
+      "camera_structure": "方形平台内三摄",
+      "spec_source": "https://support.apple.com/en-us/111878",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.5inch_158.0x77.8mm"
+    },
+    {
+      "id": "iPhoneSE2020",
+      "name": "iPhone SE（第2代，2020）",
+      "family": "SE系列",
+      "year": 2020,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.4,
+        "width": 67.3,
+        "depth": 7.3
+      },
+      "camera_structure": "单摄；8式机身",
+      "spec_source": "https://support.apple.com/en-us/111882",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.7inch_138.4x67.3mm"
+    },
+    {
+      "id": "iPhone12mini",
+      "name": "iPhone 12 mini",
+      "family": "12系列",
+      "year": 2020,
+      "display_inches": 5.4,
+      "body_mm": {
+        "height": 131.5,
+        "width": 64.2,
+        "depth": 7.4
+      },
+      "camera_structure": "方形平台内竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111877",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.4inch_131.5x64.2mm"
+    },
+    {
+      "id": "iPhone12",
+      "name": "iPhone 12",
+      "family": "12系列",
+      "year": 2020,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.4
+      },
+      "camera_structure": "方形平台内竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/111876",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_146.7x71.5mm"
+    },
+    {
+      "id": "iPhone12Pro",
+      "name": "iPhone 12 Pro",
+      "family": "12系列",
+      "year": 2020,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.4
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111875",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_146.7x71.5mm"
+    },
+    {
+      "id": "iPhone12ProMax",
+      "name": "iPhone 12 Pro Max",
+      "family": "12系列",
+      "year": 2020,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.8,
+        "width": 78.1,
+        "depth": 7.4
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111874",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.7inch_160.8x78.1mm"
+    },
+    {
+      "id": "iPhone13mini",
+      "name": "iPhone 13 mini",
+      "family": "13系列",
+      "year": 2021,
+      "display_inches": 5.4,
+      "body_mm": {
+        "height": 131.5,
+        "width": 64.2,
+        "depth": 7.65
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111873",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "5.4inch_131.5x64.2mm"
+    },
+    {
+      "id": "iPhone13",
+      "name": "iPhone 13",
+      "family": "13系列",
+      "year": 2021,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.65
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111872",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_146.7x71.5mm"
+    },
+    {
+      "id": "iPhone13Pro",
+      "name": "iPhone 13 Pro",
+      "family": "13系列",
+      "year": 2021,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.65
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111871",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_146.7x71.5mm"
+    },
+    {
+      "id": "iPhone13ProMax",
+      "name": "iPhone 13 Pro Max",
+      "family": "13系列",
+      "year": 2021,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.8,
+        "width": 78.1,
+        "depth": 7.65
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111870",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.7inch_160.8x78.1mm"
+    },
+    {
+      "id": "iPhoneSE2022",
+      "name": "iPhone SE（第3代，2022）",
+      "family": "SE系列",
+      "year": 2022,
+      "display_inches": 4.7,
+      "body_mm": {
+        "height": 138.4,
+        "width": 67.3,
+        "depth": 7.3
+      },
+      "camera_structure": "单摄；8式机身",
+      "spec_source": "https://support.apple.com/en-us/111866",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "4.7inch_138.4x67.3mm"
+    },
+    {
+      "id": "iPhone14",
+      "name": "iPhone 14",
+      "family": "14系列",
+      "year": 2022,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.8
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111850",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_146.7x71.5mm"
+    },
+    {
+      "id": "iPhone14Plus",
+      "name": "iPhone 14 Plus",
+      "family": "14系列",
+      "year": 2022,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.8,
+        "width": 78.1,
+        "depth": 7.8
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111854",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.7inch_160.8x78.1mm"
+    },
+    {
+      "id": "iPhone14Pro",
+      "name": "iPhone 14 Pro",
+      "family": "14系列",
+      "year": 2022,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 147.5,
+        "width": 71.5,
+        "depth": 7.85
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111849",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_147.5x71.5mm"
+    },
+    {
+      "id": "iPhone14ProMax",
+      "name": "iPhone 14 Pro Max",
+      "family": "14系列",
+      "year": 2022,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.7,
+        "width": 77.6,
+        "depth": 7.85
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111846",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.7inch_160.7x77.6mm"
+    },
+    {
+      "id": "iPhone15",
+      "name": "iPhone 15",
+      "family": "15系列",
+      "year": 2023,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 147.6,
+        "width": 71.6,
+        "depth": 7.8
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111831",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_147.6x71.6mm"
+    },
+    {
+      "id": "iPhone15Plus",
+      "name": "iPhone 15 Plus",
+      "family": "15系列",
+      "year": 2023,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.9,
+        "width": 77.8,
+        "depth": 7.8
+      },
+      "camera_structure": "对角双摄",
+      "spec_source": "https://support.apple.com/en-us/111830",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.7inch_160.9x77.8mm"
+    },
+    {
+      "id": "iPhone15Pro",
+      "name": "iPhone 15 Pro",
+      "family": "15系列",
+      "year": 2023,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.6,
+        "width": 70.6,
+        "depth": 8.25
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111829",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_146.6x70.6mm"
+    },
+    {
+      "id": "iPhone15ProMax",
+      "name": "iPhone 15 Pro Max",
+      "family": "15系列",
+      "year": 2023,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 159.9,
+        "width": 76.7,
+        "depth": 8.25
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/111828",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.7inch_159.9x76.7mm"
+    },
+    {
+      "id": "iPhone16",
+      "name": "iPhone 16",
+      "family": "16系列",
+      "year": 2024,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 147.6,
+        "width": 71.6,
+        "depth": 7.8
+      },
+      "camera_structure": "胶囊区域内竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/121029",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_147.6x71.6mm"
+    },
+    {
+      "id": "iPhone16Plus",
+      "name": "iPhone 16 Plus",
+      "family": "16系列",
+      "year": 2024,
+      "display_inches": 6.7,
+      "body_mm": {
+        "height": 160.9,
+        "width": 77.8,
+        "depth": 7.8
+      },
+      "camera_structure": "胶囊区域内竖排双摄",
+      "spec_source": "https://support.apple.com/en-us/121030",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.7inch_160.9x77.8mm"
+    },
+    {
+      "id": "iPhone16Pro",
+      "name": "iPhone 16 Pro",
+      "family": "16系列",
+      "year": 2024,
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 149.6,
+        "width": 71.5,
+        "depth": 8.25
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/121031",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.3inch_149.6x71.5mm"
+    },
+    {
+      "id": "iPhone16ProMax",
+      "name": "iPhone 16 Pro Max",
+      "family": "16系列",
+      "year": 2024,
+      "display_inches": 6.9,
+      "body_mm": {
+        "height": 163,
+        "width": 77.6,
+        "depth": 8.25
+      },
+      "camera_structure": "三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/121032",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.9inch_163.0x77.6mm"
+    },
+    {
+      "id": "iPhone16e",
+      "name": "iPhone 16e",
+      "family": "16系列",
+      "year": 2025,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.8
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://support.apple.com/en-us/122208",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_146.7x71.5mm"
+    },
+    {
+      "id": "iPhone17",
+      "name": "iPhone 17",
+      "family": "17与Air",
+      "year": 2025,
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 149.6,
+        "width": 71.5,
+        "depth": 7.95
+      },
+      "camera_structure": "胶囊区域内竖排双摄",
+      "spec_source": "https://www.apple.com/iphone-17/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.3inch_149.6x71.5mm"
+    },
+    {
+      "id": "iPhoneAir",
+      "name": "iPhone Air",
+      "family": "17与Air",
+      "year": 2025,
+      "display_inches": 6.5,
+      "body_mm": {
+        "height": 156.2,
+        "width": 74.7,
+        "depth": 5.64
+      },
+      "camera_structure": "横贯平台内单摄",
+      "spec_source": "https://www.apple.com/iphone-air/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.5inch_156.2x74.7mm"
+    },
+    {
+      "id": "iPhone17Pro",
+      "name": "iPhone 17 Pro",
+      "family": "17与Air",
+      "year": 2025,
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 150,
+        "width": 71.9,
+        "depth": 8.75
+      },
+      "camera_structure": "横贯平台内三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/125090",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.3inch_150.0x71.9mm"
+    },
+    {
+      "id": "iPhone17ProMax",
+      "name": "iPhone 17 Pro Max",
+      "family": "17与Air",
+      "year": 2025,
+      "display_inches": 6.9,
+      "body_mm": {
+        "height": 163.4,
+        "width": 78,
+        "depth": 8.75
+      },
+      "camera_structure": "横贯平台内三摄＋LiDAR",
+      "spec_source": "https://support.apple.com/en-us/125091",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.9inch_163.4x78.0mm"
+    },
+    {
+      "id": "iPhone17e",
+      "name": "iPhone 17e",
+      "family": "17与Air",
+      "year": 2026,
+      "display_inches": 6.1,
+      "body_mm": {
+        "height": 146.7,
+        "width": 71.5,
+        "depth": 7.8
+      },
+      "camera_structure": "单摄",
+      "spec_source": "https://www.apple.com/iphone-17e/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.1inch_146.7x71.5mm"
+    },
+    {
+      "id": "iPhone18Pro",
+      "name": "iPhone 18 Pro",
+      "family": "18系列",
+      "year": 2026,
+      "display_inches": 6.3,
+      "body_mm": {
+        "height": 150,
+        "width": 71.9,
+        "depth": 8.75
+      },
+      "camera_structure": "横贯平台内三摄＋LiDAR",
+      "spec_source": "https://www.apple.com/iphone-18-pro/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.3inch_150.0x71.9mm"
+    },
+    {
+      "id": "iPhone18ProMax",
+      "name": "iPhone 18 Pro Max",
+      "family": "18系列",
+      "year": 2026,
+      "display_inches": 6.9,
+      "body_mm": {
+        "height": 163.4,
+        "width": 78,
+        "depth": 8.75
+      },
+      "camera_structure": "横贯平台内三摄＋LiDAR",
+      "spec_source": "https://www.apple.com/iphone-18-pro/specs/",
+      "body_dimensions_note": "苹果公布的机身尺寸；不将摄像头凸起高度或开孔坐标视为相同。",
+      "asset_policy": "独立型号记录；可共壳不代表背面素材可以直接互换。",
+      "body_profile_id": "6.9inch_163.4x78.0mm"
+    }
+  ],
+  "comparison_examples": {
+    "advanced_a_plus_scale": 0.6,
+    "rounding": "SVG保留连续坐标；PNG输出画布像素四舍五入。"
+  },
+  "scope": "本次重点展示4.0/4.7/5.4/5.5/5.8/6.1六档；型号索引同步换算原有6.3/6.5/6.7/6.9，共49款，不含Duo。",
+  "focus": {
+    "screen_labels": [
+      4,
+      4.7,
+      5.4,
+      5.5,
+      5.8,
+      6.1
+    ],
+    "models": 32,
+    "body_profiles": 16
+  },
+  "derived_from": "../型号与尺寸.json",
+  "outline_storage_policy": {
+    "preferred_format": "svg",
+    "resident_png": false,
+    "png_generation": "按需从同名SVG导出到项目output，png=null不是失效文件路径。",
+    "compatibility": "当前工程用毫米参数计算几何；读取轮廓文件时选svg，不能强制读取png。"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "template_id": "MOM-S01",
+  "store": "moment",
+  "spec": "普通A+",
+  "canvas": [
+    970,
+    600
+  ],
+  "models": [
+    "iPhone 17e",
+    "iPhone 16e"
+  ],
+  "revision": "2026-11-02_刘海屏与点击放大",
+  "market": "USA",
+  "selected_svg": "源文件/a-standard.svg",
+  "reference_png": "参考结果/a-standard-970x600.png",
+  "engineering": "工程",
+  "alignment": {
+    "screen_top": 206,
+    "screen_height": 198,
+    "screen_bottom": 404,
+    "left_label_centers": [
+      106,
+      270
+    ],
+    "left_label_baseline": 428,
+    "dimension_baseline": 451,
+    "tutorial_columns_x": [
+      364,
+      512.5,
+      661,
+      809.5
+    ],
+    "tutorial_column_width": 134.5,
+    "pill_top": 414,
+    "pill_height": 40,
+    "bottom_hint_center_x": 654,
+    "bottom_hint_baseline": 496
+  },
+  "copy": {
+    "heading": "Only for iPhone 17e & iPhone 16e",
+    "heading_center_x": 485,
+    "heading_baseline": 90,
+    "heading_size": 32,
+    "red_prefix": "Only for",
+    "subtitle": "Not Compatible with Other Smartphones.",
+    "subtitle_red_bold_prefix": "Not Compatible with",
+    "subtitle_gray_suffix": "Other Smartphones.",
+    "subtitle_center_x": 485,
+    "subtitle_baseline": 129,
+    "subtitle_size": 18,
+    "left_labels": [
+      "For iPhone 17e",
+      "For iPhone 16e"
+    ],
+    "dimensions": [
+      "6.1-inch display",
+      "6.1-inch display"
+    ],
+    "steps": [
+      "Settings",
+      "General",
+      "About",
+      "Model Name"
+    ],
+    "model_example": "iPhone 17e",
+    "bottom_hint": "Check Your Phone Model",
+    "bottom_hint_size": 20
+  },
+  "colors": {
+    "ink": "#202D35",
+    "emphasis": "#C62828",
+    "blue": "#277FA8",
+    "subtitle_suffix": "#4B5563",
+    "background": "#FFFFFF"
+  },
+  "screen_representation": "按左侧参考绘制顶部相连刘海；沿用界面资料和编辑的字段，属于教程示意。",
+  "reuse_boundary": "标题和左侧机身在工程底稿中；config仅控制本轮刘海及目标放大。换机型须修改底稿可见字形和机身，不得只替换aria-label。",
+  "wordlist_audit": {
+    "date": "2026-11-02",
+    "market": "USA",
+    "terms": 68,
+    "exact_hits": 0,
+    "variant_candidates": 0,
+    "coverage": "可见文案和可辨认界面文字；模糊小字不作完整逐字确认。",
+    "source": "../../../违禁词/usa站点listing禁用词.md",
+    "historical_result_only": true,
+    "inheritable_to_new_designs": false
+  },
+  "variant_id": "ios-four-step",
+  "registry": "版式目录.json",
+  "layout_status": "已确认的普通A+视觉参考，非新教程的真实页面已核验证明",
+  "native_ui_status": "历史界面底图及机型结果示例标注；不默认用于新真实教程",
+  "default_usable_for_new_native_tutorial": false,
+  "geometry_current_policy": "同图统一像素/毫米比例，保持真实外廓宽高比；不得非等比拉伸",
+  "historical_alignment_role": "alignment内198px等高参数仅复现已有样图；新机身展示按毫米比例，教程尺寸另定"
+}

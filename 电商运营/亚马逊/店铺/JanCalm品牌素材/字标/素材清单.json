@@ -1,0 +1,128 @@
+{
+  "brand": "JanCalm",
+  "archived": "2026-10-15",
+  "font": {
+    "family": "Inter SemiBold",
+    "style_name": "Regular",
+    "weight": 600,
+    "woff2_and_ttf_glyphs_identical": true,
+    "official_source": "https://raw.githubusercontent.com/rsms/inter/v4.1/docs/font-files/Inter-SemiBold.woff2",
+    "license_source": "https://raw.githubusercontent.com/rsms/inter/v4.1/LICENSE.txt",
+    "ttf_note": "由已归档官方 WOFF2 解码得到的本地兼容副本，不是另行下载的官方桌面 TTF 原件"
+  },
+  "copied_files": [
+    {
+      "file": "Inter-SemiBold_官方v4.1.woff2",
+      "project_source": "downloads/Inter-v4.1/Inter-SemiBold.woff2",
+      "bytes": 114812,
+      "sha256": "5cb7103e4e605989afebc03d989c79201e54b21b5183db33981f70db9178a301"
+    },
+    {
+      "file": "Inter_OFL_许可证.txt",
+      "project_source": "downloads/Inter-v4.1/LICENSE.txt",
+      "bytes": 4380,
+      "sha256": "262481e844521b326f5ecd053e59b98c8b2da78c8ee1bdbb6e8174305e54935a"
+    },
+    {
+      "file": "Inter-SemiBold_官方WOFF2解码.ttf",
+      "project_source": "temp/20261014_Inter_SemiBold_字体效果/Inter-SemiBold-decoded.ttf",
+      "bytes": 330520,
+      "sha256": "0e9df4cdfe31e6a1b57eaccae288ceac5e249054bc7e0d9959a26df135b0cfa1"
+    },
+    {
+      "file": "JanCalm_竖排_28x5.50mm.svg",
+      "project_source": "output/20261014_JanCalm_28与32mm_PDF_SVG打包/JanCalm_28x5.50mm_竖排.svg",
+      "bytes": 5772,
+      "sha256": "01680298a1e828ed34b5f5c31864fd524aea17a39ce88914d5cefe68d4bfbdcc"
+    },
+    {
+      "file": "JanCalm_竖排_32x6.29mm.svg",
+      "project_source": "output/20261014_JanCalm_28与32mm_PDF_SVG打包/JanCalm_32x6.29mm_竖排.svg",
+      "bytes": 5772,
+      "sha256": "f613ee0ef782e11082f16e2aa02fa73c766667afed49fd684ce2940e51899933"
+    },
+    {
+      "file": "JanCalm_竖排_28x5.50mm.pdf",
+      "project_source": "output/20261014_JanCalm_28与32mm_PDF_SVG打包/JanCalm_28x5.50mm_竖排.pdf",
+      "bytes": 9904,
+      "sha256": "864b5d5447ef9c82fdd021df03fe029665cd5135732c13714c9a185f1cad02d5"
+    },
+    {
+      "file": "JanCalm_竖排_32x6.29mm.pdf",
+      "project_source": "output/20261014_JanCalm_28与32mm_PDF_SVG打包/JanCalm_32x6.29mm_竖排.pdf",
+      "bytes": 9922,
+      "sha256": "d05494580aee7516fbfb4a1a944337307fc3db4bde0d47b0d7b55145e5fe4759"
+    },
+    {
+      "file": "JanCalm_A4_1比1尺寸核对.pdf",
+      "project_source": "output/20261014_JanCalm_28与32mm_PDF_SVG打包/JanCalm_A4_1比1尺寸核对.pdf",
+      "bytes": 21415,
+      "sha256": "c9b164fa8f6e4e7538504b96f38c163d1a853bb799bb3603ba79ae31c24d215d"
+    },
+    {
+      "file": "JanCalm_28与32mm_厂家PDF与SVG.zip",
+      "project_source": "output/20261014_JanCalm_28与32mm_PDF_SVG打包/JanCalm_28与32mm_厂家PDF与SVG.zip",
+      "bytes": 23187,
+      "sha256": "75560920c23d3f9fc5d99e87f0d2021b2b16bf4145914bf1fb9fb807ba2b468e"
+    },
+    {
+      "file": "厂家使用说明.txt",
+      "project_source": "output/20261014_JanCalm_28与32mm_PDF_SVG打包/厂家使用说明.txt",
+      "bytes": 1231,
+      "sha256": "15dfd56da4ef6684ee82229e1420297ae4df9300600887c1a1f26fac044f955f"
+    },
+    {
+      "file": "制版文件与尺寸校验记录.json",
+      "project_source": "output/20261014_JanCalm_28与32mm_PDF_SVG打包/文件与尺寸校验记录.json",
+      "bytes": 1517,
+      "sha256": "7f7af0a35d543aaec130cfad17dacab6cb4b523505c567b60563b0b74e451dd5"
+    },
+    {
+      "file": "JanCalm_真实横排字形参考.png",
+      "project_source": "output/20261014_黑色翻盖壳_28x5.5mm_Inter竖排/JanCalm_28x5.5mm_真实横排字形参考.png",
+      "bytes": 40920,
+      "sha256": "921cb14e3ccb1bea9493ff7d3d8f5ff9cf04871f7754aac20ea3df41985e5d9b"
+    },
+    {
+      "file": "JanCalm_真实竖排字形参考_白底.png",
+      "project_source": "output/20261014_黑色翻盖壳_28x5.5mm_Inter竖排/JanCalm_28x5.5mm_真实竖排透明字形_白底.png",
+      "bytes": 40218,
+      "sha256": "cbd0793fda48d2528895b23b166bb630011244f695c3c45366c7c851f90d01b6"
+    },
+    {
+      "file": "JanCalm_黑色壳_28mm真实字形合成.png",
+      "project_source": "output/20261014_黑色手机壳_28x5.5mm_真实Inter直接合成/JanCalm_28x5.5mm_真实Inter合成_原图尺寸.png",
+      "bytes": 455380,
+      "sha256": "e790e338fb86dbc20ec8f7402ef24eee28aeb6768c9a7773dfe0c58ba0406d13"
+    },
+    {
+      "file": "JanCalm_黑色壳_真实字形细节.png",
+      "project_source": "output/20261014_黑色手机壳_28x5.5mm_真实Inter直接合成/JanCalm_28x5.5mm_真实Inter合成_字体细节.png",
+      "bytes": 306343,
+      "sha256": "93760fca3ed94d3852150570fb5111d181d2e8fa91e285459ba515ffc29b7a48"
+    },
+    {
+      "file": "JanCalm_三色四尺寸对比_仅作效果参考.png",
+      "project_source": "output/20261014_JanCalm_放大尺寸与颜色对比/JanCalm_三色四尺寸_完整对比.png",
+      "bytes": 1216892,
+      "sha256": "93a6458848c9db00936a5a260a8525cf1bd6be656b8ef2e7fd49d5ec7d0cad99"
+    },
+    {
+      "file": "用户黑色手机壳原图_含旧横标.png",
+      "project_source": "temp/20261014_真实字体直接合成/原图.png",
+      "bytes": 513278,
+      "sha256": "ec7ff7f0c28b972bf4d5548326b4c37a43a9017edca3f4f56623343be1ec9ef9"
+    },
+    {
+      "file": "真实字形合成与校验记录.json",
+      "project_source": "output/20261014_黑色手机壳_28x5.5mm_真实Inter直接合成/合成与校验记录.json",
+      "bytes": 1865,
+      "sha256": "22c7066f2c7c732d55dc50a1b4893a53029489bc7a58eb7cfd81f6ee206608cc"
+    }
+  ],
+  "derived_files": [
+    "字体来源与核验.json",
+    "JanCalm_横排基准_28x5.50mm.svg"
+  ],
+  "relative_link_policy": "素材链接相对于品牌规范页，移动时同时保留规范页、索引页与 JanCalm品牌素材 文件夹"
+}

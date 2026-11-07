@@ -1,0 +1,24 @@
+{
+  "id": "mobile", "name": "移动端", "width": 600, "height": 450, "scale": 0.3,
+  "tutorial": "素材/教程/移动端原稿.png",
+  "leftHeading": {"x":10,"y":30,"font":25},
+  "rightHeading": {"x":308,"y":30,"font":20},
+  "divider": {"x":297,"top":12,"bottom":440},
+  "tutorialClip": {"x":300,"y":36,"width":300,"height":414},
+  "compatible": {
+    "x":10,"y":44,"width":278,"height":129,"radius":10,"phoneCenterX":49,"baseline":164,
+    "pill":{"x":91,"y":57,"width":100,"height":20,"font":11.5},
+    "text":{"x":91,"y":103,"font":15,"lineHeight":21,"sizeY":153,"sizeFont":11.5}
+  },
+  "incompatible": [
+    {"x":10,"y":181,"width":136,"height":126,"radius":10,"phoneCenterX":37.5,"baseline":300,"textX":67},
+    {"x":154,"y":181,"width":134,"height":126,"radius":10,"phoneCenterX":181.5,"baseline":300,"textX":211},
+    {"x":10,"y":315,"width":136,"height":126,"radius":10,"phoneCenterX":37.5,"baseline":434,"textX":67},
+    {"x":154,"y":315,"width":134,"height":126,"radius":10,"phoneCenterX":181.5,"baseline":434,"textX":211}
+  ],
+  "incompatibleText": {
+    "wrapAfterIPhone":true,"font":10.5,"lineHeight":16,"pairOffsetY":65,"singleOffsetY":65,"pairSizeOffsetY":106,"singleSizeOffsetY":106,
+    "sizeFont":8.9,"pillOffsetY":10,"pillWidth":73,"pillHeight":18,"pillFont":8.8
+  },
+  "callout": {"x":331,"y":403,"width":232,"height":42,"radius":15,"labelY":415,"valueY":428,"lineHeight":13,"labelFont":10,"valueFont":11.8}
+}

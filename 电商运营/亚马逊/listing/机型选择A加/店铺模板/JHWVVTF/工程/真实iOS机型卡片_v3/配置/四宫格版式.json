@@ -1,0 +1,436 @@
+[
+  {
+    "id": "premium",
+    "name": "高级A+",
+    "width": 1464,
+    "height": 600,
+    "scale": 0.6,
+    "stem": "iPhone15_高级A加_1464x600",
+    "header": {
+      "left": {
+        "x": 18,
+        "y": 102,
+        "size": 44
+      },
+      "right": {
+        "x": 602,
+        "y": 102,
+        "size": 44
+      }
+    },
+    "divider": {
+      "x": 578,
+      "y1": 69,
+      "y2": 580
+    },
+    "tutorial": {
+      "source": "premium",
+      "clip": {
+        "x": 590,
+        "y": 118,
+        "width": 874,
+        "height": 430
+      }
+    },
+    "cards": [
+      {
+        "x": 18,
+        "y": 122,
+        "width": 270,
+        "height": 212,
+        "phoneCenterX": 92,
+        "baseline": 326,
+        "pill": {
+          "x": 154,
+          "y": 183,
+          "width": 118,
+          "height": 34,
+          "font": 15.5
+        },
+        "text": {
+          "x": 156,
+          "y": 246,
+          "font": 20.5,
+          "lineHeight": 26,
+          "lines": [
+            "for iPhone 15"
+          ],
+          "sizeY": 277,
+          "sizeFont": 17
+        }
+      },
+      {
+        "x": 298,
+        "y": 122,
+        "width": 270,
+        "height": 212,
+        "phoneCenterX": 374,
+        "baseline": 326,
+        "pill": {
+          "x": 430,
+          "y": 183,
+          "width": 126,
+          "height": 34,
+          "font": 15
+        },
+        "text": {
+          "x": 432,
+          "y": 246,
+          "font": 20.5,
+          "lineHeight": 26,
+          "lines": [
+            "for iPhone 15",
+            "Plus"
+          ],
+          "sizeY": 303,
+          "sizeFont": 17
+        }
+      },
+      {
+        "x": 18,
+        "y": 345,
+        "width": 270,
+        "height": 220,
+        "phoneCenterX": 92,
+        "baseline": 552,
+        "pill": {
+          "x": 154,
+          "y": 406,
+          "width": 126,
+          "height": 34,
+          "font": 15
+        },
+        "text": {
+          "x": 156,
+          "y": 470,
+          "font": 20.5,
+          "lineHeight": 26,
+          "lines": [
+            "for iPhone 15",
+            "Pro"
+          ],
+          "sizeY": 527,
+          "sizeFont": 17
+        }
+      },
+      {
+        "x": 298,
+        "y": 345,
+        "width": 270,
+        "height": 220,
+        "phoneCenterX": 374,
+        "baseline": 552,
+        "pill": {
+          "x": 430,
+          "y": 406,
+          "width": 126,
+          "height": 34,
+          "font": 15
+        },
+        "text": {
+          "x": 432,
+          "y": 470,
+          "font": 20.5,
+          "lineHeight": 26,
+          "lines": [
+            "for iPhone 15",
+            "Pro Max"
+          ],
+          "sizeY": 527,
+          "sizeFont": 17
+        }
+      }
+    ],
+    "cardRadius": 18
+  },
+  {
+    "id": "standard",
+    "name": "普通A+",
+    "width": 970,
+    "height": 600,
+    "scale": 0.6,
+    "stem": "iPhone15_普通A加_970x600",
+    "header": {
+      "left": {
+        "x": 16,
+        "y": 65,
+        "size": 34
+      },
+      "right": {
+        "x": 473,
+        "y": 65,
+        "size": 34
+      }
+    },
+    "divider": {
+      "x": 458,
+      "y1": 34,
+      "y2": 580
+    },
+    "tutorial": {
+      "source": "standard",
+      "clip": {
+        "x": 469,
+        "y": 78,
+        "width": 501,
+        "height": 512
+      }
+    },
+    "cards": [
+      {
+        "x": 16,
+        "y": 83,
+        "width": 211,
+        "height": 231,
+        "phoneCenterX": 71,
+        "baseline": 298,
+        "pill": {
+          "x": 124,
+          "y": 173,
+          "width": 96,
+          "height": 29,
+          "font": 12.5
+        },
+        "text": {
+          "x": 125,
+          "y": 234,
+          "font": 16.5,
+          "lineHeight": 23,
+          "lines": [
+            "for iPhone",
+            "15"
+          ],
+          "sizeY": 285,
+          "sizeFont": 13.8
+        }
+      },
+      {
+        "x": 237,
+        "y": 83,
+        "width": 211,
+        "height": 231,
+        "phoneCenterX": 292,
+        "baseline": 298,
+        "pill": {
+          "x": 347,
+          "y": 173,
+          "width": 95,
+          "height": 29,
+          "font": 11.5
+        },
+        "text": {
+          "x": 348,
+          "y": 234,
+          "font": 16.5,
+          "lineHeight": 23,
+          "lines": [
+            "for iPhone",
+            "15 Plus"
+          ],
+          "sizeY": 285,
+          "sizeFont": 13.8
+        }
+      },
+      {
+        "x": 16,
+        "y": 326,
+        "width": 211,
+        "height": 236,
+        "phoneCenterX": 71,
+        "baseline": 547,
+        "pill": {
+          "x": 124,
+          "y": 420,
+          "width": 96,
+          "height": 29,
+          "font": 11.5
+        },
+        "text": {
+          "x": 125,
+          "y": 481,
+          "font": 16.5,
+          "lineHeight": 23,
+          "lines": [
+            "for iPhone",
+            "15 Pro"
+          ],
+          "sizeY": 532,
+          "sizeFont": 13.8
+        }
+      },
+      {
+        "x": 237,
+        "y": 326,
+        "width": 211,
+        "height": 236,
+        "phoneCenterX": 292,
+        "baseline": 547,
+        "pill": {
+          "x": 347,
+          "y": 420,
+          "width": 95,
+          "height": 29,
+          "font": 11.5
+        },
+        "text": {
+          "x": 348,
+          "y": 481,
+          "font": 16.5,
+          "lineHeight": 23,
+          "lines": [
+            "for iPhone",
+            "15 Pro Max"
+          ],
+          "sizeY": 532,
+          "sizeFont": 13.8
+        }
+      }
+    ],
+    "cardRadius": 18
+  },
+  {
+    "id": "mobile",
+    "name": "手机端",
+    "width": 600,
+    "height": 450,
+    "scale": 0.3333333333333333,
+    "stem": "iPhone15_手机端_600x450",
+    "header": {
+      "left": {
+        "x": 10,
+        "y": 30,
+        "size": 25
+      },
+      "right": {
+        "x": 308,
+        "y": 30,
+        "size": 20
+      }
+    },
+    "divider": {
+      "x": 297,
+      "y1": 12,
+      "y2": 440
+    },
+    "tutorial": {
+      "source": "mobile",
+      "clip": {
+        "x": 300.41436464088395,
+        "y": 0,
+        "width": 299.58563535911605,
+        "height": 450
+      }
+    },
+    "cards": [
+      {
+        "x": 10,
+        "y": 44,
+        "width": 136,
+        "height": 197,
+        "phoneCenterX": 78,
+        "baseline": 171,
+        "pill": {
+          "x": 27,
+          "y": 179,
+          "width": 102,
+          "height": 20,
+          "font": 12
+        },
+        "text": {
+          "x": 78,
+          "y": 215,
+          "font": 13.5,
+          "lineHeight": 16,
+          "lines": [
+            "for iPhone 15"
+          ],
+          "sizeY": 232,
+          "sizeFont": 11.8,
+          "anchor": "middle"
+        }
+      },
+      {
+        "x": 154,
+        "y": 44,
+        "width": 134,
+        "height": 197,
+        "phoneCenterX": 221,
+        "baseline": 171,
+        "pill": {
+          "x": 166,
+          "y": 179,
+          "width": 110,
+          "height": 20,
+          "font": 11.7
+        },
+        "text": {
+          "x": 221,
+          "y": 215,
+          "font": 13.5,
+          "lineHeight": 16,
+          "lines": [
+            "for iPhone 15 Plus"
+          ],
+          "sizeY": 232,
+          "sizeFont": 11.8,
+          "anchor": "middle"
+        }
+      },
+      {
+        "x": 10,
+        "y": 249,
+        "width": 136,
+        "height": 192,
+        "phoneCenterX": 78,
+        "baseline": 369,
+        "pill": {
+          "x": 23,
+          "y": 377,
+          "width": 110,
+          "height": 20,
+          "font": 11.7
+        },
+        "text": {
+          "x": 78,
+          "y": 413,
+          "font": 13.5,
+          "lineHeight": 16,
+          "lines": [
+            "for iPhone 15 Pro"
+          ],
+          "sizeY": 431,
+          "sizeFont": 11.8,
+          "anchor": "middle"
+        }
+      },
+      {
+        "x": 154,
+        "y": 249,
+        "width": 134,
+        "height": 192,
+        "phoneCenterX": 221,
+        "baseline": 369,
+        "pill": {
+          "x": 166,
+          "y": 377,
+          "width": 110,
+          "height": 20,
+          "font": 11.7
+        },
+        "text": {
+          "x": 221,
+          "y": 413,
+          "font": 12.4,
+          "lineHeight": 16,
+          "lines": [
+            "for iPhone 15 Pro Max"
+          ],
+          "sizeY": 431,
+          "sizeFont": 11.8,
+          "anchor": "middle"
+        }
+      }
+    ],
+    "cardRadius": 10
+  }
+]

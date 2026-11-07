@@ -1,0 +1,2202 @@
+{
+  "scope": "通用素材、通用流程和店铺专属模板；不收录批量生成结果",
+  "relative_root": ".",
+  "retained_example_pngs": 9,
+  "retained_example_jpgs": 6,
+  "retained_example_images": 15,
+  "files": [
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/iPhone14Pro_普通A加_970x600_统一浮层版.jpg",
+      "bytes": 185918,
+      "sha256": "7c5b22bf9f323ef6050afd220e24e799f10421ad0aa75d28db09f12b65ac1491"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/iPhone14Pro_移动端_600x450_统一浮层版.jpg",
+      "bytes": 113778,
+      "sha256": "1d14e2978204b04efa302b820520a5d5f28bd891019613ab6e403468a71e33ca"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/iPhone14Pro_高级A加_1464x600_统一浮层版.jpg",
+      "bytes": 258276,
+      "sha256": "bcda965af29a687f50b4a9ab949e8e5e45430ae56171e7f9eb6523bbd0641dc9"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/来源与核对.json",
+      "bytes": 1725,
+      "sha256": "b207043722a114ded4ba9f6cffca04a78023f5c62c8b6004d7454a4defedf5b5"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/用户确认_iPhone11ProMax_浮层排版参考.png",
+      "bytes": 553405,
+      "sha256": "adf2e3196102d6a26ebfc59af169a0fd9d1b722cf23da4adc5f4affbec9bd037"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_普通A加_970x600.png",
+      "bytes": 162615,
+      "sha256": "8252d4be3580b0ed382bc5f739011627e5d1b9d2912bb279876655f2ab222de0"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_移动端_600x450.png",
+      "bytes": 107884,
+      "sha256": "875a751e5d65ddec17697e636a0b288b431d23bd0570ca37c11d4d3aee46a889"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/多机身合并_示意教程/M02_iPhone6_6s_7_8_SE2020_SE2022_v3_真实机型教程_高级A加_1464x600.png",
+      "bytes": 237582,
+      "sha256": "7d49b869485d7200a882bdc3bf750d8c872567f059071e6ea86ccde9b023d30d"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/真实iOS合并单机身/iPhone12及12Pro_普通A加_970x600_重点虚化v3.jpg",
+      "bytes": 174197,
+      "sha256": "7c10221235a77cc83d157fa323492624898a6bf247424bf1fddd3689bac50842"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/真实iOS合并单机身/iPhone12及12Pro_移动端_600x450_重点虚化v3.jpg",
+      "bytes": 115390,
+      "sha256": "b9c0cab307bdab857673eefb2a940e147a20832e6bfeef9008e3dae75226b2b9"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/真实iOS合并单机身/iPhone12及12Pro_高级A加_1464x600_重点虚化v3.jpg",
+      "bytes": 232363,
+      "sha256": "231d05b05ffc4f3e191e8611017a8640deecac48224876b0d6bcba15370e3eaa"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/脚本/原生界面.mjs",
+      "bytes": 2768,
+      "sha256": "b5c42ba0245d822cc51d715524cd7585cf4d3e12818d83fd5559e9a423494d8d"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/脚本/导出JPG.mjs",
+      "bytes": 2053,
+      "sha256": "7e5dedb279a0bb719b3779b3e94ffa43168381831a12c38b37fd383b006f2213"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/脚本/文字测量.mjs",
+      "bytes": 636,
+      "sha256": "c1194f3b6585600c18e1f79d90ea199ffbdfa5cdc18d36e09a1ef0debb0fc08b"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/脚本/机型卡片.mjs",
+      "bytes": 2001,
+      "sha256": "2392f8ae1ceaf6c8568e446783180c789c79587e82573ace2c4c1ffca52ff762"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/脚本/浮层教程.mjs",
+      "bytes": 6525,
+      "sha256": "dd6ba24f203dcfa23fc1cfbc76debc58062414e87b98b06cac453aa86cef9960"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/脚本/生成JPG.mjs",
+      "bytes": 752,
+      "sha256": "0208ddec1da6e6cfa8a6170b36df332cf0abe7f5519a9a431cf3016f827e1f46"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/脚本/读取配置.mjs",
+      "bytes": 2383,
+      "sha256": "a50671b7d95f951d16466bf7fd9ed9a31d0c2d8cfd4201c3f6733ea77d084678"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/脚本/页面拼版.mjs",
+      "bytes": 1558,
+      "sha256": "58d2069f6b167d5f1c0da919d1813242b31ea2fc428bce8c7eb730dabc89ec5f"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/配置/四宫格版式.json",
+      "bytes": 8390,
+      "sha256": "68a6a703060728c92c3a3c24de309f7dd0c946aab4c6d6494c64d21a824e3ba0"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/配置/教程参数.json",
+      "bytes": 1357,
+      "sha256": "9d480c266ec1f46d8d991c644529dce242d85d19e7a5fa0a4e3857b8dd422948"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/配置/机身标尺.json",
+      "bytes": 158,
+      "sha256": "4cdef1bc97510a3b06396cc8df5b0f28d1aee21dfe44be331ab96bd82f3ac735"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/配置/样式.json",
+      "bytes": 476,
+      "sha256": "2c271dd5ba0cb25a6e3f4c5db1c0aa5babc5f607cb1ccddbbe684fd018bc86ae"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/配置/浮层参数.json",
+      "bytes": 1438,
+      "sha256": "3c4b3983361efc74aacfd1d9b11a784662a87e135527369334e82fc9ae0f89b0"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/配置/界面处理.json",
+      "bytes": 3794,
+      "sha256": "94f5473e2d64df16528775a6e23a8539d03a4cd70cc949602ef77d579c8b5ca0"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/配置/目标与对比.json",
+      "bytes": 1634,
+      "sha256": "7f9e6baac77eb88f33ba0326da3e859d15ecd7d575506083f60ed911da30e906"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/原生iOS浮层_20261103/配置/项目.json",
+      "bytes": 1139,
+      "sha256": "ed530d8bc7d5f671e90c9c9284a3980949d01d9338874b23ecb70744cbe36b3a"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/脚本/左侧紧凑/卡片模块.mjs",
+      "bytes": 2343,
+      "sha256": "172d24340959d089e0a5a70d61c12fdb2b4616169096b6ac6308f1b9bf60fa53"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/脚本/左侧紧凑/机身模块.mjs",
+      "bytes": 1832,
+      "sha256": "ff3a9cd29a5005aca7abe145ed91ad2425a1b5c29310e267140e2a1630a95b6d"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/脚本/左侧高级/兼容区域.mjs",
+      "bytes": 1321,
+      "sha256": "92c8c1780fe8dbd0d4eaf72ddb3d3ca52187ac2cc0e834946145ce93d659b5a9"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/脚本/左侧高级/机身绘制.mjs",
+      "bytes": 1978,
+      "sha256": "7da170311f2120e78be005f9912e948f47a6c972d3b3645b81c6542ca6cea971"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/脚本/文件导出.mjs",
+      "bytes": 1021,
+      "sha256": "07153a6ba60dda97926a41b8192450fd6730f4d4deda4d3d47fc667207bdf3c5"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/脚本/版式构建.mjs",
+      "bytes": 2921,
+      "sha256": "45f3185b0f270c5ba025cb0cf3239a2447826926a38745b19efa8d64cd99e47e"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/脚本/生成整套.mjs",
+      "bytes": 1650,
+      "sha256": "a178291be128c7bfbd9a472f5652fd7262769bf61a5d7b4a060a997a6328ecae"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/配置/制作清单.json",
+      "bytes": 30865,
+      "sha256": "cbf7258a242ae503a519f1302d4a0ded30e855a4f06e7ddc34db06933c6c453b"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/配置/多型号排字.json",
+      "bytes": 3777,
+      "sha256": "0a133c11ad8089d9fa7557992a6f83b58777a9e1f6401e2b7e2639ba442236dc"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/配置/教程规格.json",
+      "bytes": 4114,
+      "sha256": "b3d7421b78d8f8b0ee219105ac7a384f19e777dd86f7f07fba6a91e72fb948f9"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/配置/样式.json",
+      "bytes": 219,
+      "sha256": "2c0e470fdcefd05212157d5cb401ddf8cfff91d6a236ec204147d18551726527"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/配置/版式.json",
+      "bytes": 6888,
+      "sha256": "29bad3987779d792f03d4b0e6c83ff24674a2f66ba26b3198fe1acbd945eede6"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/多机身合并_SVG示意_20261029/配置/资料引用.json",
+      "bytes": 343,
+      "sha256": "0a34c079bbf58a06a79b4dea8d8c48a5d749d1416a9db24a16237a6b22d8935b"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/脚本/导出JPG.mjs",
+      "bytes": 1747,
+      "sha256": "508d957cac2b520e2b6670474e2b8659890ec1ed72f399beeed3c468c56a6459"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/脚本/机型卡片.mjs",
+      "bytes": 4793,
+      "sha256": "cac10888681c0279ac2dddd77f3388cffe4a01d37133df205b9ed918b2042057"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/脚本/生成JPG.mjs",
+      "bytes": 749,
+      "sha256": "3b0eaba875d922f493f16360c589c638caa8699c8d268da2cd7a50640c539562"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/脚本/真实教程.mjs",
+      "bytes": 6738,
+      "sha256": "c2e9e0e863fc5dfc3b63daab127ea425178cfeb19ded3a3d9b54d98d44b23757"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/脚本/读取配置.mjs",
+      "bytes": 1431,
+      "sha256": "da2dcb1dc46e428d91130cf5b7912a07c513e2712ab926f0c35170d4b60262ae"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/脚本/页面拼版.mjs",
+      "bytes": 1480,
+      "sha256": "2e6e30f5acda194b909cb77de21ada99c798f2c85da8ac63bc65333cae76a07f"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/配置/合并_普通A加.json",
+      "bytes": 1408,
+      "sha256": "28d5e48dc2c23f5faf7fa442c3175b87c13a848eb5b1e804bbebc282e7a42626"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/配置/合并_移动端.json",
+      "bytes": 1432,
+      "sha256": "c8d26867f9f3c753042c87c4a8881135dbcad3d814997c4b590953d5e938e235"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/配置/合并_高级A加.json",
+      "bytes": 2169,
+      "sha256": "ba989c4fd728bc74e50e42f23b359a51d9d7e48090e63f7aaedf790e61c6b473"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/配置/四宫格版式.json",
+      "bytes": 8390,
+      "sha256": "68a6a703060728c92c3a3c24de309f7dd0c946aab4c6d6494c64d21a824e3ba0"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/配置/机身标尺.json",
+      "bytes": 138,
+      "sha256": "475cb5378e5a12776512868b9257117abd4612b3e58cf2858c2da682b266dbf3"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/配置/样式.json",
+      "bytes": 476,
+      "sha256": "2c271dd5ba0cb25a6e3f4c5db1c0aa5babc5f607cb1ccddbbe684fd018bc86ae"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/配置/重点虚化参数.json",
+      "bytes": 236,
+      "sha256": "6bd7f6043e76069bd4815503aa9a3c68fef260aebb2e639010c6ce385a468711"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/工程/真实iOS机型卡片_v3/配置/项目.json",
+      "bytes": 868,
+      "sha256": "e2761b5304ac307c7b1001546ce4814629801f0471752d0505eafef76227f6a1"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/模板选择预览.html",
+      "bytes": 5260,
+      "sha256": "88d80b93e872a102a1e2813a73b4594764bd934482ddc024597f2ddcd1df9cc8"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/版式目录.json",
+      "bytes": 13704,
+      "sha256": "4c63273ed50e40ca89cb8698f55be1eeaa93cd215ee42d248699c800dd66a423"
+    },
+    {
+      "path": "店铺模板/moment/参考结果/a-standard-970x600.png",
+      "bytes": 190151,
+      "sha256": "10888709310810392a04cac0fa53460bcf5b829ba9aa5d57b1bc98892207eac3"
+    },
+    {
+      "path": "店铺模板/moment/参考结果/三星三步_20261103/aplus-01-galaxy-s23.png",
+      "bytes": 109007,
+      "sha256": "0b3783883c319e7294eaeccc817466a4cb375418225c999146baf127606ac274"
+    },
+    {
+      "path": "店铺模板/moment/参考结果/三星按参考缩框_20261103/aplus-02-galaxy-s24.png",
+      "bytes": 145510,
+      "sha256": "0e0bf990afbeefd20c3dba19dfd936a02830d27f11978204963d7a6682b24343"
+    },
+    {
+      "path": "店铺模板/moment/参考结果/三星按参考缩框_20261103/aplus-03-galaxy-s25-s24.png",
+      "bytes": 156380,
+      "sha256": "8bd2fba2d1359fbb6c3d8d33aee93ef113e37198dc9aea157dfff602cd01f65b"
+    },
+    {
+      "path": "店铺模板/moment/参考结果/三星按参考缩框_20261103/aplus-04-galaxy-s26.png",
+      "bytes": 162790,
+      "sha256": "71f545b57a96825b7e9963cc770f5db09ddefc15e928e5ecb53d81b7ad249a13"
+    },
+    {
+      "path": "店铺模板/moment/工程/assets/base.svg",
+      "bytes": 6931932,
+      "sha256": "75e7654c5eea8248606e185bf1f4dc68e6f36aa59ef7a3b30d4dee493ea368b7"
+    },
+    {
+      "path": "店铺模板/moment/工程/assets/fonts/Poppins-Bold.ttf",
+      "bytes": 155996,
+      "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c"
+    },
+    {
+      "path": "店铺模板/moment/工程/assets/fonts/Poppins-Medium.ttf",
+      "bytes": 158576,
+      "sha256": "90373e7d838d32468438fc3e152dca0bdb12edcab99ea639f158790b1ba1fd05"
+    },
+    {
+      "path": "店铺模板/moment/工程/assets/fonts/poppins_OFL.txt",
+      "bytes": 4385,
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573"
+    },
+    {
+      "path": "店铺模板/moment/工程/assets/fonts/Roboto.ttf",
+      "bytes": 488584,
+      "sha256": "d7598e12c5dbef095ff8272cfc55da0250bd07fbdecbac8a530b9b277872a134"
+    },
+    {
+      "path": "店铺模板/moment/工程/assets/fonts/roboto_OFL.txt",
+      "bytes": 4394,
+      "sha256": "061402327a96aadb0bfb694a960ed289ecd38d383e396243831ab81feb109c41"
+    },
+    {
+      "path": "店铺模板/moment/工程/assets/general-icon-source.png",
+      "bytes": 314762,
+      "sha256": "6359d10380447161d9ccbdd0c5da6184f058561ed3297efd48842da973cab978"
+    },
+    {
+      "path": "店铺模板/moment/工程/assets/settings-icon-source.jpeg",
+      "bytes": 489621,
+      "sha256": "1cebd277d12d59ed1f36416f6cf1d6811dafdddfbd61e8453ad6e023400fd746"
+    },
+    {
+      "path": "店铺模板/moment/工程/build.py",
+      "bytes": 839,
+      "sha256": "79626d08529c7f1b531c230e898e96c5d5014fdc17eed35051975ae63018f844"
+    },
+    {
+      "path": "店铺模板/moment/工程/config.json",
+      "bytes": 1149,
+      "sha256": "0747849db6578fb785614299c9fae10bfea1ab79c308251bc53dd51e85f99d66"
+    },
+    {
+      "path": "店铺模板/moment/工程/modules/notched_header.py",
+      "bytes": 1497,
+      "sha256": "cea6fd4b8c55d2b454376aa899540300aed640c5ed2c13b2277330155de03dc2"
+    },
+    {
+      "path": "店铺模板/moment/工程/modules/revision.py",
+      "bytes": 2145,
+      "sha256": "f996c3b5f486fe64754257779fce89ffdd54bad69e8d976202c2e1c482d0d93a"
+    },
+    {
+      "path": "店铺模板/moment/工程/modules/tap_overlays.py",
+      "bytes": 2441,
+      "sha256": "b24fbcb4d922e99c6ed495250d4aaf131085dab48008608013b0a39411a8cd04"
+    },
+    {
+      "path": "店铺模板/moment/工程/modules/typography.py",
+      "bytes": 556,
+      "sha256": "4b62dbfba4604cb08229ec2f7672af892138a7d5b172ec5f0a42dabe2923fd73"
+    },
+    {
+      "path": "店铺模板/moment/工程/modules/vector.py",
+      "bytes": 2276,
+      "sha256": "efe75142dc07c5bec968a1dd6da10c37c7ac5aed40fa007b8f8aafec65b22f02"
+    },
+    {
+      "path": "店铺模板/moment/工程/render.mjs",
+      "bytes": 866,
+      "sha256": "050a3f8fbfc65d0a9e2d9e49727656770e65a5ddd4d0413e15d1f3d078a27e72"
+    },
+    {
+      "path": "店铺模板/moment/来源与归属.json",
+      "bytes": 2613,
+      "sha256": "0596e460557b2f2c1d5367be151b47cf7636358b1675e2540b2ccf28f01b4428"
+    },
+    {
+      "path": "店铺模板/moment/核验/归档复现记录.json",
+      "bytes": 826,
+      "sha256": "376ae1a4263e168eca8afa89967267070cf0cdaf0676d8d829d2cfc37f776c26"
+    },
+    {
+      "path": "店铺模板/moment/核验/设计核验记录.json",
+      "bytes": 1125,
+      "sha256": "d5611fdea791cc945809400249f8bfe68bcdb385e5d4f141690528f874c0867c"
+    },
+    {
+      "path": "店铺模板/moment/模板参数.json",
+      "bytes": 3118,
+      "sha256": "897f4d8c28f477122fea456c488c1cb42d02e919f9e147860c8e1f051943b07a"
+    },
+    {
+      "path": "店铺模板/moment/源文件/a-standard.svg",
+      "bytes": 8043650,
+      "sha256": "7e9a7223dda9205f65f7c97f704ee632706bbe6a0c079d7929d0858378abb01f"
+    },
+    {
+      "path": "店铺模板/moment/源文件/三星三步_20261103/01-galaxy-s23.svg",
+      "bytes": 3425757,
+      "sha256": "0a173994ce1667be833328b96cb3a00686edb97e619084d164769bf3bb5c184e"
+    },
+    {
+      "path": "店铺模板/moment/源文件/三星按参考缩框_20261103/aplus-02-galaxy-s24.svg",
+      "bytes": 6061859,
+      "sha256": "3feea79c556247715273ca89fec5e48daee00b90228bba65dd67782e08253f2d"
+    },
+    {
+      "path": "店铺模板/moment/源文件/三星按参考缩框_20261103/aplus-03-galaxy-s25-s24.svg",
+      "bytes": 8209412,
+      "sha256": "db0d841aa886ce74abe623778b8336b50c94806188ed200fb1a13a882dad8e2f"
+    },
+    {
+      "path": "店铺模板/moment/源文件/三星按参考缩框_20261103/aplus-04-galaxy-s26.svg",
+      "bytes": 6089256,
+      "sha256": "a0720223ff686b5ec0f3019dfcfc7a6c57b7f99ab895290dd22da41726385142"
+    },
+    {
+      "path": "店铺模板/moment/源文件/三星按参考缩框_20261103/moment用户指定参考.png",
+      "bytes": 109007,
+      "sha256": "0b3783883c319e7294eaeccc817466a4cb375418225c999146baf127606ac274"
+    },
+    {
+      "path": "店铺模板/moment/源文件/三星按参考缩框_20261103/成品与真实来源核验.json",
+      "bytes": 8046,
+      "sha256": "e47be6caf49f108644551969b05ffd5114f3ddbe95878a116474e0e824ff4e5f"
+    },
+    {
+      "path": "店铺模板/moment/源文件/三星按参考缩框_20261103/版式.json",
+      "bytes": 4039,
+      "sha256": "a57be888d8ea632c8f4e0b55423fed4134c3d0f6db63eed2edf5806b82f20e5a"
+    },
+    {
+      "path": "店铺模板/moment/版式目录.json",
+      "bytes": 9899,
+      "sha256": "4f5ccf4c1c62319cec6fa3c2471296d74f7ce63eea1b63002a9ddf501b3b626e"
+    },
+    {
+      "path": "通用流程/脚本/SVG基础.mjs",
+      "bytes": 962,
+      "sha256": "62d8839c6faa3e8b0f7de4f91480ed0eae5f3a9bb137ef1f213743571ff31d71"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意工程读取.mjs",
+      "bytes": 1525,
+      "sha256": "f76fdf44253e1e083ce64513e6098c7749dbcf57da8f99822fffd3fe66ad1d9b"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意成品核对.mjs",
+      "bytes": 2874,
+      "sha256": "ffa912363ef80b09fd3e46efe123b30efa212f478c160e2a74272d2159915812"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意教程/SVG基础.mjs",
+      "bytes": 1315,
+      "sha256": "f9f5f0f6d23280f1d4afd5ca40e2c8280e46d825a79f1b750481142d290b3cd3"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意教程/原生界面.mjs",
+      "bytes": 4807,
+      "sha256": "5b84bee608633c1f37306f6efcd1259878b7a2e643f943f049a2198dae11aed6"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意教程/教程机身.mjs",
+      "bytes": 2549,
+      "sha256": "ee774afbc451e78f88b56a02518454beab7dd69291f414407e1bf56d96da5677"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意教程/教程构建.mjs",
+      "bytes": 3950,
+      "sha256": "d09d76c8aa6166fc5ecc7320ddf81ad640d3778269ce341c141890bb945fa9c7"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意教程/界面图标.mjs",
+      "bytes": 3897,
+      "sha256": "3a622129c74a5a297beac9efc29dcf6c36fae06fb8cb0e55df456d3e92a41bcf"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意教程/移动界面条带.mjs",
+      "bytes": 2341,
+      "sha256": "781d6665c72d49cb6f0caba5e5086db06746708e8c920b286b3cc57503dc3dcb"
+    },
+    {
+      "path": "通用流程/脚本/SVG示意预览.mjs",
+      "bytes": 1249,
+      "sha256": "d1d4c25cfe035676e1aff2b4b2d705ce8fc0afba2e7b4d5c81c252a3d209533a"
+    },
+    {
+      "path": "通用流程/脚本/刷新真实尺寸轮廓.mjs",
+      "bytes": 2782,
+      "sha256": "2f4f309c06e3db801607f7a66d5dd524415cb53811d422f8912ad7b381fe6b0b"
+    },
+    {
+      "path": "通用流程/脚本/刷新素材清单.mjs",
+      "bytes": 1840,
+      "sha256": "7aebb48c05e56a2b2889f6b2619650d5416cfeac2bec8d62d085de6e96f52841"
+    },
+    {
+      "path": "通用流程/脚本/同步型号视图.mjs",
+      "bytes": 1241,
+      "sha256": "b740c8d108c92c15caa0432fdbe9fbaf53343fb3464a28cfab44943062005e2d"
+    },
+    {
+      "path": "通用流程/脚本/图片数据载入.mjs",
+      "bytes": 561,
+      "sha256": "2178cb170ca6b430ee0683d1c95b4cd85f977dd1e926302c71b88e8dd266ee3c"
+    },
+    {
+      "path": "通用流程/脚本/文件导出.mjs",
+      "bytes": 2520,
+      "sha256": "c5e4161e9b37b3a551d3c573f4aa0c23a95b6090901fe1065431d4a950a3353d"
+    },
+    {
+      "path": "通用流程/脚本/机身几何.mjs",
+      "bytes": 1659,
+      "sha256": "5d334946561754245a3aa4b75723ffb96b445cba9585cdecd9d4b951edb3ae14"
+    },
+    {
+      "path": "通用流程/脚本/素材读取.mjs",
+      "bytes": 2682,
+      "sha256": "68d93260b6561cf781fea86882e92cc51bcb748731ffd3ab23ee994e0f7115a6"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/13系列机身原稿.png",
+      "bytes": 1354721,
+      "sha256": "c70a7e4c7f2682c1b7039b896bf66686450d5d585b6108eda62cf738301b52bb"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/14系列机身原稿.png",
+      "bytes": 1421033,
+      "sha256": "20f0ab5edcd1291f40456c03d3ec6e5e7f8a7a5e9112a641a8508a78272b6bb8"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/15系列机身原稿.png",
+      "bytes": 1892013,
+      "sha256": "7f6c2ba6a8a9e37f65324b4f51c2ae7a83b7c6c3c7ed9e559fe1011b97e6b191"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/16e与17e_独立背面原稿.png",
+      "bytes": 1384269,
+      "sha256": "4aee180c6bc52cf642a56a6b52ea1e874b3b75baf31b89b734df60ab4f839f2c"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/16系列机身原稿.png",
+      "bytes": 1154935,
+      "sha256": "1c12ce00e8eaff3dc94d96e4682817fdc297b83ef81fba2f91b79c7626edb336"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/17系列机身原稿.png",
+      "bytes": 1209419,
+      "sha256": "4afd9dbc28adde53aa90a0ad5e932e4ef004e926694ebf4bd6a783f8fc84f313"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/18系列机身原稿.png",
+      "bytes": 1856496,
+      "sha256": "f4c12816093adf0e2daccbd208c89e8abb65d642bfef968b1c41e4045d4f409e"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone11_补齐背面.png",
+      "bytes": 1295582,
+      "sha256": "dd637a081254f5b722b3db2de0421a13acbf01e7628a613e0c671374b40caa1f"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone11Pro_官方规格图.png",
+      "bytes": 97037,
+      "sha256": "90223177732b8dd2ca07dd2f5b8aa01a35de522fc952aa532ae9a65ded6465c8"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone11ProMax_官方规格图.png",
+      "bytes": 105407,
+      "sha256": "36a7cebda5adb1654dd4d7c5e3a3f896593455c2aa5f4985530bc8256e4e7ae6"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone12_官方规格图.png",
+      "bytes": 91824,
+      "sha256": "b054eac273617b43eb8a20c79a96001515c7a54dd47b049e9739aaf7fd2e2b1a"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone12mini_官方背面.png",
+      "bytes": 78644,
+      "sha256": "47e65bd56d796ffbaa1f6be5184be56d0e21d2b6cac3e66170d1405c5353d538"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone12Pro_官方背面.png",
+      "bytes": 69294,
+      "sha256": "9ea6a24aa0616a441fecf38fdf5cea7d9f8b2729fe0f8d286a2a2a99eebfce4e"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone12ProMax_独立背面.png",
+      "bytes": 1714326,
+      "sha256": "b1caf9a18c70ca17ad552d07229d610eee9ed472633a982593a3d84c6bb20408"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone15_独立背面_20261015.png",
+      "bytes": 1452041,
+      "sha256": "d8f99fe132341576a976d5fdeff52284071ed28c0418fe6e2e5b8bd95cced871"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone15Plus_独立背面_20261015.png",
+      "bytes": 1404216,
+      "sha256": "92b4cad9850b2449a1d3dc16f46d1a116e97d90d337eb99c83b1034ad282729b"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone15Pro_独立背面_20261015.png",
+      "bytes": 1656686,
+      "sha256": "e3e3ae50207d55f3741727430a69140c066236886c18eb931c6a9c5caa3b813a"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone15ProMax_独立背面_20261015.png",
+      "bytes": 1784399,
+      "sha256": "c584274b0bbf28de4b396e7f958fda187c1260789d4afde2b2b169d6c4646f84"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone16_独立背面_20261015.png",
+      "bytes": 1755370,
+      "sha256": "02e5b5984450d424eea5cb63129a5adcdd18049ddf492ba414f81ebfc52456b2"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone16Plus_独立背面_20261015.png",
+      "bytes": 1583414,
+      "sha256": "cab1d1577d85cfd9bf2b704a8419f563e0eb83a6ee201f3877829ee3cd1362dd"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone16Pro_独立背面_20261015.png",
+      "bytes": 1616460,
+      "sha256": "71e19a4ae6400ef06eb98d07c1f0d25ed81448f5d7eec61218fa8f6728288797"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone16ProMax_独立背面_20261015.png",
+      "bytes": 1540002,
+      "sha256": "9b96ff4dffc3caeb9ddd9b10bd2092652be07712505c9c28532a4ca03d9d8fac"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone17_独立背面_20261015.png",
+      "bytes": 1318692,
+      "sha256": "09ad83c784bdf8675a299d94bb1ee81361162c58fa4e02505c8a3a80264d34b5"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone17Pro_独立背面_20261015.png",
+      "bytes": 1724523,
+      "sha256": "108c621734aaca9e76c24f791ee094825b84acb94432ead145052935e458fe33"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhone17ProMax_独立背面_20261015.png",
+      "bytes": 1601628,
+      "sha256": "984c11d436c8fc3c62bca9f78e8e634e350127cde020fec7e72bea2ad70f4524"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/iPhoneAir_独立背面_20261015.png",
+      "bytes": 1403467,
+      "sha256": "66f5108976b02955296fbe4a9b3cb4943e3650b5f6a4b976d253897fc24a5849"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补充来源_20261016/旧款八机身.png",
+      "bytes": 1493444,
+      "sha256": "d7d3a1b19cb269564a243a265622a08d615452a3a75deb2a3960939dc4470cc8"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补充来源_20261016/补充12与15系列.png",
+      "bytes": 1299026,
+      "sha256": "caba14c30bc73f648af03a085457b68382c0582399b72209ea43393b1d941b19"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补充来源_20261016/补充6Plus至11系列.png",
+      "bytes": 1184543,
+      "sha256": "016a354b634a4b0089c18679680cf51c41ceb577db531b4e779109e868b2fbfc"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/iPhone5_生成原图.png",
+      "bytes": 1644826,
+      "sha256": "ff0cc3bcb9d75355b2b47f47b9af9d124163355ef0bebf6b0d10f5d86d58fab7"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/iPhone5c_生成原图.png",
+      "bytes": 1325012,
+      "sha256": "f9ab25102d31c03c4db3fcf58956e64ccb2551fa8632978f6b2d60894d1514ac"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/iPhone5s_生成原图.png",
+      "bytes": 2235744,
+      "sha256": "ceb830ff49a20f8c239a89d020eaa5a805c66fa2ed209fe91bb678a7b2475634"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/iPhone6s_生成原图.png",
+      "bytes": 1227611,
+      "sha256": "706fc93c3c2044c98e155f0c48acccdec03fe421c2ddcf76819c0489be7eb009"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/iPhone6sPlus_生成原图.png",
+      "bytes": 2137512,
+      "sha256": "7c0bf14e4f2f46ebe2507bd00d99f85d4fc54a80ba1b24161f8de61abbe3e428"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/iPhone7_生成原图.png",
+      "bytes": 2228932,
+      "sha256": "8c577d6b1004c7b8ce4427bcee21dc59656297e237d7126b64e1cc5b296d604a"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/iPhone7Plus_生成原图.png",
+      "bytes": 1982313,
+      "sha256": "6243fe9e1d0ce49ee7ea085398b3542d94b64d9e0c7534c4de1c1f769dee77c2"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/iPhoneX_生成原图.png",
+      "bytes": 1554176,
+      "sha256": "ab8aeecfa8fb3e717ae5bd590125ce5824bf0a5033050e877ee0955c0fb03e49"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/原稿/补齐8款_20261030/生成记录.json",
+      "bytes": 26807,
+      "sha256": "33a84a55e120f4d1028053eebbd3a1e6ad33bf66e9fabf76a1f79ea7b9e1101b"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone12ProMax_产品背面.jpg",
+      "bytes": 79506,
+      "sha256": "0a5fb14b2c98a7c83b83c3f4ab280db2ef3f5c0b66284434826e8ff687f3c626"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone12ProMax_运营商机身.jpg",
+      "bytes": 26662,
+      "sha256": "8b8a8af0b69948f3f8f3e3d77375d6747519fd559e40afcd7676ad3588ce061f"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone13_官方参考.png",
+      "bytes": 129605,
+      "sha256": "bdad53b93e3a00850cded1b5b655dda5f551fb33003f42d75c6db92c4f0dacf9"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone13mini_官方参考.png",
+      "bytes": 128448,
+      "sha256": "d46d4c617e2c121ba8cca06a4ffc389e404b0aad00ba31e01ceece9ec377bd6a"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone13Pro_官方参考.png",
+      "bytes": 154424,
+      "sha256": "358996f498d0e17fc5b6799fe2020539676a73ac92789949a1f541f8eb6e30ca"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone13ProMax_官方参考.png",
+      "bytes": 160489,
+      "sha256": "f13ad451014c4f008c41979f796d6f9e5d8111916d621e5e041fbdaa5aba47e1"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone14_官方参考.png",
+      "bytes": 405956,
+      "sha256": "f0a8cbde4bb43a657c9e0bed5bde3d1baf516da48bfe4cfcaf8cacbc56edb4d6"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone14Pro系列_官方参考.png",
+      "bytes": 164312,
+      "sha256": "dae9f1e47ff2d84ca329af6b282d8c88b3578df33c6189cc97f8c57f94284daa"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone15_独立背面参考.png",
+      "bytes": 338934,
+      "sha256": "57742189fd91b8f61bfdefdad8f7692787cd9df55371d837195d0774444dbe5e"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone15Plus_独立背面参考.png",
+      "bytes": 367580,
+      "sha256": "c6876c9136398acd001d129abe803f534b690edfced3b7c09b6b973324e4de94"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone15Pro_独立背面参考.png",
+      "bytes": 377423,
+      "sha256": "e91c699fc07e1ad330f7857beb030df4530e1064e379551588501578447b3465"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone15ProMax_独立背面参考.png",
+      "bytes": 403237,
+      "sha256": "22ed10c6986c2c529df0a3d7428d3d5248a9f9760bd7bca13ad590362fd433a6"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone16_独立背面参考.png",
+      "bytes": 775647,
+      "sha256": "5a9bd8dc9b8be344305533504b1ddca10f029e8ff34950f465748bcfa640119a"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone16e_官方机身.png",
+      "bytes": 956436,
+      "sha256": "5e2be79cdf7952b1150803393eced349574a55ada775fdf707e5753dcd5d9dfe"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone16e_独立机身色卡.png",
+      "bytes": 239721,
+      "sha256": "632b9158c4491acdab9ba88f20fabd48a8e08edd45bf38a9c23cf76f8f7ff8d9"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone16Plus_独立背面参考.png",
+      "bytes": 819956,
+      "sha256": "d7aaf8608af76ac82622a1577239d93682767ac8189312debdd1a470e35704c8"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone16Pro_独立背面参考.png",
+      "bytes": 615465,
+      "sha256": "88d15adf63c09d41a0b29be563941bbabccbfcf3f09a80ed06a9a9ac1469de06"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone16ProMax_独立背面参考.png",
+      "bytes": 633980,
+      "sha256": "0c178501af4a8640e409593154edfe49378b3096b75073b4c11e54bcd1e362a5"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone17_独立背面参考.png",
+      "bytes": 388371,
+      "sha256": "781cab3829cf48ba6c5414b8fe705a5ce27542fe30376bb82de67709779d48fb"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone17e_官方机身.png",
+      "bytes": 338945,
+      "sha256": "17408a9c023d9121232194728101640d9cb79e00553c78f436c4c97837f72608"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone17e_独立机身色卡.png",
+      "bytes": 258571,
+      "sha256": "8b6fb3200c0ebc290161fe69d1b72a594e915cd281b7f6f994b2d0452c0ce1ac"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone17Pro_独立背面参考.png",
+      "bytes": 383699,
+      "sha256": "bddaa4243446641f17fb77e5961b63598632e54f531e0c126b7ce8c166c0cf4c"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone17ProMax_独立背面参考.png",
+      "bytes": 453536,
+      "sha256": "feaffd90d5ed9aaaddc093f1356a68f8ee5199ef0f428d6ecc63d793cb9d602b"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone18Pro_官方尺寸.jpg",
+      "bytes": 6396,
+      "sha256": "73cb1484ccff75f90dbe0af2f2a2656b2c3263a152bfeb33e5a927cef38f4b42"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone18ProMax_官方尺寸.jpg",
+      "bytes": 7135,
+      "sha256": "e7dcefed0419c014862f6bd99438400b736c7337e16f1d99e12558fa1c3b63bf"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone18Pro系列_官方正背面.jpg",
+      "bytes": 38105,
+      "sha256": "1b150e11dea3ad76c6c03ce1a6d4ea1845881c3c96e626d17a91def2ec52c24c"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone18Pro系列_官方配色.jpg",
+      "bytes": 50884,
+      "sha256": "0a3860ee2f48fa94cf0597aac939858d1971176b14dc5a6047178f04c55d2a7d"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone5_官方参考_20261030.jpg",
+      "bytes": 35389,
+      "sha256": "233436bf3698e0bc4675b2d0f1826d07bea2ab9c06b25db8d8b04794ee5d6bce"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone5c_官方参考_20261030.jpg",
+      "bytes": 17753,
+      "sha256": "5817b70dc76c60aa7ece86d71dbd7c703ebe4f2891215e3ad87daf924a52d181"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone5s_官方参考_20261030.jpg",
+      "bytes": 23080,
+      "sha256": "89e05716da2b284ebef52df53f682f43077dcc452835d91635361890a912f07f"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone6s_官方参考_20261030.png",
+      "bytes": 850421,
+      "sha256": "a8fd5303c68b8d9063434fbc9d37ff4bee6ece7e816ea10d58aa2e416f808720"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone6sPlus_官方参考_20261030.png",
+      "bytes": 1007099,
+      "sha256": "6da55523486a617fc80bcd23dd7160f05659478c0a1f176a61a2c580c024131f"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone7_官方参考_20261030.png",
+      "bytes": 199340,
+      "sha256": "62d91a90dfacbc1f3e9cba63cab34879c27b7c44501a77decf5401050a37b5fc"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhone7Plus_官方参考_20261030.png",
+      "bytes": 263713,
+      "sha256": "290210c9ecc43f1c57657ce66d61d145ede391119a9749f855b73279eb9cceff"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhoneAir_独立背面参考.png",
+      "bytes": 240443,
+      "sha256": "2a4f2b0474fcde404a082da827970d3aae0d9368b7683610fab4e49a9d564733"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/iPhoneX_官方参考_20261030.png",
+      "bytes": 328297,
+      "sha256": "9b3b265b55bc9e2ccbc05e1c88ee2d2d434a125fc3a96f6e1522881ad152faab"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/官方参考/下载来源.json",
+      "bytes": 1764,
+      "sha256": "36b30f7fcb041f32b1cd74884c1b69cd04aa8f5fd94d71a22e411295da429814"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone11.png",
+      "bytes": 165277,
+      "sha256": "4899d93a221bd75d2645fffbe7a85da1389d13dd318b806bc9c6950783c4950c"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone11Pro.png",
+      "bytes": 185522,
+      "sha256": "c1a96c8f6c5e3a64a6f6c8b7d10c2146b9604b46148e24ffedf14f42dd0a92b2"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone11ProMax.png",
+      "bytes": 178519,
+      "sha256": "138a725e0a706940633c39d105df004a9fef86159e168f2cf0e13b5737a417f0"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone12.png",
+      "bytes": 191214,
+      "sha256": "31da45cc013be1c4428a5b2ed0f47e8aac2bde7b2b610eeeca7504c2899b1ef1"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone12mini.png",
+      "bytes": 172085,
+      "sha256": "80aa29651d56e0c83cf1e84524160bba81f16eb807dbdb6b40be682672f30496"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone12Pro.png",
+      "bytes": 207310,
+      "sha256": "8c3a58b1a9423a1946784822c5f50145136206b348a3bfe22b162fb17eb3a792"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone12ProMax.png",
+      "bytes": 235103,
+      "sha256": "d5f496deba45ca8d29c05fb7b471a2e410bf446cbdac0b867e863981c3d5eead"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone13.png",
+      "bytes": 266895,
+      "sha256": "f41fc40f79b186b76522a06ec3d97495577ee215e9fdbb7674b5a4464a82988a"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone13mini.png",
+      "bytes": 271737,
+      "sha256": "8bb5db9d2a184539dbcf09065e9acb9845c2d3681cef67139ba7e27555722038"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone13Pro.png",
+      "bytes": 326847,
+      "sha256": "08b8ce315dbb7cd22a4fbfd1c621df5a4cff9516be2b241d019663f6b818eadd"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone13ProMax.png",
+      "bytes": 376071,
+      "sha256": "e17be312e3d982c536b8f726267f30ba1e506a187d163846938c946b59227d51"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone14.png",
+      "bytes": 287966,
+      "sha256": "bedc8967f2a8e7809c610e73482e22b0337ddb05ebc770f5522a85f33cb917d0"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone14Plus.png",
+      "bytes": 326686,
+      "sha256": "68f34f50565becb88e37cb18f4c43cc1f03690ddf6019f70f663e7167b03f0a1"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone14Pro.png",
+      "bytes": 295457,
+      "sha256": "02ffece30db591cff7e83613640a4fd13adfbc6c31c9b1dd7635a9e85fc04e49"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone14ProMax.png",
+      "bytes": 379710,
+      "sha256": "ea69eeb720cfad9bdd67a618366c2b4f3dc275c5f694eb9dab84e287ea15ed06"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone15.png",
+      "bytes": 1052471,
+      "sha256": "f1099be304762681532a269044953565214557041acc8fbad797846f8073c3f1"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone15Plus.png",
+      "bytes": 1000195,
+      "sha256": "dcf581b0fa060f03ee0254cf1db93d98fada3f3c95e5f32165bb2612898a9bd7"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone15Pro.png",
+      "bytes": 1293099,
+      "sha256": "f45c442eb239b421746692ca8c1dfdc6f5aea727019af71844bf95cdb5905461"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone15ProMax.png",
+      "bytes": 1439445,
+      "sha256": "bfa972df169425787f6f8fd823c0e25001562eba9edbdfa4f112ba223f8a452d"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone16.png",
+      "bytes": 1543287,
+      "sha256": "ea684747721874d5fcce64f3d9cd4a0bc5a24ec36891938c876fdaa59b377211"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone16e.png",
+      "bytes": 435473,
+      "sha256": "9637675d7ae1162e1880fd509ec4986a2ff167d092473edde5870a6262b2156e"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone16Plus.png",
+      "bytes": 1353558,
+      "sha256": "54286e69a0e7c5ab4760aa9958352523ac41ecf77e4bfe9b35f3e745ee452b4d"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone16Pro.png",
+      "bytes": 1415975,
+      "sha256": "c9e8c7dbab0476030865363ab461502d45848e61fabebd9ff0aade8b51abd7b8"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone16ProMax.png",
+      "bytes": 1496994,
+      "sha256": "bba0cedebcbc57884d84bd3ebf8a090c24c096c82b74786bf8840349b95cf82e"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone17.png",
+      "bytes": 997145,
+      "sha256": "db517445ff5d337b00576c6f5ae78e8419a894f7b6c522623fcd92b31682dca7"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone17e.png",
+      "bytes": 351766,
+      "sha256": "9de71922f4a7756f3a30a581eddfbf1acdd9f45a9c6bb2b53966a84995888c76"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone17Pro.png",
+      "bytes": 1693274,
+      "sha256": "999fc0b66dc05a4e709d6223fb6feff3fd0c8536ae092c09ed4997fe9e65194e"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone17ProMax.png",
+      "bytes": 1488360,
+      "sha256": "15cf6e7b59e7e3a36fd9e5e225246636b5ec2a45f7e4aef4e93f22c45553ad59"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone18Pro.png",
+      "bytes": 676420,
+      "sha256": "90dcd7808aa1332c6bebb1773d56088033288e651aa26ac247441032f5554f47"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone18ProMax.png",
+      "bytes": 728058,
+      "sha256": "7b9a8ba6f57e15cfd454ad5e870ba01d25b4ded315a8f2bbd3341b5960814354"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone5.png",
+      "bytes": 1266371,
+      "sha256": "4711f709a821eea826c71bb2649581d2648e35efa8753331705293738c51b208"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone5c.png",
+      "bytes": 1265950,
+      "sha256": "63e1cc6374b0c4b33b38ec4feba0c4205e5853e4ddb98187a168891d1ba8a2a2"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone5s.png",
+      "bytes": 1838901,
+      "sha256": "3c257c9d92bd2db7008febe3dfbacd32dc2885154f0c0fc33a77290b8ae88280"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone6.png",
+      "bytes": 205970,
+      "sha256": "3d35c05bd4b9a0af019af9d6ee57d9cc990c7a1b3bf8ecedbd64444b23491b4b"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone6Plus.png",
+      "bytes": 166297,
+      "sha256": "b19f2a68a170e244d946ab8bf765c6a0005be611245063de680df46da2a4a4a1"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone6s.png",
+      "bytes": 1172063,
+      "sha256": "7d89433dfd79dd1f0f920030fb4bc7da53e063faa34685601d2796946311312c"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone6sPlus.png",
+      "bytes": 2046853,
+      "sha256": "75a83868310c8fd16fb3137382355507f267de60f7135f832fa228b31d5066fd"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone7.png",
+      "bytes": 2197306,
+      "sha256": "c8b0cf2db865e7c730ca08822454e290a895d2ed2949edd22c949f71527ac6a4"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone7Plus.png",
+      "bytes": 1853714,
+      "sha256": "09ff20533568bcd2212410bd2fcb968710d1b3a72365b210be5ecbdc0320db73"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone8.png",
+      "bytes": 169615,
+      "sha256": "46803918a442da863dcabea0feee90d6461bdec0d198e3692f93eca37c99fd56"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhone8Plus.png",
+      "bytes": 186151,
+      "sha256": "b878b37f8df100298cb97abbe6ea55eac22888d98b92121786924c0081e5e68b"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhoneAir.png",
+      "bytes": 1070782,
+      "sha256": "70141b6d54412dcf7585440aca2d6b71f84c82dcfb4be515ad275472a9d0ad1e"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhoneSE2016.png",
+      "bytes": 153717,
+      "sha256": "9387b77edbd5e8beca1de103612248f8447fb1734c903061ac758c5e2bb72715"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhoneSE2020.png",
+      "bytes": 143111,
+      "sha256": "f4d997b7b45754aecb1efb8da524c688cf3acc9402de4079d8edfa36d6832739"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhoneSE2022.png",
+      "bytes": 144537,
+      "sha256": "896cf256a2f87b2d76acc22047290580a0001fc0a8b259de8987610dfe1528d0"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhoneX.png",
+      "bytes": 1445634,
+      "sha256": "362da450e86b04a4269f8a700f20fe62b913e085ed8e2efcbeed7499bcc2981c"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhoneXR.png",
+      "bytes": 162154,
+      "sha256": "90f38b3194e78b9afa36ef933ee8c2d4f1df000d8c97c3601f75a3c86b60a6e6"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhoneXS.png",
+      "bytes": 144191,
+      "sha256": "d15719cc05ec6319a4c2f55a9a8cebe7f88638dcba68b1e2de1ea9d679823930"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/iPhoneXSMax.png",
+      "bytes": 169199,
+      "sha256": "530c5caa7d0a20d6a4dc3e5c89b3eadf3d8211bedf637ae50ef07550a4f0ccf1"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/全部机型总览.png",
+      "bytes": 1717294,
+      "sha256": "e8de35007cdd9c8309185f80e8ae83b1298530d3959b91d46aac290a033f33f4"
+    },
+    {
+      "path": "通用素材/手机机身/Apple/独立背面/全部机型预览.html",
+      "bytes": 14896,
+      "sha256": "c7943197636e1af80bcb7d92183782ec72e8fbe40b63f3e88180b3078558c10e"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/去标识机身预览.png",
+      "bytes": 297652,
+      "sha256": "90f6d16ff9998d56b4775f77613e3db5b3a19fa83d4bb832bd1b2a7a0b21edbd"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/去标识来源与编辑记录.json",
+      "bytes": 11187,
+      "sha256": "4e8fdc98183137f551c2a8a1452261b66e7496b837b0d24f9847428c4de3b926"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/官方原图/s23-official.png",
+      "bytes": 580012,
+      "sha256": "7befe7d4db3709736fb3a822e1d3a2c6bc77ca3e1452206aedcfae0f06f2d607"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/官方原图/s24-official.png",
+      "bytes": 518133,
+      "sha256": "ee34f66ee3eea343a78ebe07b9873ccbbe94bc7936d7ede27e23dc4aa9e706d3"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/官方原图/s25-official.png",
+      "bytes": 448274,
+      "sha256": "3e91febea510142f04971d281eb3707cdd7ec362704987be3a3e0af095125be9"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/官方原图/s26-official.png",
+      "bytes": 509767,
+      "sha256": "a1822a30fe9373005ee27f9668a21745e542781f56486b7dc52bd2eb66ce259e"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/无标识/s23-clean.png",
+      "bytes": 668569,
+      "sha256": "98fa2c39b551280d85e4e3637380394f460f004b2e649e3107b319c5413fd2c9"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/无标识/s23-clean.svg",
+      "bytes": 1470799,
+      "sha256": "dc57ef8f5f4d2e37a3cf17c21f77258dae5ac9ba2685a0fcf52d559c7063bdba"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/无标识/s24-clean.png",
+      "bytes": 569611,
+      "sha256": "221ae8a8e6a6f73031933ff42ff18104059879b3265c81e54de60568239a2b93"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/无标识/s24-clean.svg",
+      "bytes": 1423319,
+      "sha256": "d032a3673d209861fe5d583ffb191b98393e77cce3cbc47ab13a590d1b3cb16e"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/无标识/s25-clean.png",
+      "bytes": 482017,
+      "sha256": "d268b868d039f78e5e6c95d2822ca4c15513215c2d7d831f7f5877b0e5bceea5"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/无标识/s25-clean.svg",
+      "bytes": 1256249,
+      "sha256": "a74bab5942040203f88be652c22e1f9d8dc5bba449bb4aac52d8775daa74a46f"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/无标识/s26-clean.png",
+      "bytes": 579369,
+      "sha256": "d29369af8fb8235ee97ca4861578022c89e26e9b5fcbaf3d2511773191718b07"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/无标识/s26-clean.svg",
+      "bytes": 1367201,
+      "sha256": "731bced8c12dce5e801249a2d13f4de917f0f743c4158ae04abf08b0c00f69b2"
+    },
+    {
+      "path": "通用素材/手机机身/Samsung/素材索引.json",
+      "bytes": 16754,
+      "sha256": "98f9c42eb7aafc9f87d0ba8bff78638f4dff20a3623594b3fb7883f1c308a6e5"
+    },
+    {
+      "path": "通用素材/手机机身/型号与尺寸.json",
+      "bytes": 61871,
+      "sha256": "982d228c148fa90bae6ef4a2e4b72082fbb53ad353093c36a7b5f07a40e9790d"
+    },
+    {
+      "path": "通用素材/手机机身/型号数据/共壳组合与开孔条件.json",
+      "bytes": 33118,
+      "sha256": "a5612dcf592789ae709c88f1c2801bac5616939836191870e2d26a961cb763a2"
+    },
+    {
+      "path": "通用素材/手机机身/型号数据/兼容组合与对比_iPhone11至14.json",
+      "bytes": 9150,
+      "sha256": "b993a65e6d3472af01299ec201e3a0ec0fb2d080d367ee58238b17ace025e619"
+    },
+    {
+      "path": "通用素材/手机机身/型号数据/前屏与教程适用.json",
+      "bytes": 6881,
+      "sha256": "7572f8ed3ddbf40a5ecd49dab2b323ec28054260b436230937ff7ebe08000211"
+    },
+    {
+      "path": "通用素材/手机机身/型号数据/型号资料.json",
+      "bytes": 17477,
+      "sha256": "86fb391633ff1448b7d3a485f4070e273449ebd6c3d2ad633f79309391760a91"
+    },
+    {
+      "path": "通用素材/手机机身/型号数据/旧格式素材映射.json",
+      "bytes": 11932,
+      "sha256": "da79f52d498f22586428a312f06409a27655bce22bf428813ff368f2b15c4d84"
+    },
+    {
+      "path": "通用素材/手机机身/型号数据/素材覆盖状态.json",
+      "bytes": 56059,
+      "sha256": "0a21b1594c6f0204f3f6d24e5b8a20d6b58b511434fbed7481f2f72935064a1d"
+    },
+    {
+      "path": "通用素材/手机机身/型号数据/证据来源.json",
+      "bytes": 5921,
+      "sha256": "3f7692fb7051d2cded95256eb6a691b6b1bb259ae5daf9d69a9d32dfd387d9b2"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/五档机身尺寸对照.png",
+      "bytes": 68329,
+      "sha256": "d3a169a3038e6caeeae343214d2a4f96181a7ea8b652bcba6c1468d9e980c235"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/五档机身尺寸对照.svg",
+      "bytes": 5326,
+      "sha256": "71f3a3f17edf4153e4be2053d2aff6835221c88b76430bf3e944deac02304ab4"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/前屏遮挡轮廓/compact-notch.svg",
+      "bytes": 481,
+      "sha256": "8fc827b9ed01981fed953442420fe2ffe248b2f33a9cb85e59cfeccc600ee277"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/前屏遮挡轮廓/island.svg",
+      "bytes": 290,
+      "sha256": "3319714bb2b8ea3efc491bfaa099283894c200274702a2abcf004a83afee572e"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/前屏遮挡轮廓/punch.svg",
+      "bytes": 140,
+      "sha256": "3e4de183fc92e3b3afcbd256dc5c900937bd99442147bdb9c50c57b980e34af0"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/前屏遮挡轮廓/wide-notch.svg",
+      "bytes": 476,
+      "sha256": "bfe0f8126fbd6d19914fb67fac617b53db5f43f9ac4a79d172e03f42c4d56d92"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/前屏遮挡轮廓/参数与适用.json",
+      "bytes": 2310,
+      "sha256": "1aa8c6744e766afd407fa069ce113a60860035715a267a907b3170638ef7bd73"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/前屏遮挡轮廓/轮廓预览.png",
+      "bytes": 13441,
+      "sha256": "81ca8bbaa97ae8ebedbadd40dbf50b6e211607c1e7780901cb22b4515b323fc7"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/单独模板/6.1inch_146x300.svg",
+      "bytes": 362,
+      "sha256": "e3591c35bedf1a745f43daafde623dfbda9032eea87e9a0cd443997e4b26732e"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/单独模板/6.3inch_151x310.svg",
+      "bytes": 458,
+      "sha256": "a9819eeb788e3a28ed3af3f37903dd8b762a0d235862f20071cb9795c8ab0850"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/单独模板/6.5inch_156x320.svg",
+      "bytes": 458,
+      "sha256": "ff8a8af41f4832de2a1265fc0a3cdbf81a157f039ba0ec302564271601b1d40a"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/单独模板/6.7inch_161x330.svg",
+      "bytes": 372,
+      "sha256": "021e8aa39486874df3baff8c03fa18463c0267938b2195c3e743e5368b7d439f"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/单独模板/6.9inch_165x340.svg",
+      "bytes": 459,
+      "sha256": "f80cb9651ab6344bad75f6c10d45cb5b27eee36da81d5eb13dbcbc7849bd7477"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/固定尺寸.json",
+      "bytes": 4743,
+      "sha256": "161e30ec3fbc333f8504495db6a1d4d8f376dd11529e42de7a74750d2be3779f"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/固定尺寸_含5.4扩展.json",
+      "bytes": 895,
+      "sha256": "449395e7694ae827eb154e627be71c822104df2b253f12f769ae44e22973de82"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实机身尺寸模板.json",
+      "bytes": 47371,
+      "sha256": "06a911e0b785fa24bdfd85e1afdf28dd76f280adea03b03f3e0fa9adb61e1cea"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/6.1英寸_五种机身外廓差异对照.png",
+      "bytes": 69341,
+      "sha256": "7bd472e37faa6df2539187ce95934e7c272f9395279497570f3a5ab0b0b0310f"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/6.1英寸_五种机身外廓差异对照.svg",
+      "bytes": 7097,
+      "sha256": "08b624c69834ac6f22bb4dd8d16a6ed77f76ce727e8698f00085a6fca77aa8a8"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/六档真实机身尺寸模板_100pct.png",
+      "bytes": 77960,
+      "sha256": "e94b1c43a798e1711eb476ce345c0081ebcc5bf2983d52fd6b592054461c8863"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/六档真实机身尺寸模板_100pct.svg",
+      "bytes": 7653,
+      "sha256": "515d69fb28c9b5176a116aa0ba57bf9c1e93dc7a08598919ee41961c8d742aaf"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/4.0inch_123.8x58.6mm.svg",
+      "bytes": 383,
+      "sha256": "81a517c13a4cd1d4e261feec0dcbebae3a9ba838ac014227c86043f13b400a5a"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/4.0inch_124.4x59.2mm.svg",
+      "bytes": 383,
+      "sha256": "1a4beecaad8d8a4c47ac21da15c5d0ed437bf7efe5fb1437f8a737fe02549386"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/4.7inch_138.1x67.0mm.svg",
+      "bytes": 392,
+      "sha256": "52c7881613828825098e83fa38365e6ebd20bd4b8fec8ce45ec3708e191c92b5"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/4.7inch_138.3x67.1mm.svg",
+      "bytes": 393,
+      "sha256": "d6d3067c1f2365c183fdff4d8a04ad5ebaf8426e5f0a74334fcdf6608fedf86e"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/4.7inch_138.4x67.3mm.svg",
+      "bytes": 396,
+      "sha256": "a5d29d37fdb45078f673ccd94eb2dcd2eff908e9495d87fc741b285019f5aba2"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/5.4inch_131.5x64.2mm.svg",
+      "bytes": 392,
+      "sha256": "b9a6603e3e1530ea0b86eb597a3c8640ee55cb8496f6ded4283b30657be51b6c"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/5.5inch_158.1x77.8mm.svg",
+      "bytes": 389,
+      "sha256": "917eec890a28a1fe8a0a1186aa7b04aa428316b8ec3a5758bb174ba716e7c136"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/5.5inch_158.2x77.9mm.svg",
+      "bytes": 396,
+      "sha256": "337ef5a63480c3232c7f00cfb85f96f8c1066db1fb59e73e5a77e7952bd65460"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/5.5inch_158.4x78.1mm.svg",
+      "bytes": 393,
+      "sha256": "77864921e35f0fa6aa7c0d8dcef24537400974e66a38ff4ab286a79fe19b0665"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/5.8inch_143.6x70.9mm.svg",
+      "bytes": 390,
+      "sha256": "ae968663f3ddf446a6512c8120c167ce6a19ae7683d9900ce5d9f50ce6edcaba"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/5.8inch_144.0x71.4mm.svg",
+      "bytes": 394,
+      "sha256": "214aacb55b3b2e6117e929349905d554efee73380ae5c6165912603c3fa4142d"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.1inch_146.6x70.6mm.svg",
+      "bytes": 393,
+      "sha256": "1123d82c33364fa9c7f2ca732ef300052cf0a52390bf150e7313c84a9f0da40d"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.1inch_146.7x71.5mm.svg",
+      "bytes": 396,
+      "sha256": "2b4845d1d020f5c3f06aaf6adadd25e06114b6bc14e45eab91fb85bc800cfc92"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.1inch_147.5x71.5mm.svg",
+      "bytes": 396,
+      "sha256": "705c23aee9c871f31c78b2dc87ae18cec10ae5ce0da1d4227a30bc8f286fd847"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.1inch_147.6x71.6mm.svg",
+      "bytes": 356,
+      "sha256": "0daa1a08b5429c8c9254541b7bccdef4c69c939a648ba83954fa645596165239"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.1inch_150.9x75.7mm.svg",
+      "bytes": 396,
+      "sha256": "55bdf5be403fbf3586edcbc4d488fe17b5ddd1c07f1660724083610115cdc59e"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.3inch_149.6x71.5mm.svg",
+      "bytes": 396,
+      "sha256": "4070cd9b14aff34db74e4efaee278d71f23c3b91f0473371f36c17f45130d923"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.3inch_150.0x71.9mm.svg",
+      "bytes": 398,
+      "sha256": "227aec1339b88a1d0b54204b613de195ef90c96044703d82e8d0c379a3c306fe"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.5inch_156.2x74.7mm.svg",
+      "bytes": 392,
+      "sha256": "6eb4f8a97d6ba205f1816d847c834c7447f96a899a03a48649d32836ec9639d9"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.5inch_157.5x77.4mm.svg",
+      "bytes": 395,
+      "sha256": "3df7224b22c041226e1c24a8fdfafec472b42a66f4636d35febd1d16d69b1fd5"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.5inch_158.0x77.8mm.svg",
+      "bytes": 392,
+      "sha256": "c4f8168b7f9043e9c986259ab8e49f21f63ea4e18388a70d1858739888adcd78"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.7inch_159.9x76.7mm.svg",
+      "bytes": 397,
+      "sha256": "9bc07b98012964f5cd7828aa00e9259744e3bf7cd2fd36a7272de9a342cf8617"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.7inch_160.7x77.6mm.svg",
+      "bytes": 395,
+      "sha256": "510c29f701b2d9fd2b717501e0274002276b9ceaff4ed97086550964047d2dd9"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.7inch_160.8x78.1mm.svg",
+      "bytes": 393,
+      "sha256": "8e83d9888c3d2b62b577c8ef94201a7f012bf942ccd6ba37f017768978aa5bf8"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.7inch_160.9x77.8mm.svg",
+      "bytes": 389,
+      "sha256": "a0662d76bad83c2acc848041257a0bfeeddf3ce0b9f7e955e9e2fbf1ba2873de"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.9inch_163.0x77.6mm.svg",
+      "bytes": 395,
+      "sha256": "36c7a3574b2f721ca6689c84c76698b0061badf07c1ee097ebeb6c26d5c6c615"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/单独模板/6.9inch_163.4x78.0mm.svg",
+      "bytes": 398,
+      "sha256": "8eca880e82f33f0072725490b0ed2259e9df4a262c0021e8f268695f9d7d0960"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/复用说明.txt",
+      "bytes": 2551,
+      "sha256": "57d28595104f4453427d785c2b5d72415f7eb6015b8ff28898d81f8cd6ee4433"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/尺寸核对记录.json",
+      "bytes": 8522,
+      "sha256": "b3990aa8c9fe684cdb6d7e6527e71cc9eaaa3c770fe0e9b272f1b55e626a7991"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/模板预览.html",
+      "bytes": 9201,
+      "sha256": "1dd978f35f2ecf79b67dd904212ce6b72ce05bc6ef1466fce64b6167a8021295"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/视觉核对记录.txt",
+      "bytes": 873,
+      "sha256": "5124d22220b3ffdb31b3d648a4121347ab767c10dfd030fdb59685656979518f"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/配置/机身尺寸模板.json",
+      "bytes": 47185,
+      "sha256": "04639c8cb9c4d62191985e38e95475e4435bbaaef364d4ceda74c2d3723a648f"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/配置/绘图样式.json",
+      "bytes": 1313,
+      "sha256": "9e7aa7e46b436f1c74617ca479ab22431157badd0cfa76d1600274829ad03745"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/高级A加_60pct_尺寸放置对照_1464x600.png",
+      "bytes": 72657,
+      "sha256": "18bd4505282f9f280fe5835d6772077fe0a80eb76351a9b1f8f7b33c73de6677"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米母版_20261016/高级A加_60pct_尺寸放置对照_1464x600.svg",
+      "bytes": 7678,
+      "sha256": "bd893f29480c1d1050fe893f6fb5dad0df96fd764f1246a86c1b5dc5baa6b2bc"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/4.0inch_123.8x58.6mm.svg",
+      "bytes": 578,
+      "sha256": "6c3962892cc1b208b94f0f3df1f287c27214d64901be4ecb3db1928e6dae127f"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/4.0inch_124.4x59.2mm.svg",
+      "bytes": 578,
+      "sha256": "1f342636f341b21ff18ab31fb65929f1af8b0b81e50ba8c9e8a07e2898b7bea8"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/4.7inch_138.1x67.0mm.svg",
+      "bytes": 574,
+      "sha256": "14fc584e1a2341fe3edbc8d28e23128a854eac8310f9964a5a784c8aa641ab40"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/4.7inch_138.3x67.1mm.svg",
+      "bytes": 575,
+      "sha256": "ab037eb48018813fa8d5fe0cc73c18776d3f0f5ea6d58bb9fa88e78e03d059a0"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/4.7inch_138.4x67.3mm.svg",
+      "bytes": 577,
+      "sha256": "4171ea813f679a218995f57d663a61d8396dc6d8121c9e3cf5f5b84b5dc9f69a"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/5.4inch_131.5x64.2mm.svg",
+      "bytes": 577,
+      "sha256": "4f96dc27a24eb9b5735a2c0e6ca6dfd21c22ffe66bd474463760516d2947bc10"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/5.5inch_158.1x77.8mm.svg",
+      "bytes": 574,
+      "sha256": "c565dc5f78cfbf578ee8633e7f52ea8a2aa7f188b56923bb5f4c069421ff1a2f"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/5.5inch_158.2x77.9mm.svg",
+      "bytes": 578,
+      "sha256": "24f977931ee6441086bf68c505a69abb41d0b5eb4a965c0140d89e2023822ebb"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/5.5inch_158.4x78.1mm.svg",
+      "bytes": 576,
+      "sha256": "f29d6f748ac78e95fe26927abe58dc6cc09b1791ce4e2ebf89563db19ad4d679"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/5.8inch_143.6x70.9mm.svg",
+      "bytes": 573,
+      "sha256": "cf2ed709137fb2fec06a4dfd15ccfba59b59826a261b1aa8de126f00a4fba82c"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/5.8inch_144.0x71.4mm.svg",
+      "bytes": 575,
+      "sha256": "5ea99ada7887a9ee207025f8311f3c0821536868248c6aadc219325d31f8e28c"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.1inch_146.6x70.6mm.svg",
+      "bytes": 575,
+      "sha256": "45ec0cde47159a3de4bd269aabde847bbd53d06aa8ad91821221e563785b4169"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.1inch_146.7x71.5mm.svg",
+      "bytes": 577,
+      "sha256": "cf476565f82a0e4937ca02bef70ff3e0e075fff34281f897c65827af7848c94c"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.1inch_147.5x71.5mm.svg",
+      "bytes": 577,
+      "sha256": "9fce0ab259a88819ff95b66b84491c44fea030d96328c8dd2080627a4c3fa18c"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.1inch_147.6x71.6mm.svg",
+      "bytes": 536,
+      "sha256": "654d2cdffde5e5a6220ba1d5f805266ca9d2b08718a04b8dac8048fb0f93db6c"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.1inch_150.9x75.7mm.svg",
+      "bytes": 580,
+      "sha256": "7d4f9caf521c457bd1dd653c41cd96414bc671fec0a07978ff5846013e33ed30"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.3inch_149.6x71.5mm.svg",
+      "bytes": 577,
+      "sha256": "30fba5738cd363419c5a7cd1135dbc5470bf9ab3c1811d94b8c28ab60c56b472"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.3inch_150.0x71.9mm.svg",
+      "bytes": 578,
+      "sha256": "9f83742b90ac8bf65f90f24951538d3d4610e6eb80ae0974b616d9ed64cb8bff"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.5inch_156.2x74.7mm.svg",
+      "bytes": 574,
+      "sha256": "e3cde368096c30f1721f0cd95fe8bbba83129416b13832984c0305e652f2443f"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.5inch_157.5x77.4mm.svg",
+      "bytes": 578,
+      "sha256": "3f478b67d82aa30a3260489df9161018085745d39700bf7acdb9d9a5e7518607"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.5inch_158.0x77.8mm.svg",
+      "bytes": 575,
+      "sha256": "89683c7305607a83fbe2d10b54e137f87f766edbec01e89733cebad433acfe4e"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.7inch_159.9x76.7mm.svg",
+      "bytes": 580,
+      "sha256": "61fb27bde0d78b11ff6fdfb83e517ab11a78d179ef27667d680afe29483a0579"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.7inch_160.7x77.6mm.svg",
+      "bytes": 577,
+      "sha256": "b1709420d27bde643bc34749c37cfcbbde9c233f7eff7722906a0fc5d1820ebb"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.7inch_160.8x78.1mm.svg",
+      "bytes": 576,
+      "sha256": "f5c873bce706550709430306b0a45b79f5162559390c0070a7f0ab6e527f5c26"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.7inch_160.9x77.8mm.svg",
+      "bytes": 574,
+      "sha256": "e4b6943cc2dbb805e878a34a2936805eb655681319f4c18cacabe156fabf5185"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.9inch_163.0x77.6mm.svg",
+      "bytes": 575,
+      "sha256": "153aafa7e65517dd69677c1e61c79fe10760c3e8827d07018978c98a5218d6d6"
+    },
+    {
+      "path": "通用素材/手机机身/尺寸与轮廓/真实毫米轮廓/6.9inch_163.4x78.0mm.svg",
+      "bytes": 578,
+      "sha256": "13ada482c43da825f6f4848c67d671def47f983d167cc6cbe8cf8daf67fb7399"
+    },
+    {
+      "path": "通用素材/手机机身/独立背面映射.json",
+      "bytes": 6295,
+      "sha256": "17468ab30d1cc158a9b472f3f57e5e4f951298aed6ce15489fe55b6b6fafced5"
+    },
+    {
+      "path": "通用素材/手机机身/独立背面素材预览.html",
+      "bytes": 9699,
+      "sha256": "102182a251f2d6241a1ec5534ce2f3d55e874f78c8d9ab4560270e660680c149"
+    },
+    {
+      "path": "通用素材/手机机身/素材索引.json",
+      "bytes": 236379,
+      "sha256": "02dd3407140aeca047400ec7c171d0a72d6dcb78f6ab3ad14716a552086e712c"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/iPhone11_home.png",
+      "bytes": 641302,
+      "sha256": "34eb492a76750d011743daa8f6f34a09cb5d11034c15317f36c4d8319c2b6b9f"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/iPhone11_真实型号查询三步.png",
+      "bytes": 175906,
+      "sha256": "dea6a3c894009371839531b2741cf228598124d35c891541daf165cb494133e3"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/iPhone11Pro_home.png",
+      "bytes": 629154,
+      "sha256": "1f3a14bfe9b2c7da2d06a60d09aebfbc541f2f895ed7933e1f70c533837f0152"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/iPhone11ProMax_home.png",
+      "bytes": 602933,
+      "sha256": "7820aa25dae334aebb8711b773f0b57075664cd39fc65598d387830a40eb542c"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/iPhone12_home.png",
+      "bytes": 639007,
+      "sha256": "700a5515990c2d0f03ee358e57395d15e24d6dcff1531ba999f997236819bf11"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/iPhone12mini_home.png",
+      "bytes": 648210,
+      "sha256": "728e3cc0c145d432c808bd70febbc7c49725b1003d7f3bcacb6ad8abdf0b9b41"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/iPhone12ProMax_home.png",
+      "bytes": 627644,
+      "sha256": "58aebf16ad4cd9c3efd6c5462d0a765936d8f46bb8e62fd3315821c3e231b7fc"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/iPhone14_home.png",
+      "bytes": 454620,
+      "sha256": "191aeabcccba5d4dc6f7ec5f6e3c71cf43249f6191c9fdf8d6414d99df83dcf2"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Optus_iPhone6_iOS12/01_home.png",
+      "bytes": 1018976,
+      "sha256": "b858b531ae70d63d61e177508b6644a7d4fa68dc4bda19484c51015475f3c18d"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Optus_iPhone6_iOS12/02_settings.png",
+      "bytes": 154418,
+      "sha256": "6f8fb214d50239cf4ad41960207e61c4000b4e670ffdb10be2d4842fc4047847"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Optus_iPhone6_iOS12/03_general.png",
+      "bytes": 84302,
+      "sha256": "ebe0ec78be589f93976ecb8582b68cd8946aa2cfd0c6bfe30be8e0338fe83857"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Optus_iPhone6_iOS12/04_about.png",
+      "bytes": 93924,
+      "sha256": "e0a2518b15d2e8dca8e1ecef2277bb6f84ff8bc739716a1901daa3adffcb7954"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Optus_iPhone6_iOS12/iphone6-original-frame.png",
+      "bytes": 176806,
+      "sha256": "db4ec5ceef5cc19bb11388f4f23cf4d04d0ac542d609cb654113728b2942a4aa"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13mini_about.png",
+      "bytes": 219359,
+      "sha256": "28f855ba30a7d1e9e2ef662a37c05eec9c9a975f6cc96fbbd559b168110e6ac4"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13mini_general.png",
+      "bytes": 331849,
+      "sha256": "dabc3093f47a8ee01907bbff61140d94f4a2bfe1877db5827ef658ca55098f32"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13mini_home.png",
+      "bytes": 957817,
+      "sha256": "a4d87b60f83e4505e3386e403715ab5791862de330474a1ad423d764db1d9a63"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13mini_settings.png",
+      "bytes": 323522,
+      "sha256": "a8c0f9915d577ba8664945dcaa3d602e944bfb670c440220ae935ed712583132"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13Pro_about.png",
+      "bytes": 214170,
+      "sha256": "938d433ca62007bf51f2d1be53bf2ae60f92358f06300f23989ce4d1e7e86ee3"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13Pro_general.png",
+      "bytes": 331065,
+      "sha256": "81d8f976e0f6936a6034754ab346ea4919c39efb12000c3a325b5ec538376176"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13Pro_home.png",
+      "bytes": 1132924,
+      "sha256": "1c4e7057ba1f0e54370e442e9f91a0425a2bb4b4be7d141546e685f759733167"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13Pro_settings.png",
+      "bytes": 319508,
+      "sha256": "08e5e07b1148045cedab6d6fd86997144251b50eb4f01053aba5e2da95ff193b"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13ProMax_about.png",
+      "bytes": 211517,
+      "sha256": "6ee26ecb1263d2f8f921d670a58f273cc6811a0fb20792f47b4e08a40a2e68c4"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13ProMax_general.png",
+      "bytes": 333316,
+      "sha256": "db32fd15fb3d2225dbb48ffdcf2fbb2b0b19b99567d72615e3687743a4d5aad4"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13ProMax_home.png",
+      "bytes": 1091825,
+      "sha256": "8bf677c099ae515b70dc84540ee8b805168a7d3a704b55f330d3eb95f20b5bda"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone13ProMax_settings.png",
+      "bytes": 340058,
+      "sha256": "cb2e0cf2b43cdbea54d129fec904a860889b19f42ad23b6a344f1590b5f8b3f9"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14Plus_about.png",
+      "bytes": 210936,
+      "sha256": "4e05bf845421e8c264ea39284d6dfb78fcdd62ab3ba66bdb50f811ab32d85a79"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14Plus_general.png",
+      "bytes": 334092,
+      "sha256": "d2777ada3b9f1364e0e20f3f3396a73ba57250e99c19d6b40b22b6018bb6ab4d"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14Plus_home.png",
+      "bytes": 1093098,
+      "sha256": "823b41f4d62932a366f36c68c12960ab4883d768a75d2b2e671b989fd14541e7"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14Plus_settings.png",
+      "bytes": 340001,
+      "sha256": "5df709d417511760c231c3380e3c42a2132aed817233b952ee602366bcffd3d2"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14Pro_about.png",
+      "bytes": 217696,
+      "sha256": "7edd4b11e5970da00205f518403c2f7e69d52a9fb2dc42f9d814c7ae4dd9071c"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14Pro_general.png",
+      "bytes": 332773,
+      "sha256": "7a253cc293ef4f920cc24554656a5859ae72371af4552b2483762397ef967e9c"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14Pro_home.png",
+      "bytes": 839247,
+      "sha256": "07b2db1123c2ad328a3bcc958f6802fdc406980e2596c992d38ddf8b190f2eec"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14Pro_settings.png",
+      "bytes": 323329,
+      "sha256": "074093e35565fc32de7e59084c89095ed9658d2a2ada9c74b613656d8a7a9a6c"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14ProMax_about.png",
+      "bytes": 204199,
+      "sha256": "305e80d64a68321e5fff73452297b1accef0fe4f3369ffe48d544e0d168dd169"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14ProMax_general.png",
+      "bytes": 335646,
+      "sha256": "fc4ae76aacb39b8a7d69a5a9f72956688e9384ce642b10a8cb83177f456a903e"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14ProMax_home.png",
+      "bytes": 1100911,
+      "sha256": "025c5b987439df626a0d770ffd95d73d9bfaca5b9a2f3d7e54d47b115a4e237d"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/原始截图/Vodafone_iOS18/iPhone14ProMax_settings.png",
+      "bytes": 340343,
+      "sha256": "3685c8e56206ca26c2bddd9031f35254aa72b334159bcb59eca03de8cafb53d2"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/iPhone11_frame.png",
+      "bytes": 71070,
+      "sha256": "81079a79988477299714936aafc6a4cc4fe63871c814cf0595ca9f34b0138637"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/iPhone11Pro_frame.png",
+      "bytes": 51765,
+      "sha256": "b2c468a253344350ea7ee610e03fbee92abdb90a84142e4e974892ed8056fdc4"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/iPhone11ProMax_frame.png",
+      "bytes": 35769,
+      "sha256": "af21d40905599a31de1df0e4484c91260d929badb74a553b33a8e53a6d8e284a"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/iPhone12_frame.png",
+      "bytes": 102793,
+      "sha256": "5de3dd6d03cfe3ffba8420ec2a654cd7dba3faecb095f30032ec86fff72a9615"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/iPhone12mini_frame.png",
+      "bytes": 25104,
+      "sha256": "343bc70a6ce6bc570509e1aeca4be9ece22054d419e7c45c39e5d73062bac5f0"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/iPhone12ProMax_frame.png",
+      "bytes": 29105,
+      "sha256": "2f54327df4cb23e952062dff3539fa3adb8cbc41300b5a2296e1ee415128746e"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/iPhone14_frame.png",
+      "bytes": 28791,
+      "sha256": "b2d87493094137643efe2929a32bd917b063c5a6d4c4bee258fb031e04fe61c5"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/Vodafone_iOS18/iPhone13mini_frame.png",
+      "bytes": 720091,
+      "sha256": "43c07ddacc2916c1caeba07faa2f2fbaeefc775e08794ba34ac0b542be3af277"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/Vodafone_iOS18/iPhone13Pro_frame.png",
+      "bytes": 443391,
+      "sha256": "3813092ee04156e74fc21109287f433c3f2b082481c36e2ea506e284f7bd392c"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/Vodafone_iOS18/iPhone13ProMax_frame.png",
+      "bytes": 72564,
+      "sha256": "35e27b33e703722f4215a626f7ce8dcb0e7e707d60948736010e15ad300e6ac1"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/Vodafone_iOS18/iPhone14Plus_frame.png",
+      "bytes": 81961,
+      "sha256": "1dc0b8488fe4f5147ae5a182fae97baea61aada2fb68851051cf30dc7989248a"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/Vodafone_iOS18/iPhone14Pro_frame.png",
+      "bytes": 164554,
+      "sha256": "1ffc3e8a618d9e286b99f16b1a2a942a9ac1fc26b26a9938f17b925bb44cf660"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/机框/Vodafone_iOS18/iPhone14ProMax_frame.png",
+      "bytes": 765013,
+      "sha256": "95e763288c40e8d23abc5ecbacb653395620d61400e43f1e5b0c47f0cb5b47c6"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/来源记录/Optus_iPhone6_iOS12_原图来源.json",
+      "bytes": 3236,
+      "sha256": "c4d71b31cd18a1773cf1cfe1e9aee8836ed082cfda7675e2d29d9359b437066a"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/素材索引.json",
+      "bytes": 37536,
+      "sha256": "c1a6a63a9ae5aabe48e2ca3c07ea8edc68979ea2ff37557d48120ac23cae195e"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/素材索引_Optus_iPhone6_iOS12_20261103.json",
+      "bytes": 5360,
+      "sha256": "779d8b2c1189599fc11e306061bb6bad81cca0e308e83d7bc4774f1b4777bdbf"
+    },
+    {
+      "path": "通用素材/设置页面/Apple/素材索引_Vodafone_iOS18_20261103.json",
+      "bytes": 44301,
+      "sha256": "8c798766341c41ada8a011f1da05cc7147b7aec6886566b66069fd67cba20ffd"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/about-phone-original.png",
+      "bytes": 67536,
+      "sha256": "d64f1e90ba905e0cc5d7df2666f64b0e319f0f074c7a4981a48da86fab0f7a7c"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/settings-original.png",
+      "bytes": 65013,
+      "sha256": "73a91117ef62c76300bb7a28c8cac96dd0b28c97c9fd629a5f5a33b9d3a8af11"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/实机帧_20261103/s24-about.png",
+      "bytes": 1143093,
+      "sha256": "4d2d24bd9f9a8e59c2d6c5c38c3fc69871fc9e6d256b7cbde5a8e45ec972fd89"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/实机帧_20261103/s24-apps.png",
+      "bytes": 1088115,
+      "sha256": "e31ba65cda9ff32cc5b4e0d014e190317d7d929ca50220d08b69b20df5a5560d"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/实机帧_20261103/s24-settings.png",
+      "bytes": 1172630,
+      "sha256": "1e3750b9631e267d232cea185b7bf8b0d2a3624c62ad3ac5805b8b24926400e5"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/实机帧_20261103/s25-about.png",
+      "bytes": 844467,
+      "sha256": "b9484da6c48f36e6ea066a863af4c99595336fb5c6ebdb3359592bdd90555747"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/实机帧_20261103/s26-about.png",
+      "bytes": 1098366,
+      "sha256": "15889cf65eb396e31335db44e19142b7f7bf3ce10b34d7b2e53739416de056ac"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/实机帧_20261103/s26-apps.png",
+      "bytes": 1277570,
+      "sha256": "fe0b2f347976a42797e8b91a8b63ca221912091b6584a9d4191f28ccb20dd21a"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/实机帧_20261103/s26-settings.png",
+      "bytes": 1087854,
+      "sha256": "8a261d8ce902022dac916351dff72366ac110b2a0897ff12d56d52cd25c84c61"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s23-about-phone.png",
+      "bytes": 248914,
+      "sha256": "3a27f7af0b5ddce3460e946bbfbb359b9ba70cc20314a3fbc40d48b589b3fbef"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s23-apps.png",
+      "bytes": 707957,
+      "sha256": "465b270afad27dd1b4038e0e9ffc81c79996cbfc250d2a4c30a6b1b6dea5726c"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s23-settings.png",
+      "bytes": 419355,
+      "sha256": "f166e2fc0c216f131e907fe46bfa448b4e0ec16e3aebac8a5abf7b6041b5f434"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s24-about-phone.png",
+      "bytes": 298439,
+      "sha256": "3121140517a3c6fe5688203e8ced8576f50e98215e0826af82ded21bd8fa6d5e"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s24-apps.png",
+      "bytes": 2004296,
+      "sha256": "10b47bcd6aa1d7bca579eadd83715bf3bff9c1786d56e11fa758c9b8d85def57"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s24-settings.png",
+      "bytes": 458478,
+      "sha256": "5fccb8f508a20a5237fd8c67cab70f355d2e46a9395b844bcf67770dc6a88d4f"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s25-about-phone.png",
+      "bytes": 298002,
+      "sha256": "935c4fd374436390ef879b18bff74006c8ddbd50ddf3915bac5684a5a2029d18"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s25-apps.png",
+      "bytes": 2028875,
+      "sha256": "7b051465eca6957bff7acdc3dfb1539c80cba2bd3e564ce7965a4d28e159fce8"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s25-settings.png",
+      "bytes": 451790,
+      "sha256": "03498b28f2e5fcc3013f7ecf08e78087fe179b776aa82a7f5087176724a16665"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s26-about-phone.png",
+      "bytes": 310277,
+      "sha256": "340e064ca74c2650ab760829fb31612cda0a78986b162cc56b90ead5395327d1"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s26-apps.png",
+      "bytes": 1949478,
+      "sha256": "c74cca0c22d34bf8bf66f10f62e2f12d1f317b7648886a7ab20a91115318c57d"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始截图/对应机型_20261103/s26-settings.png",
+      "bytes": 372980,
+      "sha256": "f240f811bf0312f92cc821b90c3ad1909adf5c02de031185d485400572bf9db0"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/原始机框/s25-original-frame.png",
+      "bytes": 735144,
+      "sha256": "248c3a94746c24607e48e9a81e98d5f382cb66a7f48267e9e542f4d5dc926085"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/实机页面_20261103_来源.json",
+      "bytes": 12424,
+      "sha256": "ecc305b2bd6d23201e14681316c003afd8627b93cc799bc27ca6611bb7851fa1"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/对应机型_20261103_来源.json",
+      "bytes": 14969,
+      "sha256": "6497bc86fbf9a048a00592e411aba900f2d7ae9758800afbe0ff1b8e6af7aa61"
+    },
+    {
+      "path": "通用素材/设置页面/Samsung/素材索引.json",
+      "bytes": 18358,
+      "sha256": "a2f692306d56b873e8dabb255565842f541d144b07ffb1d912b191e15eca158f"
+    },
+    {
+      "path": "通用素材/设置页面/覆盖索引.json",
+      "bytes": 172063,
+      "sha256": "5b8f88ee08b4fe363d8e48dfda4948f7bc6595fbcd94d622097079da846cbc67"
+    }
+  ],
+  "stores": [
+    "JHWVVTF",
+    "moment"
+  ],
+  "updated": "2026-11-03",
+  "last_shared_asset_archive": {
+    "date": "2026-11-03",
+    "new_non_markdown_files": 24,
+    "samsung_standard_models": [
+      "S23",
+      "S24",
+      "S25",
+      "S26"
+    ],
+    "raw_samsung_ui_sources": 2,
+    "cutout_svg_types": 4
+  },
+  "latest_samsung_tutorial_correction": {
+    "date": "2026-11-03",
+    "result_field": "Product name",
+    "distinct_step_screens": true,
+    "new_raw_screens": 12,
+    "source_index": "通用素材/设置页面/Samsung/对应机型_20261103_来源.json"
+  },
+  "latest_jhwvvtf_floating_revision": {
+    "date": "2026-11-03",
+    "owner": "JHWVVTF",
+    "template": "J01",
+    "revision": "原生iOS浮层_20261103",
+    "models": 6,
+    "jpgs": 18,
+    "reproduced_identically": 18,
+    "raw_provider_files": 30,
+    "retained_reference_images": 4,
+    "engine": "工程/原生iOS浮层_20261103"
+  },
+  "latest_samsung_knowledge_update": {
+    "date": "2026-11-03",
+    "store": "moment",
+    "reference_designs": 4,
+    "index": "店铺模板/moment/版式目录.json",
+    "native_source_index": "通用素材/设置页面/Samsung/实机页面_20261103_来源.json",
+    "native_result_fields_verified_for": [
+      "Galaxy S24",
+      "Galaxy S25",
+      "Galaxy S26"
+    ],
+    "needs_original_about_result_for": [],
+    "S23_substitution_for_S24_S25_S26": false,
+    "specific_video_os_versions_verified": false,
+    "moment_layout_revision": "三星按参考缩框_20261103",
+    "os_evidence_missing_for": [
+      "Galaxy S24",
+      "Galaxy S25",
+      "Galaxy S26"
+    ],
+    "unknown_os_default_usable_for_new_tutorial": false
+  },
+  "catalog_reorganization": {
+    "date": "2026-11-03",
+    "physical_model_count": 53,
+    "original_body_asset_ids_preserved": true,
+    "body_view_coverage": "通用素材/手机机身/型号数据/素材覆盖状态.json",
+    "native_ui_coverage": "通用素材/设置页面/覆盖索引.json",
+    "store_registries": [
+      "店铺模板/JHWVVTF/版式目录.json",
+      "店铺模板/moment/版式目录.json"
+    ],
+    "same_image_body_scale": "uniform_pixels_per_mm",
+    "unknown_os_default_usable": false,
+    "history_files_retained": false,
+    "images_regenerated": false,
+    "external_downloads": false,
+    "history_retention_scope": "当前工程运行依赖与唯一原始来源保留；过期版本按单独确认的清单精简"
+  },
+  "actual_material_folders": [
+    "通用素材/手机机身",
+    "通用素材/设置页面"
+  ],
+  "directory_migration": {
+    "date": "2026-11-03",
+    "files_preserved": 429,
+    "files_deleted": 0,
+    "physical_model_index": "通用素材/手机机身/型号与尺寸.json",
+    "body_asset_index": "通用素材/手机机身/素材索引.json",
+    "native_ui_index": "通用素材/设置页面/覆盖索引.json",
+    "store_templates_separate": true
+  }
+}

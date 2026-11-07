@@ -1,0 +1,358 @@
+{
+  "updated": "2026-11-03",
+  "relative_root": ".",
+  "models": {
+    "s23": {
+      "model": "Samsung Galaxy S23",
+      "variant": "标准型号，非Plus／Ultra／FE",
+      "original": "官方原图/s23-official.png",
+      "clean_png": "无标识/s23-clean.png",
+      "clean_svg": "无标识/s23-clean.svg",
+      "width": 1600,
+      "height": 1600,
+      "body_crop": [
+        456,
+        385,
+        687,
+        829
+      ],
+      "alpha": true,
+      "embedded_historical_markers": false,
+      "visible_logo": false,
+      "provenance": "官方原图局部去字标合成；不是未经编辑的官方原图",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2302/gallery/uk-galaxy-s23-s911-sm-s911bzedeub-534791456?$1600_1600_PNG$",
+      "source_page": "https://www.samsung.com/uk/smartphones/galaxy-s23/buy/",
+      "original_fingerprint": {
+        "bytes": 580012,
+        "sha256": "7befe7d4db3709736fb3a822e1d3a2c6bc77ca3e1452206aedcfae0f06f2d607"
+      },
+      "patch": {
+        "rect": [
+          570,
+          1018,
+          165,
+          70
+        ],
+        "feather": 3,
+        "scale": [
+          1.2759170653907497,
+          1.2759170653907497
+        ],
+        "tone": [
+          {
+            "slope": 0.65,
+            "intercept": 0.33725490196078434
+          },
+          {
+            "slope": 0.65,
+            "intercept": 0.33411764705882346
+          },
+          {
+            "slope": 0.65,
+            "intercept": 0.3203921568627451
+          }
+        ],
+        "embedded_repair_id": "asset-s23-logo-repair"
+      },
+      "repair_fingerprint": {
+        "bytes": 522203,
+        "sha256": "7425cd447b03fb4552e3d24fcc41e015e492af54bfda51e3baf3760e4e9f47e7"
+      },
+      "repair_storage": "原始修补PNG完整内嵌于clean_svg对应asset节点，不单独重复保存",
+      "edit_tool": "image_gen.imagegen",
+      "prompt": "Use case: precise-object-edit. Edit target: the provided original transparent Samsung Galaxy S23 front-and-back product photo. Remove ONLY the small SAMSUNG wordmark from the lower area of the BACK phone. The wordmark is around original 1600x1600 canvas coordinates x=580–730, y=1030–1075. Seamlessly restore the underlying back-panel color, fine texture and lighting in exactly this small region. Preserve the entire original composition, original 1600x1600 framing and transparent padding; do not zoom, crop, center differently or reposition either handset. Preserve every camera lens, lens ring, flash, edge, button, reflection, all body colors, and the complete front wallpaper and front camera exactly. Do not redraw, recolor or retouch any other region. Do not add any new marks, letters, logos, labels, shadows or objects. Return an actually transparent PNG, with both phones and the original proportions maintained. This is a local debranding repair, not a new product rendering.",
+      "edit_reference": "官方原图/s23-official.png",
+      "archived": "2026-11-03",
+      "clean_png_fingerprint": {
+        "bytes": 668569,
+        "sha256": "98fa2c39b551280d85e4e3637380394f460f004b2e649e3107b319c5413fd2c9"
+      },
+      "clean_svg_fingerprint": {
+        "bytes": 1470799,
+        "sha256": "dc57ef8f5f4d2e37a3cf17c21f77258dae5ac9ba2685a0fcf52d559c7063bdba"
+      },
+      "model_id": "SamsungGalaxyS23",
+      "view_type": "front_back_composite",
+      "independent_front_status": "not_registered_as_standalone",
+      "independent_rear_status": "not_available_complete_rear_occluded",
+      "body_geometry_verification": {
+        "status": "pending_outline_review",
+        "certified_body_bbox": null,
+        "existing_body_crop_is_certified": false,
+        "reason": "现有body_crop是组合图取景范围，不是独立正背面真实外廓"
+      },
+      "logo_verification": {
+        "status": "recorded_clear",
+        "basis": "既有visible_logo=false及局部去标合成核验",
+        "rechecked_now": false
+      }
+    },
+    "s24": {
+      "model": "Samsung Galaxy S24",
+      "variant": "标准型号，非Plus／Ultra／FE",
+      "original": "官方原图/s24-official.png",
+      "clean_png": "无标识/s24-clean.png",
+      "clean_svg": "无标识/s24-clean.svg",
+      "width": 1600,
+      "height": 1600,
+      "body_crop": [
+        449,
+        375,
+        702,
+        849
+      ],
+      "alpha": true,
+      "embedded_historical_markers": false,
+      "visible_logo": false,
+      "provenance": "官方原图局部去字标合成；不是未经编辑的官方原图",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2401/gallery/uk-galaxy-s24-sm-s921bzkdeub-539353772?$1600_1600_PNG$",
+      "source_page": "https://www.samsung.com/uk/smartphones/galaxy-s24/buy/",
+      "original_fingerprint": {
+        "bytes": 518133,
+        "sha256": "ee34f66ee3eea343a78ebe07b9873ccbbe94bc7936d7ede27e23dc4aa9e706d3"
+      },
+      "patch": {
+        "rect": [
+          570,
+          1018,
+          165,
+          70
+        ],
+        "feather": 3,
+        "scale": [
+          1.2759170653907497,
+          1.2759170653907497
+        ],
+        "tone": [
+          {
+            "slope": 0.9274720292643603,
+            "intercept": -0.0008962569480264262
+          },
+          {
+            "slope": 0.957566448562428,
+            "intercept": -0.003943619931114168
+          },
+          {
+            "slope": 0.9194193498362455,
+            "intercept": 0.003403416501412623
+          }
+        ],
+        "embedded_repair_id": "asset-s24-logo-repair"
+      },
+      "repair_fingerprint": {
+        "bytes": 548437,
+        "sha256": "532029562ca45b85aa9f42613c711eea35f6dcd233d658e91dd188d315aca272"
+      },
+      "repair_storage": "原始修补PNG完整内嵌于clean_svg对应asset节点，不单独重复保存",
+      "edit_tool": "image_gen.imagegen",
+      "prompt": "Use case: precise-object-edit. Edit target: the provided original transparent Samsung Galaxy S24 front-and-back product photo. Remove ONLY the small SAMSUNG wordmark from the lower area of the BACK phone. The wordmark is around original 1600x1600 canvas coordinates x=580–730, y=1030–1075. Seamlessly restore the underlying back-panel color, fine texture and lighting in exactly this small region. Preserve the entire original composition, original 1600x1600 framing and transparent padding; do not zoom, crop, center differently or reposition either handset. Preserve every camera lens, lens ring, flash, edge, button, reflection, all body colors, and the complete front wallpaper and front camera exactly. Do not redraw, recolor or retouch any other region. Do not add any new marks, letters, logos, labels, shadows or objects. Return an actually transparent PNG, with both phones and the original proportions maintained. This is a local debranding repair, not a new product rendering.",
+      "edit_reference": "官方原图/s24-official.png",
+      "archived": "2026-11-03",
+      "clean_png_fingerprint": {
+        "bytes": 569611,
+        "sha256": "221ae8a8e6a6f73031933ff42ff18104059879b3265c81e54de60568239a2b93"
+      },
+      "clean_svg_fingerprint": {
+        "bytes": 1423319,
+        "sha256": "d032a3673d209861fe5d583ffb191b98393e77cce3cbc47ab13a590d1b3cb16e"
+      },
+      "model_id": "SamsungGalaxyS24",
+      "view_type": "front_back_composite",
+      "independent_front_status": "not_registered_as_standalone",
+      "independent_rear_status": "not_available_complete_rear_occluded",
+      "body_geometry_verification": {
+        "status": "pending_outline_review",
+        "certified_body_bbox": null,
+        "existing_body_crop_is_certified": false,
+        "reason": "现有body_crop是组合图取景范围，不是独立正背面真实外廓"
+      },
+      "logo_verification": {
+        "status": "recorded_clear",
+        "basis": "既有visible_logo=false及局部去标合成核验",
+        "rechecked_now": false
+      }
+    },
+    "s25": {
+      "model": "Samsung Galaxy S25",
+      "variant": "标准型号，非Plus／Ultra／FE",
+      "original": "官方原图/s25-official.png",
+      "clean_png": "无标识/s25-clean.png",
+      "clean_svg": "无标识/s25-clean.svg",
+      "width": 1600,
+      "height": 1600,
+      "body_crop": [
+        449,
+        375,
+        702,
+        849
+      ],
+      "alpha": true,
+      "embedded_historical_markers": false,
+      "visible_logo": false,
+      "provenance": "官方原图局部去字标合成；不是未经编辑的官方原图",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/uk/2501/gallery/uk-galaxy-s25-s931-534000-sm-s931blbdeub-544939689?$1600_1600_PNG$",
+      "source_page": "https://www.samsung.com/uk/smartphones/galaxy-s25/buy/",
+      "original_fingerprint": {
+        "bytes": 448274,
+        "sha256": "3e91febea510142f04971d281eb3707cdd7ec362704987be3a3e0af095125be9"
+      },
+      "patch": {
+        "rect": [
+          570,
+          1018,
+          165,
+          70
+        ],
+        "feather": 3,
+        "scale": [
+          1.2759170653907497,
+          1.2759170653907497
+        ],
+        "tone": [
+          {
+            "slope": 1.1371939709765175,
+            "intercept": -0.09099626845692094
+          },
+          {
+            "slope": 0.9069724138047143,
+            "intercept": 0.09038177145837425
+          },
+          {
+            "slope": 0.89092949010605,
+            "intercept": 0.10550904736364504
+          }
+        ],
+        "embedded_repair_id": "asset-s25-logo-repair"
+      },
+      "repair_fingerprint": {
+        "bytes": 492997,
+        "sha256": "50f6ebeca780ab298b71f8a39b1671eb1013c961f69aa6410be78668734f7cb5"
+      },
+      "repair_storage": "原始修补PNG完整内嵌于clean_svg对应asset节点，不单独重复保存",
+      "edit_tool": "image_gen.imagegen",
+      "prompt": "Use case: precise-object-edit. Edit target: the provided original transparent Samsung Galaxy S25 front-and-back product photo. Remove ONLY the small SAMSUNG wordmark from the lower area of the BACK phone. The wordmark is around original 1600x1600 canvas coordinates x=580–730, y=1030–1075. Seamlessly restore the underlying back-panel color, fine texture and lighting in exactly this small region. Preserve the entire original composition, original 1600x1600 framing and transparent padding; do not zoom, crop, center differently or reposition either handset. Preserve every camera lens, lens ring, flash, edge, button, reflection, all body colors, and the complete front wallpaper and front camera exactly. Do not redraw, recolor or retouch any other region. Do not add any new marks, letters, logos, labels, shadows or objects. Return an actually transparent PNG, with both phones and the original proportions maintained. This is a local debranding repair, not a new product rendering.",
+      "edit_reference": "官方原图/s25-official.png",
+      "archived": "2026-11-03",
+      "clean_png_fingerprint": {
+        "bytes": 482017,
+        "sha256": "d268b868d039f78e5e6c95d2822ca4c15513215c2d7d831f7f5877b0e5bceea5"
+      },
+      "clean_svg_fingerprint": {
+        "bytes": 1256249,
+        "sha256": "a74bab5942040203f88be652c22e1f9d8dc5bba449bb4aac52d8775daa74a46f"
+      },
+      "model_id": "SamsungGalaxyS25",
+      "view_type": "front_back_composite",
+      "independent_front_status": "not_registered_as_standalone",
+      "independent_rear_status": "not_available_complete_rear_occluded",
+      "body_geometry_verification": {
+        "status": "pending_outline_review",
+        "certified_body_bbox": null,
+        "existing_body_crop_is_certified": false,
+        "reason": "现有body_crop是组合图取景范围，不是独立正背面真实外廓"
+      },
+      "logo_verification": {
+        "status": "recorded_clear",
+        "basis": "既有visible_logo=false及局部去标合成核验",
+        "rechecked_now": false
+      }
+    },
+    "s26": {
+      "model": "Samsung Galaxy S26",
+      "variant": "标准型号，非Plus／Ultra／FE",
+      "original": "官方原图/s26-official.png",
+      "clean_png": "无标识/s26-clean.png",
+      "clean_svg": "无标识/s26-clean.svg",
+      "width": 1600,
+      "height": 1600,
+      "body_crop": [
+        444,
+        370,
+        712,
+        859
+      ],
+      "alpha": true,
+      "embedded_historical_markers": false,
+      "visible_logo": false,
+      "provenance": "官方原图局部去字标合成；不是未经编辑的官方原图",
+      "source_url": "https://images.samsung.com/is/image/samsung/p6pim/ie/s2602/gallery/ie-galaxy-s26-s942-578780-sm-s942bzkgeub-550905521?$1600_1600_PNG$",
+      "source_page": "https://www.samsung.com/ie/business/smartphones/galaxy-s/galaxy-s26-black-256gb-sm-s942bzkgeub/",
+      "original_fingerprint": {
+        "bytes": 509767,
+        "sha256": "a1822a30fe9373005ee27f9668a21745e542781f56486b7dc52bd2eb66ce259e"
+      },
+      "patch": {
+        "rect": [
+          570,
+          1018,
+          165,
+          70
+        ],
+        "feather": 3,
+        "scale": [
+          1.2759170653907497,
+          1.2759170653907497
+        ],
+        "tone": [
+          {
+            "slope": 0.9457495533145258,
+            "intercept": -0.0036803255919685553
+          },
+          {
+            "slope": 0.9852235563212749,
+            "intercept": -0.009330938688209979
+          },
+          {
+            "slope": 0.9437069695634316,
+            "intercept": -0.002051398669768575
+          }
+        ],
+        "embedded_repair_id": "asset-s26-logo-repair"
+      },
+      "repair_fingerprint": {
+        "bytes": 514712,
+        "sha256": "ad52e4b2ef8e848333289e0165ab19b1ace2f1902f86a46644b91ae62a7fe1f7"
+      },
+      "repair_storage": "原始修补PNG完整内嵌于clean_svg对应asset节点，不单独重复保存",
+      "edit_tool": "image_gen.imagegen",
+      "prompt": "Use case: precise-object-edit. Edit target: the provided original transparent Samsung Galaxy S26 front-and-back product photo. Remove ONLY the small SAMSUNG wordmark from the lower area of the BACK phone. The wordmark is around original 1600x1600 canvas coordinates x=580–730, y=1030–1075. Seamlessly restore the underlying back-panel color, fine texture and lighting in exactly this small region. Preserve the entire original composition, original 1600x1600 framing and transparent padding; do not zoom, crop, center differently or reposition either handset. Preserve every camera lens, lens ring, flash, edge, button, reflection, all body colors, and the complete front wallpaper and front camera exactly. Do not redraw, recolor or retouch any other region. Do not add any new marks, letters, logos, labels, shadows or objects. Return an actually transparent PNG, with both phones and the original proportions maintained. This is a local debranding repair, not a new product rendering.",
+      "edit_reference": "官方原图/s26-official.png",
+      "archived": "2026-11-03",
+      "clean_png_fingerprint": {
+        "bytes": 579369,
+        "sha256": "d29369af8fb8235ee97ca4861578022c89e26e9b5fcbaf3d2511773191718b07"
+      },
+      "clean_svg_fingerprint": {
+        "bytes": 1367201,
+        "sha256": "731bced8c12dce5e801249a2d13f4de917f0f743c4158ae04abf08b0c00f69b2"
+      },
+      "model_id": "SamsungGalaxyS26",
+      "view_type": "front_back_composite",
+      "independent_front_status": "not_registered_as_standalone",
+      "independent_rear_status": "not_available_complete_rear_occluded",
+      "body_geometry_verification": {
+        "status": "pending_outline_review",
+        "certified_body_bbox": null,
+        "existing_body_crop_is_certified": false,
+        "reason": "现有body_crop是组合图取景范围，不是独立正背面真实外廓"
+      },
+      "logo_verification": {
+        "status": "recorded_clear",
+        "basis": "既有visible_logo=false及局部去标合成核验",
+        "rechecked_now": false
+      }
+    }
+  },
+  "verification": {
+    "alpha_preserved": true,
+    "original_and_repair_embedded_bytes_match": true,
+    "outside_patch_opaque_pixels_unchanged": true
+  },
+  "normalization": {
+    "normalized_at": "2026-11-03",
+    "canonical_model_table": "../型号与尺寸.json",
+    "master_asset_index": "../素材索引.json",
+    "scope": "只规范已有素材登记；未联网核实毫米尺寸或重新逐像素验收",
+    "layout_parameters_are_store_owned": true
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "archived_on": "2026-09-24",
+  "original_source": "C:\\Users\\AI454\\OneDrive\\Desktop\\2026.09.19 X系列品牌故事",
+  "preservation": "原图与原文逐字节复制；原始位置保留",
+  "file_count": 92,
+  "png_count": 72,
+  "text_count": 20,
+  "files": [
+    {
+      "original_relative_path": "品牌故事 (1) SHIELDON/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (1) SHIELDON/1.png",
+      "bytes": 1142786,
+      "sha256": "327c3f3858202363d082c6f4acfef4e78fa26d124516549cde205f8bdd817f95"
+    },
+    {
+      "original_relative_path": "品牌故事 (1) SHIELDON/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (1) SHIELDON/2.png",
+      "bytes": 1371429,
+      "sha256": "59e174a101a2e0ecb6d996590911ca7af8ebb0ac01737b42cf68c5de81568cc0"
+    },
+    {
+      "original_relative_path": "品牌故事 (1) SHIELDON/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (1) SHIELDON/3.png",
+      "bytes": 1404396,
+      "sha256": "21f91b5a22b31b16b30cb91a9f5e79777b74a33cd91d031259d4b9e5264e0c1e"
+    },
+    {
+      "original_relative_path": "品牌故事 (1) SHIELDON/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (1) SHIELDON/4.png",
+      "bytes": 1489213,
+      "sha256": "a6c92e6b0e05e0d82e262f8a0d01e3b174c063bb356f8c895d33ffb1fc2a9a35"
+    },
+    {
+      "original_relative_path": "品牌故事 (1) SHIELDON/5.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (1) SHIELDON/5.png",
+      "bytes": 1485845,
+      "sha256": "e4624de17dee627aac4874e10da0c352a440dc1119e23036dfae19a288b3a227"
+    },
+    {
+      "original_relative_path": "品牌故事 (1) SHIELDON/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (1) SHIELDON/文字.txt",
+      "bytes": 1279,
+      "sha256": "c4d786f951956fa99ae1f6ebb6b1aefa20c04a66f78dd054845bfae132318599"
+    },
+    {
+      "original_relative_path": "品牌故事 (10) spigen/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (10) spigen/1.png",
+      "bytes": 729021,
+      "sha256": "db555202f45db80d4b222a976264f64c4fd8b4547983767e1c38d0fa29c9d6e4"
+    },
+    {
+      "original_relative_path": "品牌故事 (10) spigen/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (10) spigen/2.png",
+      "bytes": 965772,
+      "sha256": "90a56ddbf2489f4ddb03e120fc993e03b1dab14f2e95d03ac8e106d7b578b88c"
+    },
+    {
+      "original_relative_path": "品牌故事 (10) spigen/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (10) spigen/3.png",
+      "bytes": 656659,
+      "sha256": "1a9e6608de9514b2fc68e3835bb51fe5c669a4e0359e9d2afa25520b0c8476a8"
+    },
+    {
+      "original_relative_path": "品牌故事 (10) spigen/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (10) spigen/文字.txt",
+      "bytes": 1095,
+      "sha256": "e4d36f440aaa38532291f9ec56ad141a1d97ff03c68490c8f06b21746ef3826f"
+    },
+    {
+      "original_relative_path": "品牌故事 (11) OtterBox/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (11) OtterBox/1.png",
+      "bytes": 708482,
+      "sha256": "00438f2478f426b1a198f5d0a49db08f63c3e0403e25defd23f1c2a77167c4ad"
+    },
+    {
+      "original_relative_path": "品牌故事 (11) OtterBox/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (11) OtterBox/2.png",
+      "bytes": 657724,
+      "sha256": "dc35082fad60d09bc288f4cbd207d3c085b1e80be4c20d8e29893f80ff7d9808"
+    },
+    {
+      "original_relative_path": "品牌故事 (11) OtterBox/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (11) OtterBox/3.png",
+      "bytes": 657253,
+      "sha256": "6bd06dd2a0717091e4e4b0e894924c96faf2d31f7e92c21b4b484aed9bcf35b9"
+    },
+    {
+      "original_relative_path": "品牌故事 (11) OtterBox/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (11) OtterBox/4.png",
+      "bytes": 740553,
+      "sha256": "328d4831b54b23f16cccbb08f7ae912c700fc8ce0692fed431d2576843f26f24"
+    },
+    {
+      "original_relative_path": "品牌故事 (11) OtterBox/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (11) OtterBox/文字.txt",
+      "bytes": 387,
+      "sha256": "40e25187451844ed66b961e68d9a735c84198d0da986990f194e2e83119daa2c"
+    },
+    {
+      "original_relative_path": "品牌故事 (12) elago/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (12) elago/1.png",
+      "bytes": 676473,
+      "sha256": "e8420e300544b00f27b81cc0bf27366dc6fb129fe0e6772210816fd969855f08"
+    },
+    {
+      "original_relative_path": "品牌故事 (12) elago/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (12) elago/2.png",
+      "bytes": 701069,
+      "sha256": "f359a950896cf907892f53afb61b459f1ad9548e5a23cc5e3f9466409f00bb99"
+    },
+    {
+      "original_relative_path": "品牌故事 (12) elago/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (12) elago/3.png",
+      "bytes": 709867,
+      "sha256": "a63974c47e0bda60a827027b396a8a65e8e97bbf020cccea96c340a86b69dcd4"
+    },
+    {
+      "original_relative_path": "品牌故事 (12) elago/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (12) elago/4.png",
+      "bytes": 1029298,
+      "sha256": "9a3e2c4d26f0d0b6006c94ed698c7ac13c2a126eb583d06e4138c7be7f642475"
+    },
+    {
+      "original_relative_path": "品牌故事 (12) elago/5.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (12) elago/5.png",
+      "bytes": 352083,
+      "sha256": "9b58ca0aa2eef71d76a6b9febc95954e2ecfa0586bb271813a46e5292856f80a"
+    },
+    {
+      "original_relative_path": "品牌故事 (12) elago/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (12) elago/文字.txt",
+      "bytes": 522,
+      "sha256": "744a064e2ccdc334c098d8d403ca4455ca0f60ef677845cd1b2594bf3f37a18b"
+    },
+    {
+      "original_relative_path": "品牌故事 (13) smartish/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (13) smartish/1.png",
+      "bytes": 1056156,
+      "sha256": "5d3c7c96079c213ebceb9142e069dac8cae16a1b255b26fa1eab2ccbe46274d1"
+    },
+    {
+      "original_relative_path": "品牌故事 (13) smartish/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (13) smartish/2.png",
+      "bytes": 1006205,
+      "sha256": "2a2bb73f5af02a5260f6f3c7e5ecd9b8bc106754103d489576d2aa6f03589dfb"
+    },
+    {
+      "original_relative_path": "品牌故事 (13) smartish/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (13) smartish/3.png",
+      "bytes": 830736,
+      "sha256": "d26881d1f9a68df5b445e97b790f181f27b8107b61fec0d80cdab0ee0b791e65"
+    },
+    {
+      "original_relative_path": "品牌故事 (13) smartish/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (13) smartish/4.png",
+      "bytes": 650327,
+      "sha256": "d6b459b0e8ae04d9a6f5a5fb0ef52d6fa567d96e0ecf7c0f868d6bd93fe7a81c"
+    },
+    {
+      "original_relative_path": "品牌故事 (13) smartish/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (13) smartish/文字.txt",
+      "bytes": 984,
+      "sha256": "c7705a1ec4f1854b22a12fa431696a55892231a2309be8ba4b2cc47e1926a7e2"
+    },
+    {
+      "original_relative_path": "品牌故事 (14) OTOFLY/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (14) OTOFLY/1.png",
+      "bytes": 1346072,
+      "sha256": "ac62b94a2b89b829394c398cc307cd4d6238ac9f29a2a5c700cdc74772f0de8c"
+    },
+    {
+      "original_relative_path": "品牌故事 (14) OTOFLY/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (14) OTOFLY/2.png",
+      "bytes": 1165172,
+      "sha256": "8767535e5ba1731f10baa6a4c26cd25e7cb3358c4bf39bb0196fada0e8c6d62d"
+    },
+    {
+      "original_relative_path": "品牌故事 (14) OTOFLY/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (14) OTOFLY/文字.txt",
+      "bytes": 655,
+      "sha256": "fecfb0d9989cd5469471311d3286d489bc018140d55435983af3f9a142aee3a8"
+    },
+    {
+      "original_relative_path": "品牌故事 (15) PITAKA/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (15) PITAKA/1.png",
+      "bytes": 1054155,
+      "sha256": "b476900b0290894fc7bd45a0c4d15d9aed2024faf447e18741812fb14acf6a0f"
+    },
+    {
+      "original_relative_path": "品牌故事 (15) PITAKA/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (15) PITAKA/2.png",
+      "bytes": 886809,
+      "sha256": "bf454fc68f2bd6ad04c2d7fdcfb058b820768960afa48999139955b7898c7728"
+    },
+    {
+      "original_relative_path": "品牌故事 (15) PITAKA/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (15) PITAKA/3.png",
+      "bytes": 669420,
+      "sha256": "0f49d36c470670b78ad76cf6d54d65c672bd611d98c1ebd20fb38737b64fc29c"
+    },
+    {
+      "original_relative_path": "品牌故事 (15) PITAKA/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (15) PITAKA/文字.txt",
+      "bytes": 1341,
+      "sha256": "dcc6fd8abff700aeb3e8651c068d5c117d318f78886c789ce541e50dee9e77f2"
+    },
+    {
+      "original_relative_path": "品牌故事 (16) AOTESIER/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (16) AOTESIER/1.png",
+      "bytes": 1123025,
+      "sha256": "cf65a89fa5e341c8fca2ea5ec7648febf82f4b9f42d045ab55152808fe591c4e"
+    },
+    {
+      "original_relative_path": "品牌故事 (16) AOTESIER/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (16) AOTESIER/2.png",
+      "bytes": 912086,
+      "sha256": "cd297bd1dd75c56db0056d38dce098553b21433f7b3cbdd075f0b259a9d190bd"
+    },
+    {
+      "original_relative_path": "品牌故事 (16) AOTESIER/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (16) AOTESIER/3.png",
+      "bytes": 1263943,
+      "sha256": "54726cff144401e258063934073bbb0db2c740fd018b2e5b902d2883be64138d"
+    },
+    {
+      "original_relative_path": "品牌故事 (16) AOTESIER/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (16) AOTESIER/4.png",
+      "bytes": 1131538,
+      "sha256": "f88e596f8946023d10fd9c952e05fe6ed60b75b99e2a488e11b43460b3731ed3"
+    },
+    {
+      "original_relative_path": "品牌故事 (16) AOTESIER/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (16) AOTESIER/文字.txt",
+      "bytes": 956,
+      "sha256": "fc77e8b447cd3357cc7046e535467de2b66a2bc432d63d6c49754f80d6917945"
+    },
+    {
+      "original_relative_path": "品牌故事 (17) TORRAS/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (17) TORRAS/1.png",
+      "bytes": 781121,
+      "sha256": "17d8200f51c91d8746d4b0f772a88cd7c505e07370dcc0e3f9e7e930b5b29ed1"
+    },
+    {
+      "original_relative_path": "品牌故事 (17) TORRAS/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (17) TORRAS/2.png",
+      "bytes": 812821,
+      "sha256": "de8f58661993453d8d2c7cb2a8600c17bb39f064e17f8cc7dfe2634776f40f92"
+    },
+    {
+      "original_relative_path": "品牌故事 (17) TORRAS/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (17) TORRAS/3.png",
+      "bytes": 1017336,
+      "sha256": "047feca5b5f68419bf031206da589f422362c993649366fa925fea9aec11fbd1"
+    },
+    {
+      "original_relative_path": "品牌故事 (17) TORRAS/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (17) TORRAS/4.png",
+      "bytes": 983758,
+      "sha256": "ead30200ab3ccaa87f86b9a33a77c7c05b905843c273fef87563212f71d98593"
+    },
+    {
+      "original_relative_path": "品牌故事 (17) TORRAS/5.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (17) TORRAS/5.png",
+      "bytes": 765121,
+      "sha256": "1d986d6c5278393c9f7d65af7c879df3855be2c30e33c5513a4b28eb3ea09822"
+    },
+    {
+      "original_relative_path": "品牌故事 (17) TORRAS/6.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (17) TORRAS/6.png",
+      "bytes": 496401,
+      "sha256": "9e20b836a4e9303e0b9a7da296a59b60a906acb6f4b44a4e001f2e2ec3634987"
+    },
+    {
+      "original_relative_path": "品牌故事 (17) TORRAS/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (17) TORRAS/文字.txt",
+      "bytes": 2737,
+      "sha256": "7de30bc7091481d7fc7286f845ecb4057fd4e45b7298fab5c31231372813d2b2"
+    },
+    {
+      "original_relative_path": "品牌故事 (18) Strapurs/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (18) Strapurs/1.png",
+      "bytes": 1146788,
+      "sha256": "5e65cf3e995d915f1eff2ca52f61747d423178e9809781e2b160b10389b0312f"
+    },
+    {
+      "original_relative_path": "品牌故事 (18) Strapurs/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (18) Strapurs/2.png",
+      "bytes": 1317316,
+      "sha256": "ef12c34290d3d241e42066b57308d84973f84936e27158ea0e429303026426cc"
+    },
+    {
+      "original_relative_path": "品牌故事 (18) Strapurs/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (18) Strapurs/3.png",
+      "bytes": 1030633,
+      "sha256": "4fe3ee664bb45aba97536c4130653c7910cb22ed093f3bd39a73949b89df87e6"
+    },
+    {
+      "original_relative_path": "品牌故事 (18) Strapurs/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (18) Strapurs/4.png",
+      "bytes": 1267048,
+      "sha256": "6f30e53d1f1cdaf65484b04dd418f9cb73e0df918ef32a1349d0e7c4f29c4724"
+    },
+    {
+      "original_relative_path": "品牌故事 (18) Strapurs/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (18) Strapurs/文字.txt",
+      "bytes": 529,
+      "sha256": "7121377f0b48b73da410968e4b4147c5af2db28fd769a4cbd4f5d7a8ab395599"
+    },
+    {
+      "original_relative_path": "品牌故事 (19) Vihibii/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (19) Vihibii/1.png",
+      "bytes": 959229,
+      "sha256": "91e87904f30aaf8b5641590b5d63d3ee12dc2d0cc8be2dfc49f7bacb2c355326"
+    },
+    {
+      "original_relative_path": "品牌故事 (19) Vihibii/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (19) Vihibii/2.png",
+      "bytes": 633123,
+      "sha256": "7f9cecdd6047c4b1660f46b541679aeb93584f82ff0479e676ed3ca786278fcb"
+    },
+    {
+      "original_relative_path": "品牌故事 (19) Vihibii/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (19) Vihibii/3.png",
+      "bytes": 567336,
+      "sha256": "1e913ecaa34f1949bf290f3447d131634cc711067beaeb934feb39b6146ade0e"
+    },
+    {
+      "original_relative_path": "品牌故事 (19) Vihibii/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (19) Vihibii/文字.txt",
+      "bytes": 615,
+      "sha256": "6142c282d4f40395dfdf9a401a9d3e602631a4a917ed00ba46f47f09fd30e4be"
+    },
+    {
+      "original_relative_path": "品牌故事 (2) SKYEAGLE/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (2) SKYEAGLE/1.png",
+      "bytes": 1035841,
+      "sha256": "a9732d6aa728286ab8d749507f2e70f5a889a29c6377bbd4a82f873a99f2556e"
+    },
+    {
+      "original_relative_path": "品牌故事 (2) SKYEAGLE/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (2) SKYEAGLE/2.png",
+      "bytes": 1090850,
+      "sha256": "574fc6c24c6bc36343f73aafb910c8170e14e8daf2f191d96a5d9fc8aa07e6ec"
+    },
+    {
+      "original_relative_path": "品牌故事 (2) SKYEAGLE/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (2) SKYEAGLE/文字.txt",
+      "bytes": 358,
+      "sha256": "125232ab77e19045641757a6db52287016c01dd3df275bdf7ca5beab75bb080a"
+    },
+    {
+      "original_relative_path": "品牌故事 (20) Rezzoiro/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (20) Rezzoiro/1.png",
+      "bytes": 1224596,
+      "sha256": "c32a107091cd302fb5f96af9f8548909e3d3f000b4d7eba55147cdd6525a13ba"
+    },
+    {
+      "original_relative_path": "品牌故事 (20) Rezzoiro/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (20) Rezzoiro/2.png",
+      "bytes": 1389826,
+      "sha256": "e53b14e2cbf7557c42e63da4b8704512c2bba8a635b8a627ce6f3954adaafc87"
+    },
+    {
+      "original_relative_path": "品牌故事 (20) Rezzoiro/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (20) Rezzoiro/3.png",
+      "bytes": 1235495,
+      "sha256": "ecf57e309c73bd7e1eafba6019e9bcdfba4fc2f21c93e01fabff62266c18367e"
+    },
+    {
+      "original_relative_path": "品牌故事 (20) Rezzoiro/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (20) Rezzoiro/文字.txt",
+      "bytes": 438,
+      "sha256": "c50c4f6f682ea6fe8935d2bb7b83e3b1e39dd1e14d999f48b0d8f2373e0b2f9c"
+    },
+    {
+      "original_relative_path": "品牌故事 (3) ASAFCASE/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (3) ASAFCASE/1.png",
+      "bytes": 567766,
+      "sha256": "f4001b40a547cb768f19d8075c6936cd30da23e49cb917f6c5dc23140b5dc211"
+    },
+    {
+      "original_relative_path": "品牌故事 (3) ASAFCASE/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (3) ASAFCASE/2.png",
+      "bytes": 944089,
+      "sha256": "61accccd48488057743e814daaff70b9b5cf0ad361f79b551cf84dbf6e130722"
+    },
+    {
+      "original_relative_path": "品牌故事 (3) ASAFCASE/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (3) ASAFCASE/3.png",
+      "bytes": 488514,
+      "sha256": "514888b7585040c2540ebeb17e8638981e2317da0895e5014886be290729d10e"
+    },
+    {
+      "original_relative_path": "品牌故事 (3) ASAFCASE/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (3) ASAFCASE/文字.txt",
+      "bytes": 544,
+      "sha256": "14720ab31a7a8de8f054f77dce336321f78281dc6c9b1e78e113a6566c398d3a"
+    },
+    {
+      "original_relative_path": "品牌故事 (4) Jcxtrombulous/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (4) Jcxtrombulous/1.png",
+      "bytes": 1220766,
+      "sha256": "5da00727469c3ddceb749d25e97f69cbcce6c55c899add4370a8ab21898fc6fd"
+    },
+    {
+      "original_relative_path": "品牌故事 (4) Jcxtrombulous/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (4) Jcxtrombulous/2.png",
+      "bytes": 1634007,
+      "sha256": "8216a049753a36bb930b8fff8db379b571316074da921a8d26e348f449d59e39"
+    },
+    {
+      "original_relative_path": "品牌故事 (4) Jcxtrombulous/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (4) Jcxtrombulous/3.png",
+      "bytes": 1657931,
+      "sha256": "a31d03a16edb3cddd4e82d63fee29324aa085856c60b423ca2903345880ab380"
+    },
+    {
+      "original_relative_path": "品牌故事 (4) Jcxtrombulous/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (4) Jcxtrombulous/4.png",
+      "bytes": 1526843,
+      "sha256": "1206d1cf28a0fd228c7890cad3fded9287f7880580a606185abec19973faa60e"
+    },
+    {
+      "original_relative_path": "品牌故事 (4) Jcxtrombulous/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (4) Jcxtrombulous/文字.txt",
+      "bytes": 473,
+      "sha256": "fe4daf1d0798fb1f006a00a7bb4c2535664911d7976520ecbc969a9a93d2199a"
+    },
+    {
+      "original_relative_path": "品牌故事 (5) ATATOO/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (5) ATATOO/1.png",
+      "bytes": 639314,
+      "sha256": "44ba556369b04d807439b51cd73b6f5c6e9d6df4c4e80dabefd8e144fc9d1ce9"
+    },
+    {
+      "original_relative_path": "品牌故事 (5) ATATOO/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (5) ATATOO/2.png",
+      "bytes": 721698,
+      "sha256": "bb08e5e8492c49c6031436fdb803fb3d75045c578f21b3f88772576640752f02"
+    },
+    {
+      "original_relative_path": "品牌故事 (5) ATATOO/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (5) ATATOO/3.png",
+      "bytes": 295470,
+      "sha256": "949a5e484cd89ac264186ce03302e5022c661c7e6632f1057f24994f83d08e1f"
+    },
+    {
+      "original_relative_path": "品牌故事 (5) ATATOO/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (5) ATATOO/文字.txt",
+      "bytes": 944,
+      "sha256": "b974fbcd197fc28d6b7517c5280405c463edb925c1f7d81fe2914957ef89775e"
+    },
+    {
+      "original_relative_path": "品牌故事 (6) Cracdily/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (6) Cracdily/1.png",
+      "bytes": 1130555,
+      "sha256": "dc78ff98767908db3ea4fa2fe1d96f0d68969dd8f3f26c47aae8384573d6567e"
+    },
+    {
+      "original_relative_path": "品牌故事 (6) Cracdily/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (6) Cracdily/2.png",
+      "bytes": 1360950,
+      "sha256": "8cf62a8af3a522bb60e6d0615500fbdd2b04aa65c2eb1a4d419c7c916f6a6b2a"
+    },
+    {
+      "original_relative_path": "品牌故事 (6) Cracdily/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (6) Cracdily/文字.txt",
+      "bytes": 452,
+      "sha256": "e84f4dcf6441101dc3f959ad2399cce820b65ec15d0c708901cc917cbb2ac561"
+    },
+    {
+      "original_relative_path": "品牌故事 (7) TOCOL/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (7) TOCOL/1.png",
+      "bytes": 1724055,
+      "sha256": "a68fea6f285b9cb8e2d78dfe916881c3cc3741c581ae4c097bc9d378df5cbf6b"
+    },
+    {
+      "original_relative_path": "品牌故事 (7) TOCOL/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (7) TOCOL/2.png",
+      "bytes": 1553682,
+      "sha256": "e261055d30abde515b0ae5380104f06deb1d1a0b595c9487c4168c9d96fa87af"
+    },
+    {
+      "original_relative_path": "品牌故事 (7) TOCOL/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (7) TOCOL/文字.txt",
+      "bytes": 636,
+      "sha256": "8a109cd9de854c26f0b0033badecd1550755ba0f0acf1c28e948009ac9093654"
+    },
+    {
+      "original_relative_path": "品牌故事 (8) TORRAS/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (8) TORRAS/1.png",
+      "bytes": 817042,
+      "sha256": "badebacf6bf4e2fbcd2c12213a31450dc5404706d2e785f54abcb833efeed8c4"
+    },
+    {
+      "original_relative_path": "品牌故事 (8) TORRAS/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (8) TORRAS/2.png",
+      "bytes": 828977,
+      "sha256": "ab013e11b1d2484078138ef46edbb79d370bc8447973a298a8446c13c987245f"
+    },
+    {
+      "original_relative_path": "品牌故事 (8) TORRAS/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (8) TORRAS/3.png",
+      "bytes": 896070,
+      "sha256": "d0df3095d85e78f28ea6a9fc9eb73c1df510243bd8e3019dcbfb277c2b1eb29d"
+    },
+    {
+      "original_relative_path": "品牌故事 (8) TORRAS/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (8) TORRAS/4.png",
+      "bytes": 791635,
+      "sha256": "45832b36c6eb1906e54a0e44404b7a21c984bb3ed24fa39459aad911f84dfb6e"
+    },
+    {
+      "original_relative_path": "品牌故事 (8) TORRAS/5.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (8) TORRAS/5.png",
+      "bytes": 869843,
+      "sha256": "eadb2240adfc7c05c90aa56f49acc601fa8372d25e0cb30ce29c40908058b7e2"
+    },
+    {
+      "original_relative_path": "品牌故事 (8) TORRAS/6.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (8) TORRAS/6.png",
+      "bytes": 871039,
+      "sha256": "866375458f4fe52e2c7f070fafc2bfff78263d0bae1a0bed6f02e1d0cee8da05"
+    },
+    {
+      "original_relative_path": "品牌故事 (8) TORRAS/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (8) TORRAS/文字.txt",
+      "bytes": 3459,
+      "sha256": "93407a1978361139ffb0b9d6e0e52cf296a5788f9bc51b61f29fb86fffb7b242"
+    },
+    {
+      "original_relative_path": "品牌故事 (9) ESR/1.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (9) ESR/1.png",
+      "bytes": 1114127,
+      "sha256": "a5e03546138667b7e0c65185ef3f7cd5462fdfc665937daa1a1ca3d1a0785461"
+    },
+    {
+      "original_relative_path": "品牌故事 (9) ESR/2.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (9) ESR/2.png",
+      "bytes": 948604,
+      "sha256": "303ce63a8cdad27f7112d14ac603e5ddc861aac2cbe58558564ffdec41346db5"
+    },
+    {
+      "original_relative_path": "品牌故事 (9) ESR/3.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (9) ESR/3.png",
+      "bytes": 820863,
+      "sha256": "4467898a3e62a8d5f64f699c469d7a3947c1282369e4a4895850d0cb521f7d90"
+    },
+    {
+      "original_relative_path": "品牌故事 (9) ESR/4.png",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (9) ESR/4.png",
+      "bytes": 957639,
+      "sha256": "a54f10879fab629cf6dff1eaeebce0ef76abf11cff84372b264ede4475213aad"
+    },
+    {
+      "original_relative_path": "品牌故事 (9) ESR/文字.txt",
+      "archived_relative_path": "资料/2026-09-19品牌故事案例/品牌故事 (9) ESR/文字.txt",
+      "bytes": 1133,
+      "sha256": "ee21ac6f0fae2ce73efc361b5ff1b17d4c86f4dd42c9bfc0b55f71096602b5a1"
+    }
+  ],
+  "report": {
+    "archived_relative_path": "资料/品牌故事卡片学习图文报告_2026-09-24.html",
+    "bytes": 16278611,
+    "sha256": "6e27961081bfbe92672afb3a767bc62809bae8e140de042b72b11d73ce6bf76c"
+  }
+}

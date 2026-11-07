@@ -1,0 +1,48 @@
+{
+  "font": "Inter SemiBold 600",
+  "orientation": "竖排，J 在下、m 在上",
+  "factory_pdfs": [
+    {
+      "file": "JanCalm_28x5.50mm_竖排.pdf",
+      "width_mm": 5.500000006666666,
+      "height_mm": 27.999999985833327,
+      "pages": 1,
+      "outline_only": true
+    },
+    {
+      "file": "JanCalm_32x6.29mm_竖排.pdf",
+      "width_mm": 6.290000014166666,
+      "height_mm": 31.999999993888885,
+      "pages": 1,
+      "outline_only": true
+    }
+  ],
+  "svg_outline_identity": true,
+  "a4_proof_visual_review": "已用 Poppler 渲染，核对字形、方向、尺寸标注与校准线",
+  "files": [
+    {
+      "name": "JanCalm_28x5.50mm_竖排.pdf",
+      "sha256": "864b5d5447ef9c82fdd021df03fe029665cd5135732c13714c9a185f1cad02d5"
+    },
+    {
+      "name": "JanCalm_28x5.50mm_竖排.svg",
+      "sha256": "01680298a1e828ed34b5f5c31864fd524aea17a39ce88914d5cefe68d4bfbdcc"
+    },
+    {
+      "name": "JanCalm_32x6.29mm_竖排.pdf",
+      "sha256": "d05494580aee7516fbfb4a1a944337307fc3db4bde0d47b0d7b55145e5fe4759"
+    },
+    {
+      "name": "JanCalm_32x6.29mm_竖排.svg",
+      "sha256": "f613ee0ef782e11082f16e2aa02fa73c766667afed49fd684ce2940e51899933"
+    },
+    {
+      "name": "JanCalm_A4_1比1尺寸核对.pdf",
+      "sha256": "c9b164fa8f6e4e7538504b96f38c163d1a853bb799bb3603ba79ae31c24d215d"
+    },
+    {
+      "name": "厂家使用说明.txt",
+      "sha256": "15dfd56da4ef6684ee82229e1420297ae4df9300600887c1a1f26fac044f955f"
+    }
+  ]
+}

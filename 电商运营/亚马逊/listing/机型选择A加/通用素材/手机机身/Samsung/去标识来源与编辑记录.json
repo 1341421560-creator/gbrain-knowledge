@@ -1,0 +1,273 @@
+{
+  "tool": "image_gen.imagegen",
+  "reference_policy": "四次编辑均使用上一批对应的原始官方图片，不在生成结果上迭代。",
+  "records": [
+    {
+      "model": "s23",
+      "original": "官方原图/s23-official.png",
+      "generated_original": "exec-dd8eda7e-2561-4541-89f6-59df19a387c1.png",
+      "prompt": "Use case: precise-object-edit. Edit target: the provided original transparent Samsung Galaxy S23 front-and-back product photo. Remove ONLY the small SAMSUNG wordmark from the lower area of the BACK phone. The wordmark is around original 1600x1600 canvas coordinates x=580–730, y=1030–1075. Seamlessly restore the underlying back-panel color, fine texture and lighting in exactly this small region. Preserve the entire original composition, original 1600x1600 framing and transparent padding; do not zoom, crop, center differently or reposition either handset. Preserve every camera lens, lens ring, flash, edge, button, reflection, all body colors, and the complete front wallpaper and front camera exactly. Do not redraw, recolor or retouch any other region. Do not add any new marks, letters, logos, labels, shadows or objects. Return an actually transparent PNG, with both phones and the original proportions maintained. This is a local debranding repair, not a new product rendering.",
+      "patch": {
+        "rect": [
+          570,
+          1018,
+          165,
+          70
+        ],
+        "feather": 3,
+        "scale": [
+          1.2759170653907497,
+          1.2759170653907497
+        ],
+        "tone": [
+          {
+            "slope": 0.65,
+            "intercept": 0.33725490196078434
+          },
+          {
+            "slope": 0.65,
+            "intercept": 0.33411764705882346
+          },
+          {
+            "slope": 0.65,
+            "intercept": 0.3203921568627451
+          }
+        ],
+        "embedded_repair_id": "asset-s23-logo-repair"
+      },
+      "repair_fingerprint": {
+        "bytes": 522203,
+        "sha256": "7425cd447b03fb4552e3d24fcc41e015e492af54bfda51e3baf3760e4e9f47e7"
+      }
+    },
+    {
+      "model": "s24",
+      "original": "官方原图/s24-official.png",
+      "generated_original": "exec-365452f3-85a2-4d79-a7a2-79894ac2beee.png",
+      "prompt": "Use case: precise-object-edit. Edit target: the provided original transparent Samsung Galaxy S24 front-and-back product photo. Remove ONLY the small SAMSUNG wordmark from the lower area of the BACK phone. The wordmark is around original 1600x1600 canvas coordinates x=580–730, y=1030–1075. Seamlessly restore the underlying back-panel color, fine texture and lighting in exactly this small region. Preserve the entire original composition, original 1600x1600 framing and transparent padding; do not zoom, crop, center differently or reposition either handset. Preserve every camera lens, lens ring, flash, edge, button, reflection, all body colors, and the complete front wallpaper and front camera exactly. Do not redraw, recolor or retouch any other region. Do not add any new marks, letters, logos, labels, shadows or objects. Return an actually transparent PNG, with both phones and the original proportions maintained. This is a local debranding repair, not a new product rendering.",
+      "patch": {
+        "rect": [
+          570,
+          1018,
+          165,
+          70
+        ],
+        "feather": 3,
+        "scale": [
+          1.2759170653907497,
+          1.2759170653907497
+        ],
+        "tone": [
+          {
+            "slope": 0.9274720292643603,
+            "intercept": -0.0008962569480264262
+          },
+          {
+            "slope": 0.957566448562428,
+            "intercept": -0.003943619931114168
+          },
+          {
+            "slope": 0.9194193498362455,
+            "intercept": 0.003403416501412623
+          }
+        ],
+        "embedded_repair_id": "asset-s24-logo-repair"
+      },
+      "repair_fingerprint": {
+        "bytes": 548437,
+        "sha256": "532029562ca45b85aa9f42613c711eea35f6dcd233d658e91dd188d315aca272"
+      }
+    },
+    {
+      "model": "s25",
+      "original": "官方原图/s25-official.png",
+      "generated_original": "exec-8531eb73-95d4-4a8c-a9df-e5dba056b8d0.png",
+      "prompt": "Use case: precise-object-edit. Edit target: the provided original transparent Samsung Galaxy S25 front-and-back product photo. Remove ONLY the small SAMSUNG wordmark from the lower area of the BACK phone. The wordmark is around original 1600x1600 canvas coordinates x=580–730, y=1030–1075. Seamlessly restore the underlying back-panel color, fine texture and lighting in exactly this small region. Preserve the entire original composition, original 1600x1600 framing and transparent padding; do not zoom, crop, center differently or reposition either handset. Preserve every camera lens, lens ring, flash, edge, button, reflection, all body colors, and the complete front wallpaper and front camera exactly. Do not redraw, recolor or retouch any other region. Do not add any new marks, letters, logos, labels, shadows or objects. Return an actually transparent PNG, with both phones and the original proportions maintained. This is a local debranding repair, not a new product rendering.",
+      "patch": {
+        "rect": [
+          570,
+          1018,
+          165,
+          70
+        ],
+        "feather": 3,
+        "scale": [
+          1.2759170653907497,
+          1.2759170653907497
+        ],
+        "tone": [
+          {
+            "slope": 1.1371939709765175,
+            "intercept": -0.09099626845692094
+          },
+          {
+            "slope": 0.9069724138047143,
+            "intercept": 0.09038177145837425
+          },
+          {
+            "slope": 0.89092949010605,
+            "intercept": 0.10550904736364504
+          }
+        ],
+        "embedded_repair_id": "asset-s25-logo-repair"
+      },
+      "repair_fingerprint": {
+        "bytes": 492997,
+        "sha256": "50f6ebeca780ab298b71f8a39b1671eb1013c961f69aa6410be78668734f7cb5"
+      }
+    },
+    {
+      "model": "s26",
+      "original": "官方原图/s26-official.png",
+      "generated_original": "exec-4d10d74a-db3a-41d8-9ba1-3f11f56fda81.png",
+      "prompt": "Use case: precise-object-edit. Edit target: the provided original transparent Samsung Galaxy S26 front-and-back product photo. Remove ONLY the small SAMSUNG wordmark from the lower area of the BACK phone. The wordmark is around original 1600x1600 canvas coordinates x=580–730, y=1030–1075. Seamlessly restore the underlying back-panel color, fine texture and lighting in exactly this small region. Preserve the entire original composition, original 1600x1600 framing and transparent padding; do not zoom, crop, center differently or reposition either handset. Preserve every camera lens, lens ring, flash, edge, button, reflection, all body colors, and the complete front wallpaper and front camera exactly. Do not redraw, recolor or retouch any other region. Do not add any new marks, letters, logos, labels, shadows or objects. Return an actually transparent PNG, with both phones and the original proportions maintained. This is a local debranding repair, not a new product rendering.",
+      "patch": {
+        "rect": [
+          570,
+          1018,
+          165,
+          70
+        ],
+        "feather": 3,
+        "scale": [
+          1.2759170653907497,
+          1.2759170653907497
+        ],
+        "tone": [
+          {
+            "slope": 0.9457495533145258,
+            "intercept": -0.0036803255919685553
+          },
+          {
+            "slope": 0.9852235563212749,
+            "intercept": -0.009330938688209979
+          },
+          {
+            "slope": 0.9437069695634316,
+            "intercept": -0.002051398669768575
+          }
+        ],
+        "embedded_repair_id": "asset-s26-logo-repair"
+      },
+      "repair_fingerprint": {
+        "bytes": 514712,
+        "sha256": "ad52e4b2ef8e848333289e0165ab19b1ace2f1902f86a46644b91ae62a7fe1f7"
+      }
+    }
+  ],
+  "color_matching": [
+    {
+      "model": "s23",
+      "rgb_transfer": [
+        {
+          "slope": 0.65,
+          "intercept": 0.33725490196078434
+        },
+        {
+          "slope": 0.65,
+          "intercept": 0.33411764705882346
+        },
+        {
+          "slope": 0.65,
+          "intercept": 0.3203921568627451
+        }
+      ],
+      "sampling": "标识外侧上、下与左侧原始面板，不取原字标像素。",
+      "mean_abs_error_before": [
+        2.5864661654135337,
+        4.202488981073373,
+        4.173450868550687
+      ],
+      "mean_abs_error_after": [
+        0.5729841845994249,
+        0.5122634171636008,
+        0.5947109152190844
+      ]
+    },
+    {
+      "model": "s24",
+      "rgb_transfer": [
+        {
+          "slope": 0.9274720292643603,
+          "intercept": -0.0008962569480264262
+        },
+        {
+          "slope": 0.957566448562428,
+          "intercept": -0.003943619931114168
+        },
+        {
+          "slope": 0.9194193498362455,
+          "intercept": 0.003403416501412623
+        }
+      ],
+      "sampling": "标识外侧上、下与左侧原始面板，不取原字标像素。",
+      "mean_abs_error_before": [
+        3.4866476536168007,
+        3.1560798548094375,
+        2.924812030075188
+      ],
+      "mean_abs_error_after": [
+        0.8017127739002423,
+        0.7256150813247072,
+        0.7405740233909903
+      ]
+    },
+    {
+      "model": "s25",
+      "rgb_transfer": [
+        {
+          "slope": 1.1371939709765175,
+          "intercept": -0.09099626845692094
+        },
+        {
+          "slope": 0.9069724138047143,
+          "intercept": 0.09038177145837425
+        },
+        {
+          "slope": 0.89092949010605,
+          "intercept": 0.10550904736364504
+        }
+      ],
+      "sampling": "标识外侧上、下与左侧原始面板，不取原字标像素。",
+      "mean_abs_error_before": [
+        2.903292714544983,
+        4.733471610059632,
+        3.7109152190821884
+      ],
+      "mean_abs_error_after": [
+        0.8276653059953911,
+        0.6979638114311392,
+        0.7038613115215293
+      ]
+    },
+    {
+      "model": "s26",
+      "rgb_transfer": [
+        {
+          "slope": 0.9457495533145258,
+          "intercept": -0.0036803255919685553
+        },
+        {
+          "slope": 0.9852235563212749,
+          "intercept": -0.009330938688209979
+        },
+        {
+          "slope": 0.9437069695634316,
+          "intercept": -0.002051398669768575
+        }
+      ],
+      "sampling": "标识外侧上、下与左侧原始面板，不取原字标像素。",
+      "mean_abs_error_before": [
+        3.123411978221416,
+        2.890847809178118,
+        3.398236971739694
+      ],
+      "mean_abs_error_after": [
+        0.7447219062684927,
+        0.7132089417936609,
+        0.8189866777548701
+      ]
+    }
+  ],
+  "source_project": "20261102_moment_9组普通A加_刘海去标与背面叠放"
+}

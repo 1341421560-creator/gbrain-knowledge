@@ -1,0 +1,909 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-10-16",
+  "scope": "iPhone 5–18已发布直板机型，含5c、三代SE、mini、Plus、Pro/Pro Max、X/XS/XS Max/XR、e、Air；排除Duo。",
+  "definition": "每一行表示一个有直接产品证据的完整共用壳方案；旧款小孔壳的单向适配、壳款子集和版本限制写在同一行，不再拆成重复基础组。",
+  "opening_note": "镜头、按键、底部和卡持条件为结构验收规则；尚未测量具体CAD孔位尺寸。",
+  "rules": [
+    "型号事实、背面素材、共壳方案、店铺排版分别存放。",
+    "同一型号只在一条合并主行出现；子集版本收在该行内，避免重复拆分。",
+    "每组至少有一个具体品牌产品直接覆盖整组，不能靠不同产品的兼容名单传递拼接。",
+    "整窗、逐镜头小孔、带防尘塞、包覆按键/Camera Control、全包相机平台须按具体版本确认。",
+    "红色不兼容只能用于自家SKU已证实不适配的型号；未知关系保持待核。"
+  ],
+  "groups": [
+    {
+      "id": "M01",
+      "label": "5／5s／SE 第1代（2016）",
+      "models": [
+        "iPhone5",
+        "iPhone5s",
+        "iPhoneSE2016"
+      ],
+      "opening_conditions": {
+        "camera": "整窗覆盖三款单摄、闪光灯和后置麦克风范围。",
+        "buttons": "顶部电源键、侧面音量与静音拨片均可操作；前包边不挡5s/SE的Touch ID。",
+        "bottom": "保留Lightning、3.5 mm耳机接口、喇叭及麦克风通道。",
+        "fit_and_protection": "按123.8×58.6×7.6 mm共同机身设计，5c不据4英寸标注并入。"
+      },
+      "direction": "选择明确覆盖三款的共用壳，三款均可装；完整包前框款需兼顾Home键。",
+      "examples": [
+        {
+          "product": "Spigen Rugged Armor",
+          "sku": "041CS20167",
+          "models": [
+            "iPhone5",
+            "iPhone5s",
+            "iPhoneSE2016"
+          ],
+          "source_ids": [
+            "S02"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S02"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M02",
+      "label": "6／6s／7／8／SE 2020／SE 2022",
+      "models": [
+        "iPhone6",
+        "iPhone6s",
+        "iPhone7",
+        "iPhone8",
+        "iPhoneSE2020",
+        "iPhoneSE2022"
+      ],
+      "opening_conditions": {
+        "camera": "采用覆盖各代单摄、闪光灯和后麦克风的共用大窗，不使用只贴合某一代镜头的独立小孔。",
+        "buttons": "音量、电源、静音拨片区域覆盖各代位置和行程；前包边保留Home/Touch ID操作空间。",
+        "bottom": "均为Lightning；另给6/6s的3.5 mm耳机口留孔，兼顾喇叭与麦克风位置。",
+        "fit_and_protection": "覆盖138.1–138.4 mm高、67.0–67.3 mm宽、6.9–7.3 mm厚的已验证共用结构；检查装配余量和卡持。"
+      },
+      "direction": "六型号共用版覆盖整组。旧6/6s镜头小孔版、封闭底部版不自动等同共用版。",
+      "examples": [
+        {
+          "product": "Hama Finest Sense Cover",
+          "sku": "00196835",
+          "models": [
+            "iPhone6",
+            "iPhone6s",
+            "iPhone7",
+            "iPhone8",
+            "iPhoneSE2020",
+            "iPhoneSE2022"
+          ],
+          "source_ids": [
+            "S03"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S03",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M03",
+      "label": "6 Plus／6s Plus／7 Plus／8 Plus",
+      "models": [
+        "iPhone6Plus",
+        "iPhone6sPlus",
+        "iPhone7Plus",
+        "iPhone8Plus"
+      ],
+      "opening_conditions": {
+        "camera": "按7/8 Plus横排双摄与闪光灯的范围做整窗，同时露出6/6s Plus单摄及后麦克风。",
+        "buttons": "侧面电源、音量和静音拨片正常操作；前包边不遮挡Home键。",
+        "bottom": "均为Lightning；额外为6/6s Plus的3.5 mm耳机接口留通道，兼顾底部喇叭和麦克风。",
+        "fit_and_protection": "覆盖158.1–158.4 mm高、77.8–78.1 mm宽、7.1–7.5 mm厚的共用结构，并确认包边卡持。"
+      },
+      "direction": "四型号共用版覆盖整组；6 Plus单摄小窗旧壳不能据尺寸接近推成7/8 Plus双摄兼容。",
+      "examples": [
+        {
+          "product": "REC MOUNT PLUS 四型号共用壳",
+          "sku": "R+iPC3",
+          "models": [
+            "iPhone6Plus",
+            "iPhone6sPlus",
+            "iPhone7Plus",
+            "iPhone8Plus"
+          ],
+          "source_ids": [
+            "S04"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S04",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M04",
+      "label": "X／XS／11 Pro",
+      "models": [
+        "iPhoneX",
+        "iPhoneXS",
+        "iPhone11Pro"
+      ],
+      "opening_conditions": {
+        "camera": "使用能够完整露出11 Pro三摄、闪光灯和麦克风的整窗，兼顾X/XS竖排双摄。",
+        "buttons": "开孔/按键覆盖三款侧键和静音拨片，不挤压或持续触发。",
+        "bottom": "保留Lightning和底部声学通道。",
+        "fit_and_protection": "11 Pro为144.0×71.4×8.1 mm，X/XS为143.6×70.9×7.7 mm；需要专门共用内托的卡持余量。"
+      },
+      "direction": "SP Connect指定三款共用版覆盖全组。IDEAL说明11 Pro壳可向X/XS适配；X/XS小摄像孔旧壳不能反向覆盖11 Pro。",
+      "examples": [
+        {
+          "product": "SP Connect Phone Case",
+          "sku": "52622",
+          "models": [
+            "iPhoneX",
+            "iPhoneXS",
+            "iPhone11Pro"
+          ],
+          "source_ids": [
+            "S05"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S05",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M05",
+      "label": "XS Max／11 Pro Max",
+      "models": [
+        "iPhoneXSMax",
+        "iPhone11ProMax"
+      ],
+      "opening_conditions": {
+        "camera": "整窗覆盖11 Pro Max三摄、闪光灯及麦克风，兼顾XS Max竖排双摄。",
+        "buttons": "兼顾两代侧键、音量和静音拨片。",
+        "bottom": "保留Lightning及底部喇叭/麦克风通道。",
+        "fit_and_protection": "分别为157.5×77.4×7.7 mm与158.0×77.8×8.1 mm，使用明确覆盖两代的卡持结构。"
+      },
+      "direction": "指定两型号共用版覆盖整组；IDEAL说明11 Pro Max壳可装XS Max，旧XS Max小窗版不反向推定。",
+      "examples": [
+        {
+          "product": "SP Connect Phone Case",
+          "sku": "52624",
+          "models": [
+            "iPhoneXSMax",
+            "iPhone11ProMax"
+          ],
+          "source_ids": [
+            "S05"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S05",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M06",
+      "label": "XR／11",
+      "models": [
+        "iPhoneXR",
+        "iPhone11"
+      ],
+      "opening_conditions": {
+        "camera": "采用11双摄方形区域所需的整窗，兼顾XR单摄、闪光灯和麦克风。",
+        "buttons": "音量、电源和静音拨片均可使用。",
+        "bottom": "保留Lightning、喇叭和麦克风通道。",
+        "fit_and_protection": "两款均为150.9×75.7×8.3 mm；镜头开窗仍需覆盖11双摄。"
+      },
+      "direction": "共用版覆盖两款。IDEAL明确说明11壳可装XR；XR单摄小窗旧壳不反向适配11。",
+      "examples": [
+        {
+          "product": "SP Connect Phone Case",
+          "sku": "52623",
+          "models": [
+            "iPhoneXR",
+            "iPhone11"
+          ],
+          "source_ids": [
+            "S05"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S05",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M07",
+      "label": "12／12 Pro",
+      "models": [
+        "iPhone12",
+        "iPhone12Pro"
+      ],
+      "opening_conditions": {
+        "camera": "整窗完整露出12 Pro三摄、LiDAR、闪光灯与麦克风，并兼顾12双摄；逐镜头独立孔版不能直接套用结论。",
+        "buttons": "保留两款侧键及静音拨片操作空间。",
+        "bottom": "Lightning及底部喇叭/麦克风通道完整。",
+        "fit_and_protection": "共同机身为146.7×71.5×7.4 mm，确认镜头保护边不压镜头模组。"
+      },
+      "direction": "明确标注12/12 Pro的共用版覆盖两款；镜头全包、镜头盖板版本按各自孔位确认。",
+      "examples": [
+        {
+          "product": "OtterBox Defender Series",
+          "sku": "77-65401",
+          "models": [
+            "iPhone12",
+            "iPhone12Pro"
+          ],
+          "source_ids": [
+            "S07"
+          ],
+          "version": "覆盖整组的共用版本"
+        },
+        {
+          "product": "SP Connect Phone Case",
+          "sku": "52633",
+          "models": [
+            "iPhone12",
+            "iPhone12Pro"
+          ],
+          "source_ids": [
+            "S05"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S07",
+        "S05",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M08",
+      "label": "12 mini／13 mini",
+      "models": [
+        "iPhone12mini",
+        "iPhone13mini"
+      ],
+      "opening_conditions": {
+        "camera": "整窗覆盖12 mini竖排双摄与13 mini对角双摄的各自范围，露出闪光灯和麦克风。",
+        "buttons": "开孔/按键兼顾两代侧键、音量和静音拨片位置。",
+        "bottom": "保留Lightning及底部声学开孔。",
+        "fit_and_protection": "高宽相同131.5×64.2 mm，厚度7.4/7.65 mm；确认卡持与相机保护边。"
+      },
+      "direction": "SP Connect指定共用版覆盖两款；不能把只按某一代小窗和按键做的旧壳视为无条件互换。",
+      "examples": [
+        {
+          "product": "SP Connect Phone Case",
+          "sku": "52643",
+          "models": [
+            "iPhone12mini",
+            "iPhone13mini"
+          ],
+          "source_ids": [
+            "S05"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M09",
+      "label": "12 Pro Max／13 Pro Max",
+      "models": [
+        "iPhone12ProMax",
+        "iPhone13ProMax"
+      ],
+      "opening_conditions": {
+        "camera": "整窗覆盖13 Pro Max较大的镜头区域，并让两代三摄、LiDAR、闪光灯、麦克风均无遮挡。",
+        "buttons": "兼顾两代侧键、音量键与静音拨片。",
+        "bottom": "保留Lightning及底部喇叭/麦克风通道。",
+        "fit_and_protection": "共同高宽160.8×78.1 mm，厚度7.4/7.65 mm；保护边与卡持适配两代。"
+      },
+      "direction": "指定共用版覆盖两款。IDEAL说明13 Pro Max壳可装12 Pro Max，旧12 Pro Max小窗版不能反向推定。",
+      "examples": [
+        {
+          "product": "OtterBox Defender Series",
+          "sku": "77-83430",
+          "models": [
+            "iPhone12ProMax",
+            "iPhone13ProMax"
+          ],
+          "source_ids": [
+            "S08"
+          ],
+          "version": "覆盖整组的共用版本"
+        },
+        {
+          "product": "SP Connect Phone Case",
+          "sku": "52646",
+          "models": [
+            "iPhone12ProMax",
+            "iPhone13ProMax"
+          ],
+          "source_ids": [
+            "S05"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S08",
+        "S05",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M10",
+      "label": "13／14／15／16e／17e",
+      "models": [
+        "iPhone13",
+        "iPhone14",
+        "iPhone15",
+        "iPhone16e",
+        "iPhone17e"
+      ],
+      "opening_conditions": {
+        "camera": "五型号版采用能覆盖13/14/15对角双摄和16e/17e单摄、闪光灯及麦克风的整窗。e专用小孔版仅覆盖e子集。",
+        "buttons": "侧面需同时兼顾13/14/15静音拨片与16e/17e Action按钮的操作方式和位置。",
+        "bottom": "同一开口需容纳13/14的Lightning和15/16e/17e的USB-C插头；不能沿用只容Lightning的防尘塞。",
+        "fit_and_protection": "13/14/e高146.7 mm，15高147.6 mm；宽71.5/71.6 mm、厚7.65/7.8 mm，需按已验证五型号内托设计。"
+      },
+      "direction": "完整五型号共用版覆盖全组；不能把e单孔版或只列四款的钱包版扩大成五款。",
+      "examples": [
+        {
+          "product": "OtterBox Defender Series 五型号版",
+          "sku": "77-92554",
+          "models": [
+            "iPhone13",
+            "iPhone14",
+            "iPhone15",
+            "iPhone16e",
+            "iPhone17e"
+          ],
+          "source_ids": [
+            "S09"
+          ],
+          "version": "覆盖整组的共用版本"
+        },
+        {
+          "product": "IDEAL Clear/Vegan Leather/Silicone等指定五型号版",
+          "sku": null,
+          "models": [
+            "iPhone13",
+            "iPhone14",
+            "iPhone15",
+            "iPhone16e",
+            "iPhone17e"
+          ],
+          "source_ids": [
+            "S06"
+          ],
+          "version": "覆盖整组的共用版本"
+        },
+        {
+          "product": "IDEAL Printed / Magnet Wallet+ 四型号版",
+          "sku": null,
+          "models": [
+            "iPhone13",
+            "iPhone14",
+            "iPhone16e",
+            "iPhone17e"
+          ],
+          "source_ids": [
+            "S06"
+          ],
+          "version": "本行内的壳款子集；未列15，不能自动标15兼容"
+        },
+        {
+          "product": "Spigen Ultra Hybrid MagFit e专用版",
+          "sku": "ACS09139",
+          "models": [
+            "iPhone16e",
+            "iPhone17e"
+          ],
+          "source_ids": [
+            "S11"
+          ],
+          "version": "本行内的小孔子集，仅16e/17e"
+        }
+      ],
+      "source_ids": [
+        "S09",
+        "S06",
+        "S11"
+      ],
+      "notes": [
+        "同一行中不同壳款的适配范围不同。JHWVVTF钱包内托应使用自身已确认的名单。"
+      ],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M11",
+      "label": "14 Plus／15 Plus",
+      "models": [
+        "iPhone14Plus",
+        "iPhone15Plus"
+      ],
+      "opening_conditions": {
+        "camera": "整窗兼顾两代双摄、闪光灯、后麦克风及镜头保护边。",
+        "buttons": "音量、电源与静音拨片正常操作。",
+        "bottom": "分别为Lightning与USB-C；采用兼容两种插头及声学开孔的共用底部，防尘塞按两代确认。",
+        "fit_and_protection": "分别为160.8×78.1×7.8 mm与160.9×77.8×7.8 mm，确认侧边卡持和包边。"
+      },
+      "direction": "OtterBox指定双型号共用版覆盖两款；不能把单独14 Plus旧款带塞内托直接推为15 Plus兼容。",
+      "examples": [
+        {
+          "product": "OtterBox Commuter Series 双型号版",
+          "sku": "27-56947-5943",
+          "models": [
+            "iPhone14Plus",
+            "iPhone15Plus"
+          ],
+          "source_ids": [
+            "S10"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S10"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M12",
+      "label": "17 Pro／18 Pro",
+      "models": [
+        "iPhone17Pro",
+        "iPhone18Pro"
+      ],
+      "opening_conditions": {
+        "camera": "覆盖两代横贯相机平台、三摄、LiDAR、闪光灯和麦克风；镜头保护边高度兼顾18代略高的平台。",
+        "buttons": "Action、音量、电源及Camera Control均需可用；包覆式Camera Control须兼顾触摸/滑动操作。",
+        "bottom": "保留USB-C插头、麦克风和喇叭通道。",
+        "fit_and_protection": "共同机身150.0×71.9×8.75 mm不等于相机凸起相同；平台包边、保护余量和可换按键版本分别核对。"
+      },
+      "direction": "选择明确标注17/18 Pro的共用新版本。IDEAL限定新壳；不能将所有旧17 Pro紧包平台壳都视为同等保护。",
+      "examples": [
+        {
+          "product": "OtterBox Defender Series Pro XT 双型号款",
+          "sku": null,
+          "models": [
+            "iPhone17Pro",
+            "iPhone18Pro"
+          ],
+          "source_ids": [
+            "S12"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S12",
+        "S14",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    {
+      "id": "M13",
+      "label": "17 Pro Max／18 Pro Max",
+      "models": [
+        "iPhone17ProMax",
+        "iPhone18ProMax"
+      ],
+      "opening_conditions": {
+        "camera": "覆盖两代横贯平台、三摄、LiDAR、闪光灯和麦克风；相机保护边兼顾18代平台。",
+        "buttons": "兼顾Action、电源、音量与Camera Control的按压和触摸/滑动。",
+        "bottom": "保留USB-C及底部声学开孔。",
+        "fit_and_protection": "共同机身163.4×78.0×8.75 mm；相机平台、可换按键与保护边按该壳具体代际版本确认。"
+      },
+      "direction": "明确标注17/18 Pro Max的共用款覆盖两代；较小Pro不并入本组，旧17 Pro Max壳不一概反推。",
+      "examples": [
+        {
+          "product": "OtterBox Defender Series Pro 双型号款",
+          "sku": "27-58439-W0322",
+          "models": [
+            "iPhone17ProMax",
+            "iPhone18ProMax"
+          ],
+          "source_ids": [
+            "S13"
+          ],
+          "version": "覆盖整组的共用版本"
+        }
+      ],
+      "source_ids": [
+        "S13",
+        "S14",
+        "S06"
+      ],
+      "notes": [],
+      "opening_dimensions_mm": null,
+      "opening_basis": "品牌兼容名单为直接证据；开孔条件为按结构整理的设计与验收项目，未虚构孔位毫米值。",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "named_external_product_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    }
+  ],
+  "pending": [
+    {
+      "id": "iPhone5c",
+      "name": "iPhone 5c",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone5",
+        "iPhone5s",
+        "iPhoneSE2016"
+      ],
+      "reason": "124.4×59.2×8.97 mm，塑料弧面与5/5s/SE2016不同；未把同为4英寸当作共壳证据。",
+      "sources": [
+        "S01",
+        "S02"
+      ]
+    },
+    {
+      "id": "iPhone13Pro",
+      "name": "iPhone 13 Pro",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone13",
+        "iPhone14"
+      ],
+      "reason": "与13高宽厚相同，但三摄区域与双摄不同；已复查品牌指定款，尚无覆盖待比较型号的直接完整共壳声明。大窗方案可交给供应商确认。",
+      "sources": [
+        "S05",
+        "S15"
+      ]
+    },
+    {
+      "id": "iPhone14Pro",
+      "name": "iPhone 14 Pro",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone15",
+        "iPhone15Pro"
+      ],
+      "reason": "与15标准款外廓接近；同时发现Touch商品标题列14 Pro/15 Pro，但没有稳定取得厂家孔位与兼容资料，保留线索，不据标题合并。",
+      "sources": [
+        "S05",
+        "S17"
+      ]
+    },
+    {
+      "id": "iPhone14ProMax",
+      "name": "iPhone 14 Pro Max",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone14Plus",
+        "iPhone15Plus",
+        "iPhone15ProMax"
+      ],
+      "reason": "与这些大机型尺寸接近但镜头、边框及按键/接口设计不同；未找到可追溯的整组共用版本。",
+      "sources": [
+        "S05",
+        "S15"
+      ]
+    },
+    {
+      "id": "iPhone15Pro",
+      "name": "iPhone 15 Pro",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone14Pro",
+        "iPhone16"
+      ],
+      "reason": "继续核查14 Pro/15 Pro商家线索；15 Pro宽70.6 mm，且有Action按钮，不能从相邻标准款或标题直接确认共壳。",
+      "sources": [
+        "S05",
+        "S17"
+      ]
+    },
+    {
+      "id": "iPhone15ProMax",
+      "name": "iPhone 15 Pro Max",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone14ProMax",
+        "iPhone16ProMax"
+      ],
+      "reason": "159.9×76.7×8.25 mm，与前后代Pro Max外廓、相机和按键区域不同；本次未找到覆盖这些机型的明确共用SKU。",
+      "sources": [
+        "S05",
+        "S15"
+      ]
+    },
+    {
+      "id": "iPhone16",
+      "name": "iPhone 16",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone15",
+        "iPhone16e",
+        "iPhone17e"
+      ],
+      "reason": "与15标准款高宽厚相同，但16为竖排双摄且有Action及Camera Control；要扩展现有五型号组需另核侧边与镜头开窗。",
+      "sources": [
+        "S05",
+        "S16"
+      ]
+    },
+    {
+      "id": "iPhone16Plus",
+      "name": "iPhone 16 Plus",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone15Plus",
+        "iPhone14Plus"
+      ],
+      "reason": "与15 Plus高宽厚相同，但镜头布局和Camera Control不同；未因相同尺寸或贴膜共用就建立背壳共用记录。",
+      "sources": [
+        "S05",
+        "S16"
+      ]
+    },
+    {
+      "id": "iPhone16Pro",
+      "name": "iPhone 16 Pro",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone17",
+        "iPhone17Pro"
+      ],
+      "reason": "与17标准款高宽相同，但厚度、镜头结构和保护边不同；暂未取得品牌明确的双型号背壳兼容声明。",
+      "sources": [
+        "S05",
+        "S16"
+      ]
+    },
+    {
+      "id": "iPhone16ProMax",
+      "name": "iPhone 16 Pro Max",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone17ProMax",
+        "iPhone18ProMax"
+      ],
+      "reason": "16 Pro Max为163.0×77.6×8.25 mm，17/18 Pro Max为163.4×78.0×8.75 mm，且相机平台变化；未取得覆盖前后代的共用SKU。",
+      "sources": [
+        "S05",
+        "S16"
+      ]
+    },
+    {
+      "id": "iPhone17",
+      "name": "iPhone 17",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhone16Pro",
+        "iPhone17Pro"
+      ],
+      "reason": "继续核查与16 Pro高宽相同的候选关系；双摄/三摄、机身厚度和平台不同，网上单次套壳反馈不作为完整适配结论。",
+      "sources": [
+        "S05",
+        "S16"
+      ]
+    },
+    {
+      "id": "iPhoneAir",
+      "name": "iPhone Air",
+      "status": "暂未确认共用，不标不兼容",
+      "candidates": [
+        "iPhoneXSMax",
+        "iPhone11ProMax"
+      ],
+      "reason": "虽同标6.5英寸，但Air为156.2×74.7×5.64 mm及横贯单摄平台；本次未取得可合并的完整背壳兼容记录。",
+      "sources": [
+        "S05",
+        "S15"
+      ]
+    }
+  ],
+  "own_store_sku_bindings": [],
+  "own_store_status": "公开品牌兼容例证已核查；尚未替代JHWVVTF自家内托的装机与开孔确认。",
+  "excluded_models": [
+    "iPhone Duo"
+  ],
+  "not_yet_in_catalog": [
+    "iPhone 18",
+    "iPhone 18 Plus",
+    "iPhone 18e",
+    "iPhone Air 2"
+  ],
+  "cross_group_review": [
+    {
+      "models": [
+        "iPhone13ProMax",
+        "iPhone14Plus",
+        "iPhone15Plus"
+      ],
+      "reason": "同为6.7英寸且外廓接近；本次未找到一个指定SKU同时覆盖这三款。保持两条有证据的共用方案，不靠贴膜或雨罩清单连接合并。"
+    }
+  ],
+  "selection_status": {
+    "normalized_at": "2026-11-03",
+    "default_usable_for_new_sku": false,
+    "cross_sku_auto_reuse": false,
+    "own_store_sku_binding_status": "pending",
+    "own_store_sku": null,
+    "requires_new_sku_verification": true,
+    "evidence_scope": "external_product_examples_with_version_limits",
+    "external_product_sku_is_not_own_store_sku": true
+  }
+}

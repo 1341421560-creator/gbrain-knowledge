@@ -1,0 +1,141 @@
+{
+  "checked_at": "2026-10-16",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "苹果：识别 iPhone 型号",
+      "url": "https://support.apple.com/en-us/108044",
+      "kind": "官方型号目录",
+      "finding": "核对已发布型号范围；各款机身尺寸另附对应苹果规格链接。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S02",
+      "title": "Spigen：5 / 5s / SE 2016 Rugged Armor",
+      "url": "https://www.spigen.com/products/iphone-5-series-rugged-armor",
+      "kind": "品牌具体产品",
+      "finding": "同款列出5、5s和SE第1代。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S03",
+      "title": "Hama：Finest Sense 六型号共用壳 00196835",
+      "url": "https://uk.hama.com/00196835/hama-finest-sense-cover-for-apple-iphone-6-6s-7-8-se-2020-se-2022-black",
+      "kind": "品牌具体产品",
+      "finding": "同款列出6、6s、7、8、SE2020和SE2022。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S04",
+      "title": "REC MOUNT PLUS：四款 Plus 共用壳 R+iPC3",
+      "url": "https://recmount-plus.com/product/ipc3/",
+      "kind": "品牌具体产品",
+      "finding": "同款列出6 Plus、6s Plus、7 Plus和8 Plus。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S05",
+      "title": "SP Connect：Phone Case - Apple 官方型号与产品表",
+      "url": "https://b2b.sp-connect.com/products/phone-case-apple",
+      "kind": "品牌具体产品目录",
+      "finding": "明确合并款包括11/XR、11 Pro/XS/X、11 Pro Max/XS Max、12/12 Pro、12 mini/13 mini和12/13 Pro Max。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S06",
+      "title": "IDEAL OF SWEDEN：跨型号共壳与单向适配说明",
+      "url": "https://idealofsweden.co.uk/faq/product-warranty/can-i-use-the-same-case-for-different-phone-models",
+      "kind": "品牌适配说明",
+      "finding": "区分共用款和新款壳向旧机型的单向适配；列出13/14/15/e系列壳款差异。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S07",
+      "title": "OtterBox：12 / 12 Pro Defender",
+      "url": "https://www.otterbox.com/products/iphone-12-and-iphone-12-pro-defender-series-case?variant=47564947685563",
+      "kind": "品牌具体产品",
+      "finding": "同款列出12与12 Pro。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S08",
+      "title": "OtterBox：12 / 13 Pro Max Defender",
+      "url": "https://www.otterbox.com/en-us/protective-iphone-13-pro-max-and-iphone-12-pro-max-case/defender-iphpm21.html",
+      "kind": "品牌具体产品",
+      "finding": "同款列出12 Pro Max与13 Pro Max。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S09",
+      "title": "OtterBox：13 / 14 / 15 / 16e / 17e Defender",
+      "url": "https://www.otterbox.com/products/iphone-16e-iphone-15-iphone-14-and-iphone-13-defender-series-case?variant=47564953387195",
+      "kind": "品牌具体产品",
+      "finding": "兼容栏同时列出五款；不从页面不同型号选项推断共用。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S10",
+      "title": "OtterBox：14 / 15 Plus Commuter",
+      "url": "https://www.otterbox.com/products/iphone-15-plus-and-iphone-14-plus-commuter-series-case",
+      "kind": "品牌具体产品",
+      "finding": "同款列出14 Plus与15 Plus。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S11",
+      "title": "Spigen：16e / 17e Ultra Hybrid MagFit",
+      "url": "https://www.spigen.com/products/iphone-17e-case-ultra-hybrid-mag-fit",
+      "kind": "品牌具体产品",
+      "finding": "e系列专用共用款，仅作为五型号合并行中的小孔版本说明。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S12",
+      "title": "OtterBox：17 / 18 Pro Defender Pro XT",
+      "url": "https://www.otterbox.com/products/iphone-18-pro-and-iphone-17-pro-defender-series-pro-xt-case-2026",
+      "kind": "品牌具体产品",
+      "finding": "明确为17 Pro与18 Pro双型号款。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S13",
+      "title": "OtterBox：17 / 18 Pro Max Defender Pro",
+      "url": "https://www.otterbox.com/products/iphone-17-pro-max-defender-series-pro-case?variant=47564955680955",
+      "kind": "品牌具体产品",
+      "finding": "明确为17 Pro Max与18 Pro Max双型号款。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S14",
+      "title": "Caudabe：17 / 18 Pro 与 Pro Max 共壳细节 FAQ",
+      "url": "https://caudabe.com/products/sheath-iphone-18-pro-precise?variant=46219672846433",
+      "kind": "品牌适配说明",
+      "finding": "指出18代相机平台略高，保护边和精密包覆需按具体版本判断。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S15",
+      "title": "Mous：型号目录",
+      "url": "https://www.mous.co/pages/mous-products",
+      "kind": "品牌型号目录",
+      "finding": "辅助逐款核查；型号选项分别存在不是不兼容证据，也不能当作一个壳同时兼容全部型号。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S16",
+      "title": "MOFT：16 与 17 系列壳体适配分析",
+      "url": "https://www.moft.com/blogs/news/do-iphone-16-cases-fit-iphone-17",
+      "kind": "品牌结构说明",
+      "finding": "辅助检查新机型的镜头和按键变化；不以尺寸近似推断完整适配。",
+      "checked_at": "2026-10-16"
+    },
+    {
+      "id": "S17",
+      "title": "Touch：14 Pro / 15 Pro 商品标题线索",
+      "url": "https://touch.com.ar/producto/clear_case_magsafe_iphone_14_pro_-_15_pro/",
+      "kind": "待复核商家线索",
+      "finding": "检索标题同时列出两代；本次页面回读未稳定取得孔位与厂家兼容资料，不纳入已确认共用组。",
+      "checked_at": "2026-10-16"
+    }
+  ]
+}

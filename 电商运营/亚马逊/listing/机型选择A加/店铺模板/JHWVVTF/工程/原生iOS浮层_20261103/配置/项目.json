@@ -1,0 +1,27 @@
+{
+  "owner": "JHWVVTF",
+  "revision": "原生iOS浮层_20261103",
+  "physicalModels": "../../../../通用素材/手机机身/型号数据/型号资料.json",
+  "bodyIndex": "../../../../通用素材/手机机身/素材索引.json",
+  "bodyMapping": "../../../../通用素材/手机机身/独立背面映射.json",
+  "uiIndex": "../../../../通用素材/设置页面/Apple/素材索引_Vodafone_iOS18_20261103.json",
+  "sharedCompatibility": "../../../../通用素材/手机机身/型号数据/兼容组合与对比_iPhone11至14.json",
+  "physicalIds": [
+    "iPhone13",
+    "iPhone13mini",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax"
+  ],
+  "groups": "配置/目标与对比.json",
+  "style": "配置/样式.json",
+  "singleLayouts": "配置/四宫格版式.json",
+  "tutorial": "配置/教程参数.json",
+  "floating": "配置/浮层参数.json",
+  "treatments": "配置/界面处理.json",
+  "geometry": "配置/机身标尺.json",
+  "publicationStatus": "视觉排版与复现通过；原始截图背景词库未零命中验收。"
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "01_home.png",
+    "bytes": 1018976,
+    "url": "https://cdn.sp-selfservice.com/ml/130726-f-58d2137b-8899-4078-b264-5f16e358b2ba.png?width=1016&height=1804",
+    "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+    "source_step": "Tap Settings.",
+    "composition": {
+      "frame_width": 592.0,
+      "frame_height": 1200.0,
+      "screen_x": 41.0,
+      "screen_y": 147.0,
+      "screen_width": 507.00000000000006,
+      "screen_height": 901.7840000000001
+    },
+    "actual_bytes": 1018976,
+    "sha256": "b858b531ae70d63d61e177508b6644a7d4fa68dc4bda19484c51015475f3c18d"
+  },
+  {
+    "file": "02_settings.png",
+    "bytes": 154418,
+    "url": "https://cdn.sp-selfservice.com/ml/130726-f-05a4e4fc-7b1a-48a4-8a61-545b2792588b.png?width=1016&height=1804",
+    "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+    "source_step": "Tap General.",
+    "composition": {
+      "frame_width": 592.0,
+      "frame_height": 1200.0,
+      "screen_x": 41.0,
+      "screen_y": 147.0,
+      "screen_width": 507.00000000000006,
+      "screen_height": 901.7840000000001
+    },
+    "actual_bytes": 154418,
+    "sha256": "6f8fb214d50239cf4ad41960207e61c4000b4e670ffdb10be2d4842fc4047847"
+  },
+  {
+    "file": "03_general.png",
+    "bytes": 84302,
+    "url": "https://cdn.sp-selfservice.com/ml/130726-f-1b88e7e3-1f16-4c26-adac-d816a2272185.png?width=1016&height=1804",
+    "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+    "source_step": "Tap About.",
+    "composition": {
+      "frame_width": 592.0,
+      "frame_height": 1200.0,
+      "screen_x": 41.0,
+      "screen_y": 147.0,
+      "screen_width": 507.00000000000006,
+      "screen_height": 901.7840000000001
+    },
+    "actual_bytes": 84302,
+    "sha256": "ebe0ec78be589f93976ecb8582b68cd8946aa2cfd0c6bfe30be8e0338fe83857"
+  },
+  {
+    "file": "04_about.png",
+    "bytes": 93924,
+    "url": "https://cdn.sp-selfservice.com/ml/130726-f-420fb9e7-5232-43f2-9054-42e276d6b35a.png?width=1016&height=1804",
+    "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+    "source_step": "Your mobile phone's software version is displayed next to Version.",
+    "composition": {
+      "frame_width": 592.0,
+      "frame_height": 1200.0,
+      "screen_x": 41.0,
+      "screen_y": 147.0,
+      "screen_width": 507.00000000000006,
+      "screen_height": 901.7840000000001
+    },
+    "actual_bytes": 93924,
+    "sha256": "e0a2518b15d2e8dca8e1ecef2277bb6f84ff8bc739716a1901daa3adffcb7954"
+  },
+  {
+    "file": "iphone6-original-frame.png",
+    "bytes": 176806,
+    "url": "https://cdn.sp-selfservice.com/ml/130726-f-f144b63d-5b41-4e50-a917-813ac5cdbfbe.png?width=592",
+    "source_page": "https://devicehelp.optus.com.au/apple/iphone-6-ios-12-0/basic-functions/check-software-version",
+    "role": "同一教程的原配机框，不重新绘制",
+    "actual_bytes": 176806,
+    "sha256": "db4ec5ceef5cc19bb11388f4f23cf4d04d0ac542d609cb654113728b2942a4aa"
+  }
+]

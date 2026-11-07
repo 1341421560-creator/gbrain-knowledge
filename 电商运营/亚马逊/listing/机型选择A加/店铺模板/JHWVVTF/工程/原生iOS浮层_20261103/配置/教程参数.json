@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-03",
+  "blur": {
+    "premium": 1.7,
+    "standard": 1.7,
+    "mobile": 1.5
+  },
+  "premium": {
+    "positions": [
+      596,
+      813,
+      1030,
+      1247
+    ],
+    "top": 165,
+    "phoneWidth": 188,
+    "labelY": 146,
+    "labelFont": 21
+  },
+  "standard": {
+    "labelFont": 19,
+    "sourceWidth": 690,
+    "homeSourceWidth": 810,
+    "boxes": [
+      {
+        "x": 473,
+        "y": 121,
+        "width": 228,
+        "height": 177
+      },
+      {
+        "x": 724,
+        "y": 121,
+        "width": 228,
+        "height": 177
+      },
+      {
+        "x": 473,
+        "y": 362,
+        "width": 228,
+        "height": 177
+      },
+      {
+        "x": 724,
+        "y": 362,
+        "width": 228,
+        "height": 155
+      }
+    ]
+  },
+  "mobile": {
+    "labelFont": 13,
+    "sourceWidth": 750,
+    "homeSourceWidth": 920,
+    "boxes": [
+      {
+        "x": 308,
+        "y": 64,
+        "width": 280,
+        "height": 77
+      },
+      {
+        "x": 308,
+        "y": 168,
+        "width": 280,
+        "height": 59
+      },
+      {
+        "x": 308,
+        "y": 258,
+        "width": 280,
+        "height": 57
+      },
+      {
+        "x": 308,
+        "y": 348,
+        "width": 280,
+        "height": 55
+      }
+    ]
+  },
+  "note": "清晰浮层覆盖对应操作位置；不生成底部标签排和引线。"
+}

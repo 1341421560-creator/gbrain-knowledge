@@ -1,0 +1,45 @@
+{
+  "confirmed_at": "2026-11-03",
+  "owner": "JHWVVTF",
+  "authority": "用户提供iPhone 11 Pro Max浮层参考图，要求新六款三规格统一；随后明确更新到知识库并归属JHWVVTF。",
+  "authority_image": "用户确认_iPhone11ProMax_浮层排版参考.png",
+  "project_output": "../../../../../../../../../../../ai_project/listing优化/output/20261103_iPhone13与14补充六款_三规格_统一浮层版",
+  "batch_count": 18,
+  "formats": {
+    "premium": [
+      1464,
+      600
+    ],
+    "standard": [
+      970,
+      600
+    ],
+    "mobile": [
+      600,
+      450
+    ]
+  },
+  "retained_examples": [
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/iPhone14Pro_高级A加_1464x600_统一浮层版.jpg",
+      "bytes": 258276,
+      "sha256": "bcda965af29a687f50b4a9ab949e8e5e45430ae56171e7f9eb6523bbd0641dc9"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/iPhone14Pro_普通A加_970x600_统一浮层版.jpg",
+      "bytes": 185918,
+      "sha256": "7c5b22bf9f323ef6050afd220e24e799f10421ad0aa75d28db09f12b65ac1491"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/iPhone14Pro_移动端_600x450_统一浮层版.jpg",
+      "bytes": 113778,
+      "sha256": "1d14e2978204b04efa302b820520a5d5f28bd891019613ab6e403468a71e33ca"
+    },
+    {
+      "path": "店铺模板/JHWVVTF/参考结果/20261103_统一浮层版/用户确认_iPhone11ProMax_浮层排版参考.png",
+      "bytes": 553405,
+      "sha256": "adf2e3196102d6a26ebfc59af169a0fd9d1b722cf23da4adc5f4affbec9bd037"
+    }
+  ],
+  "full_batch_and_zip": "保留项目输出，知识库仅归档3张代表JPG和1张用户确认参考PNG"
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70mm" height="50mm" viewBox="0 0 70 50">
+<title>JHWVVTF Libre Baskerville</title>
+<desc>可编辑文字源文件；安装包内官方字体后再编辑。成品 70 × 50 毫米。</desc>
+<defs><style>@font-face {font-family: 'Libre Baskerville'; src: url('../03_官方字体与授权/品牌字体_LibreBaskerville_官方.ttf') format('truetype'); font-style: normal; font-weight: 100 900;}
+@font-face {font-family: 'Montserrat'; src: url('../03_官方字体与授权/标语字体_Montserrat_官方.ttf') format('truetype'); font-style: normal; font-weight: 100 900;}</style></defs>
+<rect id="background" width="70" height="50" fill="#16232E"/>
+<rect id="border" x="2.5" y="2.5" width="65.0" height="45.0" rx="1.8" fill="none" stroke="#AB9463" stroke-width="0.4"/>
+<path id="divider" d="M26.2 29H43.8" stroke="#D2B77A" stroke-width="0.36"/>
+<text id="brand" x="9.174400 12.919200 21.549200 32.488400 39.821200 47.154000 54.661600" y="24" font-family="Libre Baskerville" font-weight="400" font-size="9.2" fill="#D2B77A" style="font-kerning:none;font-variant-ligatures:none;font-feature-settings:&quot;kern&quot; 0,&quot;liga&quot; 0;" xml:space="preserve">JHWVVTF</text>
+<text id="slogan" x="8.921592 10.860206 12.482417 14.257573 15.456142 17.078353 19.051992 20.785284 22.407495 23.202946 25.264492 26.997784 28.196353 29.394922 31.017133 31.693397 32.488847 34.191363 36.161265 38.001971 39.960474 41.956026 43.925929 45.136342 46.173034 48.131537 48.955870 49.780203 51.402414 52.197865 54.950058 56.683350 58.656989 60.432145" y="36.5" font-family="Montserrat" font-weight="500" font-size="2.85" fill="#F8F7F1" style="font-kerning:none;font-variant-ligatures:none;font-feature-settings:&quot;kern&quot; 0,&quot;liga&quot; 0;" xml:space="preserve">Everyday Carry, Thoughtfully Made.</text>
+</svg>

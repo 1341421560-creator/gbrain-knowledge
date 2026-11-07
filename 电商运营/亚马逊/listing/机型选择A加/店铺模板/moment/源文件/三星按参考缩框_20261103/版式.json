@@ -1,0 +1,202 @@
+{
+  "canvas": [
+    970,
+    600
+  ],
+  "phone_y": 206,
+  "phone_height": 198,
+  "centers": [
+    444,
+    654,
+    864
+  ],
+  "colors": {
+    "ink": "#202D35",
+    "blue": "#277FA8",
+    "pill": "#EEF6FA"
+  },
+  "settings_callout": {
+    "top": 305,
+    "width": 112,
+    "height": 91,
+    "icon": 53,
+    "icon_offset_y": 8,
+    "text_baseline": 80,
+    "text_size": 14.5
+  },
+  "about_callout": {
+    "top": 339,
+    "width": 170,
+    "height": 38,
+    "text_baseline": 25,
+    "text_size": 18
+  },
+  "result_callout": {
+    "top": 293,
+    "width": 170,
+    "height": 62,
+    "field_baseline": 20,
+    "value_baseline": 47,
+    "field_size": 12,
+    "value_size": 18
+  },
+  "models": {
+    "s24": {
+      "phone_crop": [
+        714,
+        15,
+        512,
+        1054
+      ],
+      "settings_icon_crop": [
+        1021,
+        430,
+        68,
+        66
+      ],
+      "about_row": [
+        760,
+        844,
+        425,
+        109
+      ],
+      "publication_masks": {
+        "apps": [
+          {
+            "x": 434,
+            "y": 294,
+            "width": 21,
+            "height": 8,
+            "reason": "非目标Contacts标签",
+            "sample_x": 454,
+            "sample_width": 1
+          }
+        ],
+        "settings": [
+          {
+            "x": 624,
+            "y": 243,
+            "width": 64,
+            "height": 17,
+            "reason": "非目标Device care文字",
+            "sample_x": 688,
+            "sample_width": 1
+          }
+        ]
+      }
+    },
+    "s25": {
+      "phone_crop": [
+        724,
+        70,
+        461,
+        942
+      ],
+      "settings_icon_crop": [
+        973,
+        514,
+        60,
+        60
+      ],
+      "about_row": [
+        778,
+        805,
+        370,
+        110
+      ],
+      "provider_settings_icon_crop": [
+        816,
+        1080,
+        171,
+        171
+      ],
+      "provider_about_row": [
+        40,
+        1905,
+        980,
+        150
+      ],
+      "publication_masks": {
+        "settings": [
+          {
+            "x": 625,
+            "y": 233,
+            "width": 64,
+            "height": 18,
+            "reason": "非目标controls菜单文字",
+            "sample_x": 688,
+            "sample_width": 1
+          },
+          {
+            "x": 625,
+            "y": 255,
+            "width": 64,
+            "height": 16,
+            "reason": "非目标Device care文字",
+            "sample_x": 688,
+            "sample_width": 1
+          }
+        ]
+      }
+    },
+    "s26": {
+      "phone_crop": [
+        754,
+        112,
+        420,
+        872
+      ],
+      "settings_icon_crop": [
+        976,
+        634,
+        65,
+        65
+      ],
+      "about_row": [
+        786,
+        800,
+        365,
+        62
+      ],
+      "publication_masks": {
+        "settings": [
+          {
+            "x": 626,
+            "y": 253,
+            "width": 64,
+            "height": 17,
+            "reason": "非目标controls菜单文字",
+            "sample_x": 688,
+            "sample_width": 1
+          },
+          {
+            "x": 626,
+            "y": 272,
+            "width": 64,
+            "height": 13,
+            "reason": "非目标Device care文字",
+            "sample_x": 688,
+            "sample_width": 1
+          }
+        ]
+      }
+    }
+  },
+  "store": "moment",
+  "reference": "moment用户指定参考.png",
+  "reference_geometry": {
+    "phone_y": 206,
+    "phone_height": 198,
+    "centers": [
+      444,
+      654,
+      864
+    ],
+    "pill_y": 414,
+    "hint_y": 496
+  },
+  "show_model_code_in_callout": false,
+  "show_about_connector": false,
+  "publication_boundary": "原始PNG字节保持；发布SVG叠加非目标文字遮挡，未改变设置入口、菜单顺序或实际Product name及SM代码。",
+  "reference_base": "configuration_directory"
+}

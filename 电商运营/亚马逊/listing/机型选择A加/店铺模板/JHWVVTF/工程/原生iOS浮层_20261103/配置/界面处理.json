@@ -1,0 +1,206 @@
+{
+  "iPhone13Pro": {
+    "iconCrop": {
+      "x": 811.7831125827814,
+      "y": 1511.3543046357615,
+      "width": 168.31788079470198,
+      "height": 166.56456953642385
+    },
+    "screens": [
+      {
+        "asset": "home",
+        "logoMasks": []
+      },
+      {
+        "asset": "settings",
+        "logoMasks": []
+      },
+      {
+        "asset": "general",
+        "logoMasks": [
+          {
+            "x": 101,
+            "y": 1454,
+            "width": 48,
+            "height": 56,
+            "fill": "white"
+          }
+        ]
+      },
+      {
+        "asset": "about",
+        "logoMasks": []
+      }
+    ]
+  },
+  "iPhone13mini": {
+    "iconCrop": {
+      "x": 807.9503311258278,
+      "y": 1521.6688741721853,
+      "width": 172.75827814569536,
+      "height": 172.75827814569536
+    },
+    "screens": [
+      {
+        "asset": "home",
+        "logoMasks": []
+      },
+      {
+        "asset": "settings",
+        "logoMasks": []
+      },
+      {
+        "asset": "general",
+        "logoMasks": [
+          {
+            "x": 105,
+            "y": 1514,
+            "width": 49,
+            "height": 57,
+            "fill": "white"
+          }
+        ]
+      },
+      {
+        "asset": "about",
+        "logoMasks": []
+      }
+    ]
+  },
+  "iPhone13ProMax": {
+    "iconCrop": {
+      "x": 814.8493377483444,
+      "y": 1494.1837748344371,
+      "width": 163.67384105960264,
+      "height": 161.91390728476821
+    },
+    "screens": [
+      {
+        "asset": "home",
+        "logoMasks": []
+      },
+      {
+        "asset": "settings",
+        "logoMasks": []
+      },
+      {
+        "asset": "general",
+        "logoMasks": [
+          {
+            "x": 112,
+            "y": 1330,
+            "width": 44,
+            "height": 52,
+            "fill": "white"
+          }
+        ]
+      },
+      {
+        "asset": "about",
+        "logoMasks": []
+      }
+    ]
+  },
+  "iPhone14ProMax": {
+    "iconCrop": {
+      "x": 816.6092715231788,
+      "y": 1517.0629139072846,
+      "width": 161.91390728476821,
+      "height": 161.91390728476821
+    },
+    "screens": [
+      {
+        "asset": "home",
+        "logoMasks": []
+      },
+      {
+        "asset": "settings",
+        "logoMasks": []
+      },
+      {
+        "asset": "general",
+        "logoMasks": [
+          {
+            "x": 111,
+            "y": 1341,
+            "width": 45,
+            "height": 52,
+            "fill": "white"
+          }
+        ]
+      },
+      {
+        "asset": "about",
+        "logoMasks": []
+      }
+    ]
+  },
+  "iPhone14Pro": {
+    "iconCrop": {
+      "x": 810.7947019867551,
+      "y": 1532.0860927152319,
+      "width": 170.23178807947022,
+      "height": 170.23178807947022
+    },
+    "screens": [
+      {
+        "asset": "home",
+        "logoMasks": []
+      },
+      {
+        "asset": "settings",
+        "logoMasks": []
+      },
+      {
+        "asset": "general",
+        "logoMasks": [
+          {
+            "x": 100,
+            "y": 1462,
+            "width": 48,
+            "height": 56,
+            "fill": "white"
+          }
+        ]
+      },
+      {
+        "asset": "about",
+        "logoMasks": []
+      }
+    ]
+  },
+  "iPhone14Plus": {
+    "iconCrop": {
+      "x": 813.316225165563,
+      "y": 1491.3725165562914,
+      "width": 163.3658940397351,
+      "height": 161.60927152317882
+    },
+    "screens": [
+      {
+        "asset": "home",
+        "logoMasks": []
+      },
+      {
+        "asset": "settings",
+        "logoMasks": []
+      },
+      {
+        "asset": "general",
+        "logoMasks": [
+          {
+            "x": 111,
+            "y": 1327,
+            "width": 45,
+            "height": 52,
+            "fill": "white"
+          }
+        ]
+      },
+      {
+        "asset": "about",
+        "logoMasks": []
+      }
+    ]
+  }
+}

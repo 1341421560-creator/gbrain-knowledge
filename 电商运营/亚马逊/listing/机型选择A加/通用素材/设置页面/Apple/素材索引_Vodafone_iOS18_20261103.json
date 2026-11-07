@@ -1,0 +1,1186 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "collection": "Vodafone_iOS18_20261103",
+  "kind": "运营商原生iOS教程截图与对应机框",
+  "assets": {
+    "iPhone13Pro_ios18_vodafone_home": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13Pro_home.png",
+      "model_id": "iPhone13Pro",
+      "role": "home",
+      "bytes": 1132924,
+      "sha256": "1c4e7057ba1f0e54370e442e9f91a0425a2bb4b4be7d141546e685f759733167",
+      "width": 1059,
+      "height": 2292,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-dcd12cb7-4bc3-4d61-92a5-7937d5eb45b5.png?width=1060&height=2292",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13Pro_ios18_vodafone_settings": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13Pro_settings.png",
+      "model_id": "iPhone13Pro",
+      "role": "settings",
+      "bytes": 319508,
+      "sha256": "08e5e07b1148045cedab6d6fd86997144251b50eb4f01053aba5e2da95ff193b",
+      "width": 1059,
+      "height": 2292,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-99e1eb26-959e-4731-a79b-ec642aacc704.png?width=1060&height=2292",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13Pro_ios18_vodafone_general": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13Pro_general.png",
+      "model_id": "iPhone13Pro",
+      "role": "general",
+      "bytes": 331065,
+      "sha256": "81d8f976e0f6936a6034754ab346ea4919c39efb12000c3a325b5ec538376176",
+      "width": 1059,
+      "height": 2292,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-c9b2ad03-958f-444b-882d-e9f29f1b81f8.png?width=1060&height=2292",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13Pro_ios18_vodafone_about": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13Pro_about.png",
+      "model_id": "iPhone13Pro",
+      "role": "about",
+      "bytes": 214170,
+      "sha256": "938d433ca62007bf51f2d1be53bf2ae60f92358f06300f23989ce4d1e7e86ee3",
+      "width": 1059,
+      "height": 2292,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-f9ffb3bd-e9e7-4e88-9cd2-4bd0c97e3ce7.png?width=1060&height=2292",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": false
+    },
+    "iPhone13Pro_ios18_vodafone_frame": {
+      "path": "机框/Vodafone_iOS18/iPhone13Pro_frame.png",
+      "model_id": "iPhone13Pro",
+      "role": "frame",
+      "bytes": 443391,
+      "sha256": "3813092ee04156e74fc21109287f433c3f2b082481c36e2ea506e284f7bd392c",
+      "width": 592,
+      "height": 1200,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-a707f8b0-4ea5-4c0e-9386-85005b1c6761.png?width=592",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13mini_ios18_vodafone_home": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13mini_home.png",
+      "model_id": "iPhone13mini",
+      "role": "home",
+      "bytes": 957817,
+      "sha256": "a4d87b60f83e4505e3386e403715ab5791862de330474a1ad423d764db1d9a63",
+      "width": 1054,
+      "height": 2282,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-08070cf8-38bb-4429-8e3b-70f920df34df.png?width=1054&height=2284",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13mini_ios18_vodafone_settings": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13mini_settings.png",
+      "model_id": "iPhone13mini",
+      "role": "settings",
+      "bytes": 323522,
+      "sha256": "a8c0f9915d577ba8664945dcaa3d602e944bfb670c440220ae935ed712583132",
+      "width": 1054,
+      "height": 2282,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-5c5a4bc3-268e-427e-97ed-020b502fea29.png?width=1054&height=2284",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13mini_ios18_vodafone_general": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13mini_general.png",
+      "model_id": "iPhone13mini",
+      "role": "general",
+      "bytes": 331849,
+      "sha256": "dabc3093f47a8ee01907bbff61140d94f4a2bfe1877db5827ef658ca55098f32",
+      "width": 1054,
+      "height": 2282,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-0fed2ff2-c69e-45ed-a53f-f6fd12427870.png?width=1054&height=2284",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13mini_ios18_vodafone_about": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13mini_about.png",
+      "model_id": "iPhone13mini",
+      "role": "about",
+      "bytes": 219359,
+      "sha256": "28f855ba30a7d1e9e2ef662a37c05eec9c9a975f6cc96fbbd559b168110e6ac4",
+      "width": 1054,
+      "height": 2282,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-5bde2f02-96f6-46aa-ad32-59c5c5effe93.png?width=1054&height=2284",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": false
+    },
+    "iPhone13mini_ios18_vodafone_frame": {
+      "path": "机框/Vodafone_iOS18/iPhone13mini_frame.png",
+      "model_id": "iPhone13mini",
+      "role": "frame",
+      "bytes": 720091,
+      "sha256": "43c07ddacc2916c1caeba07faa2f2fbaeefc775e08794ba34ac0b542be3af277",
+      "width": 595,
+      "height": 1200,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-c81b8792-2527-406e-9605-2dcf87734211.png?width=595",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13ProMax_ios18_vodafone_home": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13ProMax_home.png",
+      "model_id": "iPhone13ProMax",
+      "role": "home",
+      "bytes": 1091825,
+      "sha256": "8bf677c099ae515b70dc84540ee8b805168a7d3a704b55f330d3eb95f20b5bda",
+      "width": 1063,
+      "height": 2300,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8e0282e2-4212-498e-ba76-586d59bdd398.png?width=1064&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13ProMax_ios18_vodafone_settings": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13ProMax_settings.png",
+      "model_id": "iPhone13ProMax",
+      "role": "settings",
+      "bytes": 340058,
+      "sha256": "cb2e0cf2b43cdbea54d129fec904a860889b19f42ad23b6a344f1590b5f8b3f9",
+      "width": 1063,
+      "height": 2300,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8d9d31e1-99c6-4c0d-bdf4-f0f38a737d96.png?width=1064&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13ProMax_ios18_vodafone_general": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13ProMax_general.png",
+      "model_id": "iPhone13ProMax",
+      "role": "general",
+      "bytes": 333316,
+      "sha256": "db32fd15fb3d2225dbb48ffdcf2fbb2b0b19b99567d72615e3687743a4d5aad4",
+      "width": 1063,
+      "height": 2300,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-de632b15-8ecb-48d8-ba42-a00d5730cc76.png?width=1064&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone13ProMax_ios18_vodafone_about": {
+      "path": "原始截图/Vodafone_iOS18/iPhone13ProMax_about.png",
+      "model_id": "iPhone13ProMax",
+      "role": "about",
+      "bytes": 211517,
+      "sha256": "6ee26ecb1263d2f8f921d670a58f273cc6811a0fb20792f47b4e08a40a2e68c4",
+      "width": 1063,
+      "height": 2300,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-08261262-64b7-4765-b7d5-cff6905d6866.png?width=1064&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": false
+    },
+    "iPhone13ProMax_ios18_vodafone_frame": {
+      "path": "机框/Vodafone_iOS18/iPhone13ProMax_frame.png",
+      "model_id": "iPhone13ProMax",
+      "role": "frame",
+      "bytes": 72564,
+      "sha256": "35e27b33e703722f4215a626f7ce8dcb0e7e707d60948736010e15ad300e6ac1",
+      "width": 587,
+      "height": 1200,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8a5942b8-4d66-4561-9b7a-6134102bd694.png?width=587",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14ProMax_ios18_vodafone_home": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14ProMax_home.png",
+      "model_id": "iPhone14ProMax",
+      "role": "home",
+      "bytes": 1100911,
+      "sha256": "025c5b987439df626a0d770ffd95d73d9bfaca5b9a2f3d7e54d47b115a4e237d",
+      "width": 1063,
+      "height": 2306,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-bd7280b8-2d83-4d2d-88e0-540f6511ab7a.png?width=1064&height=2306",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14ProMax_ios18_vodafone_settings": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14ProMax_settings.png",
+      "model_id": "iPhone14ProMax",
+      "role": "settings",
+      "bytes": 340343,
+      "sha256": "3685c8e56206ca26c2bddd9031f35254aa72b334159bcb59eca03de8cafb53d2",
+      "width": 1063,
+      "height": 2306,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-e81a2d7b-aea4-4162-8691-601c4fe7d6fb.png?width=1064&height=2306",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14ProMax_ios18_vodafone_general": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14ProMax_general.png",
+      "model_id": "iPhone14ProMax",
+      "role": "general",
+      "bytes": 335646,
+      "sha256": "fc4ae76aacb39b8a7d69a5a9f72956688e9384ce642b10a8cb83177f456a903e",
+      "width": 1063,
+      "height": 2306,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-def8782f-75ab-4f11-a1df-7c06675ca88d.png?width=1064&height=2306",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14ProMax_ios18_vodafone_about": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14ProMax_about.png",
+      "model_id": "iPhone14ProMax",
+      "role": "about",
+      "bytes": 204199,
+      "sha256": "305e80d64a68321e5fff73452297b1accef0fe4f3369ffe48d544e0d168dd169",
+      "width": 1063,
+      "height": 2306,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-4785c9b9-6b70-4586-94f4-6f1fcccfb685.png?width=1064&height=2306",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": false
+    },
+    "iPhone14ProMax_ios18_vodafone_frame": {
+      "path": "机框/Vodafone_iOS18/iPhone14ProMax_frame.png",
+      "model_id": "iPhone14ProMax",
+      "role": "frame",
+      "bytes": 765013,
+      "sha256": "95e763288c40e8d23abc5ecbacb653395620d61400e43f1e5b0c47f0cb5b47c6",
+      "width": 585,
+      "height": 1200,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-2b4436b0-0322-4195-b4ab-c2d215a24c5f.png?width=585",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14Pro_ios18_vodafone_home": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14Pro_home.png",
+      "model_id": "iPhone14Pro",
+      "role": "home",
+      "bytes": 839247,
+      "sha256": "07b2db1123c2ad328a3bcc958f6802fdc406980e2596c992d38ddf8b190f2eec",
+      "width": 1060,
+      "height": 2298,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-736c51c8-a9bc-4bcf-9d7b-f0d919c8c2c3.png?width=1060&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14Pro_ios18_vodafone_settings": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14Pro_settings.png",
+      "model_id": "iPhone14Pro",
+      "role": "settings",
+      "bytes": 323329,
+      "sha256": "074093e35565fc32de7e59084c89095ed9658d2a2ada9c74b613656d8a7a9a6c",
+      "width": 1060,
+      "height": 2298,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-4f417358-1d3c-4bcc-b89b-f346c1d8148b.png?width=1060&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14Pro_ios18_vodafone_general": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14Pro_general.png",
+      "model_id": "iPhone14Pro",
+      "role": "general",
+      "bytes": 332773,
+      "sha256": "7a253cc293ef4f920cc24554656a5859ae72371af4552b2483762397ef967e9c",
+      "width": 1060,
+      "height": 2298,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-ef1a2680-1b1f-4244-b1a5-928b9497dd61.png?width=1060&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14Pro_ios18_vodafone_about": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14Pro_about.png",
+      "model_id": "iPhone14Pro",
+      "role": "about",
+      "bytes": 217696,
+      "sha256": "7edd4b11e5970da00205f518403c2f7e69d52a9fb2dc42f9d814c7ae4dd9071c",
+      "width": 1060,
+      "height": 2298,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-a045d8b3-ba4d-4222-9db0-acc9b9fe41fb.png?width=1060&height=2300",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": false
+    },
+    "iPhone14Pro_ios18_vodafone_frame": {
+      "path": "机框/Vodafone_iOS18/iPhone14Pro_frame.png",
+      "model_id": "iPhone14Pro",
+      "role": "frame",
+      "bytes": 164554,
+      "sha256": "1ffc3e8a618d9e286b99f16b1a2a942a9ac1fc26b26a9938f17b925bb44cf660",
+      "width": 587,
+      "height": 1200,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-4a19776c-1514-4275-8b14-85e1a6441d4b.png?width=587",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14Plus_ios18_vodafone_home": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14Plus_home.png",
+      "model_id": "iPhone14Plus",
+      "role": "home",
+      "bytes": 1093098,
+      "sha256": "823b41f4d62932a366f36c68c12960ab4883d768a75d2b2e671b989fd14541e7",
+      "width": 1061,
+      "height": 2296,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8e0282e2-4212-498e-ba76-586d59bdd398.png?width=1062&height=2296",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14Plus_ios18_vodafone_settings": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14Plus_settings.png",
+      "model_id": "iPhone14Plus",
+      "role": "settings",
+      "bytes": 340001,
+      "sha256": "5df709d417511760c231c3380e3c42a2132aed817233b952ee602366bcffd3d2",
+      "width": 1061,
+      "height": 2296,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-8d9d31e1-99c6-4c0d-bdf4-f0f38a737d96.png?width=1062&height=2296",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14Plus_ios18_vodafone_general": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14Plus_general.png",
+      "model_id": "iPhone14Plus",
+      "role": "general",
+      "bytes": 334092,
+      "sha256": "d2777ada3b9f1364e0e20f3f3396a73ba57250e99c19d6b40b22b6018bb6ab4d",
+      "width": 1061,
+      "height": 2296,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-de632b15-8ecb-48d8-ba42-a00d5730cc76.png?width=1062&height=2296",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    },
+    "iPhone14Plus_ios18_vodafone_about": {
+      "path": "原始截图/Vodafone_iOS18/iPhone14Plus_about.png",
+      "model_id": "iPhone14Plus",
+      "role": "about",
+      "bytes": 210936,
+      "sha256": "4e05bf845421e8c264ea39284d6dfb78fcdd62ab3ba66bdb50f811ab32d85a79",
+      "width": 1061,
+      "height": 2296,
+      "hasAlpha": true,
+      "kind": "provider_ios_screenshot",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-08261262-64b7-4765-b7d5-cff6905d6866.png?width=1062&height=2296",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": false
+    },
+    "iPhone14Plus_ios18_vodafone_frame": {
+      "path": "机框/Vodafone_iOS18/iPhone14Plus_frame.png",
+      "model_id": "iPhone14Plus",
+      "role": "frame",
+      "bytes": 81961,
+      "sha256": "1dc0b8488fe4f5147ae5a182fae97baea61aada2fb68851051cf30dc7989248a",
+      "width": 589,
+      "height": 1200,
+      "hasAlpha": true,
+      "kind": "real_phone_frame",
+      "source_url": "https://cdn.sp-selfservice.com/ml/210926-f-2e9d895d-88cd-4d92-949e-103f46c2c61c.png?width=589",
+      "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+      "system": "iOS 18（来源页面标注）",
+      "material_class": "raw_native_ui",
+      "result_value_present": null
+    }
+  },
+  "devices": {
+    "iPhone13Pro": {
+      "model_id": "iPhone13Pro",
+      "assets": {
+        "home": "iPhone13Pro_ios18_vodafone_home",
+        "settings": "iPhone13Pro_ios18_vodafone_settings",
+        "general": "iPhone13Pro_ios18_vodafone_general",
+        "about": "iPhone13Pro_ios18_vodafone_about",
+        "frame": "iPhone13Pro_ios18_vodafone_frame"
+      },
+      "frame": {
+        "width": 592,
+        "height": 1200,
+        "display": {
+          "x": 31,
+          "y": 27,
+          "width": 529.5497630331754,
+          "height": 1146
+        }
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1059,
+            "height": 2292
+          },
+          "target": {
+            "x": 795.9154358974358,
+            "y": 1499.983355450237,
+            "width": 207.56400000000002,
+            "height": 254.16
+          },
+          "pointer": {
+            "x": 899.6974358974359,
+            "y": 1593.175355450237
+          }
+        },
+        {
+          "asset": "settings",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1059,
+            "height": 2292
+          },
+          "target": {
+            "x": 43.419000000000004,
+            "y": 1777.9909383886256,
+            "width": 972.162,
+            "height": 119.184
+          },
+          "pointer": {
+            "x": 240.76410256410256,
+            "y": 1837.5829383886257
+          }
+        },
+        {
+          "asset": "general",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1059,
+            "height": 2292
+          },
+          "target": {
+            "x": 43.419000000000004,
+            "y": 974.1615545023698,
+            "width": 972.162,
+            "height": 119.184
+          },
+          "pointer": {
+            "x": 233.52307692307693,
+            "y": 1033.7535545023698
+          }
+        },
+        {
+          "asset": "about",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1059,
+            "height": 2292
+          },
+          "target": {
+            "x": 43.419000000000004,
+            "y": 530.3029004739336,
+            "width": 972.162,
+            "height": 119.184
+          },
+          "pointer": {
+            "x": 110.42564102564103,
+            "y": 470.71090047393363
+          }
+        }
+      ],
+      "provenance": {
+        "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-ios-18/basic-use/view-software-version",
+        "sourceSystem": "iOS 18，运营商教程界面；型号值原图留空",
+        "model_name_value_in_source": "留空",
+        "notes": "截图界面可复用；白色放大浮层、字段值示例、虚化和图形遮盖属于店铺设计处理。"
+      },
+      "selection_status": {
+        "model_verified": true,
+        "os_verified": true,
+        "result_verified": false,
+        "result_state": "source_left_blank",
+        "sequence_complete": false,
+        "menu_structure_complete": true,
+        "default_usable_for_new_tutorial": false,
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone13mini": {
+      "model_id": "iPhone13mini",
+      "assets": {
+        "home": "iPhone13mini_ios18_vodafone_home",
+        "settings": "iPhone13mini_ios18_vodafone_settings",
+        "general": "iPhone13mini_ios18_vodafone_general",
+        "about": "iPhone13mini_ios18_vodafone_about",
+        "frame": "iPhone13mini_ios18_vodafone_frame"
+      },
+      "frame": {
+        "width": 595,
+        "height": 1200,
+        "display": {
+          "x": 35,
+          "y": 25,
+          "width": 527,
+          "height": 1141.1306666666667
+        }
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1054,
+            "height": 2282
+          },
+          "target": {
+            "x": 792.3737777777777,
+            "y": 1518.5123678160921,
+            "width": 206.584,
+            "height": 252.95999999999998
+          },
+          "pointer": {
+            "x": 895.6657777777777,
+            "y": 1611.264367816092
+          }
+        },
+        {
+          "asset": "settings",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1054,
+            "height": 2282
+          },
+          "target": {
+            "x": 43.214,
+            "y": 1855.4496091954022,
+            "width": 967.572,
+            "height": 118.664
+          },
+          "pointer": {
+            "x": 273.57155555555556,
+            "y": 1914.7816091954023
+          }
+        },
+        {
+          "asset": "general",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1054,
+            "height": 2282
+          },
+          "target": {
+            "x": 43.214,
+            "y": 1016.0932873563219,
+            "width": 967.572,
+            "height": 118.664
+          },
+          "pointer": {
+            "x": 269.824,
+            "y": 1075.4252873563219
+          }
+        },
+        {
+          "asset": "about",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1054,
+            "height": 2282
+          },
+          "target": {
+            "x": 43.214,
+            "y": 553.9526896551724,
+            "width": 967.572,
+            "height": 118.664
+          },
+          "pointer": {
+            "x": 138.65955555555556,
+            "y": 494.6206896551724
+          }
+        }
+      ],
+      "provenance": {
+        "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-mini-ios-18/basic-use/view-software-version",
+        "sourceSystem": "iOS 18，运营商教程界面；型号值原图留空",
+        "model_name_value_in_source": "留空",
+        "notes": "截图界面可复用；白色放大浮层、字段值示例、虚化和图形遮盖属于店铺设计处理。"
+      },
+      "selection_status": {
+        "model_verified": true,
+        "os_verified": true,
+        "result_verified": false,
+        "result_state": "source_left_blank",
+        "sequence_complete": false,
+        "menu_structure_complete": true,
+        "default_usable_for_new_tutorial": false,
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone13ProMax": {
+      "model_id": "iPhone13ProMax",
+      "assets": {
+        "home": "iPhone13ProMax_ios18_vodafone_home",
+        "settings": "iPhone13ProMax_ios18_vodafone_settings",
+        "general": "iPhone13ProMax_ios18_vodafone_general",
+        "about": "iPhone13ProMax_ios18_vodafone_about",
+        "frame": "iPhone13ProMax_ios18_vodafone_frame"
+      },
+      "frame": {
+        "width": 587,
+        "height": 1200,
+        "display": {
+          "x": 27,
+          "y": 25,
+          "width": 531.5334773218142,
+          "height": 1150
+        }
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2300
+          },
+          "target": {
+            "x": 786.6266230529596,
+            "y": 1482.8418891288695,
+            "width": 208.348,
+            "height": 255.12
+          },
+          "pointer": {
+            "x": 890.8006230529596,
+            "y": 1576.3858891288696
+          }
+        },
+        {
+          "asset": "settings",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2300
+          },
+          "target": {
+            "x": 43.583,
+            "y": 1629.1848812095034,
+            "width": 975.8340000000001,
+            "height": 119.6
+          },
+          "pointer": {
+            "x": 251.6760124610592,
+            "y": 1688.9848812095033
+          }
+        },
+        {
+          "asset": "general",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2300
+          },
+          "target": {
+            "x": 43.583,
+            "y": 884.0444924406047,
+            "width": 975.8340000000001,
+            "height": 119.6
+          },
+          "pointer": {
+            "x": 261.61059190031153,
+            "y": 943.8444924406047
+          }
+        },
+        {
+          "asset": "about",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2300
+          },
+          "target": {
+            "x": 43.583,
+            "y": 493.63729301655866,
+            "width": 975.8340000000001,
+            "height": 119.6
+          },
+          "pointer": {
+            "x": 149.01869158878506,
+            "y": 433.83729301655865
+          }
+        }
+      ],
+      "provenance": {
+        "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-13-pro-max-ios-18/basic-use/view-software-version",
+        "sourceSystem": "iOS 18，运营商教程界面；型号值原图留空",
+        "model_name_value_in_source": "留空",
+        "notes": "截图界面可复用；白色放大浮层、字段值示例、虚化和图形遮盖属于店铺设计处理。"
+      },
+      "selection_status": {
+        "model_verified": true,
+        "os_verified": true,
+        "result_verified": false,
+        "result_state": "source_left_blank",
+        "sequence_complete": false,
+        "menu_structure_complete": true,
+        "default_usable_for_new_tutorial": false,
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone14ProMax": {
+      "model_id": "iPhone14ProMax",
+      "assets": {
+        "home": "iPhone14ProMax_ios18_vodafone_home",
+        "settings": "iPhone14ProMax_ios18_vodafone_settings",
+        "general": "iPhone14ProMax_ios18_vodafone_general",
+        "about": "iPhone14ProMax_ios18_vodafone_about",
+        "frame": "iPhone14ProMax_ios18_vodafone_frame"
+      },
+      "frame": {
+        "width": 585,
+        "height": 1200,
+        "display": {
+          "x": 26,
+          "y": 24,
+          "width": 531.9635193133047,
+          "height": 1153
+        }
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2306
+          },
+          "target": {
+            "x": 792.3717364341086,
+            "y": 1503.1713075822602,
+            "width": 208.348,
+            "height": 255.12
+          },
+          "pointer": {
+            "x": 896.5457364341086,
+            "y": 1596.7153075822603
+          }
+        },
+        {
+          "asset": "settings",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2306
+          },
+          "target": {
+            "x": 43.583,
+            "y": 1629.1312675250358,
+            "width": 975.8340000000001,
+            "height": 119.91199999999999
+          },
+          "pointer": {
+            "x": 234.0248062015504,
+            "y": 1689.0872675250357
+          }
+        },
+        {
+          "asset": "general",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2306
+          },
+          "target": {
+            "x": 43.583,
+            "y": 900.052583690987,
+            "width": 975.8340000000001,
+            "height": 119.91199999999999
+          },
+          "pointer": {
+            "x": 234.0248062015504,
+            "y": 960.008583690987
+          }
+        },
+        {
+          "asset": "about",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1063,
+            "height": 2306
+          },
+          "target": {
+            "x": 43.583,
+            "y": 506.9703061516452,
+            "width": 975.8340000000001,
+            "height": 119.91199999999999
+          },
+          "pointer": {
+            "x": 120.30852713178294,
+            "y": 447.0143061516452
+          }
+        }
+      ],
+      "provenance": {
+        "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-max-ios-18/basic-use/view-software-version",
+        "sourceSystem": "iOS 18，运营商教程界面；型号值原图留空",
+        "model_name_value_in_source": "留空",
+        "notes": "截图界面可复用；白色放大浮层、字段值示例、虚化和图形遮盖属于店铺设计处理。"
+      },
+      "selection_status": {
+        "model_verified": true,
+        "os_verified": true,
+        "result_verified": false,
+        "result_state": "source_left_blank",
+        "sequence_complete": false,
+        "menu_structure_complete": true,
+        "default_usable_for_new_tutorial": false,
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone14Pro": {
+      "model_id": "iPhone14Pro",
+      "assets": {
+        "home": "iPhone14Pro_ios18_vodafone_home",
+        "settings": "iPhone14Pro_ios18_vodafone_settings",
+        "general": "iPhone14Pro_ios18_vodafone_general",
+        "about": "iPhone14Pro_ios18_vodafone_about",
+        "frame": "iPhone14Pro_ios18_vodafone_frame"
+      },
+      "frame": {
+        "width": 587,
+        "height": 1200,
+        "display": {
+          "x": 27,
+          "y": 26,
+          "width": 530,
+          "height": 1149.0076335877864
+        }
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1060,
+            "height": 2298
+          },
+          "target": {
+            "x": 789.7926039016115,
+            "y": 1523.2317370892017,
+            "width": 207.76000000000002,
+            "height": 254.39999999999998
+          },
+          "pointer": {
+            "x": 893.6726039016115,
+            "y": 1616.5117370892017
+          }
+        },
+        {
+          "asset": "settings",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1060,
+            "height": 2298
+          },
+          "target": {
+            "x": 43.46,
+            "y": 1786.9233615023472,
+            "width": 973.08,
+            "height": 119.496
+          },
+          "pointer": {
+            "x": 257.1331636980492,
+            "y": 1846.6713615023473
+          }
+        },
+        {
+          "asset": "general",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1060,
+            "height": 2298
+          },
+          "target": {
+            "x": 43.46,
+            "y": 984.9609201877934,
+            "width": 973.08,
+            "height": 119.496
+          },
+          "pointer": {
+            "x": 262.5275657336726,
+            "y": 1044.7089201877934
+          }
+        },
+        {
+          "asset": "about",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1060,
+            "height": 2298
+          },
+          "target": {
+            "x": 43.46,
+            "y": 548.8372018779343,
+            "width": 973.08,
+            "height": 119.496
+          },
+          "pointer": {
+            "x": 140.25445292620867,
+            "y": 489.0892018779343
+          }
+        }
+      ],
+      "provenance": {
+        "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-pro-ios-18/basic-use/view-software-version",
+        "sourceSystem": "iOS 18，运营商教程界面；型号值原图留空",
+        "model_name_value_in_source": "留空",
+        "notes": "截图界面可复用；白色放大浮层、字段值示例、虚化和图形遮盖属于店铺设计处理。"
+      },
+      "selection_status": {
+        "model_verified": true,
+        "os_verified": true,
+        "result_verified": false,
+        "result_state": "source_left_blank",
+        "sequence_complete": false,
+        "menu_structure_complete": true,
+        "default_usable_for_new_tutorial": false,
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    "iPhone14Plus": {
+      "model_id": "iPhone14Plus",
+      "assets": {
+        "home": "iPhone14Plus_ios18_vodafone_home",
+        "settings": "iPhone14Plus_ios18_vodafone_settings",
+        "general": "iPhone14Plus_ios18_vodafone_general",
+        "about": "iPhone14Plus_ios18_vodafone_about",
+        "frame": "iPhone14Plus_ios18_vodafone_frame"
+      },
+      "frame": {
+        "width": 589,
+        "height": 1200,
+        "display": {
+          "x": 29,
+          "y": 25,
+          "width": 530.6090712742981,
+          "height": 1148
+        }
+      },
+      "screens": [
+        {
+          "asset": "home",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1061,
+            "height": 2296
+          },
+          "target": {
+            "x": 785.1466105919003,
+            "y": 1480.2763484521238,
+            "width": 207.95600000000002,
+            "height": 254.64
+          },
+          "pointer": {
+            "x": 889.1246105919003,
+            "y": 1573.6443484521237
+          }
+        },
+        {
+          "asset": "settings",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1061,
+            "height": 2296
+          },
+          "target": {
+            "x": 43.501000000000005,
+            "y": 1619.7395651547877,
+            "width": 973.998,
+            "height": 119.392
+          },
+          "pointer": {
+            "x": 261.1183800623053,
+            "y": 1679.4355651547876
+          }
+        },
+        {
+          "asset": "general",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1061,
+            "height": 2296
+          },
+          "target": {
+            "x": 43.501000000000005,
+            "y": 882.5070237580993,
+            "width": 973.998,
+            "height": 119.392
+          },
+          "pointer": {
+            "x": 261.1183800623053,
+            "y": 942.2030237580993
+          }
+        },
+        {
+          "asset": "about",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "width": 1061,
+            "height": 2296
+          },
+          "target": {
+            "x": 43.501000000000005,
+            "y": 492.77879337652985,
+            "width": 973.998,
+            "height": 119.392
+          },
+          "pointer": {
+            "x": 148.73831775700933,
+            "y": 433.0827933765299
+          }
+        }
+      ],
+      "provenance": {
+        "source_page": "https://deviceguides.vodafone.co.uk/apple/iphone-14-plus-ios-18/basic-use/view-software-version",
+        "sourceSystem": "iOS 18，运营商教程界面；型号值原图留空",
+        "model_name_value_in_source": "留空",
+        "notes": "截图界面可复用；白色放大浮层、字段值示例、虚化和图形遮盖属于店铺设计处理。"
+      },
+      "selection_status": {
+        "model_verified": true,
+        "os_verified": true,
+        "result_verified": false,
+        "result_state": "source_left_blank",
+        "sequence_complete": false,
+        "menu_structure_complete": true,
+        "default_usable_for_new_tutorial": false,
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    }
+  },
+  "notes": "原始菜单型号值留空；原图保留苹果图形及非目标文字，店铺处理与浮层样式另存。不是未经编辑实机照片的认证。",
+  "selection_policy": {
+    "authoritative_coverage_index": "../覆盖索引.json",
+    "legacy_keys_preserved": true,
+    "default_lookup": "仅按覆盖索引中的型号、系统及完整真实结果筛选；不以devices键或文件名推断真实覆盖",
+    "unknown_os_default_usable": false,
+    "blank_or_missing_result_default_usable": false,
+    "cross_model_value_replacement_is_real_capture": false,
+    "publisher_os_label_is_evidence": "来源页面明确标注，单独记录证据等级；不据主屏外观或发布日期推断",
+    "publish_readiness_separate": true,
+    "role": "对应机型iOS18菜单结构资料；型号结果留空，不是完整识别教程"
+  }
+}

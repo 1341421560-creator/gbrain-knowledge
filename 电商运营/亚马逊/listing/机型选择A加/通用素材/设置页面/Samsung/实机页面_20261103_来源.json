@@ -1,0 +1,328 @@
+{
+  "updated": "2026-11-03",
+  "scope": "S24、S25、S26对应真实型号结果；不使用S23替代底图",
+  "records": [
+    {
+      "model": "s24",
+      "target": "02-galaxy-s24",
+      "representative": "Galaxy S24",
+      "source_title": "SAMSUNG Galaxy S24/S24+: Check IMEI Numbers #howtodevices",
+      "author": "HowToDevices ",
+      "video_url": "https://www.youtube.com/watch?v=wnYC3GrspWM",
+      "source_date": "20240306",
+      "video_file": "s24-original.mp4",
+      "video_bytes": 16196914,
+      "video_sha256": "5592e1807b60c284463a1db0069b69da9e70cb517a5f82ee2f36f85d130edcff",
+      "result_field": "Product name",
+      "native_result_value": "Galaxy S24",
+      "native_model_code": "SM-S921B/DS",
+      "frames": [
+        {
+          "kind": "apps",
+          "seconds": 6.9,
+          "file": "原始截图/实机帧_20261103/s24-apps.png",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "e31ba65cda9ff32cc5b4e0d014e190317d7d929ca50220d08b69b20df5a5560d"
+        },
+        {
+          "kind": "settings",
+          "seconds": 10,
+          "file": "原始截图/实机帧_20261103/s24-settings.png",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "1e3750b9631e267d232cea185b7bf8b0d2a3624c62ad3ac5805b8b24926400e5"
+        },
+        {
+          "kind": "about",
+          "seconds": 12,
+          "file": "原始截图/实机帧_20261103/s24-about.png",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "4d2d24bd9f9a8e59c2d6c5c38c3fc69871fc9e6d256b7cbde5a8e45ec972fd89"
+        }
+      ],
+      "os_version": "选定视频未显示系统版本号；不推断或标注具体版本",
+      "native_page_content_replaced": false,
+      "crop_configuration": {
+        "phone_crop": [
+          714,
+          15,
+          512,
+          1054
+        ],
+        "settings_icon_crop": [
+          1021,
+          430,
+          68,
+          66
+        ],
+        "about_row": [
+          760,
+          844,
+          425,
+          109
+        ]
+      },
+      "video_date_meaning": "原作者发布日期，不推断实际拍摄日期",
+      "region": "原作者未说明地区；机型以实际Product name和SM代码核对",
+      "result_model_verified": true,
+      "result_values_replaced": false,
+      "specific_video_os_version_verified": false,
+      "normalised_selection_status": {
+        "model_id": "SamsungGalaxyS24",
+        "source_model_id": "s24",
+        "model_verified": true,
+        "result_verified": true,
+        "os_verified": false,
+        "default_usable_for_new_tutorial": false,
+        "reason": "实机OS未知；保留真实型号证据，待补对应系统证据后再默认选用",
+        "sequence_id": "native-samsung-s24-os-unknown-video-20261103",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    {
+      "model": "s25",
+      "target": "03-galaxy-s25-s24",
+      "representative": "Galaxy S25",
+      "source_title": "Samsung S25: How to Check IMEI",
+      "author": "HardReset.Info",
+      "video_url": "https://www.youtube.com/watch?v=CswhMkzfbOA",
+      "source_date": "20250611",
+      "video_file": "s25-original.mp4",
+      "video_bytes": 25222984,
+      "video_sha256": "966737a4410edcdf1b5a72d11b767ca09bc5174d6a3a8ee3c5e1e0e23ec24ee6",
+      "result_field": "Product name",
+      "native_result_value": "Galaxy S25",
+      "native_model_code": "SM-S931B/DS",
+      "frames": [
+        {
+          "kind": "apps",
+          "seconds": null,
+          "file": "原始截图/对应机型_20261103/s25-apps.png",
+          "width": 1070,
+          "height": 2318,
+          "sha256": "7b051465eca6957bff7acdc3dfb1539c80cba2bd3e564ce7965a4d28e159fce8",
+          "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s25-android-15/apps-and-media/install-apps-from-google-play",
+          "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-e0acf238-9272-41d8-8835-4c52bef8a706.png?width=1070&height=2320",
+          "source_os": "Android 15，运营商页面标注",
+          "provider_frame": "原始机框/s25-original-frame.png",
+          "provider_frame_size": [
+            579,
+            1200
+          ],
+          "provider_frame_url": "https://cdn.sp-selfservice.com/ml/220926-f-34d2fc30-cd6b-4c8f-8428-7e4e38331ace.png?width=579",
+          "provider_screen_viewport": [
+            20,
+            20,
+            535,
+            1159.1666666666665
+          ],
+          "phone_crop": [
+            0,
+            0,
+            1070,
+            2318
+          ],
+          "punch_bbox": [
+            507,
+            28,
+            56,
+            55
+          ],
+          "provider_frame_sha256": "248c3a94746c24607e48e9a81e98d5f382cb66a7f48267e9e542f4d5dc926085"
+        },
+        {
+          "kind": "settings",
+          "seconds": null,
+          "file": "原始截图/对应机型_20261103/s25-settings.png",
+          "width": 1070,
+          "height": 2318,
+          "sha256": "03498b28f2e5fcc3013f7ecf08e78087fe179b776aa82a7f5087176724a16665",
+          "source_page": "https://deviceguides.vodafone.co.uk/samsung/galaxy-s25-android-15/basic-use/view-software-version",
+          "source_url": "https://cdn.sp-selfservice.com/ml/220926-f-45afa017-3abc-4578-a9d2-ac7bb3a477af.png?width=1070&height=2320",
+          "source_os": "Android 15，运营商页面标注",
+          "provider_frame": "原始机框/s25-original-frame.png",
+          "provider_frame_size": [
+            579,
+            1200
+          ],
+          "provider_frame_url": "https://cdn.sp-selfservice.com/ml/220926-f-34d2fc30-cd6b-4c8f-8428-7e4e38331ace.png?width=579",
+          "provider_screen_viewport": [
+            20,
+            20,
+            535,
+            1159.1666666666665
+          ],
+          "phone_crop": [
+            0,
+            0,
+            1070,
+            2318
+          ],
+          "punch_bbox": [
+            507,
+            28,
+            56,
+            55
+          ],
+          "provider_frame_sha256": "248c3a94746c24607e48e9a81e98d5f382cb66a7f48267e9e542f4d5dc926085"
+        },
+        {
+          "kind": "about",
+          "seconds": 38.4,
+          "file": "原始截图/实机帧_20261103/s25-about.png",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "b9484da6c48f36e6ea066a863af4c99595336fb5c6ebdb3359592bdd90555747"
+        }
+      ],
+      "os_version": "选定视频未显示系统版本号；不推断或标注具体版本",
+      "native_page_content_replaced": false,
+      "sequence_provenance": "前两屏为对应S25／Android15运营商原图，未重排菜单；末屏为S25原作者实机帧，不声称同一次连续拍摄或已核实视频系统版本号。",
+      "crop_configuration": {
+        "phone_crop": [
+          724,
+          70,
+          461,
+          942
+        ],
+        "settings_icon_crop": [
+          973,
+          514,
+          60,
+          60
+        ],
+        "about_row": [
+          778,
+          805,
+          370,
+          110
+        ],
+        "provider_settings_icon_crop": [
+          816,
+          1080,
+          171,
+          171
+        ],
+        "provider_about_row": [
+          40,
+          1905,
+          980,
+          150
+        ]
+      },
+      "video_date_meaning": "原作者发布日期，不推断实际拍摄日期",
+      "region": "原作者未说明地区；机型以实际Product name和SM代码核对",
+      "result_model_verified": true,
+      "result_values_replaced": false,
+      "specific_video_os_version_verified": false,
+      "normalised_selection_status": {
+        "model_id": "SamsungGalaxyS25",
+        "source_model_id": "s25",
+        "model_verified": true,
+        "result_verified": true,
+        "os_verified": false,
+        "default_usable_for_new_tutorial": false,
+        "reason": "实机OS未知；保留真实型号证据，待补对应系统证据后再默认选用",
+        "sequence_id": "native-samsung-s25-os-unknown-video-20261103",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    },
+    {
+      "model": "s26",
+      "target": "04-galaxy-s26",
+      "representative": "Galaxy S26",
+      "source_title": "Samsung Galaxy S26: How to Find IMEI (Check IMEI)",
+      "author": "Games & Apps Tutorials",
+      "video_url": "https://www.youtube.com/watch?v=7wJT2CLk_u8",
+      "source_date": "20260311",
+      "video_file": "s26-original.mp4",
+      "video_bytes": 11571881,
+      "video_sha256": "27ed566e2130b4ab9739bbee8317990a0f19638cab72d8ca09f1fae5b506eb9c",
+      "result_field": "Product name",
+      "native_result_value": "Galaxy S26",
+      "native_model_code": "SM-S942B/DS",
+      "frames": [
+        {
+          "kind": "apps",
+          "seconds": 5,
+          "file": "原始截图/实机帧_20261103/s26-apps.png",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "fe0b2f347976a42797e8b91a8b63ca221912091b6584a9d4191f28ccb20dd21a"
+        },
+        {
+          "kind": "settings",
+          "seconds": 11,
+          "file": "原始截图/实机帧_20261103/s26-settings.png",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "8a261d8ce902022dac916351dff72366ac110b2a0897ff12d56d52cd25c84c61"
+        },
+        {
+          "kind": "about",
+          "seconds": 28,
+          "file": "原始截图/实机帧_20261103/s26-about.png",
+          "width": 1920,
+          "height": 1080,
+          "sha256": "15889cf65eb396e31335db44e19142b7f7bf3ce10b34d7b2e53739416de056ac"
+        }
+      ],
+      "os_version": "选定视频未显示系统版本号；不推断或标注具体版本",
+      "native_page_content_replaced": false,
+      "crop_configuration": {
+        "phone_crop": [
+          754,
+          112,
+          420,
+          872
+        ],
+        "settings_icon_crop": [
+          976,
+          634,
+          65,
+          65
+        ],
+        "about_row": [
+          786,
+          800,
+          365,
+          62
+        ]
+      },
+      "video_date_meaning": "原作者发布日期，不推断实际拍摄日期",
+      "region": "原作者未说明地区；机型以实际Product name和SM代码核对",
+      "result_model_verified": true,
+      "result_values_replaced": false,
+      "specific_video_os_version_verified": false,
+      "normalised_selection_status": {
+        "model_id": "SamsungGalaxyS26",
+        "source_model_id": "s26",
+        "model_verified": true,
+        "result_verified": true,
+        "os_verified": false,
+        "default_usable_for_new_tutorial": false,
+        "reason": "实机OS未知；保留真实型号证据，待补对应系统证据后再默认选用",
+        "sequence_id": "native-samsung-s26-os-unknown-video-20261103",
+        "authoritative_coverage_index": "../覆盖索引.json"
+      }
+    }
+  ],
+  "preview": null,
+  "processing": "原始来源逐字节保存；A+仅裁切、叠加操作框和原图字段转录，不改写原图菜单或型号值。",
+  "version_boundary": "S25运营商前两屏标注Android15；实机视频未展示系统版本号，不把标题、发布日期当成版本号证据。",
+  "default_for_new_use": "系统未知的原始证据保留，不能默认用于新教程；按权威覆盖索引精确选择型号和系统，缺证据则待补。",
+  "selection_policy": {
+    "authoritative_coverage_index": "../覆盖索引.json",
+    "legacy_keys_preserved": true,
+    "default_lookup": "仅按覆盖索引中的型号、系统及完整真实结果筛选；不以devices键或文件名推断真实覆盖",
+    "unknown_os_default_usable": false,
+    "blank_or_missing_result_default_usable": false,
+    "cross_model_value_replacement_is_real_capture": false,
+    "publisher_os_label_is_evidence": "来源页面明确标注，单独记录证据等级；不据主屏外观或发布日期推断",
+    "publish_readiness_separate": true
+  },
+  "default_usable_for_new_tutorial": false,
+  "verification_access": "保留records.frames的原始页面、时间点与SHA-256；不另存重复的派生核对拼图"
+}

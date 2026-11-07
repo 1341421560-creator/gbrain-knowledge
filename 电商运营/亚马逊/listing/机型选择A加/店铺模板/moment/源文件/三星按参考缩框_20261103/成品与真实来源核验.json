@@ -1,0 +1,294 @@
+{
+  "passed": true,
+  "designs": [
+    {
+      "id": "02-galaxy-s24",
+      "canvas": [
+        970,
+        600
+      ],
+      "original_frame_hash_checks": [
+        {
+          "file": "素材/原始视频帧/s24-apps.png",
+          "sha256": "e31ba65cda9ff32cc5b4e0d014e190317d7d929ca50220d08b69b20df5a5560d",
+          "embedded_identically": true
+        },
+        {
+          "file": "素材/原始视频帧/s24-settings.png",
+          "sha256": "1e3750b9631e267d232cea185b7bf8b0d2a3624c62ad3ac5805b8b24926400e5",
+          "embedded_identically": true
+        },
+        {
+          "file": "素材/原始视频帧/s24-about.png",
+          "sha256": "4d2d24bd9f9a8e59c2d6c5c38c3fc69871fc9e6d256b7cbde5a8e45ec972fd89",
+          "embedded_identically": true
+        }
+      ],
+      "source_result_field": "Product name",
+      "source_result_value": "Galaxy S24",
+      "source_model_code": "SM-S921B/DS",
+      "model_code_in_callout": false,
+      "reference_callout_geometry": {
+        "settings": [
+          388.0,
+          305.0,
+          112.0,
+          91.0
+        ],
+        "about": [
+          569.0,
+          339.0,
+          170.0,
+          38.0
+        ],
+        "result": [
+          779.0,
+          293.0,
+          170.0,
+          62.0
+        ]
+      },
+      "native_source_PNG_rewritten": false,
+      "native_target_field_values_replaced": false,
+      "publication_non_target_redactions": {
+        "apps": [
+          {
+            "x": 434,
+            "y": 294,
+            "width": 21,
+            "height": 8,
+            "reason": "非目标Contacts标签",
+            "sample_x": 454,
+            "sample_width": 1
+          }
+        ],
+        "settings": [
+          {
+            "x": 624,
+            "y": 243,
+            "width": 64,
+            "height": 17,
+            "reason": "非目标Device care文字",
+            "sample_x": 688,
+            "sample_width": 1
+          }
+        ]
+      },
+      "S23_substitute_image_definitions": 0,
+      "pixels_changed_outside_tutorial": 0,
+      "USA_terms": 68,
+      "visible_text_hits": [],
+      "UI_annotations": "局部裁取、真实图标放大、目标框与依据原图转录的提示；未改写底图型号或菜单",
+      "specific_video_OS_version_claimed": false
+    },
+    {
+      "id": "03-galaxy-s25-s24",
+      "canvas": [
+        970,
+        600
+      ],
+      "original_frame_hash_checks": [
+        {
+          "file": "素材/运营商S25原图/s25-apps.png",
+          "sha256": "7b051465eca6957bff7acdc3dfb1539c80cba2bd3e564ce7965a4d28e159fce8",
+          "embedded_identically": true
+        },
+        {
+          "file": "素材/运营商S25原图/s25-settings.png",
+          "sha256": "03498b28f2e5fcc3013f7ecf08e78087fe179b776aa82a7f5087176724a16665",
+          "embedded_identically": true
+        },
+        {
+          "file": "素材/原始视频帧/s25-about-stable.png",
+          "sha256": "b9484da6c48f36e6ea066a863af4c99595336fb5c6ebdb3359592bdd90555747",
+          "embedded_identically": true
+        }
+      ],
+      "source_result_field": "Product name",
+      "source_result_value": "Galaxy S25",
+      "source_model_code": "SM-S931B/DS",
+      "model_code_in_callout": false,
+      "reference_callout_geometry": {
+        "settings": [
+          388.0,
+          305.0,
+          112.0,
+          91.0
+        ],
+        "about": [
+          569.0,
+          339.0,
+          170.0,
+          38.0
+        ],
+        "result": [
+          779.0,
+          293.0,
+          170.0,
+          62.0
+        ]
+      },
+      "native_source_PNG_rewritten": false,
+      "native_target_field_values_replaced": false,
+      "publication_non_target_redactions": {
+        "settings": [
+          {
+            "x": 625,
+            "y": 233,
+            "width": 64,
+            "height": 18,
+            "reason": "非目标controls菜单文字",
+            "sample_x": 688,
+            "sample_width": 1
+          },
+          {
+            "x": 625,
+            "y": 255,
+            "width": 64,
+            "height": 16,
+            "reason": "非目标Device care文字",
+            "sample_x": 688,
+            "sample_width": 1
+          }
+        ]
+      },
+      "S23_substitute_image_definitions": 0,
+      "pixels_changed_outside_tutorial": 0,
+      "USA_terms": 68,
+      "visible_text_hits": [],
+      "UI_annotations": "局部裁取、真实图标放大、目标框与依据原图转录的提示；未改写底图型号或菜单",
+      "specific_video_OS_version_claimed": false
+    },
+    {
+      "id": "04-galaxy-s26",
+      "canvas": [
+        970,
+        600
+      ],
+      "original_frame_hash_checks": [
+        {
+          "file": "素材/原始视频帧/s26-apps.png",
+          "sha256": "fe0b2f347976a42797e8b91a8b63ca221912091b6584a9d4191f28ccb20dd21a",
+          "embedded_identically": true
+        },
+        {
+          "file": "素材/原始视频帧/s26-settings-stable.png",
+          "sha256": "8a261d8ce902022dac916351dff72366ac110b2a0897ff12d56d52cd25c84c61",
+          "embedded_identically": true
+        },
+        {
+          "file": "素材/原始视频帧/s26-about.png",
+          "sha256": "15889cf65eb396e31335db44e19142b7f7bf3ce10b34d7b2e53739416de056ac",
+          "embedded_identically": true
+        }
+      ],
+      "source_result_field": "Product name",
+      "source_result_value": "Galaxy S26",
+      "source_model_code": "SM-S942B/DS",
+      "model_code_in_callout": false,
+      "reference_callout_geometry": {
+        "settings": [
+          388.0,
+          305.0,
+          112.0,
+          91.0
+        ],
+        "about": [
+          569.0,
+          339.0,
+          170.0,
+          38.0
+        ],
+        "result": [
+          779.0,
+          293.0,
+          170.0,
+          62.0
+        ]
+      },
+      "native_source_PNG_rewritten": false,
+      "native_target_field_values_replaced": false,
+      "publication_non_target_redactions": {
+        "settings": [
+          {
+            "x": 626,
+            "y": 253,
+            "width": 64,
+            "height": 17,
+            "reason": "非目标controls菜单文字",
+            "sample_x": 688,
+            "sample_width": 1
+          },
+          {
+            "x": 626,
+            "y": 272,
+            "width": 64,
+            "height": 13,
+            "reason": "非目标Device care文字",
+            "sample_x": 688,
+            "sample_width": 1
+          }
+        ]
+      },
+      "S23_substitute_image_definitions": 0,
+      "pixels_changed_outside_tutorial": 0,
+      "USA_terms": 68,
+      "visible_text_hits": [],
+      "UI_annotations": "局部裁取、真实图标放大、目标框与依据原图转录的提示；未改写底图型号或菜单",
+      "specific_video_OS_version_claimed": false
+    }
+  ],
+  "manual_visible_UI_transcription": [
+    "Search",
+    "Samsung",
+    "Google",
+    "Microsoft",
+    "Play Store",
+    "Gemini",
+    "Members",
+    "Store",
+    "Facebook",
+    "Spotify",
+    "Phone",
+    "Messages",
+    "Camera",
+    "Gallery",
+    "Clock",
+    "Calendar",
+    "Calculator",
+    "YT Music",
+    "Tips",
+    "Notes",
+    "Gaming Hub",
+    "Global Goals",
+    "Samsung Free",
+    "Settings",
+    "General management",
+    "Accessibility",
+    "Vision",
+    "Hearing",
+    "Dexterity",
+    "Software update",
+    "Download and install",
+    "Tips and user guide",
+    "Useful tips",
+    "New features",
+    "About phone",
+    "Status",
+    "Legal information",
+    "Phone name",
+    "Product name",
+    "Model name",
+    "Serial number",
+    "Available SIM",
+    "IMEI 1",
+    "IMEI 2",
+    "Status information",
+    "Software information",
+    "Battery information",
+    "Network",
+    "Unknown",
+    "Orange",
+    "GigSky"
+  ]
+}

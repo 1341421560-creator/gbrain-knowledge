@@ -1,0 +1,9 @@
+{
+  "family": "Inter SemiBold",
+  "style_name": "Regular",
+  "weight": 600,
+  "woff2_and_ttf_glyphs_identical": true,
+  "official_source": "https://raw.githubusercontent.com/rsms/inter/v4.1/docs/font-files/Inter-SemiBold.woff2",
+  "license_source": "https://raw.githubusercontent.com/rsms/inter/v4.1/LICENSE.txt",
+  "ttf_note": "由已归档官方 WOFF2 解码得到的本地兼容副本，不是另行下载的官方桌面 TTF 原件"
+}

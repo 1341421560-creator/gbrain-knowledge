@@ -1,0 +1,15 @@
+{
+  "input_svg":"assets/base.svg",
+  "market":"USA",
+  "screen_clip_prefix":"url(#window-a-standard-",
+  "colors":{"ink":"#202D35","muted":"#66727A","blue":"#277FA8","white":"#FFFFFF","frame":"#111315"},
+  "notch":{"width_ratio":0.52,"depth":11.5,"header_height":16,"corner_radius":10,"home_header_fill":"#B7A9FC","other_header_fill":"#F8F9FA"},
+  "settings_source":"assets/settings-icon-source.jpeg",
+  "settings_icon_crop":[955,1301,182,182],
+  "general_source":"assets/general-icon-source.png",
+  "general_icon_crop":[78,1450,59,59],
+  "settings_zoom":{"box":[373,282,100,108],"icon":[389,293,68],"label":"Settings","label_center_x":423,"label_baseline":382,"label_size":14},
+  "general_zoom":{"box":[513.5,303,132.5,35],"icon":[523.5,310.5,20],"label":"General","label_x":549.5,"label_baseline":326,"label_size":17,"chevron":true},
+  "about_zoom":{"box":[662,232,132.5,35],"label":"About","label_x":675,"label_baseline":256,"label_size":18,"chevron":true},
+  "model_zoom":{"box":[810.5,270,132.5,51],"label":"Model Name","label_center_x":876.75,"label_baseline":288,"label_size":11.5,"value":"iPhone 17e","value_baseline":310,"value_size":17}
+}

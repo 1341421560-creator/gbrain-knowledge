@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-29",
+  "version": "真实iOS机型卡片_v3",
+  "physicalModels": "../../../../通用素材/手机机身/型号数据/型号资料.json",
+  "bodyIndex": "../../../../通用素材/手机机身/素材索引.json",
+  "uiIndex": "../../../../通用素材/设置页面/Apple/素材索引.json",
+  "groups": "../../../../通用素材/手机机身/型号数据/兼容组合与对比_iPhone11至14.json",
+  "style": "配置/样式.json",
+  "singleLayouts": "配置/四宫格版式.json",
+  "mergedLayouts": [
+    "配置/合并_高级A加.json",
+    "配置/合并_普通A加.json",
+    "配置/合并_移动端.json"
+  ],
+  "focus": "配置/重点虚化参数.json",
+  "geometry": "配置/机身标尺.json",
+  "publicationStatus": "视觉参考与可复现工程；截图词库尚未零命中验收，不作为直接发布认证。"
+}

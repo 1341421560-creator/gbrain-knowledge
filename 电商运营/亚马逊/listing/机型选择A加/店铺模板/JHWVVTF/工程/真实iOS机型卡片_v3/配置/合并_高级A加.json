@@ -1,0 +1,120 @@
+{
+  "leftHeading": {
+    "x": 18,
+    "y": 102,
+    "font": 44
+  },
+  "rightHeading": {
+    "x": 602,
+    "y": 102,
+    "font": 44
+  },
+  "divider": {
+    "x": 578,
+    "top": 69,
+    "bottom": 580
+  },
+  "tutorialClip": {
+    "x": 590,
+    "y": 118,
+    "width": 874,
+    "height": 430
+  },
+  "compatible": {
+    "x": 18,
+    "y": 122,
+    "width": 550,
+    "height": 160,
+    "radius": 18,
+    "phoneCenterX": 78,
+    "baseline": 273,
+    "pill": {
+      "x": 148,
+      "y": 140,
+      "width": 132,
+      "height": 30,
+      "font": 15.5
+    },
+    "text": {
+      "x": 148,
+      "y": 201,
+      "font": 22,
+      "lineHeight": 30,
+      "sizeY": 260,
+      "sizeFont": 16.5
+    }
+  },
+  "incompatible": [
+    {
+      "x": 18,
+      "y": 293,
+      "width": 270,
+      "height": 135,
+      "radius": 16,
+      "phoneCenterX": 68,
+      "baseline": 421,
+      "textX": 116
+    },
+    {
+      "x": 298,
+      "y": 293,
+      "width": 270,
+      "height": 135,
+      "radius": 16,
+      "phoneCenterX": 348,
+      "baseline": 421,
+      "textX": 396
+    },
+    {
+      "x": 18,
+      "y": 439,
+      "width": 270,
+      "height": 135,
+      "radius": 16,
+      "phoneCenterX": 68,
+      "baseline": 567,
+      "textX": 116
+    },
+    {
+      "x": 298,
+      "y": 439,
+      "width": 270,
+      "height": 135,
+      "radius": 16,
+      "phoneCenterX": 348,
+      "baseline": 567,
+      "textX": 396
+    }
+  ],
+  "incompatibleText": {
+    "font": 14.5,
+    "lineHeight": 20,
+    "pairOffsetY": 63,
+    "singleOffsetY": 73,
+    "pairSizeOffsetY": 112,
+    "singleSizeOffsetY": 103,
+    "sizeFont": 12.5,
+    "pillOffsetY": 17,
+    "pillWidth": 145,
+    "pillHeight": 24,
+    "pillFont": 12.7
+  },
+  "callout": {
+    "x": 1228,
+    "y": 407,
+    "width": 228,
+    "height": 92,
+    "radius": 24,
+    "labelY": 431,
+    "valueY": 454,
+    "lineHeight": 24,
+    "labelFont": 16,
+    "valueFont": 18.5
+  },
+  "id": "premium",
+  "name": "高级A加",
+  "width": 1464,
+  "height": 600,
+  "scale": 0.35,
+  "tutorial": "素材/教程/高级A加原稿.png"
+}

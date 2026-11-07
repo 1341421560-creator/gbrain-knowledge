@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-29",
+  "authority": "通用流程文档中的兼容组合章节为人工维护来源；本文件是本批次的机器可读对应表。",
+  "scope": "仅适用于用户已确认的手机壳组合，不扩展到任意结构的手机壳；对照名单为本批制作选择，非所有不兼容型号的穷尽目录。",
+  "definitions": {
+    "iPhone12Group": {
+      "representativeModelId": "iPhone12",
+      "members": [
+        "iPhone 12",
+        "iPhone 12 Pro"
+      ],
+      "provenance": "用户明确确认这两个型号的本款手机壳通用",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "user_confirmation_preserved_for_original_case_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    },
+    "iPhone14Group": {
+      "representativeModelId": "iPhone14",
+      "members": [
+        "iPhone 14",
+        "iPhone 13"
+      ],
+      "provenance": "用户明确确认这两个型号的本款手机壳通用",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "user_confirmation_preserved_for_original_case_scope_only",
+        "external_product_sku_is_not_own_store_sku": true
+      }
+    }
+  },
+  "groups": [
+    {
+      "id": "iPhone11",
+      "target": "iPhone11",
+      "wrong": [
+        "iPhone11Pro",
+        "iPhone11ProMax",
+        "iPhone12Group"
+      ],
+      "ui": "iPhone11",
+      "display": "iPhone 11",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "historical_batch_not_new_sku_verification",
+        "external_product_sku_is_not_own_store_sku": true
+      },
+      "comparison_selection_status": {
+        "classification": "batch_comparison_selection",
+        "confirmed_incompatibility_for_new_sku": false,
+        "auto_red_mark_for_new_sku": false,
+        "requires_binding_and_verification_for_new_sku": true
+      }
+    },
+    {
+      "id": "iPhone11Pro",
+      "target": "iPhone11Pro",
+      "wrong": [
+        "iPhone11",
+        "iPhone11ProMax",
+        "iPhone12Group"
+      ],
+      "ui": "iPhone11Pro",
+      "display": "iPhone 11 Pro",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "historical_batch_not_new_sku_verification",
+        "external_product_sku_is_not_own_store_sku": true
+      },
+      "comparison_selection_status": {
+        "classification": "batch_comparison_selection",
+        "confirmed_incompatibility_for_new_sku": false,
+        "auto_red_mark_for_new_sku": false,
+        "requires_binding_and_verification_for_new_sku": true
+      }
+    },
+    {
+      "id": "iPhone11ProMax",
+      "target": "iPhone11ProMax",
+      "wrong": [
+        "iPhone11",
+        "iPhone11Pro",
+        "iPhone12Group"
+      ],
+      "ui": "iPhone11ProMax",
+      "display": "iPhone 11 Pro Max",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "historical_batch_not_new_sku_verification",
+        "external_product_sku_is_not_own_store_sku": true
+      },
+      "comparison_selection_status": {
+        "classification": "batch_comparison_selection",
+        "confirmed_incompatibility_for_new_sku": false,
+        "auto_red_mark_for_new_sku": false,
+        "requires_binding_and_verification_for_new_sku": true
+      }
+    },
+    {
+      "id": "iPhone12及12Pro",
+      "target": "iPhone12Group",
+      "wrong": [
+        "iPhone12mini",
+        "iPhone12ProMax",
+        "iPhone11Pro",
+        "iPhone11ProMax"
+      ],
+      "ui": "iPhone12",
+      "display": "iPhone 12",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "historical_batch_not_new_sku_verification",
+        "external_product_sku_is_not_own_store_sku": true
+      },
+      "comparison_selection_status": {
+        "classification": "batch_comparison_selection",
+        "confirmed_incompatibility_for_new_sku": false,
+        "auto_red_mark_for_new_sku": false,
+        "requires_binding_and_verification_for_new_sku": true
+      }
+    },
+    {
+      "id": "iPhone12mini",
+      "target": "iPhone12mini",
+      "wrong": [
+        "iPhone12Group",
+        "iPhone12ProMax",
+        "iPhone11"
+      ],
+      "ui": "iPhone12mini",
+      "display": "iPhone 12 mini",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "historical_batch_not_new_sku_verification",
+        "external_product_sku_is_not_own_store_sku": true
+      },
+      "comparison_selection_status": {
+        "classification": "batch_comparison_selection",
+        "confirmed_incompatibility_for_new_sku": false,
+        "auto_red_mark_for_new_sku": false,
+        "requires_binding_and_verification_for_new_sku": true
+      }
+    },
+    {
+      "id": "iPhone12ProMax",
+      "target": "iPhone12ProMax",
+      "wrong": [
+        "iPhone12mini",
+        "iPhone12Group",
+        "iPhone11ProMax"
+      ],
+      "ui": "iPhone12ProMax",
+      "display": "iPhone 12 Pro Max",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "historical_batch_not_new_sku_verification",
+        "external_product_sku_is_not_own_store_sku": true
+      },
+      "comparison_selection_status": {
+        "classification": "batch_comparison_selection",
+        "confirmed_incompatibility_for_new_sku": false,
+        "auto_red_mark_for_new_sku": false,
+        "requires_binding_and_verification_for_new_sku": true
+      }
+    },
+    {
+      "id": "iPhone14及13",
+      "target": "iPhone14Group",
+      "wrong": [
+        "iPhone13mini",
+        "iPhone14Plus",
+        "iPhone14Pro",
+        "iPhone14ProMax"
+      ],
+      "ui": "iPhone14",
+      "display": "iPhone 14",
+      "selection_status": {
+        "normalized_at": "2026-11-03",
+        "default_usable_for_new_sku": false,
+        "cross_sku_auto_reuse": false,
+        "own_store_sku_binding_status": "pending",
+        "own_store_sku": null,
+        "requires_new_sku_verification": true,
+        "evidence_scope": "historical_batch_not_new_sku_verification",
+        "external_product_sku_is_not_own_store_sku": true
+      },
+      "comparison_selection_status": {
+        "classification": "batch_comparison_selection",
+        "confirmed_incompatibility_for_new_sku": false,
+        "auto_red_mark_for_new_sku": false,
+        "requires_binding_and_verification_for_new_sku": true
+      }
+    }
+  ],
+  "comparison_provenance": "兼容组合由用户明确提供；对比名单由本批制作选择，不记为用户逐项确认。",
+  "selection_status": {
+    "normalized_at": "2026-11-03",
+    "default_usable_for_new_sku": false,
+    "cross_sku_auto_reuse": false,
+    "own_store_sku_binding_status": "pending",
+    "own_store_sku": null,
+    "requires_new_sku_verification": true,
+    "evidence_scope": "historical_user_confirmed_case_scope_and_batch_comparisons",
+    "external_product_sku_is_not_own_store_sku": true
+  },
+  "wrong_selection_policy": {
+    "classification": "batch_comparison_selection",
+    "original_wrong_lists_preserved": true,
+    "auto_red_mark_for_new_sku": false,
+    "requires_new_sku_incompatibility_evidence": true
+  }
+}

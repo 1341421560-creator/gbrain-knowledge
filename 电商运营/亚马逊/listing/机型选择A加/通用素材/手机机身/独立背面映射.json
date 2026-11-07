@@ -1,0 +1,296 @@
+{
+  "iPhone8": {
+    "source": "rearStandalone_iPhone8_20261016",
+    "width": 257,
+    "height": 540,
+    "radius": 38
+  },
+  "iPhoneSE2016": {
+    "source": "rearStandalone_iPhoneSE2016_20261016",
+    "width": 237,
+    "height": 501,
+    "radius": 27
+  },
+  "iPhone6Plus": {
+    "source": "rearStandalone_iPhone6Plus_20261016",
+    "width": 248,
+    "height": 532,
+    "radius": 38
+  },
+  "iPhone8Plus": {
+    "source": "rearStandalone_iPhone8Plus_20261016",
+    "width": 277,
+    "height": 549,
+    "radius": 41
+  },
+  "iPhone12mini": {
+    "source": "rearStandalone_iPhone12mini_20261016",
+    "width": 255,
+    "height": 529,
+    "radius": 39
+  },
+  "iPhone6": {
+    "source": "rearStandalone_iPhone6_20261016",
+    "width": 258,
+    "height": 540,
+    "radius": 38
+  },
+  "iPhoneSE2020": {
+    "source": "rearStandalone_iPhoneSE2020_20261016",
+    "width": 255,
+    "height": 513,
+    "radius": 36
+  },
+  "iPhoneSE2022": {
+    "source": "rearStandalone_iPhoneSE2022_20261016",
+    "width": 255,
+    "height": 516,
+    "radius": 36
+  },
+  "iPhone11Pro": {
+    "source": "rearStandalone_iPhone11Pro_20261016",
+    "width": 240,
+    "height": 491,
+    "radius": 36
+  },
+  "iPhoneXR": {
+    "source": "rearStandalone_iPhoneXR_20261016",
+    "width": 244,
+    "height": 519,
+    "radius": 40
+  },
+  "iPhone11": {
+    "source": "rearStandalone_iPhone11_20261016",
+    "width": 247,
+    "height": 502,
+    "radius": 36
+  },
+  "iPhoneXSMax": {
+    "source": "rearStandalone_iPhoneXSMax_20261016",
+    "width": 249,
+    "height": 544,
+    "radius": 39
+  },
+  "iPhone11ProMax": {
+    "source": "rearStandalone_iPhone11ProMax_20261016",
+    "width": 256,
+    "height": 526,
+    "radius": 40
+  },
+  "iPhoneXS": {
+    "source": "rearStandalone_iPhoneXS_20261016",
+    "width": 238,
+    "height": 505,
+    "radius": 39
+  },
+  "iPhone12Pro": {
+    "source": "rearStandalone_iPhone12Pro_20261016",
+    "width": 274,
+    "height": 551,
+    "radius": 42
+  },
+  "iPhone12ProMax": {
+    "source": "rearStandalone_iPhone12ProMax_20261016",
+    "width": 294,
+    "height": 603,
+    "radius": 45
+  },
+  "iPhone13mini": {
+    "source": "rearStandalone_iPhone13mini_20261016",
+    "width": 317,
+    "height": 661,
+    "radius": 54
+  },
+  "iPhone13ProMax": {
+    "source": "rearStandalone_iPhone13ProMax_20261016",
+    "width": 385,
+    "height": 778,
+    "radius": 64
+  },
+  "iPhone12": {
+    "source": "rearStandalone_iPhone12_20261016",
+    "width": 271,
+    "height": 551,
+    "radius": 42
+  },
+  "iPhone13": {
+    "source": "rearStandalone_iPhone13_20261016",
+    "width": 347,
+    "height": 710,
+    "radius": 58
+  },
+  "iPhone14": {
+    "source": "rearStandalone_iPhone14_20261016",
+    "width": 355,
+    "height": 705,
+    "radius": 58
+  },
+  "iPhone13Pro": {
+    "source": "rearUnified_iPhone13Pro_20261030",
+    "width": 351,
+    "height": 715,
+    "radius": 58
+  },
+  "iPhone14Plus": {
+    "source": "rearUnified_iPhone14Plus_20261030",
+    "width": 373,
+    "height": 759,
+    "radius": 61
+  },
+  "iPhone14Pro": {
+    "source": "rearUnified_iPhone14Pro_20261030",
+    "width": 351,
+    "height": 716,
+    "radius": 58
+  },
+  "iPhone14ProMax": {
+    "source": "rearUnified_iPhone14ProMax_20261030",
+    "width": 387,
+    "height": 777,
+    "radius": 64
+  },
+  "iPhone15": {
+    "source": "rearUnified_iPhone15_20261030",
+    "width": 674,
+    "height": 1430,
+    "radius": 0
+  },
+  "iPhone15Plus": {
+    "source": "rearUnified_iPhone15Plus_20261030",
+    "width": 684,
+    "height": 1412,
+    "radius": 0
+  },
+  "iPhone15Pro": {
+    "source": "rearUnified_iPhone15Pro_20261030",
+    "width": 674,
+    "height": 1421,
+    "radius": 0
+  },
+  "iPhone15ProMax": {
+    "source": "rearUnified_iPhone15ProMax_20261030",
+    "width": 682,
+    "height": 1450,
+    "radius": 0
+  },
+  "iPhone16": {
+    "source": "rearUnified_iPhone16_20261030",
+    "width": 664,
+    "height": 1418,
+    "radius": 0
+  },
+  "iPhone16Plus": {
+    "source": "rearUnified_iPhone16Plus_20261030",
+    "width": 680,
+    "height": 1415,
+    "radius": 0
+  },
+  "iPhone16Pro": {
+    "source": "rearUnified_iPhone16Pro_20261030",
+    "width": 674,
+    "height": 1437,
+    "radius": 0
+  },
+  "iPhone16ProMax": {
+    "source": "rearUnified_iPhone16ProMax_20261030",
+    "width": 719,
+    "height": 1485,
+    "radius": 0
+  },
+  "iPhone16e": {
+    "source": "rearUnified_iPhone16e_20261030",
+    "width": 450,
+    "height": 934,
+    "radius": 80
+  },
+  "iPhone17": {
+    "source": "rearUnified_iPhone17_20261030",
+    "width": 673,
+    "height": 1406,
+    "radius": 0
+  },
+  "iPhoneAir": {
+    "source": "rearUnified_iPhoneAir_20261030",
+    "width": 664,
+    "height": 1380,
+    "radius": 0
+  },
+  "iPhone17Pro": {
+    "source": "rearUnified_iPhone17Pro_20261030",
+    "width": 715,
+    "height": 1445,
+    "radius": 0
+  },
+  "iPhone17ProMax": {
+    "source": "rearUnified_iPhone17ProMax_20261030",
+    "width": 739,
+    "height": 1479,
+    "radius": 0
+  },
+  "iPhone17e": {
+    "source": "rearUnified_iPhone17e_20261030",
+    "width": 450,
+    "height": 934,
+    "radius": 80
+  },
+  "iPhone18Pro": {
+    "source": "rearUnified_iPhone18Pro_20261030",
+    "width": 421,
+    "height": 880,
+    "radius": 65
+  },
+  "iPhone18ProMax": {
+    "source": "rearUnified_iPhone18ProMax_20261030",
+    "width": 450,
+    "height": 922,
+    "radius": 68
+  },
+  "iPhone5": {
+    "source": "rearGenerated_iPhone5_20261030",
+    "width": 661,
+    "height": 1399,
+    "radius": 0
+  },
+  "iPhone7": {
+    "source": "rearGenerated_iPhone7_20261030",
+    "width": 828,
+    "height": 1710,
+    "radius": 0
+  },
+  "iPhone7Plus": {
+    "source": "rearGenerated_iPhone7Plus_20261030",
+    "width": 835,
+    "height": 1715,
+    "radius": 0
+  },
+  "iPhone6s": {
+    "source": "rearGenerated_iPhone6s_20261030",
+    "width": 632,
+    "height": 1305,
+    "radius": 0
+  },
+  "iPhone5c": {
+    "source": "rearGenerated_iPhone5c_20261030",
+    "width": 728,
+    "height": 1476,
+    "radius": 0
+  },
+  "iPhone5s": {
+    "source": "rearGenerated_iPhone5s_20261030",
+    "width": 807,
+    "height": 1719,
+    "radius": 0
+  },
+  "iPhone6sPlus": {
+    "source": "rearGenerated_iPhone6sPlus_20261030",
+    "width": 819,
+    "height": 1720,
+    "radius": 0
+  },
+  "iPhoneX": {
+    "source": "rearGenerated_iPhoneX_20261030",
+    "width": 794,
+    "height": 1632,
+    "radius": 0
+  }
+}

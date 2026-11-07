@@ -1,0 +1,92 @@
+{
+  "updated": "2026-11-03",
+  "reference_body_height": 198,
+  "profiles": {
+    "wide-notch": {
+      "width_ratio": 0.54,
+      "depth": 10.5,
+      "shoulder": 2.8,
+      "radius": 4.7
+    },
+    "compact-notch": {
+      "width_ratio": 0.4,
+      "depth": 8.6,
+      "shoulder": 2.4,
+      "radius": 3.9
+    },
+    "island": {
+      "width_ratio": 0.3,
+      "height": 6.2,
+      "top": 4.2
+    }
+  },
+  "punch": {
+    "radius": 1.8,
+    "top": 5
+  },
+  "assets": {
+    "wide-notch": {
+      "path": "wide-notch.svg",
+      "width": 100,
+      "height": 198,
+      "viewBox": [
+        0,
+        0,
+        100,
+        198
+      ],
+      "kind": "前屏遮挡示意轮廓，透明底，不含机框或界面"
+    },
+    "compact-notch": {
+      "path": "compact-notch.svg",
+      "width": 100,
+      "height": 198,
+      "viewBox": [
+        0,
+        0,
+        100,
+        198
+      ],
+      "kind": "前屏遮挡示意轮廓，透明底，不含机框或界面"
+    },
+    "island": {
+      "path": "island.svg",
+      "width": 100,
+      "height": 198,
+      "viewBox": [
+        0,
+        0,
+        100,
+        198
+      ],
+      "kind": "前屏遮挡示意轮廓，透明底，不含机框或界面"
+    },
+    "punch": {
+      "path": "punch.svg",
+      "width": 100,
+      "height": 198,
+      "viewBox": [
+        0,
+        0,
+        100,
+        198
+      ],
+      "kind": "前屏遮挡示意轮廓，透明底，不含机框或界面"
+    }
+  },
+  "usage": "同高度参考下使用，或整体等比例缩放；不可拉伸成黑色长方块。轮廓是示意值，不是制造尺寸或官方CAD。",
+  "confirmed_batch_examples": {
+    "iPhoneX": "wide-notch",
+    "iPhoneXS": "wide-notch",
+    "iPhone13": "compact-notch",
+    "iPhone14": "compact-notch",
+    "iPhone15": "island",
+    "iPhone17": "island",
+    "iPhoneSE2022": "home",
+    "GalaxyS23/S24/S25/S26": "punch"
+  },
+  "model_table": "../../型号数据/前屏与教程适用.json",
+  "home": "实体Home键机型使用已有Home机框；本目录不提供刘海替代Home键",
+  "source_project": "20261102_moment_9组普通A加_刘海去标与背面叠放",
+  "source_revision": "设计源文件/v2，渲染成品，交付_v2"
+}

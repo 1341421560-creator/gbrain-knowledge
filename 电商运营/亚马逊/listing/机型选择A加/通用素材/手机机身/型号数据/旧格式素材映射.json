@@ -1,0 +1,608 @@
+[
+  {
+    "id": "iPhone13",
+    "color": "Pink",
+    "source": "phones13",
+    "crop": {
+      "x": 67,
+      "y": 115,
+      "width": 347,
+      "height": 710,
+      "radius": 58
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 240.5,
+      "y": 505.50000000000006,
+      "radius": 127.8
+    }
+  },
+  {
+    "id": "iPhone13mini",
+    "color": "Blue",
+    "source": "phones13",
+    "crop": {
+      "x": 514,
+      "y": 163,
+      "width": 317,
+      "height": 661,
+      "radius": 54
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 672.5,
+      "y": 526.55,
+      "radius": 118.97999999999999
+    }
+  },
+  {
+    "id": "iPhone13Pro",
+    "color": "Sierra Blue",
+    "source": "phones13",
+    "crop": {
+      "x": 917,
+      "y": 110,
+      "width": 351,
+      "height": 715,
+      "radius": 58
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 1092.5,
+      "y": 503.25000000000006,
+      "radius": 128.7
+    }
+  },
+  {
+    "id": "iPhone13ProMax",
+    "color": "Graphite",
+    "source": "phones13",
+    "crop": {
+      "x": 1341,
+      "y": 47,
+      "width": 385,
+      "height": 778,
+      "radius": 64
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 1533.5,
+      "y": 474.90000000000003,
+      "radius": 140.04
+    }
+  },
+  {
+    "id": "iPhone14",
+    "color": "Purple",
+    "source": "phones14",
+    "crop": {
+      "x": 49,
+      "y": 124,
+      "width": 355,
+      "height": 705,
+      "radius": 58
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 226.5,
+      "y": 511.75000000000006,
+      "radius": 126.89999999999999
+    }
+  },
+  {
+    "id": "iPhone14Plus",
+    "color": "Blue",
+    "source": "phones14",
+    "crop": {
+      "x": 474,
+      "y": 70,
+      "width": 373,
+      "height": 759,
+      "radius": 61
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 660.5,
+      "y": 487.45000000000005,
+      "radius": 136.62
+    }
+  },
+  {
+    "id": "iPhone14Pro",
+    "color": "Silver",
+    "source": "phones14",
+    "crop": {
+      "x": 925,
+      "y": 113,
+      "width": 351,
+      "height": 716,
+      "radius": 58
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 1100.5,
+      "y": 506.8,
+      "radius": 128.88
+    }
+  },
+  {
+    "id": "iPhone14ProMax",
+    "color": "Deep Purple",
+    "source": "phones14",
+    "crop": {
+      "x": 1343,
+      "y": 52,
+      "width": 387,
+      "height": 777,
+      "radius": 64
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 1536.5,
+      "y": 479.35,
+      "radius": 139.85999999999999
+    }
+  },
+  {
+    "id": "iPhone15",
+    "color": "Pink",
+    "source": "phones15",
+    "crop": {
+      "x": 125,
+      "y": 169,
+      "width": 130,
+      "height": 249,
+      "radius": 20
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 188.5,
+      "y": 305.5,
+      "radius": 45
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone15_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone15_20261015"
+  },
+  {
+    "id": "iPhone15Plus",
+    "color": "Blue",
+    "source": "phones15",
+    "crop": {
+      "x": 465,
+      "y": 132,
+      "width": 149,
+      "height": 286,
+      "radius": 22
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 538.5,
+      "y": 299.5,
+      "radius": 50
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone15Plus_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone15Plus_20261015"
+  },
+  {
+    "id": "iPhone15Pro",
+    "color": "Natural Titanium",
+    "source": "phones15",
+    "crop": {
+      "x": 124,
+      "y": 632,
+      "width": 133,
+      "height": 259,
+      "radius": 20
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 191.5,
+      "y": 777.5,
+      "radius": 49.5
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone15Pro_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone15Pro_20261015"
+  },
+  {
+    "id": "iPhone15ProMax",
+    "color": "Blue Titanium",
+    "source": "phones15",
+    "crop": {
+      "x": 466,
+      "y": 612,
+      "width": 148,
+      "height": 279,
+      "radius": 20
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 538.5,
+      "y": 777.5,
+      "radius": 49.5
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone15ProMax_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone15ProMax_20261015"
+  },
+  {
+    "id": "iPhone16",
+    "color": "Ultramarine",
+    "source": "phones16",
+    "crop": {
+      "x": 49,
+      "y": 138,
+      "width": 88,
+      "height": 183,
+      "radius": 15
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 92.5,
+      "y": 244,
+      "radius": 32
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone16_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone16_20261015"
+  },
+  {
+    "id": "iPhone16e",
+    "color": "Black",
+    "source": "phonesE",
+    "crop": {
+      "x": 255,
+      "y": 45,
+      "width": 450,
+      "height": 934,
+      "radius": 80
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 480,
+      "y": 559,
+      "radius": 163
+    }
+  },
+  {
+    "id": "iPhone16Plus",
+    "color": "Teal",
+    "source": "phones16",
+    "crop": {
+      "x": 326,
+      "y": 135,
+      "width": 90,
+      "height": 187,
+      "radius": 15
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 369.5,
+      "y": 244,
+      "radius": 32
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone16Plus_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone16Plus_20261015"
+  },
+  {
+    "id": "iPhone16Pro",
+    "color": "Desert Titanium",
+    "source": "phones16",
+    "crop": {
+      "x": 44,
+      "y": 354,
+      "width": 95,
+      "height": 197,
+      "radius": 15
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 92,
+      "y": 464,
+      "radius": 33
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone16Pro_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone16Pro_20261015"
+  },
+  {
+    "id": "iPhone16ProMax",
+    "color": "Natural Titanium",
+    "source": "phones16",
+    "crop": {
+      "x": 326,
+      "y": 352,
+      "width": 98,
+      "height": 199,
+      "radius": 15
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 373,
+      "y": 464,
+      "radius": 33
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone16ProMax_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone16ProMax_20261015"
+  },
+  {
+    "id": "iPhone17",
+    "color": "Lavender",
+    "source": "phones17",
+    "crop": {
+      "x": 49,
+      "y": 138,
+      "width": 94,
+      "height": 186,
+      "radius": 15
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 95,
+      "y": 244,
+      "radius": 33
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone17_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone17_20261015"
+  },
+  {
+    "id": "iPhone17e",
+    "color": "Soft Pink",
+    "source": "phonesE",
+    "crop": {
+      "x": 831,
+      "y": 45,
+      "width": 450,
+      "height": 934,
+      "radius": 80
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 1056,
+      "y": 559,
+      "radius": 163
+    }
+  },
+  {
+    "id": "iPhoneAir",
+    "color": "Sky Blue",
+    "source": "phones17",
+    "crop": {
+      "x": 325,
+      "y": 135,
+      "width": 94,
+      "height": 189,
+      "radius": 15
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 371.5,
+      "y": 244,
+      "radius": 33
+    },
+    "clean_back_sources": [
+      "rearClean_iPhoneAir_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhoneAir_20261015"
+  },
+  {
+    "id": "iPhone17Pro",
+    "color": "Cosmic Orange",
+    "source": "phones17",
+    "crop": {
+      "x": 44,
+      "y": 355,
+      "width": 97,
+      "height": 196,
+      "radius": 15
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 94,
+      "y": 464,
+      "radius": 33
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone17Pro_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone17Pro_20261015"
+  },
+  {
+    "id": "iPhone17ProMax",
+    "color": "Silver",
+    "source": "phones17",
+    "crop": {
+      "x": 325,
+      "y": 352,
+      "width": 101,
+      "height": 203,
+      "radius": 15
+    },
+    "embedded_historical_markers": true,
+    "markRegion": {
+      "x": 374,
+      "y": 466,
+      "radius": 33
+    },
+    "clean_back_sources": [
+      "rearClean_iPhone17ProMax_20261015"
+    ],
+    "preferred_clean_back_source": "rearClean_iPhone17ProMax_20261015"
+  },
+  {
+    "id": "iPhone18Pro",
+    "color": "Glacier",
+    "source": "phones18",
+    "crop": {
+      "x": 233,
+      "y": 85,
+      "width": 421,
+      "height": 880,
+      "radius": 65
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 443.5,
+      "y": 569,
+      "radius": 158.4
+    }
+  },
+  {
+    "id": "iPhone18ProMax",
+    "color": "Burgundy",
+    "source": "phones18",
+    "crop": {
+      "x": 902,
+      "y": 43,
+      "width": 450,
+      "height": 922,
+      "radius": 68
+    },
+    "embedded_historical_markers": false,
+    "markRegion": {
+      "x": 1127,
+      "y": 550.1,
+      "radius": 165.96
+    }
+  },
+  {
+    "id": "iPhone11",
+    "source": "phones11",
+    "crop": {
+      "x": 179,
+      "y": 99,
+      "width": 668,
+      "height": 1340,
+      "radius": 101
+    },
+    "markRegion": {
+      "x": 513,
+      "y": 769,
+      "radius": 233.79999999999998
+    },
+    "embedded_historical_markers": false,
+    "material_kind": "generated_from_reference"
+  },
+  {
+    "id": "iPhone11Pro",
+    "source": "phones11Pro",
+    "crop": {
+      "x": 342,
+      "y": 26,
+      "width": 68,
+      "height": 136,
+      "radius": 9
+    },
+    "markRegion": {
+      "x": 376,
+      "y": 94,
+      "radius": 23.799999999999997
+    },
+    "embedded_historical_markers": false,
+    "material_kind": "apple_spec_crop"
+  },
+  {
+    "id": "iPhone11ProMax",
+    "source": "phones11ProMax",
+    "crop": {
+      "x": 0,
+      "y": 13,
+      "width": 75,
+      "height": 149,
+      "radius": 10
+    },
+    "markRegion": {
+      "x": 37.5,
+      "y": 87.5,
+      "radius": 26.25
+    },
+    "embedded_historical_markers": false,
+    "material_kind": "apple_spec_crop"
+  },
+  {
+    "id": "iPhone12",
+    "source": "phones12",
+    "crop": {
+      "x": 463,
+      "y": 26,
+      "width": 63,
+      "height": 129,
+      "radius": 8
+    },
+    "markRegion": {
+      "x": 494.5,
+      "y": 90.5,
+      "radius": 22.049999999999997
+    },
+    "embedded_historical_markers": false,
+    "material_kind": "apple_spec_crop"
+  },
+  {
+    "id": "iPhone12mini",
+    "source": "phones12mini",
+    "crop": {
+      "x": 473,
+      "y": 31,
+      "width": 56,
+      "height": 114,
+      "radius": 7
+    },
+    "markRegion": {
+      "x": 501,
+      "y": 88,
+      "radius": 19.599999999999998
+    },
+    "embedded_historical_markers": false,
+    "material_kind": "apple_spec_crop"
+  },
+  {
+    "id": "iPhone12Pro",
+    "source": "phones12Pro",
+    "crop": {
+      "x": 216,
+      "y": 24,
+      "width": 62,
+      "height": 128,
+      "radius": 8
+    },
+    "markRegion": {
+      "x": 247,
+      "y": 88,
+      "radius": 21.7
+    },
+    "embedded_historical_markers": false,
+    "material_kind": "apple_spec_crop"
+  },
+  {
+    "id": "iPhone12ProMax",
+    "source": "phones12ProMax",
+    "crop": {
+      "x": 52,
+      "y": 85,
+      "width": 770,
+      "height": 1630,
+      "radius": 0
+    },
+    "markRegion": {
+      "x": 437,
+      "y": 900,
+      "radius": 269.5
+    },
+    "embedded_historical_markers": false,
+    "material_kind": "generated_from_reference"
+  }
+]
